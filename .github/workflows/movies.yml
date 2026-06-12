@@ -2,7 +2,6 @@ name: استخراج افلام
 
 on:
   schedule:
-    # ⏰ تم ضبطه ليعمل كل 6 ساعات (وهو ممتاز جداً لمواقع الأفلام لتبقى محدثة دائماً وبدون ضغط)
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -11,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     
-    # 🔥 ضروري جداً لمنح التوكن صلاحية الكتابة وحفظ ملفات الـ JSON
     permissions:
       contents: write
       
@@ -26,26 +24,13 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '20'
-        # تم إزالة كاش الـ npm من هنا للاعتماد على الكاش المنفصل بالأسفل لضمان استقرار التثبيت
-    
-    - name: Cache node modules
-      uses: actions/cache@v3
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
-    
-    - name: Install dependencies
-      run: |
-        if [ -f "package-lock.json" ]; then
-          npm ci
-        else
-          npm install jsdom
-        fi
     
     - name: Ensure movies directory exists
       run: mkdir -p movies
+
+    # 🚀 التثبيت المباشر والسريع هنا لحل مشكلة الموديول المفقود
+    - name: Install JSDOM Dependency
+      run: npm install jsdom
     
     - name: Synchronize with remote
       run: |
@@ -58,9 +43,7 @@ jobs:
     - name: Run movie scraper
       run: |
         echo "🎬 بدء استخراج الأفلام..."
-        # ⚠️ تأكد أن اسم ملف الجافا سكريبت في مستودعك هو movies.js تماماً
         node movies.js --daily-update
-      # تم ترك هذه لتفادي توقف الـ Action بالكامل لو فشل فيلم واحد في الجلب
       continue-on-error: true
     
     - name: Check for changes
@@ -87,7 +70,6 @@ jobs:
         while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
           echo "🚀 محاولة Push #$ATTEMPT"
           
-          # استباق الـ Push بعمل rebase نظيف
           if git pull --rebase origin main; then
             echo "✅ تم سحب التغييرات بنجاح"
             
