@@ -28,14 +28,7 @@ jobs:
     - name: Ensure movies directory exists
       run: mkdir -p movies
 
-    # 🚀 تهيئة بيئة المشروع وتثبيت الحزمة بشكل يضمن تشغيل صيغة الـ Import (ESM)
-    - name: Initialize Project & Install JSDOM
-      run: |
-        if [ ! -f "package.json" ]; then
-          echo '{"type": "module"}' > package.json
-        fi
-        npm install jsdom
-    
+    # 1️⃣ المزامنة والتنظيف تتم أولاً وهي فارغة
     - name: Synchronize with remote
       run: |
         git config --global user.name "GitHub Actions Bot"
@@ -43,7 +36,12 @@ jobs:
         git fetch origin
         git reset --hard origin/main
         git clean -fd
+    
+    # 2️⃣ التثبيت يتم الآن بناءً على الـ package.json الخاص بك لضمان بقاء الحزم
+    - name: Install Dependencies
+      run: npm install
         
+    # 3️⃣ تشغيل السكربت مباشرة بعد التثبيت
     - name: Run movie scraper
       run: |
         echo "🎬 بدء استخراج الأفلام..."
