@@ -28,9 +28,13 @@ jobs:
     - name: Ensure movies directory exists
       run: mkdir -p movies
 
-    # 🚀 التثبيت المباشر والسريع هنا لحل مشكلة الموديول المفقود
-    - name: Install JSDOM Dependency
-      run: npm install jsdom
+    # 🚀 تهيئة بيئة المشروع وتثبيت الحزمة بشكل يضمن تشغيل صيغة الـ Import (ESM)
+    - name: Initialize Project & Install JSDOM
+      run: |
+        if [ ! -f "package.json" ]; then
+          echo '{"type": "module"}' > package.json
+        fi
+        npm install jsdom
     
     - name: Synchronize with remote
       run: |
