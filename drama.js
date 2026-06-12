@@ -53,7 +53,6 @@ class DailymotionClient {
 
     async getUserVideos(username) {
         console.log(`📡 جلب بيانات القناة: ${username}...`);
-        // جلب 100 فيديو من كل قناة (يمكنك زيادة الليميت إذا أردت المزيد)
         const url = `${this.baseUrl}/user/${username}/videos?fields=id,title,thumbnail_url,duration,created_time,views_total&limit=100&sort=recent`;
         const response = await fetch(url, { headers: { 'User-Agent': CONFIG.userAgent } });
         return await response.json();
@@ -86,7 +85,10 @@ class ChronologicalScraper {
         console.log("⚖️ جاري ترتيب الفيديوهات حسب تاريخ النشر...");
         this.masterList.sort((a, b) => b.created_time - a.created_time);
 
-        console.log(`✅ إجمالي الفيديوهات المكتشفة: ${this.masterList.length}. جاري استخراج روابط m3u8...`);
+        // 🎯 التعديل المطلـوب هنا: حصر القائمة في أحدث 30 فيلم فقط قبل معالجة الروابط
+        this.masterList = this.masterList.slice(0, 30);
+
+        console.log(`✅ إجمالي الفيديوهات المكتشفة (المحددة): ${this.masterList.length}. جاري استخراج روابط m3u8...`);
 
         const finalizedVideos = [];
         // سنبدأ الآن باستخراج الروابط بالترتيب الجديد
@@ -118,7 +120,7 @@ class ChronologicalScraper {
         await fs.promises.writeFile(path.join(VIDEOS_DIR, "Home.json"), JSON.stringify(homeChunk, null, 2));
         console.log(`🏠 تم إنشاء Home.json بأحدث 30 فيديو.`);
 
-        // 2. ملفات p1, p2... (البقية مقسمة كل 35)
+        // 2. ملفات p1, p2... (البقية مقسمة كل 35 - لن يتم إنشاؤها لأن العدد تم تحديده بـ 30)
         const remaining = videos.slice(CONFIG.homeItemsCount);
         for (let i = 0; i < remaining.length; i += CONFIG.videosPerFile) {
             const chunk = remaining.slice(i, i + CONFIG.videosPerFile);
