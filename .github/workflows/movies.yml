@@ -1,0 +1,112 @@
+name: استخراج افلام
+
+on:
+  schedule:
+    # ⏰ تم ضبطه ليعمل كل 6 ساعات (وهو ممتاز جداً لمواقع الأفلام لتبقى محدثة دائماً وبدون ضغط)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    
+    # 🔥 ضروري جداً لمنح التوكن صلاحية الكتابة وحفظ ملفات الـ JSON
+    permissions:
+      contents: write
+      
+    steps:
+    - name: Checkout with token
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        # تم إزالة كاش الـ npm من هنا للاعتماد على الكاش المنفصل بالأسفل لضمان استقرار التثبيت
+    
+    - name: Cache node modules
+      uses: actions/cache@v3
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    
+    - name: Install dependencies
+      run: |
+        if [ -f "package-lock.json" ]; then
+          npm ci
+        else
+          npm install jsdom
+        fi
+    
+    - name: Ensure movies directory exists
+      run: mkdir -p movies
+    
+    - name: Synchronize with remote
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git fetch origin
+        git reset --hard origin/main
+        git clean -fd
+        
+    - name: Run movie scraper
+      run: |
+        echo "🎬 بدء استخراج الأفلام..."
+        # ⚠️ تأكد أن اسم ملف الجافا سكريبت في مستودعك هو movies.js تماماً
+        node movies.js --daily-update
+      # تم ترك هذه لتفادي توقف الـ Action بالكامل لو فشل فيلم واحد في الجلب
+      continue-on-error: true
+    
+    - name: Check for changes
+      id: changes
+      run: |
+        if [[ -n $(git status --porcelain) ]]; then
+          echo "✅ هناك تغييرات جديدة"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "⏭️ لا توجد تغييرات"
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Push changes (if any)
+      if: steps.changes.outputs.has_changes == 'true'
+      run: |
+        git add movies/
+        COMMIT_MSG="🎬 تحديث الأفلام - $(date +'%Y-%m-%d %H:%M')"
+        git commit -m "$COMMIT_MSG"
+        
+        ATTEMPT=1
+        MAX_ATTEMPTS=3
+        
+        while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
+          echo "🚀 محاولة Push #$ATTEMPT"
+          
+          # استباق الـ Push بعمل rebase نظيف
+          if git pull --rebase origin main; then
+            echo "✅ تم سحب التغييرات بنجاح"
+            
+            if git push origin main; then
+              echo "🎉 تم رفع التغييرات بنجاح!"
+              break
+            else
+              echo "❌ فشل Push #$ATTEMPT"
+            fi
+          else
+            echo "❌ فشل pull في المحاولة #$ATTEMPT"
+          fi
+          
+          if [ $ATTEMPT -eq $MAX_ATTEMPTS ]; then
+            echo "💥 فشلت جميع المحاولات"
+            exit 1
+          fi
+          
+          ATTEMPT=$((ATTEMPT + 1))
+          echo "⏳ انتظار 10 ثواني قبل المحاولة التالية..."
+          sleep 10
+        done
