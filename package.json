@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node fetch.js",
-    "scrape": "node fetch.js",
+    "start": "node movies.js",
+    "scrape": "node movies.js",
     "test": "echo \"No tests specified\""
   },
   "dependencies": {
