@@ -1,9 +1,9 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs');
-const path = require('path');
-const sharp = require('sharp');
-const ffmpeg = require('fluent-ffmpeg');
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+import fs from 'fs';
+import path from 'path';
+import sharp from 'sharp';
+import ffmpeg from 'fluent-ffmpeg';
 
 // ==================== الإعدادات العامة ====================
 const IMAGE_DIR = './image';
@@ -81,7 +81,7 @@ async function getStreamUrl(pageUrl) {
 }
 
 /**
- * معالجة وتحميل الصورة وحفظها محلياً بأبعاد قياسية لـ الأقمار الصناعية
+ * معالجة وتحميل الصورة وحفظها محلياً بأبعاد قياسية
  */
 async function processImage(imgUrl, channelName) {
     if (!imgUrl) return "";
@@ -106,7 +106,7 @@ async function processImage(imgUrl, channelName) {
         });
 
         await sharp(response.data)
-            .resize(400, 225) // أبعاد ممتازة للعرض والـ Thumbnails
+            .resize(400, 225)
             .jpeg({ quality: 85 })
             .toFile(filePath);
 
@@ -125,7 +125,6 @@ async function startScraping() {
     const finalChannels = [];
     const currentTime = new Date().toLocaleString('ar-EG');
     
-    // رابط الصفحة المستهدفة (ويمكنك إضافة صفحات التصفح الأخرى هنا تتابعياً)
     const pages = [
         'https://cup2026.aflam4you.pro/browse-watch-shahid-tv-live-videos-1-date.html'
     ];
@@ -139,7 +138,6 @@ async function startScraping() {
             const $ = cheerio.load(data);
             const items = [];
             
-            // 🎯 تم تعديل الـ Selector هنا ليطابق تماماً هيكل الـ li و class الخاص بـ aflam4you
             $('li.col-xs-6.col-sm-4.col-md-3').each((i, el) => {
                 const linkTag = $(el).find('.pm-video-thumb a');
                 const imgTag = $(el).find('.pm-video-thumb img');
@@ -148,7 +146,6 @@ async function startScraping() {
                 let pageLink = linkTag.attr('href');
                 if (pageLink && pageLink.startsWith('/')) pageLink = BASE_URL + pageLink;
 
-                // تنظيف الاسم المستخرج من جمل البث المباشر المكررة
                 let rawName = titleTag.attr('title') || titleTag.text() || "قناة غير معروفة";
                 let cleanName = rawName
                     .replace(/بث مباشر/g, '')
@@ -160,13 +157,12 @@ async function startScraping() {
                     name: cleanName,
                     page: pageLink,
                     img: imgTag.attr('src'),
-                    cat: "قنوات العامة و أفلام" // 🎯 التصنيف المطلوب تم تثبيته هنا
+                    cat: "قنوات العامة و أفلام"
                 });
             });
 
             console.log(`📈 تم العثور على ${items.length} قناة في هذه الصفحة. بدء الفحص البرمجي...`);
 
-            // دورة الفحص واستخراج الروابط المباشرة
             for (const item of items) {
                 if (!item.page) continue;
                 console.log(`🔍 فحص قناة: ${item.name}`);
@@ -195,10 +191,8 @@ async function startScraping() {
         }
     }
 
-    // كتابة الملف النهائي
     fs.writeFileSync(JSON_FILE, JSON.stringify(finalChannels, null, 2));
     console.log(`\n🏁 انتهت العملية! تم حفظ ${finalChannels.length} قناة شغالة بنجاح في ${JSON_FILE}`);
 }
 
-// بدء السكربت
 startScraping();
