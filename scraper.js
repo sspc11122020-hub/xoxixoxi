@@ -1,9 +1,9 @@
-import axios from 'axios';
-import * as cheerio from 'cheerio';
-import fs from 'fs';
-import path from 'path';
-import sharp from 'sharp';
-import ffmpeg from 'fluent-ffmpeg';
+const axios = require('axios');
+const cheerio = require('cheerio');
+const fs = require('fs');
+const path = require('path');
+const sharp = require('sharp');
+const ffmpeg = require('fluent-ffmpeg');
 
 // الإعدادات العامة
 const IMAGE_DIR = './image';
@@ -30,7 +30,7 @@ async function verifyVideo(streamUrl) {
 }
 
 /**
- * 🎯 استخراج رابط m3u8 من صفحة القناة مع فحص الـ iframes
+ * استخراج رابط m3u8 من صفحة القناة مع فحص الـ iframes
  */
 async function getStreamUrl(pageUrl) {
     try {
@@ -42,7 +42,7 @@ async function getStreamUrl(pageUrl) {
         const $ = cheerio.load(data);
         let m3u8Links = [];
 
-        // البحث في السكريبتات داخل الصفحة
+        // البحث في السكريبتات
         const scripts = $('script').text();
         const m3u8Matches = scripts.match(/https?:\/\/[^"']+\.m3u8[^"']*/g);
         if (m3u8Matches) m3u8Links.push(...m3u8Matches);
@@ -60,10 +60,7 @@ async function getStreamUrl(pageUrl) {
                 }
 
                 try {
-                    const iframeRes = await axios.get(src, { 
-                        timeout: 5000, 
-                        headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' } 
-                    });
+                    const iframeRes = await axios.get(src, { timeout: 5000, headers: { 'User-Agent': 'Mozilla/5.0' } });
                     const innerMatches = iframeRes.data.match(/https?:\/\/[^"']+\.m3u8[^"']*/g);
                     if (innerMatches) m3u8Links.push(...innerMatches);
                 } catch (e) {}
@@ -79,7 +76,7 @@ async function getStreamUrl(pageUrl) {
 }
 
 /**
- * معالجة وتحميل الصورة وحفظها محلياً
+ * معالجة وتحميل الصورة وحفظها محلياً باستخدام المسار الذي طلبته
  */
 async function processImage(imgUrl, channelName) {
     if (!imgUrl) return "";
@@ -90,7 +87,7 @@ async function processImage(imgUrl, channelName) {
 
         let finalImgUrl = imgUrl;
 
-        // معالجة المسارات النسبية للموقع
+        // تنفيذ طلبك: استبدال .. بالمسار المباشر
         if (imgUrl.startsWith('..')) {
             finalImgUrl = imgUrl.replace('..', 'http://www.azrotv.com/iphone');
         } else if (imgUrl.startsWith('/')) {
@@ -144,7 +141,7 @@ async function startScraping() {
     for (const pageUrl of pages) {
         console.log(`\n🌐 جاري استخراج القنوات من: ${pageUrl}`);
         try {
-            const { data } = await axios.get(pageUrl, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' } });
+            const { data } = await axios.get(pageUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
             const $ = cheerio.load(data);
             
             const items = [];
@@ -162,8 +159,6 @@ async function startScraping() {
                     cat: "عربي"
                 });
             });
-
-            console.log(`📈 تم العثور على ${items.length} قناة في هذه الصفحة. بدء الفحص البرمي...`);
 
             for (const item of items) {
                 if (!item.page) continue;
@@ -188,13 +183,11 @@ async function startScraping() {
                     console.log(`⚠️ لا يوجد سيرفر متاح لهذه القناة.`);
                 }
             }
-        } catch (e) { 
-            console.log(`❌ خطأ في معالجة الصفحة: ${e.message}`); 
-        }
+        } catch (e) { console.log(`❌ خطأ في معالجة الصفحة: ${e.message}`); }
     }
 
     fs.writeFileSync(JSON_FILE, JSON.stringify(finalChannels, null, 2));
-    console.log(`\n🏁 انتهت العملية! تم حفظ ${finalChannels.length} قناة بنجاح في ملف ${JSON_FILE}`);
+    console.log(`\n🏁 انتهت العملية! تم حفظ ${finalChannels.length} قناة بنجاح.`);
 }
 
 startScraping();
