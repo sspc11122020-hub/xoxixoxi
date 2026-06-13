@@ -1,9 +1,9 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs');
-const path = require('path');
-const sharp = require('sharp');
-const ffmpeg = require('fluent-ffmpeg');
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+import fs from 'fs';
+import path from 'path';
+import sharp from 'sharp';
+import ffmpeg from 'fluent-ffmpeg';
 
 // الإعدادات العامة
 const IMAGE_DIR = './image';
@@ -167,7 +167,7 @@ async function startScraping() {
                 const streamUrl = await getStreamUrl(item.page);
                 
                 if (streamUrl) {
-                    console.log(`✨ سيرفر شغال، جاري معالجة الصورة...`);
+                    console.log(`✨ سيرفر شغال, جاري معالجة الصورة...`);
                     const localImg = await processImage(item.img, item.name);
                     
                     finalChannels.push({
