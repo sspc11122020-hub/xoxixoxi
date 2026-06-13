@@ -1,11 +1,14 @@
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import * as cheerio from 'cheerio';
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 import ffmpeg from 'fluent-ffmpeg';
 
-// ==================== الإعدادات العامة ====================
+// تفعيل وضع التخفي لتخطي الحماية
+puppeteer.use(StealthPlugin());
+
 const IMAGE_DIR = './image';
 const JSON_FILE = 'channels.json';
 const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/';
@@ -13,12 +16,9 @@ const BASE_URL = 'https://cup2026.aflam4you.pro';
 
 if (!fs.existsSync(IMAGE_DIR)) fs.mkdirSync(IMAGE_DIR, { recursive: true });
 
-/**
- * فحص دفق الفيديو باستخدام ffprobe للتأكد من أن الرابط يعمل
- */
 async function verifyVideo(streamUrl) {
     return new Promise((resolve) => {
-        ffmpeg.ffprobe(streamUrl, ["-connect_timeout", "3", "-timeout", "3000000"], (err, metadata) => {
+        ffmpeg.ffprobe(streamUrl, ["-connect_timeout", "4", "-timeout", "4000000"], (err, metadata) => {
             if (err) resolve(false);
             else {
                 const hasVideo = metadata.streams.some(s => s.codec_type === 'video');
@@ -28,18 +28,12 @@ async function verifyVideo(streamUrl) {
     });
 }
 
-/**
- * استخراج رابط m3u8 عبر تتبع شبكة المتصفح (Network Trailing)
- */
 async function getStreamUrl(browser, pageUrl) {
     let page = null;
     try {
         page = await browser.newPage();
-        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
-        
         let m3u8Links = [];
 
-        // 🎯 مراقبة طلبات الشبكة (Network) لالتقاط أي رابط m3u8 يطلبه المشغل تلقائياً
         await page.setRequestInterception(true);
         page.on('request', request => {
             const url = request.url();
@@ -49,10 +43,12 @@ async function getStreamUrl(browser, pageUrl) {
             request.continue();
         });
 
-        // فتح صفحة القناة وانتظار تحميل المشغل
-        await page.goto(pageUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+        // فتح صفحة القناة وانتظار الاستقرار
+        await page.goto(pageUrl, { waitUntil: 'networkidle0', timeout: 35000 });
+        
+        // إعطاء فرصة ثانية للمشغل الداخلي ليشتغل وينتج الرابط
+        await new Promise(r => setTimeout(r, 3000));
 
-        // البحث الإضافي داخل كود الصفحة والـ iframes كخيار احتياطي
         const content = await page.content();
         const $ = cheerio.load(content);
         
@@ -60,7 +56,6 @@ async function getStreamUrl(browser, pageUrl) {
         const m3u8Matches = scripts.match(/https?:\/\/[^"']+\.m3u8[^"']*/g);
         if (m3u8Matches) m3u8Links.push(...m3u8Matches);
 
-        // تنظيف الروابط وتجربتها
         const uniqueLinks = [...new Set(m3u8Links)].map(l => l.replace(/\\/g, ''));
         for (const link of uniqueLinks) {
             if (await verifyVideo(link)) {
@@ -71,15 +66,12 @@ async function getStreamUrl(browser, pageUrl) {
         
         await page.close();
         return null;
-    } catch (e) {
+    } catch {
         if (page) await page.close();
         return null;
     }
 }
 
-/**
- * تحميل ومعالجة الصورة بـ Buffer آمن عبر المتصفح لتفادي الـ 403
- */
 async function processImage(browser, imgUrl, channelName) {
     if (!imgUrl) return "";
     let page = null;
@@ -101,36 +93,34 @@ async function processImage(browser, imgUrl, channelName) {
             .jpeg({ quality: 85 })
             .toFile(filePath);
 
-        console.log(`✅ تم حفظ الصورة: ${fileName}`);
         return `${GITHUB_RAW_BASE}image/${fileName}`;
-    } catch (err) { 
+    } catch { 
         if (page) await page.close();
-        console.log(`❌ فشل تحميل صورة ${channelName}: ${err.message}`);
         return ""; 
     }
 }
 
-/**
- * الدالة الرئيسية للبدء
- */
 async function startScraping() {
     const finalChannels = [];
     const currentTime = new Date().toLocaleString('ar-EG');
     
-    console.log("🚀 جاري تشغيل المتصفح الخفي (Puppeteer)...");
+    console.log("🕵️‍♂️ تشغيل المتصفح بوضع التخفي الصارم (Stealth Mode)...");
     const browser = await puppeteer.launch({
         headless: true,
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
+        args: [
+            '--no-sandbox', 
+            '--disable-setuid-sandbox',
+            '--disable-blink-features=AutomationControlled' // حذف علامة الروبوت برمجياً
+        ]
     });
 
     const pageUrl = 'https://cup2026.aflam4you.pro/browse-watch-shahid-tv-live-videos-1-date.html';
-    console.log(`\n🌐 جاري فتح الموقع كمتصفح حقيقي: ${pageUrl}`);
+    console.log(`🌐 تصفح الموقع كإنسان حقيقي: ${pageUrl}`);
 
     try {
         const page = await browser.newPage();
-        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
+        await page.goto(pageUrl, { waitUntil: 'networkidle2', timeout: 50000 });
         
-        await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: 40000 });
         const html = await page.content();
         await page.close();
 
@@ -146,11 +136,7 @@ async function startScraping() {
             if (pageLink && pageLink.startsWith('/')) pageLink = BASE_URL + pageLink;
 
             let rawName = titleTag.attr('title') || titleTag.text() || "قناة غير معروفة";
-            let cleanName = rawName
-                .replace(/بث مباشر/g, '')
-                .replace(/live tv/gi, '')
-                .replace(/livetv/gi, '')
-                .trim();
+            let cleanName = rawName.replace(/بث مباشر/g, '').replace(/live tv/gi, '').trim();
 
             items.push({
                 name: cleanName,
@@ -160,16 +146,16 @@ async function startScraping() {
             });
         });
 
-        console.log(`📈 تم العثور على ${items.length} قناة. بدء الفحص ومراقبة الـ Network...`);
+        console.log(`📈 نجاح التخفي! تم العثور على ${items.length} قناة داخل الكود البيئي. بدء التقاط البث...`);
 
         for (const item of items) {
             if (!item.page) continue;
-            console.log(`🔍 فحص قناة: ${item.name}`);
+            console.log(`🔍 فحص شبكة القناة: ${item.name}`);
             
             const streamUrl = await getStreamUrl(browser, item.page);
             
             if (streamUrl) {
-                console.log(`✨ سيرفر شغال، جاري سحب الصورة بالمتصفح...`);
+                console.log(`✨ تم التقاط الـ m3u8 من الشبكة بنجاح!`);
                 const localImg = await processImage(browser, item.img, item.name);
                 
                 finalChannels.push({
@@ -182,17 +168,16 @@ async function startScraping() {
                     last_update: currentTime
                 });
             } else {
-                console.log(`⚠️ لم يتم العثور على سيرفر m3u8 مستجيب.`);
+                console.log(`⚠️ لم يستجب المشغل برابط بث.`);
             }
         }
     } catch (e) {
-        console.log(`❌ خطأ عام أثناء معالجة الموقع: ${e.message}`);
+        console.log(`❌ فشل التخطي: ${e.message}`);
     }
 
     await browser.close();
-
     fs.writeFileSync(JSON_FILE, JSON.stringify(finalChannels, null, 2));
-    console.log(`\n🏁 انتهت العملية! تم حفظ ${finalChannels.length} قناة بنجاح في ملف ${JSON_FILE}`);
+    console.log(`\n🏁 انتهت العملية بالكامل! المجموع: تم حفظ ${finalChannels.length} قناة.`);
 }
 
 startScraping();
