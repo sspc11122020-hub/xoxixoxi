@@ -8,7 +8,7 @@ import ffmpeg from 'fluent-ffmpeg';
 // الإعدادات العامة
 const IMAGE_DIR = './image';
 const JSON_FILE = 'channels.json';
-const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/FadiCraft/TV_Chaanals/refs/heads/main/';
+const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/';
 const BASE_URL = 'http://www.azrotv.com';
 
 // إنشاء مجلد الصور إذا لم يكن موجوداً
