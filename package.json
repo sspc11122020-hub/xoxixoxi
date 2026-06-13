@@ -2,7 +2,7 @@
   "name": "movie-and-channel-scraper",
   "version": "1.0.0",
   "type": "module",
-  "description": "أداة مؤتمتة لاستخراج بيانات الأفلام من موقع topcinema وقنوات البث المباشر",
+  "description": "أداة مؤتمتة لاستخراج بيانات الأفلام وقنوات البث المباشر",
   "main": "movies.js",
   "scripts": {
     "start": "node movies.js",
@@ -16,6 +16,8 @@
     "fluent-ffmpeg": "^2.1.3",
     "jsdom": "^24.1.3",
     "puppeteer": "^22.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "sharp": "^0.35.1"
   },
   "keywords": [],
