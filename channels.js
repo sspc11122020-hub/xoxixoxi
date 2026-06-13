@@ -6,7 +6,7 @@ import path from 'path';
 import sharp from 'sharp';
 import ffmpeg from 'fluent-ffmpeg';
 
-// تفعيل وضع التخفي لتخطي الحماية
+// تفعيل وضع التخفي الصارم لمنع كشف المتصفح البرمجي
 puppeteer.use(StealthPlugin());
 
 const IMAGE_DIR = './image';
@@ -16,6 +16,9 @@ const BASE_URL = 'https://cup2026.aflam4you.pro';
 
 if (!fs.existsSync(IMAGE_DIR)) fs.mkdirSync(IMAGE_DIR, { recursive: true });
 
+/**
+ * فحص دفق الفيديو باستخدام ffprobe للتأكد من أن الرابط يعمل
+ */
 async function verifyVideo(streamUrl) {
     return new Promise((resolve) => {
         ffmpeg.ffprobe(streamUrl, ["-connect_timeout", "4", "-timeout", "4000000"], (err, metadata) => {
@@ -28,12 +31,16 @@ async function verifyVideo(streamUrl) {
     });
 }
 
+/**
+ * استخراج رابط m3u8 عبر مراقبة الـ Network للتاب المفتوح
+ */
 async function getStreamUrl(browser, pageUrl) {
     let page = null;
     try {
         page = await browser.newPage();
         let m3u8Links = [];
 
+        // تفعيل ميزة مراقبة طلبات الشبكة (Network Requests)
         await page.setRequestInterception(true);
         page.on('request', request => {
             const url = request.url();
@@ -43,8 +50,9 @@ async function getStreamUrl(browser, pageUrl) {
             request.continue();
         });
 
+        // فتح صفحة المشغل مع إعطائه وقتاً كافياً للتحميل
         await page.goto(pageUrl, { waitUntil: 'networkidle0', timeout: 35000 });
-        await new Promise(r => setTimeout(r, 3000));
+        await new Promise(r => setTimeout(r, 4000)); // انتظار إضافي لضمان التقاط طلب البث
 
         const content = await page.content();
         const $ = cheerio.load(content);
@@ -69,6 +77,9 @@ async function getStreamUrl(browser, pageUrl) {
     }
 }
 
+/**
+ * تحميل صورة القناة وحفظها بأبعاد خفيفة ومتوافقة
+ */
 async function processImage(browser, imgUrl, channelName) {
     if (!imgUrl) return "";
     let page = null;
@@ -97,34 +108,47 @@ async function processImage(browser, imgUrl, channelName) {
     }
 }
 
+/**
+ * الدالة الأساسية للمشروع
+ */
 async function startScraping() {
     const finalChannels = [];
     const currentTime = new Date().toLocaleString('ar-EG');
     
-    console.log("🕵️‍♂️ تشغيل المتصفح بوضع التخفي الصارم (Stealth Mode)...");
+    // 💡 خيارات تشغيل المتصفح وإخفاء الهوية الكاملة
+    const launchArgs = [
+        '--no-sandbox', 
+        '--disable-setuid-sandbox',
+        '--disable-blink-features=AutomationControlled', // حذف ميزة الحظر الأوتوماتيكي
+        '--window-size=1280,800'
+    ];
+
+    // 🌐 إذا توفر لديك بروكسي لتخطي حظر الـ IP، ضعه هنا بين القوسين
+    const PROXY_SERVER = ''; 
+    if (PROXY_SERVER) {
+        launchArgs.push(`--proxy-server=${PROXY_SERVER}`);
+    }
+
+    console.log("🕵️‍♂️ جاري بدء تشغيل متصفح التخفي الصارم...");
     const browser = await puppeteer.launch({
         headless: true,
-        args: [
-            '--no-sandbox', 
-            '--disable-setuid-sandbox',
-            '--disable-blink-features=AutomationControlled'
-        ]
+        args: launchArgs
     });
 
     const pageUrl = 'https://cup2026.aflam4you.pro/browse-watch-shahid-tv-live-videos-1-date.html';
-    console.log(`🌐 تصفح الموقع كإنسان حقيقي: ${pageUrl}`);
+    console.log(`🌐 تصفح الموقع الأساسي: ${pageUrl}`);
 
     try {
         const page = await browser.newPage();
-        // تعيين حجم شاشة افتراضي لالتقاط صورة واضحة
         await page.setViewport({ width: 1280, height: 800 });
         
+        // فتح الصفحة وانتظار تحميل الـ DOM بالكامل
         await page.goto(pageUrl, { waitUntil: 'networkidle2', timeout: 50000 });
         
-        // 📸 لقطة الشاشة السحرية: حفظ ما يراه المتصفح الآن لمعاينة المشكلة
-        console.log("📸 جاري التقاط لقطة شاشة للصفحة الرئيسية...");
+        // 📸 التقاط لقطة شاشة للصفحة للتحقق والمراقبة دائماً
+        console.log("📸 جاري التقاط لقطة الشاشة للتأكد من المحتوى المفتوح...");
         await page.screenshot({ path: 'main_page.png', fullPage: true });
-        console.log("✅ تم حفظ لقطة الشاشة باسم main_page.png");
+        console.log("✅ تم تحديث صورة main_page.png في المجلد.");
 
         const html = await page.content();
         await page.close();
@@ -132,6 +156,7 @@ async function startScraping() {
         const $ = cheerio.load(html);
         const items = [];
         
+        // جلب عناصر قنوات البث من الهيكل الجديد
         $('li.col-xs-6.col-sm-4.col-md-3').each((i, el) => {
             const linkTag = $(el).find('.pm-video-thumb a');
             const imgTag = $(el).find('.pm-video-thumb img');
@@ -151,16 +176,16 @@ async function startScraping() {
             });
         });
 
-        console.log(`📈 تم العثور على ${items.length} قناة داخل الكود البيئي. بدء التقاط البث...`);
+        console.log(`📈 تم العثور على ${items.length} قناة داخل الصفحة. بدء فحص السيرفرات ومراقبة الشبكة...`);
 
         for (const item of items) {
             if (!item.page) continue;
-            console.log(`🔍 فحص شبكة القناة: ${item.name}`);
+            console.log(`🔍 فحص قناة: ${item.name}`);
             
             const streamUrl = await getStreamUrl(browser, item.page);
             
             if (streamUrl) {
-                console.log("✨ تم التقاط الـ m3u8 من الشبكة بنجاح!");
+                console.log("✨ تم العثور على رابط m3u8 نشط وجاهز!");
                 const localImg = await processImage(browser, item.img, item.name);
                 
                 finalChannels.push({
@@ -173,24 +198,24 @@ async function startScraping() {
                     last_update: currentTime
                 });
             } else {
-                console.log("⚠️ لم يستجب المشغل برابط بث.");
+                console.log("⚠️ لم يتم العثور على رابط بث مستجيب للقناة.");
             }
         }
     } catch (e) {
-        console.log(`❌ فشل التخطي: ${e.message}`);
-        // 📸 لقطة شاشة احتياطية في حال حدوث خطأ كارثي تسبب في إغلاق السكربت
+        console.log(`❌ فشل التخطي أو حدثت مشكلة أثناء المعالجة: ${e.message}`);
         try {
             const pages = await browser.pages();
             if (pages.length > 0) {
                 await pages[0].screenshot({ path: 'error_debug.png' });
-                console.log("📸 تم حفظ لقطة شاشة للخطأ باسم error_debug.png");
             }
         } catch (err) {}
     }
 
     await browser.close();
+    
+    // حفظ النتيجة النهائية في ملف القنوات
     fs.writeFileSync(JSON_FILE, JSON.stringify(finalChannels, null, 2));
-    console.log(`\n🏁 انتهت العملية بالكامل! المجموع: تم حفظ ${finalChannels.length} قناة.`);
+    console.log(`\n🏁 انتهى العمل بالكامل! تم حفظ الملف، مجموع القنوات الشغالة المكتشفة: ${finalChannels.length}`);
 }
 
 startScraping();
