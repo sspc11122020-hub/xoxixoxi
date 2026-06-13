@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # مهم جداً لتفادي مشاكل الـ Push والـ Rebase
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -28,7 +28,6 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      # التحقق من وجود الحزم وتثبيتها بشكل صحيح متوافق مع CommonJS/Axios
       - name: Install Dependencies
         run: |
           if [ ! -f package.json ]; then npm init -y; fi
@@ -37,33 +36,25 @@ jobs:
       - name: Run Scraper
         run: |
           echo "📺 بدء استخراج القنوات التلفزيونية..."
-          # ⚠️ تنبيه: تأكد أن ملف الكود في مستودعك اسمه channels.js
           node channels.js
-        continue-on-error: true # لضمان الانتقال للخطوات التالية حتى لو فشلت قناة في الفحص
+        continue-on-error: true
 
       - name: Commit and Push changes
         run: |
-          # إعدادات المستخدم للـ Git
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # منع Git من تشفير الأسماء العربية في السجلات (مهم جداً لقنواتك)
           git config --global core.quotePath false
 
-          # إضافة الملفات المحددة (إضافة مجلد الصور بالكامل لتفادي خطأ عدم وجود ملفات jpg)
-          git add channels.json
-          if [ -d "image" ]; then git add image/; fi
+          # 🚀 الحل الأكيد: إضافة كل شيء (الـ JSON والصور الجديدة) لتجنب تعارض الـ unstaged
+          git add -A
           
-          # التحقق إذا كان هناك تغييرات فعلاً لتجنب الخطأ عند عمل commit فارغ
           if git diff --quiet && git diff --staged --quiet; then
             echo "لا توجد تغييرات جديدة للمزامنة."
             exit 0
           fi
 
           git commit -m "Auto-update channels: $(date)"
-
-          # التعامل مع التعارضات بحكمة
-          git pull --rebase -X ours origin main
           
-          # الرفع إلى المستودع باستخدام الـ GITHUB_TOKEN الممرر تلقائياً في البيئة
+          # سحب آمن وحل المشاكل أوتوماتيكياً
+          git pull --rebase -X ours origin main
           git push origin main
