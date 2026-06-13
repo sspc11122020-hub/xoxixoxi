@@ -76,7 +76,7 @@ async function getStreamUrl(pageUrl) {
 }
 
 /**
- * معالجة وتحميل الصورة وحفظها محلياً باستخدام المسار الذي طلبته
+ * معالجة وتحميل الصورة وحفظها محلياً
  */
 async function processImage(imgUrl, channelName) {
     if (!imgUrl) return "";
@@ -87,7 +87,6 @@ async function processImage(imgUrl, channelName) {
 
         let finalImgUrl = imgUrl;
 
-        // تنفيذ طلبك: استبدال .. بالمسار المباشر
         if (imgUrl.startsWith('..')) {
             finalImgUrl = imgUrl.replace('..', 'http://www.azrotv.com/iphone');
         } else if (imgUrl.startsWith('/')) {
@@ -124,7 +123,7 @@ async function processImage(imgUrl, channelName) {
  */
 async function startScraping() {
     const finalChannels = [];
-    const currentTime = new Date().toLocaleString('ar-EG');
+    let channelIdCounter = 1; // عداد لإنشاء معرفات بسيطة (1, 2, 3...)
     
     const pages = [
         'http://www.azrotv.com/iphone/arabic/',
@@ -155,8 +154,7 @@ async function startScraping() {
                 items.push({
                     name: imgTag.attr('alt') ? imgTag.attr('alt').replace(' بث مباشر', '').trim() : "قناة غير معروفة",
                     page: pageLink,
-                    img: imgTag.attr('src'),
-                    cat: "عربي"
+                    img: imgTag.attr('src')
                 });
             });
 
@@ -167,17 +165,15 @@ async function startScraping() {
                 const streamUrl = await getStreamUrl(item.page);
                 
                 if (streamUrl) {
-                    console.log(`✨ سيرفر شغال, جاري معالجة الصورة...`);
+                    console.log(`✨ سيرفر شغال، جاري معالجة الصورة...`);
                     const localImg = await processImage(item.img, item.name);
                     
+                    // 🎯 الهيكل المبسط والجديد حسب طلبك
                     finalChannels.push({
+                        id: channelIdCounter++,
                         name: item.name,
-                        category: item.cat,
-                        url: streamUrl,
-                        server_url: item.page,
-                        local_img: localImg,
-                        status: "Akamaized",
-                        last_update: currentTime
+                        img: localImg,
+                        url: streamUrl
                     });
                 } else {
                     console.log(`⚠️ لا يوجد سيرفر متاح لهذه القناة.`);
