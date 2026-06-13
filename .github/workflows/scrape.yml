@@ -2,8 +2,8 @@ name: استخراج موقع akamaized
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # تحديث تلقائي كل 12 ساعة
-  workflow_dispatch: # زر للتشغيل اليدوي
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,19 +23,19 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install FFmpeg
+      - name: Install FFmpeg & Chromium Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo apt-get install -y ffmpeg libgconf-2-4 libatk1.0-0 libatk-bridge2.0-0 libgdk-pixbuf2.0-0 libgtk-3-0 libgbm-dev libnss3 libxss1 libasound2
 
       - name: Install Dependencies
         run: |
           if [ ! -f package.json ]; then npm init -y; fi
-          npm install axios cheerio sharp fluent-ffmpeg
+          npm install puppeteer cheerio sharp fluent-ffmpeg
 
       - name: Run Scraper
         run: |
-          echo "📺 بدء استخراج القنوات التلفزيونية..."
+          echo "📺 بدء تشغيل المتصفح والتقاط الـ Network..."
           node channels.js
         continue-on-error: true
 
@@ -45,7 +45,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --global core.quotePath false
 
-          # 🚀 الحل الأكيد: إضافة كل شيء (الـ JSON والصور الجديدة) لتجنب تعارض الـ unstaged
           git add -A
           
           if git diff --quiet && git diff --staged --quiet; then
@@ -53,8 +52,6 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Auto-update channels: $(date)"
-          
-          # سحب آمن وحل المشاكل أوتوماتيكياً
+          git commit -m "Auto-update channels via Puppeteer: $(date)"
           git pull --rebase -X ours origin main
           git push origin main
