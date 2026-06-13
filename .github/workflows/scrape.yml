@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 20
 
-      # تحديث حزم النظام بما يتوافق بالكامل مع Ubuntu 24.04 المحمل على خوادم GitHub
+      # تثبيت الحزم الأساسية للنظام لتشغيل واجهات المتصفحات بدون مشاكل
       - name: Install FFmpeg & System Dependencies
         run: |
           sudo apt-get update
@@ -33,6 +33,12 @@ jobs:
         run: |
           if [ ! -f package.json ]; then npm init -y; fi
           npm install
+
+      # 🎯 الخطوة السحرية: تنزيل وتثبيت متصفح Chrome المخصص لـ Puppeteer في الخادم
+      - name: Install Puppeteer Chrome Browser
+        run: |
+          echo "🌐 جاري تنزيل متصفح Chrome المتوافق مع البيئة المؤتمتة..."
+          npx puppeteer browsers install chrome
 
       - name: Run Scraper
         run: |
