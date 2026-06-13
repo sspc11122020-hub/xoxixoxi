@@ -43,10 +43,7 @@ async function getStreamUrl(browser, pageUrl) {
             request.continue();
         });
 
-        // فتح صفحة القناة وانتظار الاستقرار
         await page.goto(pageUrl, { waitUntil: 'networkidle0', timeout: 35000 });
-        
-        // إعطاء فرصة ثانية للمشغل الداخلي ليشتغل وينتج الرابط
         await new Promise(r => setTimeout(r, 3000));
 
         const content = await page.content();
@@ -110,7 +107,7 @@ async function startScraping() {
         args: [
             '--no-sandbox', 
             '--disable-setuid-sandbox',
-            '--disable-blink-features=AutomationControlled' // حذف علامة الروبوت برمجياً
+            '--disable-blink-features=AutomationControlled'
         ]
     });
 
@@ -119,8 +116,16 @@ async function startScraping() {
 
     try {
         const page = await browser.newPage();
+        // تعيين حجم شاشة افتراضي لالتقاط صورة واضحة
+        await page.setViewport({ width: 1280, height: 800 });
+        
         await page.goto(pageUrl, { waitUntil: 'networkidle2', timeout: 50000 });
         
+        // 📸 لقطة الشاشة السحرية: حفظ ما يراه المتصفح الآن لمعاينة المشكلة
+        console.log("📸 جاري التقاط لقطة شاشة للصفحة الرئيسية...");
+        await page.screenshot({ path: 'main_page.png', fullPage: true });
+        console.log("✅ تم حفظ لقطة الشاشة باسم main_page.png");
+
         const html = await page.content();
         await page.close();
 
@@ -146,7 +151,7 @@ async function startScraping() {
             });
         });
 
-        console.log(`📈 نجاح التخفي! تم العثور على ${items.length} قناة داخل الكود البيئي. بدء التقاط البث...`);
+        console.log(`📈 تم العثور على ${items.length} قناة داخل الكود البيئي. بدء التقاط البث...`);
 
         for (const item of items) {
             if (!item.page) continue;
@@ -155,7 +160,7 @@ async function startScraping() {
             const streamUrl = await getStreamUrl(browser, item.page);
             
             if (streamUrl) {
-                console.log(`✨ تم التقاط الـ m3u8 من الشبكة بنجاح!`);
+                console.log("✨ تم التقاط الـ m3u8 من الشبكة بنجاح!");
                 const localImg = await processImage(browser, item.img, item.name);
                 
                 finalChannels.push({
@@ -168,11 +173,19 @@ async function startScraping() {
                     last_update: currentTime
                 });
             } else {
-                console.log(`⚠️ لم يستجب المشغل برابط بث.`);
+                console.log("⚠️ لم يستجب المشغل برابط بث.");
             }
         }
     } catch (e) {
         console.log(`❌ فشل التخطي: ${e.message}`);
+        // 📸 لقطة شاشة احتياطية في حال حدوث خطأ كارثي تسبب في إغلاق السكربت
+        try {
+            const pages = await browser.pages();
+            if (pages.length > 0) {
+                await pages[0].screenshot({ path: 'error_debug.png' });
+                console.log("📸 تم حفظ لقطة شاشة للخطأ باسم error_debug.png");
+            }
+        } catch (err) {}
     }
 
     await browser.close();
