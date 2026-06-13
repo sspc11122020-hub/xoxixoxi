@@ -11,6 +11,15 @@ const JSON_FILE = 'channels.json';
 const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/sspc11122020-hub/xoxixoxi/refs/heads/main/';
 const BASE_URL = 'https://cup2026.aflam4you.pro';
 
+// حزمة المتصفح الكاملة لتخطي حظر الـ 403 الفاشل
+const BROWSER_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'ar,en-US;q=0.9,en;q=0.8',
+    'Referer': 'https://cup2026.aflam4you.pro/',
+    'Cache-Control': 'max-age=0'
+};
+
 // إنشاء مجلد الصور إذا لم يكن موجوداً
 if (!fs.existsSync(IMAGE_DIR)) fs.mkdirSync(IMAGE_DIR, { recursive: true });
 
@@ -35,8 +44,8 @@ async function verifyVideo(streamUrl) {
 async function getStreamUrl(pageUrl) {
     try {
         const { data } = await axios.get(pageUrl, { 
-            timeout: 8000, 
-            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' } 
+            timeout: 10000, 
+            headers: BROWSER_HEADERS 
         });
 
         const $ = cheerio.load(data);
@@ -47,23 +56,18 @@ async function getStreamUrl(pageUrl) {
         const m3u8Matches = scripts.match(/https?:\/\/[^"']+\.m3u8[^"']*/g);
         if (m3u8Matches) m3u8Links.push(...m3u8Matches);
 
-        // 2. البحث داخل الـ iframes (مثل مشغل zremb472.php المتواجد بالهيكل)
+        // 2. البحث داخل الـ iframes
         const iframes = $('iframe').toArray();
         for (const iframe of iframes) {
             let src = $(iframe).attr('src');
             if (src) {
-                // إصلاح الرابط المباشر للـ iframe إذا كان نسبياً
                 if (src.startsWith('/')) src = BASE_URL + src;
                 else if (src.startsWith('//')) src = 'https:' + src;
 
                 try {
-                    // جلب محتوى صفحة السيرفر/المشغل الداخلية والبحث عن m3u8 بداخلها
                     const iframeRes = await axios.get(src, { 
-                        timeout: 5000, 
-                        headers: { 
-                            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-                            'Referer': pageUrl 
-                        } 
+                        timeout: 6000, 
+                        headers: { ...BROWSER_HEADERS, 'Referer': pageUrl } 
                     });
                     const innerMatches = iframeRes.data.match(/https?:\/\/[^"']+\.m3u8[^"']*/g);
                     if (innerMatches) m3u8Links.push(...innerMatches);
@@ -71,7 +75,6 @@ async function getStreamUrl(pageUrl) {
             }
         }
 
-        // تنظيف الروابط الفريدة والهروبية وفحصها
         const uniqueLinks = [...new Set(m3u8Links)].map(l => l.replace(/\\/g, ''));
         for (const link of uniqueLinks) {
             if (await verifyVideo(link)) return link;
@@ -98,11 +101,8 @@ async function processImage(imgUrl, channelName) {
         const response = await axios({ 
             url: finalImgUrl, 
             responseType: 'arraybuffer', 
-            timeout: 10000,
-            headers: { 
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-                'Referer': BASE_URL
-            } 
+            timeout: 12000,
+            headers: BROWSER_HEADERS
         });
 
         await sharp(response.data)
@@ -132,9 +132,7 @@ async function startScraping() {
     for (const pageUrl of pages) {
         console.log(`\n🌐 جاري استخراج القنوات من الهيكل الجديد لـ: ${pageUrl}`);
         try {
-            const { data } = await axios.get(pageUrl, { 
-                headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' } 
-            });
+            const { data } = await axios.get(pageUrl, { headers: BROWSER_HEADERS });
             const $ = cheerio.load(data);
             const items = [];
             
@@ -161,7 +159,7 @@ async function startScraping() {
                 });
             });
 
-            console.log(`📈 تم العثور على ${items.length} قناة في هذه الصفحة. بدء الفحص البرمجي...`);
+            console.log(`📈 تم العثور على ${items.length} قناة في الصفحة. بدء الفحص...`);
 
             for (const item of items) {
                 if (!item.page) continue;
@@ -183,7 +181,7 @@ async function startScraping() {
                         last_update: currentTime
                     });
                 } else {
-                    console.log(`⚠️ لا يوجد سيرفر m3u8 مستقر أو متاح لهذه القناة حالياً.`);
+                    console.log(`⚠️ لا يوجد سيرفر m3u8 متاح حالياً.`);
                 }
             }
         } catch (e) { 
@@ -192,7 +190,7 @@ async function startScraping() {
     }
 
     fs.writeFileSync(JSON_FILE, JSON.stringify(finalChannels, null, 2));
-    console.log(`\n🏁 انتهت العملية! تم حفظ ${finalChannels.length} قناة شغالة بنجاح في ${JSON_FILE}`);
+    console.log(`\n🏁 انتهت العملية! تم حفظ ${finalChannels.length} قناة شغالة بنجاح.`);
 }
 
 startScraping();
