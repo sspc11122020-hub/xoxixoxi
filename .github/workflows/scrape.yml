@@ -2,8 +2,8 @@ name: استخراج موقع akamaized
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: '0 */12 * * *' # تشغيل تلقائي كل 12 ساعة
+  workflow_dispatch: # زر للتشغيل اليدوي
 
 permissions:
   contents: write
@@ -23,15 +23,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install FFmpeg & Chromium Dependencies
+      # تحديث حزم النظام بما يتوافق بالكامل مع Ubuntu 24.04 المحمل على خوادم GitHub
+      - name: Install FFmpeg & System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg libgconf-2-4 libatk1.0-0 libatk-bridge2.0-0 libgdk-pixbuf2.0-0 libgtk-3-0 libgbm-dev libnss3 libxss1 libasound2
+          sudo apt-get install -y ffmpeg libgbm1 libnss3 libxss1 libasound2t64
 
       - name: Install Dependencies
         run: |
           if [ ! -f package.json ]; then npm init -y; fi
-          npm install puppeteer cheerio sharp fluent-ffmpeg
+          npm install
 
       - name: Run Scraper
         run: |
