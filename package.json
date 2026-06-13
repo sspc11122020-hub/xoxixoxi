@@ -19,4 +19,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
-}
+},
+{
+  "name": "media-scraper-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "puppeteer": "^22.6.0",
+    "sharp": "^0.33.5"
+  }
+
