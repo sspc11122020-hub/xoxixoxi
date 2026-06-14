@@ -111,6 +111,7 @@ async function scrapeMatches() {
             };
 
             const match = {
+                id: i + 1,
                 team1: $(el).find('.right-team .team-name').text().trim(),
                 team1Logo: getValidLogo('.right-team'),
                 team2: $(el).find('.left-team .team-name').text().trim(),
