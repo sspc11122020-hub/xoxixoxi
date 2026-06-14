@@ -1,0 +1,95 @@
+name: مسلسلات أنمي
+
+on:
+  schedule:
+    - cron: '30 */6 * * *' # يعمل كل 6 ساعات (تم إزاحته 30 دقيقة عن السكربت الآخر لتفادي الضغط)
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    
+    permissions:
+      contents: write
+      
+    steps:
+    - name: Checkout with token
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    
+    - name: Ensure anime directory exists
+      run: mkdir -p anime
+
+    - name: Synchronize with remote
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git fetch origin
+        git reset --hard origin/main
+        git clean -fd
+    
+    - name: Install Dependencies
+      run: npm install
+        
+    - name: Run anime scraper
+      run: |
+        echo "💥 بدء استخراج الأنمي..."
+        node anime.js --daily-update
+      continue-on-error: true
+    
+    - name: Check for changes
+      id: changes
+      run: |
+        if [[ -n $(git status --porcelain anime/) ]]; then
+          echo "✅ هناك تغييرات جديدة في قسم الأنمي"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "⏭️ لا توجد تغييرات"
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Push changes (if any)
+      if: steps.changes.outputs.has_changes == 'true'
+      run: |
+        git add anime/
+        COMMIT_MSG="💥 تحديث الأنمي - $(date +'%Y-%m-%d %H:%M')"
+        git commit -m "$COMMIT_MSG"
+        
+        ATTEMPT=1
+        MAX_ATTEMPTS=3
+        
+        while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
+          echo "🚀 محاولة Push #$ATTEMPT"
+          git stash --include-untracked
+          
+          if git pull --rebase origin main; then
+            echo "✅ تم سحب التغييرات بنجاح"
+            git stash pop || true
+            
+            if git push origin main; then
+              echo "🎉 تم رفع تغييرات الأنمي بنجاح!"
+              break
+            else
+              echo "❌ فشل Push #$ATTEMPT"
+            fi
+          else
+            echo "❌ فشل pull في المحاولة #$ATTEMPT"
+            git stash pop || true
+          fi
+          
+          if [ $ATTEMPT -eq $MAX_ATTEMPTS ]; then
+            echo "💥 فشلت جميع محاولات الأنمي"
+            exit 1
+          fi
+          
+          ATTEMPT=$((ATTEMPT + 1))
+          sleep 10
+        done
