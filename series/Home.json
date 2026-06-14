@@ -2,8 +2,731 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-06-14T10:18:06.766Z",
+  "lastUpdated": "2026-06-14T17:03:49.743Z",
   "series": [
+    {
+      "id": "227394",
+      "title": "مسلسل Arctic Circle الموسم الرابع الحلقة 5 والاخيرة مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=227394",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/wBfzDdw13OeCU6M4O1X4h5JxPg2-442x650.jpg",
+      "imdbRating": "6.9",
+      "story": "يتابع محقق وعالم فيروسات تحقيقًا غير عادي يضعهما في الجانب الخطأ من القانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "فنلندا"
+        ],
+        "المخرجين": [
+          "Hannu Salonen",
+          "Juha Lankinen",
+          "Jussi Hiltunen"
+        ],
+        "بطولة": [
+          "Anna Ackerman",
+          "Anu Sinisalo",
+          "Chike Ohanwe",
+          "Clemens Schick"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-vex4nghdah4y.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/vex4nghdah4y.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/488mj0r1fw26",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/8jwsdq4l1n5d",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/668rovut3hrb",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/BA5FF6F435A7873",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/fd62117b0cdb92e1024324aea059762f",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/r2qR",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Puvz",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-14T17:01:43.852Z"
+    },
+    {
+      "id": "227393",
+      "title": "مسلسل Arctic Circle الموسم الرابع الحلقة 4 مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=227393",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/wBfzDdw13OeCU6M4O1X4h5JxPg2-442x650.jpg",
+      "imdbRating": "6.9",
+      "story": "يتابع محقق وعالم فيروسات تحقيقًا غير عادي يضعهما في الجانب الخطأ من القانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "فنلندا"
+        ],
+        "المخرجين": [
+          "Hannu Salonen",
+          "Juha Lankinen",
+          "Jussi Hiltunen"
+        ],
+        "بطولة": [
+          "Anna Ackerman",
+          "Anu Sinisalo",
+          "Chike Ohanwe",
+          "Clemens Schick"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-cy35dbdjx4x3.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/cy35dbdjx4x3.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/6l9ozhenqaoc",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/mbj7fhkrlxhi",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/xokm3lni7f5v",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/3A852E9519C5327",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/6d44cf844ccceab29637c4a598429441",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/r2qQ",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Puvy",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-14T17:01:46.192Z"
+    },
+    {
+      "id": "227392",
+      "title": "مسلسل Arctic Circle الموسم الرابع الحلقة 3 مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=227392",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/wBfzDdw13OeCU6M4O1X4h5JxPg2-442x650.jpg",
+      "imdbRating": "6.9",
+      "story": "يتابع محقق وعالم فيروسات تحقيقًا غير عادي يضعهما في الجانب الخطأ من القانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "فنلندا"
+        ],
+        "المخرجين": [
+          "Hannu Salonen",
+          "Juha Lankinen",
+          "Jussi Hiltunen"
+        ],
+        "بطولة": [
+          "Anna Ackerman",
+          "Anu Sinisalo",
+          "Chike Ohanwe",
+          "Clemens Schick"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-vnwurzheuqma.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/vnwurzheuqma.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/0615kxdr2jck",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/y59dnm2zex0u",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/0g8seuu0g1gs",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/288CE4CBB138CDA",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/8067cb48beee231b7bf2855ad391d105",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/r2qP",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Puvx",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-14T17:01:48.495Z"
+    },
+    {
+      "id": "227391",
+      "title": "مسلسل Arctic Circle الموسم الرابع الحلقة 2 مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=227391",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/wBfzDdw13OeCU6M4O1X4h5JxPg2-442x650.jpg",
+      "imdbRating": "6.9",
+      "story": "يتابع محقق وعالم فيروسات تحقيقًا غير عادي يضعهما في الجانب الخطأ من القانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "فنلندا"
+        ],
+        "المخرجين": [
+          "Hannu Salonen",
+          "Juha Lankinen",
+          "Jussi Hiltunen"
+        ],
+        "بطولة": [
+          "Anna Ackerman",
+          "Anu Sinisalo",
+          "Chike Ohanwe",
+          "Clemens Schick"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-06e31d1aj7x5.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/06e31d1aj7x5.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/6n1epen2wt7f",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/yh1hcuw97s28",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/wqlby6umjveo",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/677C1CC951DA4C4",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/03840784dfa138340d2f272e0ce5b0ef",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/r2qO",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Puvw",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-14T17:01:50.803Z"
+    },
+    {
+      "id": "227378",
+      "title": "مسلسل Arctic Circle الموسم الرابع الحلقة 1 مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=227378",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/wBfzDdw13OeCU6M4O1X4h5JxPg2-442x650.jpg",
+      "imdbRating": "6.9",
+      "story": "يتابع محقق وعالم فيروسات تحقيقًا غير عادي يضعهما في الجانب الخطأ من القانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "فنلندا"
+        ],
+        "المخرجين": [
+          "Hannu Salonen",
+          "Juha Lankinen",
+          "Jussi Hiltunen"
+        ],
+        "بطولة": [
+          "Anna Ackerman",
+          "Anu Sinisalo",
+          "Chike Ohanwe",
+          "Clemens Schick"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-arctic-circle-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-rz4thkrxzdd8.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/rz4thkrxzdd8.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/hyhh3kr6qujy",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/s4pa4p7hkpcu",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/6ix3arkgdfhz",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/7448B549785EC8C",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/33f7039dde4f7cd22111296ba81d55d3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/r2qN",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Puvt",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-14T17:01:53.096Z"
+    },
+    {
+      "id": "227304",
+      "title": "مسلسل From الموسم الرابع الحلقة 8 مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-from-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=227304",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/04/MV5BNDAwNDljNWEtNWE1Zi00YjFlLWEzM2UtY2E3ZTM1MTcxMTcyXkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "مع احتمالية وجود عناصر سفر عبر الزمن تتعلق بـ (جولي)، وبينما يقترب الناجون من كشف الحقيقة، تتكشف العواقب المترتبة على مواجهتهم للواقع المظلم، ما يجعل رحلتهم محفوفة بالمخاطر والصدمات النفسية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رعب",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "480p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "توقيت الحلقة": "52 دقيقة",
+        "موعد الصدور": [
+          "2024"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Alexandra La Roche",
+          "Brad Turner",
+          "Jack Bender"
+        ],
+        "بطولة": [
+          "Angela Moore",
+          "Avery Konrad",
+          "Catalina Sandino Moreno",
+          "Chloe Van Landschoot"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-from-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-7qxwvnjymclk.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/7qxwvnjymclk.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/y9vbujktt6kl",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/a60c2zb5zlqk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/cqhd3hu3fzl6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/3D1B3078A0289E6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/3f2cca5aa2ecdf4a4e6998bbbcfbc075",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/erYj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2bpng",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/bytot2zxt58k",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/4ow5oygg69nk",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/1zffq9fawjf2",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/BA7C9946579A65B",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/0baa4b1484d0e34e6197f76a8ce547ea",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/erYk",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2bpnj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "480p",
+          "url": "https://updown.cam/7jozwrjvjpue",
+          "quality": "480p",
+          "type": "download_server"
+        },
+        {
+          "name": "480p",
+          "url": "https://down.mdiaload.com/3vu8wig22h6o",
+          "quality": "480p",
+          "type": "download_server"
+        },
+        {
+          "name": "480p",
+          "url": "https://ddownload.com/jp7z5esawpuy",
+          "quality": "480p",
+          "type": "download_server"
+        },
+        {
+          "name": "480p",
+          "url": "https://nitroflare.com/view/E2DFED458D8206F",
+          "quality": "480p",
+          "type": "download_server"
+        },
+        {
+          "name": "480p",
+          "url": "https://rapidgator.net/file/dcaa659c84ac2aed3ea7029802dfcecd",
+          "quality": "480p",
+          "type": "download_server"
+        },
+        {
+          "name": "480p",
+          "url": "https://koramaup.com/erYl",
+          "quality": "480p",
+          "type": "download_server"
+        },
+        {
+          "name": "480p",
+          "url": "https://1cloudfile.com/2bpnm",
+          "quality": "480p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-14T17:01:55.280Z"
+    },
     {
       "id": "226978",
       "title": "مسلسل Dutton Ranch الموسم الاول الحلقة 6 مترجمة",
@@ -105,7 +828,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:19.307Z"
+      "scrapedAt": "2026-06-14T17:01:57.573Z"
     },
     {
       "id": "227187",
@@ -210,7 +933,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:21.371Z"
+      "scrapedAt": "2026-06-14T17:02:00.150Z"
     },
     {
       "id": "227030",
@@ -294,7 +1017,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:23.403Z"
+      "scrapedAt": "2026-06-14T17:02:02.451Z"
     },
     {
       "id": "227029",
@@ -378,7 +1101,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:25.433Z"
+      "scrapedAt": "2026-06-14T17:02:04.698Z"
     },
     {
       "id": "227028",
@@ -462,7 +1185,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:27.459Z"
+      "scrapedAt": "2026-06-14T17:02:06.985Z"
     },
     {
       "id": "227027",
@@ -546,7 +1269,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:29.465Z"
+      "scrapedAt": "2026-06-14T17:02:09.260Z"
     },
     {
       "id": "227023",
@@ -630,7 +1353,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:31.470Z"
+      "scrapedAt": "2026-06-14T17:02:11.733Z"
     },
     {
       "id": "227026",
@@ -714,7 +1437,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:33.464Z"
+      "scrapedAt": "2026-06-14T17:02:14.103Z"
     },
     {
       "id": "227024",
@@ -798,7 +1521,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:35.502Z"
+      "scrapedAt": "2026-06-14T17:02:16.529Z"
     },
     {
       "id": "227021",
@@ -882,7 +1605,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:37.507Z"
+      "scrapedAt": "2026-06-14T17:02:18.802Z"
     },
     {
       "id": "227022",
@@ -966,7 +1689,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:39.521Z"
+      "scrapedAt": "2026-06-14T17:02:21.076Z"
     },
     {
       "id": "227025",
@@ -1050,7 +1773,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:41.550Z"
+      "scrapedAt": "2026-06-14T17:02:23.409Z"
     },
     {
       "id": "227020",
@@ -1134,7 +1857,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:43.567Z"
+      "scrapedAt": "2026-06-14T17:02:26.765Z"
     },
     {
       "id": "227008",
@@ -1224,7 +1947,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:45.578Z"
+      "scrapedAt": "2026-06-14T17:02:29.123Z"
     },
     {
       "id": "227007",
@@ -1314,7 +2037,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:47.608Z"
+      "scrapedAt": "2026-06-14T17:02:31.396Z"
     },
     {
       "id": "227004",
@@ -1404,7 +2127,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:49.600Z"
+      "scrapedAt": "2026-06-14T17:02:33.718Z"
     },
     {
       "id": "227006",
@@ -1494,7 +2217,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:51.604Z"
+      "scrapedAt": "2026-06-14T17:02:36.058Z"
     },
     {
       "id": "227003",
@@ -1584,7 +2307,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:53.580Z"
+      "scrapedAt": "2026-06-14T17:02:38.347Z"
     },
     {
       "id": "227000",
@@ -1674,7 +2397,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:55.582Z"
+      "scrapedAt": "2026-06-14T17:02:40.748Z"
     },
     {
       "id": "227001",
@@ -1764,7 +2487,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:57.591Z"
+      "scrapedAt": "2026-06-14T17:02:43.133Z"
     },
     {
       "id": "227002",
@@ -1854,7 +2577,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:16:59.615Z"
+      "scrapedAt": "2026-06-14T17:02:45.464Z"
     },
     {
       "id": "227005",
@@ -1944,7 +2667,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:01.640Z"
+      "scrapedAt": "2026-06-14T17:02:47.757Z"
     },
     {
       "id": "226999",
@@ -2034,7 +2757,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:03.643Z"
+      "scrapedAt": "2026-06-14T17:02:50.030Z"
     },
     {
       "id": "226987",
@@ -2124,7 +2847,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:05.658Z"
+      "scrapedAt": "2026-06-14T17:02:52.286Z"
     },
     {
       "id": "226740",
@@ -2228,7 +2951,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:07.657Z"
+      "scrapedAt": "2026-06-14T17:02:54.862Z"
     },
     {
       "id": "226982",
@@ -2333,7 +3056,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:09.626Z"
+      "scrapedAt": "2026-06-14T17:02:57.152Z"
     },
     {
       "id": "226985",
@@ -2425,7 +3148,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:11.627Z"
+      "scrapedAt": "2026-06-14T17:02:59.769Z"
     },
     {
       "id": "226976",
@@ -2519,7 +3242,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:13.621Z"
+      "scrapedAt": "2026-06-14T17:03:02.025Z"
     },
     {
       "id": "226977",
@@ -2614,7 +3337,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:15.603Z"
+      "scrapedAt": "2026-06-14T17:03:04.298Z"
     },
     {
       "id": "226736",
@@ -2720,7 +3443,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:17.647Z"
+      "scrapedAt": "2026-06-14T17:03:06.588Z"
     },
     {
       "id": "226737",
@@ -2815,7 +3538,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:19.656Z"
+      "scrapedAt": "2026-06-14T17:03:08.843Z"
     },
     {
       "id": "226798",
@@ -2914,7 +3637,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:21.647Z"
+      "scrapedAt": "2026-06-14T17:03:11.363Z"
     },
     {
       "id": "226796",
@@ -3013,7 +3736,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:23.638Z"
+      "scrapedAt": "2026-06-14T17:03:13.827Z"
     },
     {
       "id": "226794",
@@ -3112,7 +3835,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:25.621Z"
+      "scrapedAt": "2026-06-14T17:03:16.220Z"
     },
     {
       "id": "226792",
@@ -3211,7 +3934,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:27.617Z"
+      "scrapedAt": "2026-06-14T17:03:18.379Z"
     },
     {
       "id": "226790",
@@ -3310,7 +4033,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:29.617Z"
+      "scrapedAt": "2026-06-14T17:03:20.766Z"
     },
     {
       "id": "226788",
@@ -3409,7 +4132,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:31.615Z"
+      "scrapedAt": "2026-06-14T17:03:23.264Z"
     },
     {
       "id": "226786",
@@ -3508,7 +4231,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:33.631Z"
+      "scrapedAt": "2026-06-14T17:03:25.636Z"
     },
     {
       "id": "226784",
@@ -3607,7 +4330,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:35.634Z"
+      "scrapedAt": "2026-06-14T17:03:27.901Z"
     },
     {
       "id": "226782",
@@ -3706,7 +4429,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:37.638Z"
+      "scrapedAt": "2026-06-14T17:03:30.304Z"
     },
     {
       "id": "226742",
@@ -3805,7 +4528,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:39.639Z"
+      "scrapedAt": "2026-06-14T17:03:32.561Z"
     },
     {
       "id": "226662",
@@ -3908,7 +4631,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:41.654Z"
+      "scrapedAt": "2026-06-14T17:03:34.985Z"
     },
     {
       "id": "226661",
@@ -4011,7 +4734,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:43.666Z"
+      "scrapedAt": "2026-06-14T17:03:37.231Z"
     },
     {
       "id": "226660",
@@ -4114,7 +4837,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:45.667Z"
+      "scrapedAt": "2026-06-14T17:03:39.495Z"
     },
     {
       "id": "226659",
@@ -4223,7 +4946,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:47.648Z"
+      "scrapedAt": "2026-06-14T17:03:41.659Z"
     },
     {
       "id": "226647",
@@ -4332,7 +5055,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:49.652Z"
+      "scrapedAt": "2026-06-14T17:03:44.010Z"
     },
     {
       "id": "226563",
@@ -4441,7 +5164,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:51.678Z"
+      "scrapedAt": "2026-06-14T17:03:46.436Z"
     },
     {
       "id": "38504",
@@ -4554,685 +5277,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-14T10:17:53.675Z"
-    },
-    {
-      "id": "38503",
-      "title": "مسلسل Mindhunter الموسم الثاني الحلقة 8 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=38503",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2023/09/fbKE87mojpIETWepSbD5Qt741fp-434x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يوسّع عميلان من مكتب التحقيقات الفيدرالي علوم البحث الجنائي عن طريق الغوص في الدوافع النفسية خلف القتل والتقرّب بارتياب من وحوش حقيقية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "1 ساعة",
-        "موعد الصدور": [
-          "2019"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Andrew Dominik",
-          "Andrew Douglas",
-          "Asif Kapadia"
-        ],
-        "بطولة": [
-          "Albert Jones",
-          "Anna Torv",
-          "Cameron Britton",
-          "Cotter Smith"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-p9qvxtlfsdvr.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/p9qvxtlfsdvr.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/w2n3spthtcrk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/bamfkd62pihi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/r7q67i836ncz",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/AEBEBBF97229A03",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?h3cgresjy5f2z2ybyhz9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d245ec07f9fd6323d5903471c2dc0dfe",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/af4z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Prrb",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:17:55.690Z"
-    },
-    {
-      "id": "38502",
-      "title": "مسلسل Mindhunter الموسم الثاني الحلقة 7 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=38502",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2023/09/fbKE87mojpIETWepSbD5Qt741fp-434x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يوسّع عميلان من مكتب التحقيقات الفيدرالي علوم البحث الجنائي عن طريق الغوص في الدوافع النفسية خلف القتل والتقرّب بارتياب من وحوش حقيقية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "1 ساعة",
-        "موعد الصدور": [
-          "2019"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Andrew Dominik",
-          "Andrew Douglas",
-          "Asif Kapadia"
-        ],
-        "بطولة": [
-          "Albert Jones",
-          "Anna Torv",
-          "Cameron Britton",
-          "Cotter Smith"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-7k8nafi9qoq3.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/7k8nafi9qoq3.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/koy8z0xd31tx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/mhx9h5l080sv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/pz842xytcu2m",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C86D395C702AEC9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?4778br3wf3adnc6u35rc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/38b64faf0fe0f7d06466d7da5b756e04",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/af4y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Prra",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:17:57.710Z"
-    },
-    {
-      "id": "38501",
-      "title": "مسلسل Mindhunter الموسم الثاني الحلقة 6 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=38501",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2023/09/fbKE87mojpIETWepSbD5Qt741fp-434x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يوسّع عميلان من مكتب التحقيقات الفيدرالي علوم البحث الجنائي عن طريق الغوص في الدوافع النفسية خلف القتل والتقرّب بارتياب من وحوش حقيقية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "1 ساعة",
-        "موعد الصدور": [
-          "2019"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Andrew Dominik",
-          "Andrew Douglas",
-          "Asif Kapadia"
-        ],
-        "بطولة": [
-          "Albert Jones",
-          "Anna Torv",
-          "Cameron Britton",
-          "Cotter Smith"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-375hyg3zy2m3.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/375hyg3zy2m3.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ydawyhhtnkpo",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/fkgxfxsygx50",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/6tm99ekf64vf",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9062C19A42171C3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?xrnpd8s0qg06gu01r9ag",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/a3947ceb7e4f129519cb2b55c35003b8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/af4x",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Prr9",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:17:59.722Z"
-    },
-    {
-      "id": "38500",
-      "title": "مسلسل Mindhunter الموسم الثاني الحلقة 5 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=38500",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2023/09/fbKE87mojpIETWepSbD5Qt741fp-434x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يوسّع عميلان من مكتب التحقيقات الفيدرالي علوم البحث الجنائي عن طريق الغوص في الدوافع النفسية خلف القتل والتقرّب بارتياب من وحوش حقيقية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "1 ساعة",
-        "موعد الصدور": [
-          "2019"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Andrew Dominik",
-          "Andrew Douglas",
-          "Asif Kapadia"
-        ],
-        "بطولة": [
-          "Albert Jones",
-          "Anna Torv",
-          "Cameron Britton",
-          "Cotter Smith"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-thtmvvg7d9b2.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/thtmvvg7d9b2.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/xk8hxb5m1bl8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/1fvj30p9pwe0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/trmuwd2u3bq2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2CF29DAB3A2A9AD",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?tgodiaf3suf5kgd1ocer",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/5d1b4a30b7febe5cc39079662e53143d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/af4w",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Prr8",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:18:01.736Z"
-    },
-    {
-      "id": "38499",
-      "title": "مسلسل Mindhunter الموسم الثاني الحلقة 4 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=38499",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2023/09/fbKE87mojpIETWepSbD5Qt741fp-434x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يوسّع عميلان من مكتب التحقيقات الفيدرالي علوم البحث الجنائي عن طريق الغوص في الدوافع النفسية خلف القتل والتقرّب بارتياب من وحوش حقيقية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "1 ساعة",
-        "موعد الصدور": [
-          "2019"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Andrew Dominik",
-          "Andrew Douglas",
-          "Asif Kapadia"
-        ],
-        "بطولة": [
-          "Albert Jones",
-          "Anna Torv",
-          "Cameron Britton",
-          "Cotter Smith"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-jabmvwykld3v.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/jabmvwykld3v.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/fe69l9r85o7m",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/pcujjx2u5tdv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/4si06tnxt9r0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/48B5A352303586C",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?xhzfcwabvkxvatoy7occ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ce2ea24ba671d0a32dc35b1db02dfc83",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/af4u",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bmlD",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:18:03.745Z"
-    },
-    {
-      "id": "38498",
-      "title": "مسلسل Mindhunter الموسم الثاني الحلقة 3 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=38498",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2023/09/fbKE87mojpIETWepSbD5Qt741fp-434x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يوسّع عميلان من مكتب التحقيقات الفيدرالي علوم البحث الجنائي عن طريق الغوص في الدوافع النفسية خلف القتل والتقرّب بارتياب من وحوش حقيقية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "1 ساعة",
-        "موعد الصدور": [
-          "2019"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Andrew Dominik",
-          "Andrew Douglas",
-          "Asif Kapadia"
-        ],
-        "بطولة": [
-          "Albert Jones",
-          "Anna Torv",
-          "Cameron Britton",
-          "Cotter Smith"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mindhunter-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-klaod8po34j7.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/klaod8po34j7.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/7tymorbluopq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/x8hzw9gm4682",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/bw73vdrg9jbo",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/29EB49A5C0CA6C7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?mn0a1xtu2cvte6em5n1c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/e8c6d2ecddfce4f86654661c067902bb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/af4s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bmlC",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:18:05.765Z"
+      "scrapedAt": "2026-06-14T17:03:48.742Z"
     }
   ]
 }
