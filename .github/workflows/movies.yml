@@ -1,4 +1,4 @@
-name:  افلام
+name: افلام
 
 on:
   schedule:
@@ -41,6 +41,10 @@ jobs:
     - name: Install Dependencies
       run: npm install
         
+    # 🔥 خطوة إضافية هامة: تثبيت متصفح Playwright والملفات المساعدة له داخل السيرفر
+    - name: Install Playwright Chromium & Deps
+      run: npx playwright install chromium --with-deps
+
     # 3️⃣ تشغيل السكربت مباشرة بعد التثبيت
     - name: Run movie scraper
       run: |
