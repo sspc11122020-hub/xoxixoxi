@@ -1,4 +1,65 @@
-- name: Push changes (if any)
+name:  افلام
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    
+    permissions:
+      contents: write
+      
+    steps:
+    - name: Checkout with token
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    
+    - name: Ensure movies directory exists
+      run: mkdir -p movies
+
+    # 1️⃣ المزامنة والتنظيف تتم أولاً وهي فارغة
+    - name: Synchronize with remote
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git fetch origin
+        git reset --hard origin/main
+        git clean -fd
+    
+    # 2️⃣ التثبيت يتم الآن بناءً على الـ package.json الخاص بك لضمان بقاء الحزم
+    - name: Install Dependencies
+      run: npm install
+        
+    # 3️⃣ تشغيل السكربت مباشرة بعد التثبيت
+    - name: Run movie scraper
+      run: |
+        echo "🎬 بدء استخراج الأفلام..."
+        node movies.js --daily-update
+      continue-on-error: true
+    
+    - name: Check for changes
+      id: changes
+      run: |
+        if [[ -n $(git status --porcelain) ]]; then
+          echo "✅ هناك تغييرات جديدة"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "⏭️ لا توجد تغييرات"
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Push changes (if any)
       if: steps.changes.outputs.has_changes == 'true'
       run: |
         git add movies/
@@ -11,14 +72,8 @@
         while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
           echo "🚀 محاولة Push #$ATTEMPT"
           
-          # 🔥 الحل هنا: عمل stash للتغييرات غير المضافة مؤقتاً لتنظيف بيئة الـ Rebase
-          git stash --include-untracked
-          
           if git pull --rebase origin main; then
             echo "✅ تم سحب التغييرات بنجاح"
-            
-            # إرجاع الملفات المخزنة إن وجدت بعد نجاح الـ pull
-            git stash pop || true
             
             if git push origin main; then
               echo "🎉 تم رفع التغييرات بنجاح!"
@@ -28,7 +83,6 @@
             fi
           else
             echo "❌ فشل pull في المحاولة #$ATTEMPT"
-            git stash pop || true
           fi
           
           if [ $ATTEMPT -eq $MAX_ATTEMPTS ]; then
