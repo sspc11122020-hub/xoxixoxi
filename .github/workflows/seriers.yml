@@ -1,4 +1,4 @@
-name:  افلام
+name: مسلسلات
 
 on:
   schedule:
@@ -25,8 +25,9 @@ jobs:
       with:
         node-version: '20'
     
-    - name: Ensure movies directory exists
-      run: mkdir -p movies
+    # تم التعديل لإنشاء مجلد المسلسلات
+    - name: Ensure series directory exists
+      run: mkdir -p series
 
     # 1️⃣ المزامنة والتنظيف تتم أولاً وهي فارغة
     - name: Synchronize with remote
@@ -42,9 +43,9 @@ jobs:
       run: npm install
         
     # 3️⃣ تشغيل السكربت مباشرة بعد التثبيت
-    - name: Run movie scraper
+    - name: Run series scraper
       run: |
-        echo "🎬 بدء استخراج الأفلام..."
+        echo "🎬 بدء استخراج المسلسلات..."
         node seriers.js --daily-update
       continue-on-error: true
     
@@ -62,8 +63,9 @@ jobs:
     - name: Push changes (if any)
       if: steps.changes.outputs.has_changes == 'true'
       run: |
-        git add movies/
-        COMMIT_MSG="🎬 تحديث الأفلام - $(date +'%Y-%m-%d %H:%M')"
+        # 🔥 تم التعديل هنا ليعمل add لمجلد الـ series الجديد بدلاً من movies
+        git add series/
+        COMMIT_MSG="🎬 تحديث المسلسلات - $(date +'%Y-%m-%d %H:%M')"
         git commit -m "$COMMIT_MSG"
         
         ATTEMPT=1
@@ -72,8 +74,13 @@ jobs:
         while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
           echo "🚀 محاولة Push #$ATTEMPT"
           
+          # عمل stash مؤقت للتنظيف وتفادي تعارض الـ rebase
+          git stash --include-untracked
+          
           if git pull --rebase origin main; then
             echo "✅ تم سحب التغييرات بنجاح"
+            
+            git stash pop || true
             
             if git push origin main; then
               echo "🎉 تم رفع التغييرات بنجاح!"
@@ -83,6 +90,7 @@ jobs:
             fi
           else
             echo "❌ فشل pull في المحاولة #$ATTEMPT"
+            git stash pop || true
           fi
           
           if [ $ATTEMPT -eq $MAX_ATTEMPTS ]; then
