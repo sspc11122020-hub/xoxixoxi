@@ -1,17 +1,19 @@
 [
   {
+    "id": 1,
     "team1": "ألمانيا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2cbcd9968a5.png",
     "team2": "كوراساو",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2cbcd99d01e.png",
     "time": "8:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://8cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://9cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   },
   {
+    "id": 2,
     "team1": "هولندا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2cbcdbac309.png",
     "team2": "اليابان",
@@ -21,9 +23,10 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://8cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://9cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   },
   {
+    "id": 3,
     "team1": "البرازيل",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2cbcd0f0bcf.png",
     "team2": "المغرب",
@@ -36,6 +39,7 @@
     "stream": "https://5cup-live.s3.eu-west-3.amazonaws.com/max4/master.m3u8"
   },
   {
+    "id": 4,
     "team1": "هايتي",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2cbcd230f66.png",
     "team2": "إسكتلندا",
@@ -45,9 +49,10 @@
     "channel": "بي إن سبورت (مجانية)",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://8cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://9cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   },
   {
+    "id": 5,
     "team1": "أستراليا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2cbcd359c2c.png",
     "team2": "تركيا",
@@ -57,6 +62,6 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://8cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://9cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   }
 ]
