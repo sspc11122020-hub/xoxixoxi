@@ -63,23 +63,39 @@ function extractMovieId(url) {
     }
 }
 
-// 🔥 مطور ومحسن لقنص روابط m3u8 بأشكالها المختلفة (العادية والمشفرة والهروبية)
+// 🔥 النسخة المطورة والقوية لاصطياد الروابط المباشرة وفك تشفير الـ Backslashes والرموز الغريبة
 function findM3u8InSource(htmlContent) {
     if (!htmlContent) return null;
     
-    // 1. تعبير نمطي قوي للبحث عن روابط m3u8 الصريحة والمخفية
-    const m3u8Regex = /(https?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b[-a-zA-Z0-9()@:%_\+.~#?&//=]*\.m3u8[-a-zA-Z0-9()@:%_\+.~#?&//=]*)/i;
-    let match = htmlContent.match(m3u8Regex);
+    // أولاً: نقوم بتنظيف النص البرمجي من الـ الهروب (Slash Escaping) الشائع جداً في جافا سكريبت (\/) ليصبح رابطاً طبيعياً
+    const cleanedHtml = htmlContent.replace(/\\([\/`'"])/g, '$1');
+
+    // 1. تعبير نمطي شامل لاصطياد روابط الـ m3u8 والـ mp4 المباشرة (بما فيها روابط الـ cdn, urlset, master)
+    const mediaRegex = /(https?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b[-a-zA-Z0-9()@:%_\+.~#?&//=\*,]*\.(?:m3u8|mp4)[-a-zA-Z0-9()@:%_\+.~#?&//=\*,]*)/i;
+    let match = cleanedHtml.match(mediaRegex);
     
     if (match) {
-        return match[1].replace(/\\/g, ''); // تنظيف الروابط الهروبية الناتجة عن الـ JSON أو الجافا سكريبت
+        return match[1];
     }
 
-    // 2. البحث عن روابط m3u8 التي تحتوي على جودات مدمجة (مثل المصادر المقسمة داخل النص)
-    const alternativeRegex = /"file"\s*:\s*"([^"]+\.m3u8[^"]*)"/i;
-    match = htmlContent.match(alternativeRegex);
+    // 2. البحث الاحتياطي داخل هياكل النصوص JSON المدمجة مثل السِمات (file أو source أو src)
+    const jsonAlternativeRegex = /"(?:file|source|src|url)"\s*:\s*"([^"]+\.(?:m3u8|mp4)[^"]*)"/i;
+    match = cleanedHtml.match(jsonAlternativeRegex);
     if (match) {
-        return match[1].replace(/\\/g, '');
+        return match[1];
+    }
+
+    // 3. محاولة فك روابط مشفرة بـ Base64 لو كانت الحماية تعتمد عليها
+    const base64Regex = /["']([A-Za-z0-9+/]{60,})={0,2}["']/g;
+    let b64Matches;
+    while ((b64Matches = base64Regex.exec(cleanedHtml)) !== null) {
+        try {
+            let decoded = Buffer.from(b64Matches[1], 'base64').toString('utf-8');
+            if (decoded.includes('.m3u8') || decoded.includes('.mp4')) {
+                const innerMatch = decoded.match(/(https?[-a-zA-Z0-9@:%._\+~#=]+\.(?:m3u8|mp4)[^\s"']*)/i);
+                if (innerMatch) return innerMatch[1];
+            }
+        } catch (e) {}
     }
 
     return null;
@@ -88,7 +104,7 @@ function findM3u8InSource(htmlContent) {
 // ==================== استخراج سيرفرات المشاهدة وروابط m3u8 ====================
 async function extractWatchServers(watchUrl) {
     try {
-        console.log(`   👁️ جاري استخراج سيرفرات المشاهدة والبحث عن m3u8...`);
+        console.log(`   👁️ جاري استخراج سيرفرات المشاهدة والبحث عن رابط البث المباشر...`);
         const html = await fetchPage(watchUrl);
         if (!html) return [];
         
@@ -101,27 +117,27 @@ async function extractWatchServers(watchUrl) {
         metaTags.forEach(property => {
             const meta = doc.querySelector(`meta[property="${property}"]`) || doc.querySelector(`meta[name="${property}"]`);
             if (meta && meta.content) {
+                const isDirect = meta.content.includes('.m3u8') || meta.content.includes('.mp4');
                 servers.push({
                     name: "مشاهدة مباشرة",
                     url: meta.content,
                     quality: "متعدد الجودات",
                     type: "meta_stream",
-                    m3u8Url: meta.content.includes('.m3u8') ? meta.content : null
+                    m3u8Url: isDirect ? meta.content : null
                 });
             }
         });
         
         // 2. البحث في الـ Iframes والـ Embeds والتعمق داخل أكواد السيرفرات الداخلية
-        const iframes = doc.querySelectorAll('iframe[src*="embed"], iframe[src*="video"], iframe[src*="player"], iframe[src*="vtt"], iframe[src*="ramp"]');
+        const iframes = doc.querySelectorAll('iframe[src*="embed"], iframe[src*="video"], iframe[src*="player"], iframe[src*="vtt"], iframe[src*="ramp"], iframe[src*="stream"]');
         for (let i = 0; i < iframes.length; i++) {
             let src = iframes[i].src;
             if (src) {
-                // إصلاح الروابط النسبية لو وجدت
                 if (src.startsWith('//')) src = 'https:' + src;
                 
-                let m3u8Url = src.includes('.m3u8') ? src : null;
+                let m3u8Url = (src.includes('.m3u8') || src.includes('.mp4')) ? src : null;
                 
-                // الدخول لعمق السيرفر (محاكاة الـ Network Sniffer) لقنص رابط الـ m3u8 الفعلي للمشغل
+                // الدخول لعمق السيرفر (محاكاة الـ Network Sniffer) لقنص رابط البث من داخل صفحة الـ iframe
                 if (!m3u8Url) {
                     const serverHtml = await fetchPage(src);
                     m3u8Url = findM3u8InSource(serverHtml);
@@ -151,7 +167,14 @@ async function extractWatchServers(watchUrl) {
             });
         }
         
-        console.log(`   ✅ تم العثور على ${servers.length} سيرفر مشاهدة.`);
+        // طباعة النتيجة لمعرفة نجاح العملية أثناء التشغيل
+        servers.forEach(srv => {
+            if (srv.m3u8Url) {
+                console.log(`   🎯 تم بنجاح قنص الرابط المباشر: ${srv.m3u8Url.substring(0, 70)}...`);
+            }
+        });
+
+        console.log(`   ✅ تم معالجة ${servers.length} سيرفر مشاهدة.`);
         return servers;
         
     } catch (error) {
@@ -202,7 +225,6 @@ async function extractDownloadServers(downloadUrl) {
             });
         });
         
-        // تصفية المكرر
         return servers.filter((server, index, self) => index === self.findIndex((s) => s.url === server.url));
         
     } catch (error) {
@@ -236,7 +258,6 @@ async function fetchMovieDetails(movie, position, total) {
         const storyElement = doc.querySelector(".story p, .entry-content p");
         const story = cleanText(storyElement?.textContent) || "غير متوفر";
         
-        // استخراج تفاصيل الفيلم الجانبية
         const details = {};
         const detailItems = doc.querySelectorAll("ul.RightTaxContent li, .post-details li, .movie-details li");
         
@@ -259,7 +280,6 @@ async function fetchMovieDetails(movie, position, total) {
             }
         });
 
-        // التقاط أزرار المشاهدة والتحميل والتعامل مع الروابط بذكاء
         const watchButton = doc.querySelector('a.watch, a[href*="/watch/"], .watch-btn a');
         const downloadButton = doc.querySelector('a.download, a[href*="/download/"], .download-btn a');
         
@@ -267,7 +287,6 @@ async function fetchMovieDetails(movie, position, total) {
         if (watchButton && watchButton.href) {
             watchServers = await extractWatchServers(watchButton.href);
         } else {
-            // في حال كانت السيرفرات مدمجة بنفس الصفحة مباشرة ولم تكن بصفحة منفصلة
             watchServers = await extractWatchServers(movie.url);
         }
         
@@ -311,14 +330,12 @@ async function startScraping() {
     const doc = dom.window.document;
     const initialMovies = [];
     
-    // التقاط كتل الأفلام من الصفحة الأولى
     const movieElements = doc.querySelectorAll('.Small--Box a.recent--block');
     console.log(`✅ تم العثور على ${movieElements.length} فيلم في الصفحة الأولى.`);
     
     movieElements.forEach((element, i) => {
         let movieUrl = element.href;
         if (movieUrl) {
-            // إصلاح الرابط لو كان نسبياً
             if (movieUrl.startsWith('/')) movieUrl = BASE_URL + movieUrl;
             
             const titleElement = element.querySelector('h3.title') || element.querySelector('.title');
@@ -333,17 +350,14 @@ async function startScraping() {
     
     const finalMoviesList = [];
     
-    // المرور الفعلي على الأفلام وفحص السيرفرات وروابط الـ m3u8 بالتفصيل
     for (let i = 0; i < initialMovies.length; i++) {
         const movieDetails = await fetchMovieDetails(initialMovies[i], i + 1, initialMovies.length);
         if (movieDetails) {
             finalMoviesList.push(movieDetails);
         }
-        // تأخير ثانية واحدة لتفادي الحظر وحماية السيرفر
         await new Promise(resolve => setTimeout(resolve, 1000));
     }
     
-    // بناء وتخزين ملف الـ Home.json
     const fileContent = {
         fileName: "Home.json",
         description: "أفلام الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
@@ -356,5 +370,4 @@ async function startScraping() {
     console.log(`\n🏠 اكتملت العملية بنجاح! تم حفظ الصفحة الأولى في: ${HOME_FILE}`);
 }
 
-// تشغيل السكريبت
 startScraping();
