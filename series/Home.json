@@ -2,8 +2,431 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-06-19T21:55:51.987Z",
+  "lastUpdated": "2026-06-20T10:22:21.435Z",
   "series": [
+    {
+      "id": "228600",
+      "title": "مسلسل The Chi الموسم الثامن الحلقة 5 مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-chi-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=228600",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/05/MV5BZmFmN2MxNzAtODQ0OC00MTM5LWJmMzUtOTU1NTc0Zjg5NGM2XkEyXkFqcGc@._V1_-scaled-439x650.jpg",
+      "imdbRating": "7.5",
+      "story": "تتبع الأحداث حياة (إيميت) و(براندون) و(روني) و(كيفن) في أحد أحياء شيكاغو بالجنوب، كل ذلك حينما تتحول مصائرهم بعد حادث مشؤوم بعث بموجات صادمة إلى المجتمع، لكنه في نفس الوقت جعلهم مرتبطين ببعض بطريقة غير متوقعة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Alex R Hibbert",
+          "Birgundi Baker",
+          "Curtiss Cook",
+          "Genesis Denise Hale"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-chi-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-9d21g3q8zxwp.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/9d21g3q8zxwp.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/oq8zjyhl670a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/38q0c77lfa3i",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/ttzsvy8iwunc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/21A78665CF6DF11",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?c1r4gpf9tb3mata1p4ee",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/cd9b9ce2b5763375576d7e41f915004f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/agsU",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pwii",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-20T10:20:23.412Z"
+    },
+    {
+      "id": "228057",
+      "title": "مسلسل Power Book III: Raising Kanan الموسم الخامس الحلقة 2 مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-power-book-iii-raising-kanan-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=228057",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/MV5BYmQ2MzM0YTItMWNhMy00MzhjLTkwZjgtMTRkNzVkY2JkMTg2XkEyXkFqcGc@._V1_-433x650.jpg",
+      "imdbRating": "7.7",
+      "story": "تدور الأحداث في فترة التسعينيات من القرن الماضي، حيث يتناول العمل فترة شباب (كانان ستارك)، ورحلة صعوده المليئة بالأحداث المثيرة والغريبة في عالم الجريمة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Bart Wenrich",
+          "Bobby Kennedy",
+          "Brendan Walsh"
+        ],
+        "بطولة": [
+          "Ade Chike Torbert",
+          "Antonio Ortiz",
+          "Hailey Kilgore",
+          "Joey Bada"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-power-book-iii-raising-kanan-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-sqsn3skjkc3f.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/sqsn3skjkc3f.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/yem758ns4f2z",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/hzyln960suvr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/pkmuctp5gqaz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/F3A9F04DD7215B9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?zzwca410sqayonw0670l",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/9028ee0922597726673944d553ca84ee",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/agsT",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pwig",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-20T10:20:25.804Z"
+    },
+    {
+      "id": "228056",
+      "title": "مسلسل Dutton Ranch الموسم الاول الحلقة 7 مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-dutton-ranch-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=228056",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/05/MV5BMzk0YTExY2EtYzI1NS00M2ZlLWFjOGUtMTQyMDY1MmE2ZGViXkEyXkFqcGc@-440x650.jpg",
+      "imdbRating": "8.1",
+      "story": "يكافح الزوجان (بيث داتون) و(ريب ويلر) من أجل البقاء على قيد الحياة في مزرعتهما العزيزة التي تبلغ مساحتها 7000 فدان وسط أوقات عصيبة ومنافسة شديدة، بينما يعملان على تربية ابنهما بالتبني، (كارتر)، ومواجهة تحديات عنيفة في بيئة جديدة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "ويسترن"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Annette Bening",
+          "Carrie Jeanne",
+          "Cole Hauser",
+          "Daniel Congleton"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-dutton-ranch-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-qg48p0h3uxyo.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/qg48p0h3uxyo.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/6fu5jrflnono",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/2xzxd7fpvcxd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/zz52vzvqn9dk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9C6584F1BA9D75E",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?x5if3tcr0a7wyzmcyyvq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/85d757aa9f8696da5b4ece67dd7a4d5e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/agsS",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pwid",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-20T10:20:27.884Z"
+    },
+    {
+      "id": "228060",
+      "title": "مسلسل Unconditional الموسم الاول الحلقة 8 والاخيرة مترجمة",
+      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-unconditional-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinemaa.com/?p=228060",
+      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/05/5Qwnn0zL8jzUkgf1loAYeZMYLKh-scaled-433x650.jpg",
+      "imdbRating": "6.4",
+      "story": "تتحول عطلة أم مع ابنتها إلى كابوس عندما تُلقى القبض على غالي، البالغة من العمر 25 عامًا، بتهمة تهريب المخدرات في موسكو. وتجد أورنا نفسها في صراع مرير لإثبات براءة ابنتها، مما يزج بها في عالم الجريمة الخطير.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Amir Haddad",
+          "Benedict Garrett",
+          "Edward Sonnenblick",
+          "Ekaterina Gudina"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-unconditional-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-lynwomj4mtdz.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/lynwomj4mtdz.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/y5dy9fz9sc5v",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/419w5t3stlh9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/syxg1rjolx9r",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/05556957A7B9722",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?wlp6eunbeaf8cu6hd9k6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/86a48294e17720f297497df40c0d6c38",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/agsN",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pwi6",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-20T10:20:30.029Z"
+    },
     {
       "id": "228245",
       "title": "مسلسل Oasis الموسم الاول الحلقة 8 والاخيرة مترجمة",
@@ -98,7 +521,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:53:54.028Z"
+      "scrapedAt": "2026-06-20T10:20:32.336Z"
     },
     {
       "id": "228244",
@@ -194,7 +617,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:53:56.290Z"
+      "scrapedAt": "2026-06-20T10:20:34.537Z"
     },
     {
       "id": "228243",
@@ -290,7 +713,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:53:58.437Z"
+      "scrapedAt": "2026-06-20T10:20:36.741Z"
     },
     {
       "id": "228242",
@@ -392,7 +815,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:00.468Z"
+      "scrapedAt": "2026-06-20T10:20:38.796Z"
     },
     {
       "id": "228240",
@@ -488,7 +911,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:02.584Z"
+      "scrapedAt": "2026-06-20T10:20:40.853Z"
     },
     {
       "id": "228241",
@@ -584,7 +1007,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:04.801Z"
+      "scrapedAt": "2026-06-20T10:20:42.907Z"
     },
     {
       "id": "228239",
@@ -680,7 +1103,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:06.902Z"
+      "scrapedAt": "2026-06-20T10:20:44.993Z"
     },
     {
       "id": "228235",
@@ -788,7 +1211,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:09.094Z"
+      "scrapedAt": "2026-06-20T10:20:47.054Z"
     },
     {
       "id": "228055",
@@ -898,7 +1321,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:11.544Z"
+      "scrapedAt": "2026-06-20T10:20:49.619Z"
     },
     {
       "id": "228058",
@@ -998,7 +1421,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:13.665Z"
+      "scrapedAt": "2026-06-20T10:20:51.856Z"
     },
     {
       "id": "228059",
@@ -1099,7 +1522,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:15.704Z"
+      "scrapedAt": "2026-06-20T10:20:53.888Z"
     },
     {
       "id": "228068",
@@ -1205,7 +1628,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:17.928Z"
+      "scrapedAt": "2026-06-20T10:20:55.829Z"
     },
     {
       "id": "228301",
@@ -1304,7 +1727,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:19.982Z"
+      "scrapedAt": "2026-06-20T10:20:58.041Z"
     },
     {
       "id": "228302",
@@ -1403,7 +1826,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:22.080Z"
+      "scrapedAt": "2026-06-20T10:21:00.165Z"
     },
     {
       "id": "228300",
@@ -1502,7 +1925,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:24.186Z"
+      "scrapedAt": "2026-06-20T10:21:02.228Z"
     },
     {
       "id": "228296",
@@ -1601,7 +2024,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:26.284Z"
+      "scrapedAt": "2026-06-20T10:21:04.247Z"
     },
     {
       "id": "228261",
@@ -1701,7 +2124,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:28.473Z"
+      "scrapedAt": "2026-06-20T10:21:06.685Z"
     },
     {
       "id": "228260",
@@ -1807,7 +2230,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:30.641Z"
+      "scrapedAt": "2026-06-20T10:21:08.863Z"
     },
     {
       "id": "228258",
@@ -1913,7 +2336,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:32.851Z"
+      "scrapedAt": "2026-06-20T10:21:11.134Z"
     },
     {
       "id": "228259",
@@ -2019,7 +2442,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:34.976Z"
+      "scrapedAt": "2026-06-20T10:21:13.389Z"
     },
     {
       "id": "228257",
@@ -2125,7 +2548,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:37.165Z"
+      "scrapedAt": "2026-06-20T10:21:15.337Z"
     },
     {
       "id": "227629",
@@ -2231,7 +2654,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:39.270Z"
+      "scrapedAt": "2026-06-20T10:21:17.360Z"
     },
     {
       "id": "227613",
@@ -2332,7 +2755,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:41.359Z"
+      "scrapedAt": "2026-06-20T10:21:19.461Z"
     },
     {
       "id": "227612",
@@ -2433,7 +2856,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:43.410Z"
+      "scrapedAt": "2026-06-20T10:21:21.627Z"
     },
     {
       "id": "227611",
@@ -2534,7 +2957,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:45.517Z"
+      "scrapedAt": "2026-06-20T10:21:23.708Z"
     },
     {
       "id": "227610",
@@ -2635,7 +3058,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:47.711Z"
+      "scrapedAt": "2026-06-20T10:21:25.740Z"
     },
     {
       "id": "227608",
@@ -2736,7 +3159,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:49.757Z"
+      "scrapedAt": "2026-06-20T10:21:27.739Z"
     },
     {
       "id": "227609",
@@ -2837,7 +3260,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:51.866Z"
+      "scrapedAt": "2026-06-20T10:21:29.783Z"
     },
     {
       "id": "227607",
@@ -2938,7 +3361,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:54.087Z"
+      "scrapedAt": "2026-06-20T10:21:32.021Z"
     },
     {
       "id": "227603",
@@ -3039,7 +3462,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:56.118Z"
+      "scrapedAt": "2026-06-20T10:21:34.016Z"
     },
     {
       "id": "228054",
@@ -3145,7 +3568,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:54:58.232Z"
+      "scrapedAt": "2026-06-20T10:21:37.631Z"
     },
     {
       "id": "227964",
@@ -3236,7 +3659,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:00.436Z"
+      "scrapedAt": "2026-06-20T10:21:39.933Z"
     },
     {
       "id": "227963",
@@ -3327,7 +3750,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:02.533Z"
+      "scrapedAt": "2026-06-20T10:21:41.951Z"
     },
     {
       "id": "227959",
@@ -3418,7 +3841,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:04.738Z"
+      "scrapedAt": "2026-06-20T10:21:44.135Z"
     },
     {
       "id": "227863",
@@ -3525,7 +3948,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:06.783Z"
+      "scrapedAt": "2026-06-20T10:21:46.139Z"
     },
     {
       "id": "227864",
@@ -3629,7 +4052,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:08.871Z"
+      "scrapedAt": "2026-06-20T10:21:48.385Z"
     },
     {
       "id": "227768",
@@ -3734,7 +4157,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:11.058Z"
+      "scrapedAt": "2026-06-20T10:21:50.631Z"
     },
     {
       "id": "226286",
@@ -3839,7 +4262,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:13.239Z"
+      "scrapedAt": "2026-06-20T10:21:52.739Z"
     },
     {
       "id": "227663",
@@ -3945,7 +4368,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:15.803Z"
+      "scrapedAt": "2026-06-20T10:21:55.499Z"
     },
     {
       "id": "227662",
@@ -4051,7 +4474,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:18.475Z"
+      "scrapedAt": "2026-06-20T10:21:57.827Z"
     },
     {
       "id": "227661",
@@ -4157,7 +4580,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:20.837Z"
+      "scrapedAt": "2026-06-20T10:22:00.132Z"
     },
     {
       "id": "227660",
@@ -4263,7 +4686,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:23.228Z"
+      "scrapedAt": "2026-06-20T10:22:02.314Z"
     },
     {
       "id": "227659",
@@ -4369,7 +4792,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:25.552Z"
+      "scrapedAt": "2026-06-20T10:22:04.477Z"
     },
     {
       "id": "227656",
@@ -4475,7 +4898,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:27.729Z"
+      "scrapedAt": "2026-06-20T10:22:06.856Z"
     },
     {
       "id": "227578",
@@ -4570,7 +4993,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:30.061Z"
+      "scrapedAt": "2026-06-20T10:22:09.431Z"
     },
     {
       "id": "227577",
@@ -4665,7 +5088,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:32.313Z"
+      "scrapedAt": "2026-06-20T10:22:11.697Z"
     },
     {
       "id": "227576",
@@ -4760,7 +5183,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:34.623Z"
+      "scrapedAt": "2026-06-20T10:22:13.803Z"
     },
     {
       "id": "227575",
@@ -4855,7 +5278,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:36.999Z"
+      "scrapedAt": "2026-06-20T10:22:16.001Z"
     },
     {
       "id": "227574",
@@ -4950,7 +5373,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:39.371Z"
+      "scrapedAt": "2026-06-20T10:22:18.180Z"
     },
     {
       "id": "227572",
@@ -5045,387 +5468,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-19T21:55:41.677Z"
-    },
-    {
-      "id": "227571",
-      "title": "مسلسل Reign الموسم الرابع الحلقة 10 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reign-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=227571",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/epNfFs0gPyrpekecpzyX0XTkZgI-scaled-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "في الفصل الختامي من القصة، تبدأ ماري في التعرف على مقدار ولاء من حولها لها، مع اقتراب حرب الظفر بالعرش الإنجليزي من النهاية، فمن سيكتب له الانتصار في نهاية المطاف؟",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "تاريخي",
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adelaide Kane",
-          "Anna Popplewell",
-          "Caitlin Stasey",
-          "Celina Sinden"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reign-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-le82750bw2tw.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/le82750bw2tw.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ak7ifqkiq2hs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/581l3xbduru9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9704DC19EB3A9D9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/c240e645cf53fdb263db285c3d7a1714",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aflM",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Psau",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-19T21:55:44.075Z"
-    },
-    {
-      "id": "227570",
-      "title": "مسلسل Reign الموسم الرابع الحلقة 9 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reign-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=227570",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/epNfFs0gPyrpekecpzyX0XTkZgI-scaled-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "في الفصل الختامي من القصة، تبدأ ماري في التعرف على مقدار ولاء من حولها لها، مع اقتراب حرب الظفر بالعرش الإنجليزي من النهاية، فمن سيكتب له الانتصار في نهاية المطاف؟",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "تاريخي",
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adelaide Kane",
-          "Anna Popplewell",
-          "Caitlin Stasey",
-          "Celina Sinden"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reign-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-vx2yps8vlpsm.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/vx2yps8vlpsm.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/te7grsjsvoq8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/ffbwh02ict2r",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/36B6902177437F9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/0a7a8b2e8cc6647ee781b31ec2f5b866",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aflK",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Psas",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-19T21:55:46.443Z"
-    },
-    {
-      "id": "227569",
-      "title": "مسلسل Reign الموسم الرابع الحلقة 8 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reign-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=227569",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/epNfFs0gPyrpekecpzyX0XTkZgI-scaled-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "في الفصل الختامي من القصة، تبدأ ماري في التعرف على مقدار ولاء من حولها لها، مع اقتراب حرب الظفر بالعرش الإنجليزي من النهاية، فمن سيكتب له الانتصار في نهاية المطاف؟",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "تاريخي",
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adelaide Kane",
-          "Anna Popplewell",
-          "Caitlin Stasey",
-          "Celina Sinden"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reign-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-hghkhdh2m064.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/hghkhdh2m064.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/cs5s42n9kyna",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/4c55l7buyyi6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E783A397ABF82C4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ed3032db35b20badc166fc4491af140f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aflI",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Psaq",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-19T21:55:48.772Z"
-    },
-    {
-      "id": "227568",
-      "title": "مسلسل Reign الموسم الرابع الحلقة 7 مترجمة",
-      "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reign-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinemaa.com/?p=227568",
-      "image": "https://web.topcinemaa.com/wp-content/uploads/2026/06/epNfFs0gPyrpekecpzyX0XTkZgI-scaled-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "في الفصل الختامي من القصة، تبدأ ماري في التعرف على مقدار ولاء من حولها لها، مع اقتراب حرب الظفر بالعرش الإنجليزي من النهاية، فمن سيكتب له الانتصار في نهاية المطاف؟",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "تاريخي",
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adelaide Kane",
-          "Anna Popplewell",
-          "Caitlin Stasey",
-          "Celina Sinden"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reign-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-p5l1rj932ja5.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/p5l1rj932ja5.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/7kdg0143c81k",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/zf8ah1zie3yu",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/6F6B5E83428E969",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/8510c2ab348ceae865cf633514cbeab4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aflH",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Psao",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-19T21:55:50.987Z"
+      "scrapedAt": "2026-06-20T10:22:20.434Z"
     }
   ]
 }
