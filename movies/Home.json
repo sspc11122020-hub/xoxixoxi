@@ -2,8 +2,313 @@
   "fileName": "Home.json",
   "description": "أفلام الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalMovies": 60,
-  "lastUpdated": "2026-06-25T19:22:35.522Z",
+  "lastUpdated": "2026-06-26T11:21:11.894Z",
   "movies": [
+    {
+      "id": "214044",
+      "title": "فيلم Flavia 2026 مترجم اون لاين",
+      "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-flavia-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinemaa.cam/?p=214044",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/04/MV5BOGNhZmU0YTctMDYzYi00YWExLWE2MzgtOTU2ZjIyNzRkYmM4XkEyXkFqcGc@._V1_-scaled-457x650.jpg",
+      "imdbRating": "6.4",
+      "story": "يتبع العمل قصة (فلافيا دي لوس)، فتاة تبلغ من العمر 11 عامًا هاوية التحقيقات، التي تضطر إلى البحث في جريمة قتل وقعت في منزلها القديم، بعدما أصبح والدها مشتبَهًا به في ارتكابها.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "عائلي",
+          "كوميدي",
+          "مغامرة"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة الفيلم": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Annette Badland",
+          "Ariella Glaser",
+          "Davide Scalcon",
+          "Hannah New"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-flavia-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-dvh79t9y3dck.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/dvh79t9y3dck.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/tlfjvsejp6t5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/xduxbxze1376",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/itgtp0kofdsb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/828B401F875B054",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/61a794aee9b455773e0e20573b1a7f51",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/658u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rr9h",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:18:43.117Z"
+    },
+    {
+      "id": "217086",
+      "title": "فيلم They Will Kill You 2026 مترجم اون لاين",
+      "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-they-will-kill-you-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinemaa.cam/?p=217086",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/04/MV5BYjg5ZjQ0ZGQtMmY1NS00NTgyLTlkZWYtMDhlNzE3ZGY5ZDdmXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "6.5",
+      "story": "تعمل امرأة مدبّرة منزل في مبنى سكني كبير في نيويورك، دون أن تعلم بتاريخه الغامض المرتبط بحالات اختفاء متكرّرة. وسرعان ما تكتشف أن المجتمع القاطن في المبنى يحيط به الكثير من الأسرار.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "اكشن",
+          "رعب",
+          "كوميدي"
+        ],
+        "جودة الفيلم": [
+          "1080p BluRay"
+        ],
+        "توقيت الفيلم": "94 دقيقة",
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة الفيلم": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Armando Rivera",
+          "Chris van Rensburg",
+          "Darron Meyer",
+          "David Viviers"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-they-will-kill-you-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-k072s5lzkrsq.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/k072s5lzkrsq.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/7guaez52qp1k",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/395vgaa5gql5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/4eocqlwm4q92",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/25BC8BD6E53455C",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/df84798e74971404e1f15ddb406313b0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/657x",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vw84",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:18:45.624Z"
+    },
+    {
+      "id": "205876",
+      "title": "فيلم How to Make a Killing 2026 مترجم اون لاين",
+      "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-how-to-make-a-killing-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinemaa.cam/?p=205876",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/03/_640x_33f4ed1f373d055369bc2244ab1f46395683301a5fc1af7c143f7860450bc951-439x650.jpg",
+      "imdbRating": "6.7",
+      "story": "في إطار من الدراما والتشويق، وبعد حرمانه هو ووالدته من الميراث، يسعى (بيكيت ريدفيلو) لاستعادة ماله مهما كلف الأمر، والإطاحة بأي شخص أو قريب يقف في طريقه.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "اثارة",
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الفيلم": [
+          "1080p BluRay"
+        ],
+        "توقيت الفيلم": "105 دقيقة",
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة الفيلم": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Andre Jacobs",
+          "Bill Camp",
+          "Ed Harris",
+          "Gabe Gabriel"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-how-to-make-a-killing-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-w4qjbv9qjk1t.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/w4qjbv9qjk1t.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/qqrtpun5c5bv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/apk7l9x34gbr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E10F58EB73412D1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?q866da91ic7jkjl48h93",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/56f01196968c1cecbef7dffd4335691d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6522",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pyrc",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:18:48.497Z"
+    },
     {
       "id": "229591",
       "title": "فيلم Toy Story 5 2026 مترجم اون لاين",
@@ -111,7 +416,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:15.568Z"
+      "scrapedAt": "2026-06-26T11:18:51.065Z"
     },
     {
       "id": "229614",
@@ -218,7 +523,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:17.950Z"
+      "scrapedAt": "2026-06-26T11:18:53.518Z"
     },
     {
       "id": "229498",
@@ -375,7 +680,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:20.700Z"
+      "scrapedAt": "2026-06-26T11:18:56.100Z"
     },
     {
       "id": "228563",
@@ -483,7 +788,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:23.035Z"
+      "scrapedAt": "2026-06-26T11:18:58.417Z"
     },
     {
       "id": "229493",
@@ -579,7 +884,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:25.496Z"
+      "scrapedAt": "2026-06-26T11:19:00.746Z"
     },
     {
       "id": "229489",
@@ -675,7 +980,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:28.364Z"
+      "scrapedAt": "2026-06-26T11:19:02.916Z"
     },
     {
       "id": "229484",
@@ -777,7 +1082,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:30.726Z"
+      "scrapedAt": "2026-06-26T11:19:05.396Z"
     },
     {
       "id": "229480",
@@ -879,7 +1184,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:33.060Z"
+      "scrapedAt": "2026-06-26T11:19:07.972Z"
     },
     {
       "id": "229476",
@@ -979,7 +1284,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:35.796Z"
+      "scrapedAt": "2026-06-26T11:19:10.455Z"
     },
     {
       "id": "229471",
@@ -1081,7 +1386,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:38.040Z"
+      "scrapedAt": "2026-06-26T11:19:12.945Z"
     },
     {
       "id": "229466",
@@ -1178,7 +1483,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:40.398Z"
+      "scrapedAt": "2026-06-26T11:19:15.617Z"
     },
     {
       "id": "229369",
@@ -1278,7 +1583,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:42.628Z"
+      "scrapedAt": "2026-06-26T11:19:17.623Z"
     },
     {
       "id": "229034",
@@ -1374,7 +1679,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:44.848Z"
+      "scrapedAt": "2026-06-26T11:19:19.978Z"
     },
     {
       "id": "223472",
@@ -1470,7 +1775,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:46.943Z"
+      "scrapedAt": "2026-06-26T11:19:22.185Z"
     },
     {
       "id": "226428",
@@ -1566,7 +1871,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:49.166Z"
+      "scrapedAt": "2026-06-26T11:19:24.272Z"
     },
     {
       "id": "228648",
@@ -1663,7 +1968,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:51.729Z"
+      "scrapedAt": "2026-06-26T11:19:26.603Z"
     },
     {
       "id": "228644",
@@ -1763,7 +2068,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:53.946Z"
+      "scrapedAt": "2026-06-26T11:19:29.232Z"
     },
     {
       "id": "228536",
@@ -1868,7 +2173,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:56.549Z"
+      "scrapedAt": "2026-06-26T11:19:31.830Z"
     },
     {
       "id": "228537",
@@ -1976,7 +2281,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:58.891Z"
+      "scrapedAt": "2026-06-26T11:19:34.545Z"
     },
     {
       "id": "228253",
@@ -2074,7 +2379,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:01.465Z"
+      "scrapedAt": "2026-06-26T11:19:37.027Z"
     },
     {
       "id": "228231",
@@ -2182,7 +2487,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:03.682Z"
+      "scrapedAt": "2026-06-26T11:19:39.343Z"
     },
     {
       "id": "217631",
@@ -2284,7 +2589,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:05.899Z"
+      "scrapedAt": "2026-06-26T11:19:41.662Z"
     },
     {
       "id": "212887",
@@ -2387,7 +2692,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:08.122Z"
+      "scrapedAt": "2026-06-26T11:19:44.156Z"
     },
     {
       "id": "228311",
@@ -2489,7 +2794,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:10.326Z"
+      "scrapedAt": "2026-06-26T11:19:46.316Z"
     },
     {
       "id": "228288",
@@ -2588,7 +2893,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:12.590Z"
+      "scrapedAt": "2026-06-26T11:19:48.975Z"
     },
     {
       "id": "228285",
@@ -2680,7 +2985,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:14.913Z"
+      "scrapedAt": "2026-06-26T11:19:51.677Z"
     },
     {
       "id": "228280",
@@ -2782,7 +3087,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:17.234Z"
+      "scrapedAt": "2026-06-26T11:19:54.605Z"
     },
     {
       "id": "228276",
@@ -2882,7 +3187,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:19.450Z"
+      "scrapedAt": "2026-06-26T11:19:57.090Z"
     },
     {
       "id": "228266",
@@ -2981,7 +3286,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:21.686Z"
+      "scrapedAt": "2026-06-26T11:19:59.440Z"
     },
     {
       "id": "227890",
@@ -3081,7 +3386,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:23.890Z"
+      "scrapedAt": "2026-06-26T11:20:01.875Z"
     },
     {
       "id": "227886",
@@ -3178,7 +3483,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:26.167Z"
+      "scrapedAt": "2026-06-26T11:20:04.330Z"
     },
     {
       "id": "227786",
@@ -3286,7 +3591,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:28.370Z"
+      "scrapedAt": "2026-06-26T11:20:06.665Z"
     },
     {
       "id": "227782",
@@ -3394,7 +3699,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:30.739Z"
+      "scrapedAt": "2026-06-26T11:20:09.301Z"
     },
     {
       "id": "227699",
@@ -3496,7 +3801,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:33.161Z"
+      "scrapedAt": "2026-06-26T11:20:12.241Z"
     },
     {
       "id": "227385",
@@ -3596,7 +3901,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:35.463Z"
+      "scrapedAt": "2026-06-26T11:20:15.231Z"
     },
     {
       "id": "227381",
@@ -3694,7 +3999,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:37.665Z"
+      "scrapedAt": "2026-06-26T11:20:17.554Z"
     },
     {
       "id": "227204",
@@ -3787,7 +4092,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:40.014Z"
+      "scrapedAt": "2026-06-26T11:20:20.151Z"
     },
     {
       "id": "227233",
@@ -3892,7 +4197,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:42.338Z"
+      "scrapedAt": "2026-06-26T11:20:22.623Z"
     },
     {
       "id": "227229",
@@ -4000,7 +4305,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:44.742Z"
+      "scrapedAt": "2026-06-26T11:20:25.229Z"
     },
     {
       "id": "227225",
@@ -4107,7 +4412,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:47.108Z"
+      "scrapedAt": "2026-06-26T11:20:27.852Z"
     },
     {
       "id": "227220",
@@ -4214,7 +4519,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:49.324Z"
+      "scrapedAt": "2026-06-26T11:20:30.230Z"
     },
     {
       "id": "227216",
@@ -4321,7 +4626,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:51.992Z"
+      "scrapedAt": "2026-06-26T11:20:33.114Z"
     },
     {
       "id": "227212",
@@ -4426,7 +4731,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:54.351Z"
+      "scrapedAt": "2026-06-26T11:20:35.562Z"
     },
     {
       "id": "227208",
@@ -4532,7 +4837,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:56.682Z"
+      "scrapedAt": "2026-06-26T11:20:38.099Z"
     },
     {
       "id": "227043",
@@ -4628,7 +4933,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:59.068Z"
+      "scrapedAt": "2026-06-26T11:20:40.687Z"
     },
     {
       "id": "226991",
@@ -4714,7 +5019,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:01.431Z"
+      "scrapedAt": "2026-06-26T11:20:43.143Z"
     },
     {
       "id": "226992",
@@ -4804,7 +5109,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:03.797Z"
+      "scrapedAt": "2026-06-26T11:20:45.614Z"
     },
     {
       "id": "206389",
@@ -4899,7 +5204,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:06.403Z"
+      "scrapedAt": "2026-06-26T11:20:48.638Z"
     },
     {
       "id": "226961",
@@ -4992,7 +5297,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:08.607Z"
+      "scrapedAt": "2026-06-26T11:20:51.232Z"
     },
     {
       "id": "226558",
@@ -5094,7 +5399,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:10.832Z"
+      "scrapedAt": "2026-06-26T11:20:53.765Z"
     },
     {
       "id": "226575",
@@ -5191,7 +5496,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:13.043Z"
+      "scrapedAt": "2026-06-26T11:20:56.253Z"
     },
     {
       "id": "226571",
@@ -5293,7 +5598,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:15.663Z"
+      "scrapedAt": "2026-06-26T11:20:58.843Z"
     },
     {
       "id": "222857",
@@ -5392,7 +5697,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:17.875Z"
+      "scrapedAt": "2026-06-26T11:21:01.292Z"
     },
     {
       "id": "226440",
@@ -5491,7 +5796,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:20.505Z"
+      "scrapedAt": "2026-06-26T11:21:03.941Z"
     },
     {
       "id": "210599",
@@ -5593,7 +5898,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:22.712Z"
+      "scrapedAt": "2026-06-26T11:21:06.264Z"
     },
     {
       "id": "226430",
@@ -5688,7 +5993,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:24.905Z"
+      "scrapedAt": "2026-06-26T11:21:08.595Z"
     },
     {
       "id": "218186",
@@ -5790,313 +6095,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:22:27.117Z"
-    },
-    {
-      "id": "220007",
-      "title": "فيلم Mortal Kombat II 2026 مترجم اون لاين",
-      "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-mortal-kombat-ii-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinemaa.cam/?p=220007",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@-scaled-438x650.jpg",
-      "imdbRating": "7",
-      "story": "ينضم (جوني كيدج) إلى مجموعة من المحاربين المخضرمين، في سبيل مواجهة بعضهم البعض في معركة مصيرية تهدف لإسقاط حكم (شاو كان)، والذي يهدد مملكة الأرض وسكانها.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "اكشن",
-          "فانتازيا",
-          "مغامرة"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الفيلم": "116 دقيقة",
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة الفيلم": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adeline Rudolph",
-          "Damon Herriman",
-          "Hiroyuki Sanada",
-          "Jessica McNamee"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-mortal-kombat-ii-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-9m3viijo66hn.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/9m3viijo66hn.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ia06n3afl7cx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/lzk932plhkd3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/51627244CBC1F75",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/e4bca83567dea211e412814baea40fb4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6313",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1vp2p",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:29.322Z"
-    },
-    {
-      "id": "226010",
-      "title": "فيلم The Greek Aisle 2026 مترجم اون لاين",
-      "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-the-greek-aisle-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinemaa.cam/?p=226010",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/MV5BZWU1OTcyZjAtYzU0Zi00MzNhLThhMTItOTMzZTVlMzc0ODAxXkEyXkFqcGc@._V1_-scaled-433x650.jpg",
-      "imdbRating": null,
-      "story": "عندما تسافر جورجيا إلى جزيرة كورفو اليونانية لإنهاء إجراءات الميراث، تكتشف بشكل غير متوقع أن الزواج من شريكها الوسيم في الميراث هو الطريقة الوحيدة لتلبية المتطلبات.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "بطولة": [
-          "Apostolis Totsikas",
-          "Nikki Deloach"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-the-greek-aisle-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-bxyss8bqg5xx.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/bxyss8bqg5xx.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/59l0k8ifl0bw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/lfw8iw1ww82z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/zgshs2ikznl7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C26DA8D01513C58",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?wbh098kv7d4808w8v1ss",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6d05a01df8f66f9a5876e921d3955901",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r1zZ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bmdn",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:32.083Z"
-    },
-    {
-      "id": "225803",
-      "title": "فيلم Hateshinaki Scarlet 2025 مترجم اون لاين",
-      "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-hateshinaki-scarlet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinemaa.cam/?p=225803",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/MV5BMzIxNjYwZjctYzU4NS00OTJiLTg5YmItOTRiODRlOGQ2ODhmXkEyXkFqcGc@-scaled-438x650.jpg",
-      "imdbRating": "6.3",
-      "story": "بعد فشلها في الانتقام لمقتل والدها، تستيقظ الأميرة (سكارليت) في أرض الموتى وعالمها المليء بالجنون، وتتسلل عبر الزمان والمكان في رحلة السعي للحصول على فرصة انتقامية أخيرة.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام انمي"
-        ],
-        "نوع الفيلم": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الفيلم": "111 دقيقة",
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة الفيلم": [
-          "اليابان"
-        ],
-        "بطولة": [
-          "Kazuhiro Yamaji",
-          "Kôji Yakusho",
-          "Kôtarô Yoshida",
-          "Mana Ashida"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%81%d9%8a%d9%84%d9%85-hateshinaki-scarlet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-5ygnxrx74cua.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/5ygnxrx74cua.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/pmnb9ufhrwav",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/k26z6k399kfg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/tvtd4t1o9eh4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/55027533CB1E89D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?ljbytg94o0bymcopdkfc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/b8c0347ccfc4989599b1342dfa6ea88f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/er3A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Pr9b",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:34.521Z"
+      "scrapedAt": "2026-06-26T11:21:10.892Z"
     }
   ]
 }
