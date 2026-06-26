@@ -2,8 +2,1155 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-06-25T19:22:15.156Z",
+  "lastUpdated": "2026-06-26T11:21:06.620Z",
   "series": [
+    {
+      "id": "229799",
+      "title": "مسلسل The Bear الموسم الخامس الحلقة 8 والاخيرة مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229799",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/vE8rW5E8evCUKfZR4y8PvNrsU3-scaled-433x650.jpg",
+      "imdbRating": "8.5",
+      "story": "في إطار من الدراما والكوميديا، تدور أحداث المسلسل حول حياة طاهي صغير ينتقل من عالم الأكل الفاخر إلي إدارة متجر بيع الشطائر الجاهزة المملوك لأهله في مدينة شيكاغو.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Christopher Storer",
+          "Joanna Calo",
+          "Ramy Youssef"
+        ],
+        "بطولة": [
+          "Abby Elliott",
+          "Ayo Edebiri",
+          "Carmen Christopher",
+          "Chris Witaske"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-rvlr13i9rla1.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/rvlr13i9rla1.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/l95q3ngjswog",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/o1fwxepo7udt",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/o5465p114b9f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/8D50E823C4E6138",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/e73c8e296fc47a003bb3e8969e603c43",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhN",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfr",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:18:49.811Z"
+    },
+    {
+      "id": "229795",
+      "title": "مسلسل The Bear الموسم الخامس الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229795",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/vE8rW5E8evCUKfZR4y8PvNrsU3-scaled-433x650.jpg",
+      "imdbRating": "8.5",
+      "story": "في إطار من الدراما والكوميديا، تدور أحداث المسلسل حول حياة طاهي صغير ينتقل من عالم الأكل الفاخر إلي إدارة متجر بيع الشطائر الجاهزة المملوك لأهله في مدينة شيكاغو.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Christopher Storer",
+          "Joanna Calo",
+          "Ramy Youssef"
+        ],
+        "بطولة": [
+          "Abby Elliott",
+          "Ayo Edebiri",
+          "Carmen Christopher",
+          "Chris Witaske"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-lro0owavdqxo.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/lro0owavdqxo.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/shcb7b2ohaw6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ku3vwzemg83p",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/legwm3b9yhra",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E877F719682A70E",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/539142b00b1361ce54db772c042728da",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhM",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfo",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:18:52.356Z"
+    },
+    {
+      "id": "229797",
+      "title": "مسلسل The Bear الموسم الخامس الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229797",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/vE8rW5E8evCUKfZR4y8PvNrsU3-scaled-433x650.jpg",
+      "imdbRating": "8.5",
+      "story": "في إطار من الدراما والكوميديا، تدور أحداث المسلسل حول حياة طاهي صغير ينتقل من عالم الأكل الفاخر إلي إدارة متجر بيع الشطائر الجاهزة المملوك لأهله في مدينة شيكاغو.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Christopher Storer",
+          "Joanna Calo",
+          "Ramy Youssef"
+        ],
+        "بطولة": [
+          "Abby Elliott",
+          "Ayo Edebiri",
+          "Carmen Christopher",
+          "Chris Witaske"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-nwnmgkeoq411.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/nwnmgkeoq411.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/qz8jbnne0692",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/xf5cb4639h7p",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/ch8php3y9zyd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/019D4D8B6C4291F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/522e48f4c18d43a5804e19a261ddbbb9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhL",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfn",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:18:54.904Z"
+    },
+    {
+      "id": "229794",
+      "title": "مسلسل The Bear الموسم الخامس الحلقة 5 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229794",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/vE8rW5E8evCUKfZR4y8PvNrsU3-scaled-433x650.jpg",
+      "imdbRating": "8.5",
+      "story": "في إطار من الدراما والكوميديا، تدور أحداث المسلسل حول حياة طاهي صغير ينتقل من عالم الأكل الفاخر إلي إدارة متجر بيع الشطائر الجاهزة المملوك لأهله في مدينة شيكاغو.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Christopher Storer",
+          "Joanna Calo",
+          "Ramy Youssef"
+        ],
+        "بطولة": [
+          "Abby Elliott",
+          "Ayo Edebiri",
+          "Carmen Christopher",
+          "Chris Witaske"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-r6339pzg3n0m.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/r6339pzg3n0m.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/eokjpl0w25s0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/yfmnityvhb82",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/18xg3xph138x",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/BF816A2DB215348",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/004172c90b9bffbef3392905c2a42b86",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhJ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfl",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:18:57.362Z"
+    },
+    {
+      "id": "229796",
+      "title": "مسلسل The Bear الموسم الخامس الحلقة 4 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229796",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/vE8rW5E8evCUKfZR4y8PvNrsU3-scaled-433x650.jpg",
+      "imdbRating": "8.5",
+      "story": "في إطار من الدراما والكوميديا، تدور أحداث المسلسل حول حياة طاهي صغير ينتقل من عالم الأكل الفاخر إلي إدارة متجر بيع الشطائر الجاهزة المملوك لأهله في مدينة شيكاغو.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Christopher Storer",
+          "Joanna Calo",
+          "Ramy Youssef"
+        ],
+        "بطولة": [
+          "Abby Elliott",
+          "Ayo Edebiri",
+          "Carmen Christopher",
+          "Chris Witaske"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-wp2rv12j6q3h.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/wp2rv12j6q3h.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/vgkl47xy3rua",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/dm7bh73cc1bg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/4xfjbqnxfnh8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/326A57B932D9381",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/0de276b6fef4cc9e65e755af31b2e29c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhI",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfj",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:18:59.808Z"
+    },
+    {
+      "id": "229798",
+      "title": "مسلسل The Bear الموسم الخامس الحلقة 3 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229798",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/vE8rW5E8evCUKfZR4y8PvNrsU3-scaled-433x650.jpg",
+      "imdbRating": "8.5",
+      "story": "في إطار من الدراما والكوميديا، تدور أحداث المسلسل حول حياة طاهي صغير ينتقل من عالم الأكل الفاخر إلي إدارة متجر بيع الشطائر الجاهزة المملوك لأهله في مدينة شيكاغو.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Christopher Storer",
+          "Joanna Calo",
+          "Ramy Youssef"
+        ],
+        "بطولة": [
+          "Abby Elliott",
+          "Ayo Edebiri",
+          "Carmen Christopher",
+          "Chris Witaske"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-lbhvb1q39hy6.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/lbhvb1q39hy6.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/yqt4912t323g",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/euhnmrbq5uf1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/gsn9nfogirh0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E59ECEF3D003B7E",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/d05ceb194b4591550ee9386bc58f5c9e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhH",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfi",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:19:01.975Z"
+    },
+    {
+      "id": "229793",
+      "title": "مسلسل The Bear الموسم الخامس الحلقة 2 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229793",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/vE8rW5E8evCUKfZR4y8PvNrsU3-scaled-433x650.jpg",
+      "imdbRating": "8.5",
+      "story": "في إطار من الدراما والكوميديا، تدور أحداث المسلسل حول حياة طاهي صغير ينتقل من عالم الأكل الفاخر إلي إدارة متجر بيع الشطائر الجاهزة المملوك لأهله في مدينة شيكاغو.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Christopher Storer",
+          "Joanna Calo",
+          "Ramy Youssef"
+        ],
+        "بطولة": [
+          "Abby Elliott",
+          "Ayo Edebiri",
+          "Carmen Christopher",
+          "Chris Witaske"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-0asv50aqf1zt.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/0asv50aqf1zt.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/2hjxjyssdz6b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/af6zyliv9vhb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/w3otwi4k8wlx",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/75C7B6D2123B01B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a5cec7d8fd315a2db4f63eac5fe49bd8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhG",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfh",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:19:04.426Z"
+    },
+    {
+      "id": "229658",
+      "title": "مسلسل The Bear الموسم الخامس الحلقة 1 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229658",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/vE8rW5E8evCUKfZR4y8PvNrsU3-scaled-433x650.jpg",
+      "imdbRating": "8.5",
+      "story": "في إطار من الدراما والكوميديا، تدور أحداث المسلسل حول حياة طاهي صغير ينتقل من عالم الأكل الفاخر إلي إدارة متجر بيع الشطائر الجاهزة المملوك لأهله في مدينة شيكاغو.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Christopher Storer",
+          "Joanna Calo",
+          "Ramy Youssef"
+        ],
+        "بطولة": [
+          "Abby Elliott",
+          "Ayo Edebiri",
+          "Carmen Christopher",
+          "Chris Witaske"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-43yrocctoot2.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/43yrocctoot2.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/w9cxxm1au85j",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/utdjogma6mbi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/isp3uqsgp04k",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/F18C620C197C6CE",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2195100bd1d4fb898a0a103a46a328aa",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhF",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfg",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:19:06.628Z"
+    },
+    {
+      "id": "229782",
+      "title": "مسلسل Star City الموسم الاول الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-city-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229782",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/MV5BYTA0ZmE5ODQtNDYyZS00NTIzLWEzZTEtZDAwYjEzZmJkYjI2XkEyXkFqcGc@-scaled-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "يتبع العمل قصة روّاد فضاء ومهندسين وضباط استخبارات سوفييت يخاطرون بكل شيء ضمن برنامج فضائي طموح يهدف إلى أن يكون الأول في الوصول إلى القمر.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "خيال علمي",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adam Nagaitis",
+          "Agnes OCasey",
+          "Alice Englert",
+          "Anna Maxwell Martin"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-city-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-lux8uqydn4vo.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/lux8uqydn4vo.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/veij11x4q1tw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ajftv5csn22l",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/5z4i1sks07oa",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A0F4ABAF240D971",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/bf5d647b34f3659d9de6d2af6cfa1a28",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahhC",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfc",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:19:08.975Z"
+    },
+    {
+      "id": "229783",
+      "title": "مسلسل Cape Fear الموسم الاول الحلقة 5 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-cape-fear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229783",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/MV5BYmZkOTkxNjAtZDY2MS00NTM3LTgwYWItMmNhMzFjMTBlOGI5XkEyXkFqcGc@-scaled-366x650.jpg",
+      "imdbRating": null,
+      "story": "يتبع العمل قصة زوجين سعيدين في زواجهما يواجهان تهديدًا متصاعدًا عندما يُفرج عن قاتل سيئ السمعة من ماضيهما يُدعى (ماكس كادي)، والذي يسعى للانتقام منهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Aaron Kl",
+          "Amanda Dunn",
+          "Amy Adams",
+          "Anna Baryshnikov"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-cape-fear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-kkhunfepged5.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/kkhunfepged5.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/nnxipsjyqa0r",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/95a084ps9tp9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/lsbk2yovzwf6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/0F93F8B4C244CA3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/952ebb28ffe61916a806623edf1b5d9c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/658y",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vwfb",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:19:11.426Z"
+    },
+    {
+      "id": "229779",
+      "title": "مسلسل Sugar الموسم الثاني الحلقة 2 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-sugar-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229779",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/wCJtxNGBWY2Sg6YyrbLDsgGdZMq-scaled-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "في الموسم الثاني، يعود (شوجر) إلى لوس أنجلوس، حيث يتولى قضية جديدة تتعلق باختفاء شقيقة ملاكم، بينما يواصل بحثه الشخصي المستمر عن شقيقته المفقودة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Adam Arkin",
+          "Fernando Meirelles"
+        ],
+        "بطولة": [
+          "Alex Hernandez",
+          "Amy Ryan",
+          "Anna Gunn",
+          "Bernardo Badillo"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-sugar-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://vidtube.one/embed-ljkdb8yvpr2f.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/ljkdb8yvpr2f.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/1i9gkutce0mh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/woho53qugvas",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/irzdts8yc8yq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A9B0545AC77C0D5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2e853f763742bb87b58830b3474a175f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/658v",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2btH0",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-26T11:19:13.776Z"
+    },
     {
       "id": "228575",
       "title": "مسلسل Avatar: The Last Airbender 2024 الموسم الثاني الحلقة 7 والاخيرة مترجمة",
@@ -102,7 +1249,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:21.223Z"
+      "scrapedAt": "2026-06-26T11:19:17.084Z"
     },
     {
       "id": "228573",
@@ -202,7 +1349,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:23.309Z"
+      "scrapedAt": "2026-06-26T11:19:19.671Z"
     },
     {
       "id": "228574",
@@ -302,7 +1449,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:25.404Z"
+      "scrapedAt": "2026-06-26T11:19:21.966Z"
     },
     {
       "id": "228571",
@@ -408,7 +1555,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:27.834Z"
+      "scrapedAt": "2026-06-26T11:19:24.272Z"
     },
     {
       "id": "228572",
@@ -514,7 +1661,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:30.213Z"
+      "scrapedAt": "2026-06-26T11:19:26.583Z"
     },
     {
       "id": "229654",
@@ -620,7 +1767,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:32.260Z"
+      "scrapedAt": "2026-06-26T11:19:29.224Z"
     },
     {
       "id": "228570",
@@ -726,7 +1873,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:34.314Z"
+      "scrapedAt": "2026-06-26T11:19:31.540Z"
     },
     {
       "id": "228567",
@@ -832,7 +1979,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:36.464Z"
+      "scrapedAt": "2026-06-26T11:19:34.225Z"
     },
     {
       "id": "229653",
@@ -939,7 +2086,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:38.393Z"
+      "scrapedAt": "2026-06-26T11:19:36.523Z"
     },
     {
       "id": "229652",
@@ -1046,7 +2193,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:40.600Z"
+      "scrapedAt": "2026-06-26T11:19:38.816Z"
     },
     {
       "id": "229651",
@@ -1153,7 +2300,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:42.529Z"
+      "scrapedAt": "2026-06-26T11:19:41.119Z"
     },
     {
       "id": "229650",
@@ -1260,7 +2407,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:44.379Z"
+      "scrapedAt": "2026-06-26T11:19:43.499Z"
     },
     {
       "id": "229452",
@@ -1358,7 +2505,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:46.323Z"
+      "scrapedAt": "2026-06-26T11:19:45.804Z"
     },
     {
       "id": "229422",
@@ -1448,7 +2595,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:48.375Z"
+      "scrapedAt": "2026-06-26T11:19:48.565Z"
     },
     {
       "id": "229299",
@@ -1547,7 +2694,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:50.697Z"
+      "scrapedAt": "2026-06-26T11:19:50.858Z"
     },
     {
       "id": "229298",
@@ -1646,7 +2793,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:52.734Z"
+      "scrapedAt": "2026-06-26T11:19:53.250Z"
     },
     {
       "id": "228815",
@@ -1747,7 +2894,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:54.982Z"
+      "scrapedAt": "2026-06-26T11:19:55.984Z"
     },
     {
       "id": "227601",
@@ -1848,7 +2995,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:57.109Z"
+      "scrapedAt": "2026-06-26T11:19:58.395Z"
     },
     {
       "id": "228811",
@@ -1952,7 +3099,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:20:59.141Z"
+      "scrapedAt": "2026-06-26T11:20:01.273Z"
     },
     {
       "id": "227594",
@@ -2056,7 +3203,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:01.860Z"
+      "scrapedAt": "2026-06-26T11:20:03.868Z"
     },
     {
       "id": "229064",
@@ -2161,7 +3308,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:03.923Z"
+      "scrapedAt": "2026-06-26T11:20:06.210Z"
     },
     {
       "id": "229062",
@@ -2266,7 +3413,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:06.279Z"
+      "scrapedAt": "2026-06-26T11:20:08.775Z"
     },
     {
       "id": "229063",
@@ -2371,7 +3518,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:08.321Z"
+      "scrapedAt": "2026-06-26T11:20:11.732Z"
     },
     {
       "id": "229061",
@@ -2476,7 +3623,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:10.261Z"
+      "scrapedAt": "2026-06-26T11:20:14.159Z"
     },
     {
       "id": "228846",
@@ -2663,7 +3810,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:12.432Z"
+      "scrapedAt": "2026-06-26T11:20:16.463Z"
     },
     {
       "id": "229251",
@@ -2762,7 +3909,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:14.486Z"
+      "scrapedAt": "2026-06-26T11:20:19.838Z"
     },
     {
       "id": "229250",
@@ -2861,7 +4008,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:16.632Z"
+      "scrapedAt": "2026-06-26T11:20:22.379Z"
     },
     {
       "id": "229249",
@@ -2960,7 +4107,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:18.688Z"
+      "scrapedAt": "2026-06-26T11:20:24.979Z"
     },
     {
       "id": "229248",
@@ -3059,7 +4206,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:20.735Z"
+      "scrapedAt": "2026-06-26T11:20:27.575Z"
     },
     {
       "id": "229247",
@@ -3158,7 +4305,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:22.683Z"
+      "scrapedAt": "2026-06-26T11:20:30.512Z"
     },
     {
       "id": "229246",
@@ -3257,7 +4404,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:24.803Z"
+      "scrapedAt": "2026-06-26T11:20:33.275Z"
     },
     {
       "id": "229243",
@@ -3356,7 +4503,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:26.865Z"
+      "scrapedAt": "2026-06-26T11:20:35.996Z"
     },
     {
       "id": "229245",
@@ -3455,7 +4602,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:28.931Z"
+      "scrapedAt": "2026-06-26T11:20:38.788Z"
     },
     {
       "id": "229244",
@@ -3554,7 +4701,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:31.249Z"
+      "scrapedAt": "2026-06-26T11:20:41.320Z"
     },
     {
       "id": "229242",
@@ -3653,7 +4800,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:33.415Z"
+      "scrapedAt": "2026-06-26T11:20:43.874Z"
     },
     {
       "id": "229240",
@@ -3752,7 +4899,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:35.625Z"
+      "scrapedAt": "2026-06-26T11:20:46.410Z"
     },
     {
       "id": "229239",
@@ -3851,7 +4998,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:37.675Z"
+      "scrapedAt": "2026-06-26T11:20:49.039Z"
     },
     {
       "id": "229238",
@@ -3950,7 +5097,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:39.955Z"
+      "scrapedAt": "2026-06-26T11:20:52.034Z"
     },
     {
       "id": "229237",
@@ -3993,7 +5140,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-63ui4eumhmhq.html",
+          "url": "https://vidtube.one/embed-g096lsf68hz0.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4002,54 +5149,54 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/63ui4eumhmhq.html",
+          "url": "https://vidtube.one/d/g096lsf68hz0.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
         {
           "name": "1080p",
-          "url": "https://updown.cam/6388kuwk5aay",
+          "url": "https://updown.cam/by5b81dfc2aj",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://down.mdiaload.com/42183l5ynl6q",
+          "url": "https://down.mdiaload.com/9aomgmfa6628",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://ddownload.com/k0yq2yv1egim",
+          "url": "https://ddownload.com/axvamz3lo1dp",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://nitroflare.com/view/6BE2DE9D2325F99",
+          "url": "https://nitroflare.com/view/1D194713EDB2AC3",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://rapidgator.net/file/70ae6bc126c538f81c6c7284764b2148",
+          "url": "https://rapidgator.net/file/5b65e3e730ec097a1b488731f8659de0",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://koramaup.com/64bk",
+          "url": "https://koramaup.com/658x",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://1cloudfile.com/1vtoc",
+          "url": "https://1cloudfile.com/2btH3",
           "quality": "1080p",
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:41.987Z"
+      "scrapedAt": "2026-06-26T11:20:54.798Z"
     },
     {
       "id": "229236",
@@ -4148,7 +5295,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:44.021Z"
+      "scrapedAt": "2026-06-26T11:20:57.635Z"
     },
     {
       "id": "229234",
@@ -4247,7 +5394,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:46.047Z"
+      "scrapedAt": "2026-06-26T11:21:00.176Z"
     },
     {
       "id": "229235",
@@ -4346,7 +5493,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:48.100Z"
+      "scrapedAt": "2026-06-26T11:21:03.061Z"
     },
     {
       "id": "229233",
@@ -4445,1096 +5592,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-25T19:21:50.668Z"
-    },
-    {
-      "id": "229232",
-      "title": "مسلسل 30 Rock الموسم الثالث الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229232",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/eYYQWACx7ttUzRwTNYuo6zveqpE-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "تحاول (ليز ليمون) الكاتبة الرئيسية لأحد العروض التلفزيونية الشهيرة، التعامل مع مهام عملها، في ظل وجود مدير متعجرف، وممثلة غريبة الأطوار.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2008"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-4sl72m14quuz.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/4sl72m14quuz.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/rnjmcbjd4s5j",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/r3bjjfhuec63",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/w4xcqma4y1px",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/3165D192F4442F1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/a4aec80af97c5ec5afac60d5f935a888",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64be",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1vto5",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:21:52.724Z"
-    },
-    {
-      "id": "229231",
-      "title": "مسلسل 30 Rock الموسم الثالث الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229231",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/eYYQWACx7ttUzRwTNYuo6zveqpE-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "تحاول (ليز ليمون) الكاتبة الرئيسية لأحد العروض التلفزيونية الشهيرة، التعامل مع مهام عملها، في ظل وجود مدير متعجرف، وممثلة غريبة الأطوار.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2008"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-pvrbafrn59a3.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/pvrbafrn59a3.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/kbingc0htm5a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/jq3aogedld57",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/dlq3mhx8mast",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/A2245CE1E652222",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/85db1b011f21743b7e3c1b5ebf19b92a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64bd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1vto3",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:21:54.861Z"
-    },
-    {
-      "id": "229134",
-      "title": "مسلسل 30 Rock الموسم الثالث الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229134",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/eYYQWACx7ttUzRwTNYuo6zveqpE-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "تحاول (ليز ليمون) الكاتبة الرئيسية لأحد العروض التلفزيونية الشهيرة، التعامل مع مهام عملها، في ظل وجود مدير متعجرف، وممثلة غريبة الأطوار.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2008"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-77hyxkbpgxv2.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/77hyxkbpgxv2.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/1hmn87m2r67s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/a1ekm09vd2kg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/hkils0juxqy4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2899251016FB6E7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/4f90ef4e722d4dd26229935a64791f8f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64bc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1vto2",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:21:56.950Z"
-    },
-    {
-      "id": "229188",
-      "title": "مسلسل 30 Rock الموسم الثاني الحلقة 15 والاخيرة مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229188",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/uCgzHLleOdXD2nYZHKyJJdfVbWq-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "في الموسم الثاني، يذهب جيري سينفيلد الغاضب لمواجهة جاك، وتشتري ليز فستان زفاف، على الرغم من ضآلة احتمالات زواجها، وتجد جينا طريقة لاستغلال زيادة وزنها لصالحها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2007"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-1ywzxm090wmx.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/1ywzxm090wmx.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/1hw9zu6zphf8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/jn8x5jymq0q6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/u151avisf05s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/D7AF421D8C4432C",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ea72541d714d3ee93d3ad63a2fbad27f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64b9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2RoiC",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:21:59.891Z"
-    },
-    {
-      "id": "229187",
-      "title": "مسلسل 30 Rock الموسم الثاني الحلقة 14 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229187",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/uCgzHLleOdXD2nYZHKyJJdfVbWq-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "في الموسم الثاني، يذهب جيري سينفيلد الغاضب لمواجهة جاك، وتشتري ليز فستان زفاف، على الرغم من ضآلة احتمالات زواجها، وتجد جينا طريقة لاستغلال زيادة وزنها لصالحها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2007"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-po6tppdy6q5w.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/po6tppdy6q5w.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/pyfg5d2ynvid",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/rtjzfpkjj5ur",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/bja2hmw8eqhi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/8DAF5F7CFD606B0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/cf888f68f62fd897fad78817c31192d0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64b8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2RoiA",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:01.913Z"
-    },
-    {
-      "id": "229186",
-      "title": "مسلسل 30 Rock الموسم الثاني الحلقة 13 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229186",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/uCgzHLleOdXD2nYZHKyJJdfVbWq-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "في الموسم الثاني، يذهب جيري سينفيلد الغاضب لمواجهة جاك، وتشتري ليز فستان زفاف، على الرغم من ضآلة احتمالات زواجها، وتجد جينا طريقة لاستغلال زيادة وزنها لصالحها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2007"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-otku87o0uhxd.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/otku87o0uhxd.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/c72prng7mkir",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/m1v2s1p62z5y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/7dl80t6cka3z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/4C3F6D2BEF17137",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/414e93f92af538247948b8f74f4f12b0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64b7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Roiz",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:03.938Z"
-    },
-    {
-      "id": "229185",
-      "title": "مسلسل 30 Rock الموسم الثاني الحلقة 12 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229185",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/uCgzHLleOdXD2nYZHKyJJdfVbWq-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "في الموسم الثاني، يذهب جيري سينفيلد الغاضب لمواجهة جاك، وتشتري ليز فستان زفاف، على الرغم من ضآلة احتمالات زواجها، وتجد جينا طريقة لاستغلال زيادة وزنها لصالحها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2007"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-htvjlv48jtau.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/htvjlv48jtau.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/8hvbzijrli0v",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/2gty7qvlft8z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/y550sduqdu94",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/EF1CD5243777DEE",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3b587bec400372500acb2c87451204a1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64b5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Roix",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:05.959Z"
-    },
-    {
-      "id": "229168",
-      "title": "مسلسل 30 Rock الموسم الثاني الحلقة 11 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229168",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/uCgzHLleOdXD2nYZHKyJJdfVbWq-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "في الموسم الثاني، يذهب جيري سينفيلد الغاضب لمواجهة جاك، وتشتري ليز فستان زفاف، على الرغم من ضآلة احتمالات زواجها، وتجد جينا طريقة لاستغلال زيادة وزنها لصالحها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2007"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-zcalvyaik18f.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/zcalvyaik18f.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/bb45bsduajw3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/8pb1an4xkqzn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/1qlk4v8sfwah",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/85D6E7F49757493",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3a4bba497963f0bab4634c7dc10a10a9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64b4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Roiw",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:07.961Z"
-    },
-    {
-      "id": "229167",
-      "title": "مسلسل 30 Rock الموسم الثاني الحلقة 10 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229167",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/uCgzHLleOdXD2nYZHKyJJdfVbWq-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "في الموسم الثاني، يذهب جيري سينفيلد الغاضب لمواجهة جاك، وتشتري ليز فستان زفاف، على الرغم من ضآلة احتمالات زواجها، وتجد جينا طريقة لاستغلال زيادة وزنها لصالحها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2007"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-h13rgvttt4n4.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/h13rgvttt4n4.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/sy0jqkco8tqs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/d3xlpskllegw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/fx8jcd3gjtqr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/0237450C6A5AD8F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/596fd94104b8f9944d4436b89b66f50e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64b3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Roiv",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:10.136Z"
-    },
-    {
-      "id": "229166",
-      "title": "مسلسل 30 Rock الموسم الثاني الحلقة 9 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229166",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/uCgzHLleOdXD2nYZHKyJJdfVbWq-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "في الموسم الثاني، يذهب جيري سينفيلد الغاضب لمواجهة جاك، وتشتري ليز فستان زفاف، على الرغم من ضآلة احتمالات زواجها، وتجد جينا طريقة لاستغلال زيادة وزنها لصالحها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2007"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-1vpesshbfzp1.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/1vpesshbfzp1.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/jtns0qykmzq4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/h375tj2f2p8c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/vvtianly4o3a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/4EBFAD9E8A58BA8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/751f0dbf9c90ca09b5280e4e7b48c8bd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64b2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Roiu",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:12.133Z"
-    },
-    {
-      "id": "229162",
-      "title": "مسلسل 30 Rock الموسم الثاني الحلقة 8 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229162",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/uCgzHLleOdXD2nYZHKyJJdfVbWq-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "في الموسم الثاني، يذهب جيري سينفيلد الغاضب لمواجهة جاك، وتشتري ليز فستان زفاف، على الرغم من ضآلة احتمالات زواجها، وتجد جينا طريقة لاستغلال زيادة وزنها لصالحها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2007"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-hv5190juelk4.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/hv5190juelk4.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/d2s5p6epymjn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/qw8j49ssgciq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/m6gtt71llwy3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/AE3B58CFECF5D5F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/a63d59150b56b18a5bcaa5893c42d6f6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64b1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bqQ9",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-25T19:22:14.157Z"
+      "scrapedAt": "2026-06-26T11:21:05.619Z"
     }
   ]
 }
