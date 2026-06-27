@@ -2,8 +2,105 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-06-26T18:14:45.844Z",
+  "lastUpdated": "2026-06-27T09:21:36.890Z",
   "series": [
+    {
+      "id": "229781",
+      "title": "مسلسل Dutton Ranch الموسم الاول الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-dutton-ranch-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cam/?p=229781",
+      "image": "https://topcinemaa.cam/wp-content/uploads/2026/05/MV5BMzk0YTExY2EtYzI1NS00M2ZlLWFjOGUtMTQyMDY1MmE2ZGViXkEyXkFqcGc@-440x650.jpg",
+      "imdbRating": "8.1",
+      "story": "يكافح الزوجان (بيث داتون) و(ريب ويلر) من أجل البقاء على قيد الحياة في مزرعتهما العزيزة التي تبلغ مساحتها 7000 فدان وسط أوقات عصيبة ومنافسة شديدة، بينما يعملان على تربية ابنهما بالتبني، (كارتر)، ومواجهة تحديات عنيفة في بيئة جديدة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "ويسترن"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Annette Bening",
+          "Carrie Jeanne",
+          "Cole Hauser",
+          "Daniel Congleton"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-dutton-ranch-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-nhwc3c856j1u.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/nhwc3c856j1u.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/0hh53izjvbrc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ged0ukw4pfuf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/24g112u99ax5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/BB2DF7C77C16E9D",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a047887a77774c564aa305d4a8ed522b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ahmZ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pz13",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-06-27T09:19:19.096Z"
+    },
     {
       "id": "229655",
       "title": "مسلسل Welcome to Wrexham الموسم الخامس الحلقة 8 والاخيرة مترجمة",
@@ -50,7 +147,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-3chadyslttt3.html",
+          "url": "https://down.vidtube.one/embed-3chadyslttt3.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -59,7 +156,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/3chadyslttt3.html",
+          "url": "https://down.vidtube.one/d/3chadyslttt3.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -106,7 +203,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:41.089Z"
+      "scrapedAt": "2026-06-27T09:19:21.343Z"
     },
     {
       "id": "229780",
@@ -155,7 +252,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-zzq83mtxrys1.html",
+          "url": "https://down.vidtube.one/embed-zzq83mtxrys1.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -164,7 +261,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/zzq83mtxrys1.html",
+          "url": "https://down.vidtube.one/d/zzq83mtxrys1.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -211,7 +308,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:43.173Z"
+      "scrapedAt": "2026-06-27T09:19:23.568Z"
     },
     {
       "id": "229799",
@@ -260,7 +357,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-rvlr13i9rla1.html",
+          "url": "https://down.vidtube.one/embed-rvlr13i9rla1.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -269,7 +366,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/rvlr13i9rla1.html",
+          "url": "https://down.vidtube.one/d/rvlr13i9rla1.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -316,7 +413,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:45.618Z"
+      "scrapedAt": "2026-06-27T09:19:26.112Z"
     },
     {
       "id": "229795",
@@ -365,7 +462,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-lro0owavdqxo.html",
+          "url": "https://down.vidtube.one/embed-lro0owavdqxo.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -374,7 +471,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/lro0owavdqxo.html",
+          "url": "https://down.vidtube.one/d/lro0owavdqxo.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -421,7 +518,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:47.687Z"
+      "scrapedAt": "2026-06-27T09:19:28.316Z"
     },
     {
       "id": "229797",
@@ -470,7 +567,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-nwnmgkeoq411.html",
+          "url": "https://down.vidtube.one/embed-nwnmgkeoq411.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -479,7 +576,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/nwnmgkeoq411.html",
+          "url": "https://down.vidtube.one/d/nwnmgkeoq411.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -526,7 +623,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:49.719Z"
+      "scrapedAt": "2026-06-27T09:19:30.521Z"
     },
     {
       "id": "229794",
@@ -575,7 +672,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-r6339pzg3n0m.html",
+          "url": "https://down.vidtube.one/embed-r6339pzg3n0m.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -584,7 +681,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/r6339pzg3n0m.html",
+          "url": "https://down.vidtube.one/d/r6339pzg3n0m.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -631,7 +728,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:51.931Z"
+      "scrapedAt": "2026-06-27T09:19:32.734Z"
     },
     {
       "id": "229796",
@@ -680,7 +777,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-wp2rv12j6q3h.html",
+          "url": "https://down.vidtube.one/embed-wp2rv12j6q3h.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -689,7 +786,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/wp2rv12j6q3h.html",
+          "url": "https://down.vidtube.one/d/wp2rv12j6q3h.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -736,7 +833,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:54.037Z"
+      "scrapedAt": "2026-06-27T09:19:34.942Z"
     },
     {
       "id": "229798",
@@ -785,7 +882,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-lbhvb1q39hy6.html",
+          "url": "https://down.vidtube.one/embed-lbhvb1q39hy6.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -794,7 +891,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/lbhvb1q39hy6.html",
+          "url": "https://down.vidtube.one/d/lbhvb1q39hy6.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -841,7 +938,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:56.063Z"
+      "scrapedAt": "2026-06-27T09:19:37.141Z"
     },
     {
       "id": "229793",
@@ -890,7 +987,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-0asv50aqf1zt.html",
+          "url": "https://down.vidtube.one/embed-0asv50aqf1zt.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -899,7 +996,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/0asv50aqf1zt.html",
+          "url": "https://down.vidtube.one/d/0asv50aqf1zt.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -946,7 +1043,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:12:58.543Z"
+      "scrapedAt": "2026-06-27T09:19:39.352Z"
     },
     {
       "id": "229658",
@@ -995,7 +1092,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-43yrocctoot2.html",
+          "url": "https://down.vidtube.one/embed-43yrocctoot2.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1004,7 +1101,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/43yrocctoot2.html",
+          "url": "https://down.vidtube.one/d/43yrocctoot2.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1051,7 +1148,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:00.586Z"
+      "scrapedAt": "2026-06-27T09:19:41.727Z"
     },
     {
       "id": "229782",
@@ -1095,7 +1192,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-lux8uqydn4vo.html",
+          "url": "https://down.vidtube.one/embed-lux8uqydn4vo.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1104,7 +1201,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/lux8uqydn4vo.html",
+          "url": "https://down.vidtube.one/d/lux8uqydn4vo.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1151,7 +1248,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:02.782Z"
+      "scrapedAt": "2026-06-27T09:19:44.257Z"
     },
     {
       "id": "229783",
@@ -1196,7 +1293,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-kkhunfepged5.html",
+          "url": "https://down.vidtube.one/embed-kkhunfepged5.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1205,7 +1302,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/kkhunfepged5.html",
+          "url": "https://down.vidtube.one/d/kkhunfepged5.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1252,7 +1349,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:04.859Z"
+      "scrapedAt": "2026-06-27T09:19:46.614Z"
     },
     {
       "id": "229779",
@@ -1302,7 +1399,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-ljkdb8yvpr2f.html",
+          "url": "https://down.vidtube.one/embed-ljkdb8yvpr2f.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1311,7 +1408,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/ljkdb8yvpr2f.html",
+          "url": "https://down.vidtube.one/d/ljkdb8yvpr2f.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1358,7 +1455,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:07.218Z"
+      "scrapedAt": "2026-06-27T09:19:48.978Z"
     },
     {
       "id": "228575",
@@ -1408,7 +1505,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-hbnlv6xxj7s1.html",
+          "url": "https://down.vidtube.one/embed-hbnlv6xxj7s1.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1417,7 +1514,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/hbnlv6xxj7s1.html",
+          "url": "https://down.vidtube.one/d/hbnlv6xxj7s1.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1458,7 +1555,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:09.608Z"
+      "scrapedAt": "2026-06-27T09:19:51.993Z"
     },
     {
       "id": "228573",
@@ -1508,7 +1605,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-vosh4vs8mylo.html",
+          "url": "https://down.vidtube.one/embed-vosh4vs8mylo.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1517,7 +1614,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/vosh4vs8mylo.html",
+          "url": "https://down.vidtube.one/d/vosh4vs8mylo.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1558,7 +1655,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:11.726Z"
+      "scrapedAt": "2026-06-27T09:19:54.525Z"
     },
     {
       "id": "228574",
@@ -1608,7 +1705,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-lkxankyql86g.html",
+          "url": "https://down.vidtube.one/embed-lkxankyql86g.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1617,7 +1714,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/lkxankyql86g.html",
+          "url": "https://down.vidtube.one/d/lkxankyql86g.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1658,7 +1755,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:13.769Z"
+      "scrapedAt": "2026-06-27T09:19:56.904Z"
     },
     {
       "id": "228571",
@@ -1708,7 +1805,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-6sh01et2jy4f.html",
+          "url": "https://down.vidtube.one/embed-6sh01et2jy4f.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1717,7 +1814,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/6sh01et2jy4f.html",
+          "url": "https://down.vidtube.one/d/6sh01et2jy4f.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1764,7 +1861,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:15.808Z"
+      "scrapedAt": "2026-06-27T09:19:59.274Z"
     },
     {
       "id": "228572",
@@ -1814,7 +1911,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-k1dcg755248k.html",
+          "url": "https://down.vidtube.one/embed-k1dcg755248k.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1823,7 +1920,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/k1dcg755248k.html",
+          "url": "https://down.vidtube.one/d/k1dcg755248k.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -1870,7 +1967,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:18.367Z"
+      "scrapedAt": "2026-06-27T09:20:01.824Z"
     },
     {
       "id": "229654",
@@ -1920,7 +2017,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-sawg17q35odp.html",
+          "url": "https://down.vidtube.one/embed-v24k1iz86bci.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1929,54 +2026,54 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/sawg17q35odp.html",
+          "url": "https://down.vidtube.one/d/v24k1iz86bci.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
         {
           "name": "1080p",
-          "url": "https://updown.cam/nk6t5pc0rnw7",
+          "url": "https://updown.cam/zdgcwcq6k7jx",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://down.mdiaload.com/2dx7373ly1no",
+          "url": "https://down.mdiaload.com/xmfhh8hp4wvb",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://ddownload.com/7vz1cv5y9txj",
+          "url": "https://ddownload.com/l8cu40ejakvg",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://nitroflare.com/view/DCC203382FC329E",
+          "url": "https://nitroflare.com/view/9800E72099CB13F",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://rapidgator.net/file/eff2047ef4ddb80339e27d5c1f26b11b",
+          "url": "https://rapidgator.net/file/34c75a26f5f276af9255e3dde5fc2d52",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://koramaup.com/654l",
+          "url": "https://koramaup.com/ahpP",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://1cloudfile.com/Pyzm",
+          "url": "https://1cloudfile.com/Pz6a",
           "quality": "1080p",
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:21.958Z"
+      "scrapedAt": "2026-06-27T09:20:04.714Z"
     },
     {
       "id": "228570",
@@ -2026,7 +2123,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-cil2cdwa0e1c.html",
+          "url": "https://down.vidtube.one/embed-cil2cdwa0e1c.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2035,7 +2132,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/cil2cdwa0e1c.html",
+          "url": "https://down.vidtube.one/d/cil2cdwa0e1c.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2082,7 +2179,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:24.004Z"
+      "scrapedAt": "2026-06-27T09:20:07.087Z"
     },
     {
       "id": "228567",
@@ -2132,7 +2229,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-i1v27628b4ez.html",
+          "url": "https://down.vidtube.one/embed-i1v27628b4ez.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2141,7 +2238,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/i1v27628b4ez.html",
+          "url": "https://down.vidtube.one/d/i1v27628b4ez.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2188,7 +2285,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:26.494Z"
+      "scrapedAt": "2026-06-27T09:20:09.457Z"
     },
     {
       "id": "229653",
@@ -2233,7 +2330,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-1fb5eexp6saj.html",
+          "url": "https://down.vidtube.one/embed-1fb5eexp6saj.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2242,7 +2339,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/1fb5eexp6saj.html",
+          "url": "https://down.vidtube.one/d/1fb5eexp6saj.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2295,7 +2392,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:29.230Z"
+      "scrapedAt": "2026-06-27T09:20:12.356Z"
     },
     {
       "id": "229652",
@@ -2340,7 +2437,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-dm1sbhm8obsx.html",
+          "url": "https://down.vidtube.one/embed-dm1sbhm8obsx.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2349,7 +2446,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/dm1sbhm8obsx.html",
+          "url": "https://down.vidtube.one/d/dm1sbhm8obsx.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2402,7 +2499,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:31.930Z"
+      "scrapedAt": "2026-06-27T09:20:15.131Z"
     },
     {
       "id": "229651",
@@ -2447,7 +2544,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-ur75itffojtp.html",
+          "url": "https://down.vidtube.one/embed-ur75itffojtp.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2456,7 +2553,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/ur75itffojtp.html",
+          "url": "https://down.vidtube.one/d/ur75itffojtp.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2509,7 +2606,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:34.595Z"
+      "scrapedAt": "2026-06-27T09:20:17.630Z"
     },
     {
       "id": "229650",
@@ -2554,7 +2651,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-4du0tsbmxg4f.html",
+          "url": "https://down.vidtube.one/embed-4du0tsbmxg4f.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2563,7 +2660,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/4du0tsbmxg4f.html",
+          "url": "https://down.vidtube.one/d/4du0tsbmxg4f.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2616,7 +2713,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:36.950Z"
+      "scrapedAt": "2026-06-27T09:20:20.283Z"
     },
     {
       "id": "229452",
@@ -2658,7 +2755,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-r9xdd5a067ro.html",
+          "url": "https://down.vidtube.one/embed-r9xdd5a067ro.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2667,7 +2764,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/r9xdd5a067ro.html",
+          "url": "https://down.vidtube.one/d/r9xdd5a067ro.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2714,7 +2811,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:39.332Z"
+      "scrapedAt": "2026-06-27T09:20:23.033Z"
     },
     {
       "id": "229422",
@@ -2748,7 +2845,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-n2vj68jt78rc.html",
+          "url": "https://down.vidtube.one/embed-n2vj68jt78rc.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2757,7 +2854,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/n2vj68jt78rc.html",
+          "url": "https://down.vidtube.one/d/n2vj68jt78rc.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2804,7 +2901,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:41.620Z"
+      "scrapedAt": "2026-06-27T09:20:25.783Z"
     },
     {
       "id": "229299",
@@ -2847,7 +2944,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-cbdg7zwsj6g5.html",
+          "url": "https://down.vidtube.one/embed-cbdg7zwsj6g5.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2856,7 +2953,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/cbdg7zwsj6g5.html",
+          "url": "https://down.vidtube.one/d/cbdg7zwsj6g5.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -2903,7 +3000,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:43.819Z"
+      "scrapedAt": "2026-06-27T09:20:28.489Z"
     },
     {
       "id": "229298",
@@ -2946,7 +3043,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-x905ak3th2xp.html",
+          "url": "https://down.vidtube.one/embed-x905ak3th2xp.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -2955,7 +3052,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/x905ak3th2xp.html",
+          "url": "https://down.vidtube.one/d/x905ak3th2xp.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3002,7 +3099,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:46.326Z"
+      "scrapedAt": "2026-06-27T09:20:30.949Z"
     },
     {
       "id": "228815",
@@ -3047,7 +3144,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-ic0nj3sn6bqd.html",
+          "url": "https://down.vidtube.one/embed-ic0nj3sn6bqd.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3056,7 +3153,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/ic0nj3sn6bqd.html",
+          "url": "https://down.vidtube.one/d/ic0nj3sn6bqd.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3103,7 +3200,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:49.178Z"
+      "scrapedAt": "2026-06-27T09:20:33.478Z"
     },
     {
       "id": "227601",
@@ -3148,7 +3245,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-77n6gkl9g2wd.html",
+          "url": "https://down.vidtube.one/embed-77n6gkl9g2wd.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3157,7 +3254,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/77n6gkl9g2wd.html",
+          "url": "https://down.vidtube.one/d/77n6gkl9g2wd.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3204,7 +3301,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:51.204Z"
+      "scrapedAt": "2026-06-27T09:20:35.863Z"
     },
     {
       "id": "228811",
@@ -3252,7 +3349,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-xoyu4cxiojzd.html",
+          "url": "https://down.vidtube.one/embed-xoyu4cxiojzd.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3261,7 +3358,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/xoyu4cxiojzd.html",
+          "url": "https://down.vidtube.one/d/xoyu4cxiojzd.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3308,7 +3405,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:53.562Z"
+      "scrapedAt": "2026-06-27T09:20:38.766Z"
     },
     {
       "id": "227594",
@@ -3356,7 +3453,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-roowoi9v2r2m.html",
+          "url": "https://down.vidtube.one/embed-roowoi9v2r2m.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3365,7 +3462,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/roowoi9v2r2m.html",
+          "url": "https://down.vidtube.one/d/roowoi9v2r2m.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3412,7 +3509,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:55.993Z"
+      "scrapedAt": "2026-06-27T09:20:41.235Z"
     },
     {
       "id": "229064",
@@ -3461,7 +3558,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-nrjicu4hh7tz.html",
+          "url": "https://down.vidtube.one/embed-nrjicu4hh7tz.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3470,7 +3567,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/nrjicu4hh7tz.html",
+          "url": "https://down.vidtube.one/d/nrjicu4hh7tz.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3517,7 +3614,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:13:58.075Z"
+      "scrapedAt": "2026-06-27T09:20:43.767Z"
     },
     {
       "id": "229062",
@@ -3566,7 +3663,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-qdcup1ctmlxs.html",
+          "url": "https://down.vidtube.one/embed-qdcup1ctmlxs.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3575,7 +3672,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/qdcup1ctmlxs.html",
+          "url": "https://down.vidtube.one/d/qdcup1ctmlxs.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3622,7 +3719,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:00.395Z"
+      "scrapedAt": "2026-06-27T09:20:46.527Z"
     },
     {
       "id": "229063",
@@ -3671,7 +3768,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-um262sxiadao.html",
+          "url": "https://down.vidtube.one/embed-um262sxiadao.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3680,7 +3777,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/um262sxiadao.html",
+          "url": "https://down.vidtube.one/d/um262sxiadao.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3727,7 +3824,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:02.427Z"
+      "scrapedAt": "2026-06-27T09:20:49.062Z"
     },
     {
       "id": "229061",
@@ -3776,7 +3873,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-qys4hp6dqbl1.html",
+          "url": "https://down.vidtube.one/embed-qys4hp6dqbl1.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3785,7 +3882,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/qys4hp6dqbl1.html",
+          "url": "https://down.vidtube.one/d/qys4hp6dqbl1.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -3832,7 +3929,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:04.703Z"
+      "scrapedAt": "2026-06-27T09:20:51.429Z"
     },
     {
       "id": "228846",
@@ -3879,7 +3976,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-p0nnc9n7frz2.html",
+          "url": "https://down.vidtube.one/embed-p0nnc9n7frz2.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -3888,7 +3985,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/p0nnc9n7frz2.html",
+          "url": "https://down.vidtube.one/d/p0nnc9n7frz2.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4019,7 +4116,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:06.743Z"
+      "scrapedAt": "2026-06-27T09:20:53.958Z"
     },
     {
       "id": "229251",
@@ -4062,7 +4159,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-53600xx03imp.html",
+          "url": "https://down.vidtube.one/embed-53600xx03imp.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4071,7 +4168,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/53600xx03imp.html",
+          "url": "https://down.vidtube.one/d/53600xx03imp.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4118,7 +4215,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:09.195Z"
+      "scrapedAt": "2026-06-27T09:20:56.840Z"
     },
     {
       "id": "229250",
@@ -4161,7 +4258,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-akrvgwg3g56x.html",
+          "url": "https://down.vidtube.one/embed-akrvgwg3g56x.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4170,7 +4267,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/akrvgwg3g56x.html",
+          "url": "https://down.vidtube.one/d/akrvgwg3g56x.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4217,7 +4314,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:11.980Z"
+      "scrapedAt": "2026-06-27T09:21:00.012Z"
     },
     {
       "id": "229249",
@@ -4260,7 +4357,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-98k72uxxtncd.html",
+          "url": "https://down.vidtube.one/embed-98k72uxxtncd.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4269,7 +4366,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/98k72uxxtncd.html",
+          "url": "https://down.vidtube.one/d/98k72uxxtncd.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4316,7 +4413,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:14.452Z"
+      "scrapedAt": "2026-06-27T09:21:02.819Z"
     },
     {
       "id": "229248",
@@ -4359,7 +4456,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-6f75n94z0n2r.html",
+          "url": "https://down.vidtube.one/embed-6f75n94z0n2r.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4368,7 +4465,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/6f75n94z0n2r.html",
+          "url": "https://down.vidtube.one/d/6f75n94z0n2r.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4415,7 +4512,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:16.645Z"
+      "scrapedAt": "2026-06-27T09:21:05.598Z"
     },
     {
       "id": "229247",
@@ -4458,7 +4555,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-5l7n0prifpvc.html",
+          "url": "https://down.vidtube.one/embed-5l7n0prifpvc.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4467,7 +4564,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/5l7n0prifpvc.html",
+          "url": "https://down.vidtube.one/d/5l7n0prifpvc.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4514,7 +4611,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:19.159Z"
+      "scrapedAt": "2026-06-27T09:21:08.394Z"
     },
     {
       "id": "229246",
@@ -4557,7 +4654,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-g8z61blhr9fk.html",
+          "url": "https://down.vidtube.one/embed-g8z61blhr9fk.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4566,7 +4663,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/g8z61blhr9fk.html",
+          "url": "https://down.vidtube.one/d/g8z61blhr9fk.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4613,7 +4710,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:21.466Z"
+      "scrapedAt": "2026-06-27T09:21:11.170Z"
     },
     {
       "id": "229243",
@@ -4656,7 +4753,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-wazno45dn1hz.html",
+          "url": "https://down.vidtube.one/embed-wazno45dn1hz.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4665,7 +4762,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/wazno45dn1hz.html",
+          "url": "https://down.vidtube.one/d/wazno45dn1hz.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4712,7 +4809,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:23.975Z"
+      "scrapedAt": "2026-06-27T09:21:13.958Z"
     },
     {
       "id": "229245",
@@ -4755,7 +4852,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-wvxyjhgkjyp3.html",
+          "url": "https://down.vidtube.one/embed-wvxyjhgkjyp3.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4764,7 +4861,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/wvxyjhgkjyp3.html",
+          "url": "https://down.vidtube.one/d/wvxyjhgkjyp3.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4811,7 +4908,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:26.291Z"
+      "scrapedAt": "2026-06-27T09:21:16.739Z"
     },
     {
       "id": "229244",
@@ -4854,7 +4951,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-9vj9ap0coxr4.html",
+          "url": "https://down.vidtube.one/embed-9vj9ap0coxr4.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4863,7 +4960,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/9vj9ap0coxr4.html",
+          "url": "https://down.vidtube.one/d/9vj9ap0coxr4.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -4910,7 +5007,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:28.581Z"
+      "scrapedAt": "2026-06-27T09:21:19.531Z"
     },
     {
       "id": "229242",
@@ -4953,7 +5050,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-1b6zk886rp37.html",
+          "url": "https://down.vidtube.one/embed-1b6zk886rp37.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -4962,7 +5059,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/1b6zk886rp37.html",
+          "url": "https://down.vidtube.one/d/1b6zk886rp37.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -5009,7 +5106,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:30.783Z"
+      "scrapedAt": "2026-06-27T09:21:22.142Z"
     },
     {
       "id": "229240",
@@ -5052,7 +5149,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-1o2anmocpyhl.html",
+          "url": "https://down.vidtube.one/embed-1o2anmocpyhl.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -5061,7 +5158,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/1o2anmocpyhl.html",
+          "url": "https://down.vidtube.one/d/1o2anmocpyhl.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -5108,7 +5205,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:33.106Z"
+      "scrapedAt": "2026-06-27T09:21:24.767Z"
     },
     {
       "id": "229239",
@@ -5151,7 +5248,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-6n4gj4xpvc25.html",
+          "url": "https://down.vidtube.one/embed-6n4gj4xpvc25.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -5160,7 +5257,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/6n4gj4xpvc25.html",
+          "url": "https://down.vidtube.one/d/6n4gj4xpvc25.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -5207,7 +5304,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:35.346Z"
+      "scrapedAt": "2026-06-27T09:21:27.396Z"
     },
     {
       "id": "229238",
@@ -5250,7 +5347,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-xdcd25i31u8w.html",
+          "url": "https://down.vidtube.one/embed-xdcd25i31u8w.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -5259,7 +5356,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/xdcd25i31u8w.html",
+          "url": "https://down.vidtube.one/d/xdcd25i31u8w.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -5306,7 +5403,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:37.564Z"
+      "scrapedAt": "2026-06-27T09:21:30.459Z"
     },
     {
       "id": "229237",
@@ -5349,7 +5446,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-g096lsf68hz0.html",
+          "url": "https://down.vidtube.one/embed-g096lsf68hz0.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -5358,7 +5455,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/g096lsf68hz0.html",
+          "url": "https://down.vidtube.one/d/g096lsf68hz0.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -5405,7 +5502,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:40.055Z"
+      "scrapedAt": "2026-06-27T09:21:33.179Z"
     },
     {
       "id": "229236",
@@ -5448,7 +5545,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-7oupqf3mjeo2.html",
+          "url": "https://down.vidtube.one/embed-7oupqf3mjeo2.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -5457,7 +5554,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/7oupqf3mjeo2.html",
+          "url": "https://down.vidtube.one/d/7oupqf3mjeo2.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
@@ -5504,106 +5601,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-06-26T18:14:42.268Z"
-    },
-    {
-      "id": "229234",
-      "title": "مسلسل 30 Rock الموسم الثالث الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cam/?p=229234",
-      "image": "https://topcinemaa.cam/wp-content/uploads/2026/06/eYYQWACx7ttUzRwTNYuo6zveqpE-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "تحاول (ليز ليمون) الكاتبة الرئيسية لأحد العروض التلفزيونية الشهيرة، التعامل مع مهام عملها، في ظل وجود مدير متعجرف، وممثلة غريبة الأطوار.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2008"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alec Baldwin",
-          "Jack McBrayer",
-          "Jane Krakowski",
-          "Judah Friedlander"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cam/%d9%85%d8%b3%d9%84%d8%b3%d9%84-30-rock-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://vidtube.one/embed-w2fzf50xa9tb.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/w2fzf50xa9tb.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/0mdfkcl2m1a9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/h0e0jsm24h4f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/8pk0u7vhx64f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/BEDC0678D9D6E10",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/a7503f82e96794c88a4df31da696d2ef",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/64bi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1vtoa",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-06-26T18:14:44.843Z"
+      "scrapedAt": "2026-06-27T09:21:35.891Z"
     }
   ]
 }
