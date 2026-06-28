@@ -1,32 +1,6 @@
 [
   {
     "id": 1,
-    "team1": "الأردن",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e7d038b.png",
-    "team2": "الأرجنتين",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e7d73f2.png",
-    "time": "5:00 AM",
-    "status": "بعد قليل",
-    "channel": "بي إن سبورت (قناة جديدة مجانية)",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
-  },
-  {
-    "id": 2,
-    "team1": "الجزائر",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e9aa540.png",
-    "team2": "النمسا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e9b0b51.png",
-    "time": "5:00 AM",
-    "status": "بعد قليل",
-    "channel": "beIN Max 1",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": ""
-  },
-  {
-    "id": 3,
     "team1": "جنوب أفريقيا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64eb351c3.png",
     "team2": "كندا",
@@ -36,10 +10,10 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
+    "stream": "https://75cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
-    "id": 4,
+    "id": 2,
     "team1": "بنما",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3df0cc8b73f.png",
     "team2": "إنجلترا",
@@ -49,10 +23,10 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
+    "stream": "https://75cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
-    "id": 5,
+    "id": 3,
     "team1": "كرواتيا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3df0cd79ef4.png",
     "team2": "غانا",
@@ -62,10 +36,10 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": ""
+    "stream": "https://75cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
   },
   {
-    "id": 6,
+    "id": 4,
     "team1": "كولومبيا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e383afb.png",
     "team2": "البرتغال",
@@ -78,7 +52,7 @@
     "stream": "https://69cup.s3.us-east-2.amazonaws.com/max3/master.m3u8"
   },
   {
-    "id": 7,
+    "id": 5,
     "team1": "الكونغو",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e56f0aa.png",
     "team2": "أوزبكستان",
@@ -88,6 +62,32 @@
     "channel": "beIN Max 4",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax4/",
-    "stream": ""
+    "stream": "https://69cup.s3.us-east-2.amazonaws.com/max4/master.m3u8"
+  },
+  {
+    "id": 6,
+    "team1": "الأردن",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e7d038b.png",
+    "team2": "الأرجنتين",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e7d73f2.png",
+    "time": "5:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت (قناة جديدة مجانية)",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
+    "stream": "https://75cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+  },
+  {
+    "id": 7,
+    "team1": "الجزائر",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e9aa540.png",
+    "team2": "النمسا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3f64e9b0b51.png",
+    "time": "5:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 1",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": "https://75cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   }
 ]
