@@ -1,19 +1,6 @@
 [
   {
     "id": 1,
-    "team1": "فرنسا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a4191186be15.png",
-    "team2": "السويد",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a41911873f0f.png",
-    "time": "12:00 AM",
-    "status": "جارية الآن",
-    "channel": "beIN Max 2",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://77cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
-  },
-  {
-    "id": 2,
     "team1": "المكسيك",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a42e4936f6b8.png",
     "team2": "الاكوادور",
@@ -26,7 +13,7 @@
     "stream": "https://77cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
-    "id": 3,
+    "id": 2,
     "team1": "إنجلترا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a42e49506cf9.png",
     "team2": "الكونغو",
@@ -39,13 +26,26 @@
     "stream": "https://77cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
-    "id": 4,
+    "id": 3,
     "team1": "بلجيكا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a42e49690169.png",
     "team2": "السنغال",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a42e496968bf.png",
     "time": "11:00 PM",
     "status": "لم تبدأ بعد",
+    "channel": "beIN Max 2",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
+    "stream": "https://77cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+  },
+  {
+    "id": 4,
+    "team1": "فرنسا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a4191186be15.png",
+    "team2": "السويد",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a41911873f0f.png",
+    "time": "12:00 AM",
+    "status": "إنتهت المباراة",
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
