@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "team1": "أستراليا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9c76e5b.png",
+    "team2": "مصر",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9c7c8d2.png",
+    "time": "9:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "beIN Max 1",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": ""
+  },
+  {
+    "id": 2,
     "team1": "البرتغال",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9a2f1c7.png",
     "team2": "كرواتيا",
@@ -13,29 +26,16 @@
     "stream": ""
   },
   {
-    "id": 2,
+    "id": 3,
     "team1": "سويسرا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9b59bc4.png",
     "team2": "الجزائر",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9b5ff4c.png",
     "time": "6:00 AM",
-    "status": "لم تبدأ بعد",
+    "status": "إنتهت المباراة",
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
-  },
-  {
-    "id": 3,
-    "team1": "أستراليا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9c76e5b.png",
-    "team2": "مصر",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/07/alba_img_6a46ab9c7c8d2.png",
-    "time": "9:00 PM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 1",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": ""
+    "stream": "https://84cup.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   }
 ]
