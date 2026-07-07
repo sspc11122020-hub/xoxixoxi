@@ -1,25 +1,20 @@
 import axios from 'axios';
-import * as cheerio from 'cheerio';
 import fs from 'fs';
-
-const BASE_URL = 'https://d.syrlive.com/matches-today/';
 
 /**
  * دالة لاستخراج الرابط المباشر m3u8 من المشغل
- * تم تحديثها لتتعامل مع حماية المشغلات الجديدة
+ * تم تحديث الـ Referer ليتناسب مع الموقع الجديد
  */
 async function getDirectStream(iframeUrl) {
     if (!iframeUrl) return "";
     
-    // تصحيح الرابط إذا كان يبدأ بـ //
     const fullIframeUrl = iframeUrl.startsWith('//') ? `https:${iframeUrl}` : iframeUrl;
 
     try {
         const { data } = await axios.get(fullIframeUrl, { 
             headers: { 
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Referer': 'https://d.syrlive.com/',
-                'Origin': 'https://d.syrlive.com',
+                'Referer': 'https://www.majed-koora.com/', // تم التحديث هنا
                 'Accept': '*/*'
             },
             timeout: 10000 
@@ -30,7 +25,6 @@ async function getDirectStream(iframeUrl) {
         let matches = data.match(m3u8Regex);
 
         if (matches && matches.length > 0) {
-            // تنظيف الرابط من أي علامات هروب (Backslashes)
             return matches[0].replace(/\\/g, ''); 
         }
 
@@ -53,97 +47,82 @@ async function getDirectStream(iframeUrl) {
 
         return "";
     } catch (e) {
-        console.log(`⚠️ فشل الوصول للمشغل: ${fullIframeUrl}`);
+        // تم إخفاء رسالة الخطأ هنا لتنظيف الكونسول، يمكنك إعادتها إن شئت
         return "";
     }
 }
 
 /**
- * فحص صفحة المباراة لجلب السيرفر والرابط المباشر
- */
-async function processMatchStream(matchUrl) {
-    let result = { iframe: "", direct: "" };
-    try {
-        const { data } = await axios.get(matchUrl, { 
-            headers: { 'User-Agent': 'Mozilla/5.0' },
-            timeout: 8000 
-        });
-        const $ = cheerio.load(data);
-        
-        // جلب رابط الـ iframe مع دعم المشغل الجديد
-        const iframeSrc = $('iframe').attr('src') || $('iframe.cf').attr('src') || "";
-        result.iframe = iframeSrc;
-
-        if (iframeSrc) {
-            result.direct = await getDirectStream(iframeSrc);
-        }
-    } catch (e) {
-        console.log(`⚠️ فشل جلب صفحة المباراة: ${matchUrl}`);
-    }
-    return result;
-}
-
-/**
- * السكريبت الرئيسي
+ * السكريبت الرئيسي للتعامل مع الـ API
  */
 async function scrapeMatches() {
     try {
-        console.log("🚀 جاري فحص المباريات واستخراج البيانات...");
-        const { data } = await axios.get(BASE_URL, {
+        console.log("🚀 جاري جلب المباريات من الـ API...");
+        
+        // توليد طابع زمني لمنع تخزين الكاش (Cache) وجلب بيانات جديدة دائماً
+        const apiUrl = `https://www.majed-koora.com/config.json?v=${Date.now()}`;
+        
+        const { data } = await axios.get(apiUrl, {
             headers: { 
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' 
             }
         });
-        const $ = cheerio.load(data);
-        const matches = [];
 
-        const matchElements = $('.match-container');
+        // الحصول على مصفوفة المباريات من الـ JSON
+        const matchesData = data.matches || [];
+        const formattedMatches = [];
 
-        for (let i = 0; i < matchElements.length; i++) {
-            const el = matchElements[i];
-            const detailsUrl = $(el).find('a').attr('href') || "";
+        for (let i = 0; i < matchesData.length; i++) {
+            const matchInfo = matchesData[i];
             
-            const getValidLogo = (sideSelector) => {
-                const imgTag = $(el).find(`${sideSelector} img`);
-                let logoUrl = imgTag.attr('data-src') || imgTag.attr('src') || "";
-                if (logoUrl.startsWith('//')) logoUrl = 'https:' + logoUrl;
-                return logoUrl;
-            };
+            console.log(`🔍 جاري استخراج: ${matchInfo.team1} vs ${matchInfo.team2}`);
 
-            const match = {
-                id: i + 1,
-                team1: $(el).find('.right-team .team-name').text().trim(),
-                team1Logo: getValidLogo('.right-team'),
-                team2: $(el).find('.left-team .team-name').text().trim(),
-                team2Logo: getValidLogo('.left-team'),
-                time: $(el).find('.match-time').text().trim(),
-                status: $(el).find('.date').text().trim(),
-                channel: $(el).find('.match-info ul li:nth-child(1) span').text().trim(),
-                league: $(el).find('.match-info ul li:nth-child(3) span').text().trim(),
-                streamUrl: "", 
-                stream: ""     
-            };
-
-            if (detailsUrl) {
-                console.log(`🔍 جاري استخراج: ${match.team1} vs ${match.team2}`);
-                const streamData = await processMatchStream(detailsUrl);
-                
-                match.streamUrl = streamData.iframe;
-                match.stream = streamData.direct;
-                
-                if (match.stream) {
-                    console.log(`✅ تم العثور على الرابط المباشر!`);
-                } else {
-                    console.log(`❌ لم يتم العثور على رابط مباشر (قد يكون البث لم يبدأ بعد)`);
-                }
+            // بناء رابط المشغل بناءً على قناة تويتش المرفقة في الـ API
+            let streamUrl = "";
+            if (matchInfo.twitch_channel) {
+                streamUrl = `https://majed-koora.com/stream.php?channel=${matchInfo.twitch_channel}`;
             }
 
-            matches.push(match);
+            // محاولة جلب رابط البث المباشر (m3u8) من المشغل
+            let directStream = "";
+            if (streamUrl) {
+                directStream = await getDirectStream(streamUrl);
+            }
+
+            if (directStream) {
+                console.log(`✅ تم العثور على الرابط المباشر!`);
+            } else {
+                console.log(`❌ لم يتم العثور على رابط مباشر`);
+            }
+
+            // تحويل حالة المباراة للغة المطلوبة
+            let matchStatus = matchInfo.status;
+            if (matchStatus && matchStatus.toLowerCase() === "live") {
+                matchStatus = "جارية الآن";
+            }
+
+            // تجهيز الكائن بالشكل الذي طلبته
+            const match = {
+                id: i + 1,
+                team1: matchInfo.team1 || "",
+                team1Logo: matchInfo.logo1 || "",
+                team2: matchInfo.team2 || "",
+                team2Logo: matchInfo.logo2 || "",
+                time: matchInfo.time || "",
+                status: matchStatus,
+                channel: matchInfo.commentator || "", // تم استخدام المعلق كقناة إذا لم تتوفر قناة
+                league: matchInfo.comp || "", // comp تعني البطولة (Competition)
+                streamUrl: streamUrl,
+                stream: directStream
+            };
+
+            formattedMatches.push(match);
         }
 
-        fs.writeFileSync('matches.json', JSON.stringify(matches, null, 2), 'utf8');
+        // حفظ البيانات في الملف
+        fs.writeFileSync('matches.json', JSON.stringify(formattedMatches, null, 2), 'utf8');
         console.log("---");
-        console.log(`✅ انتهى العمل. تم حفظ ${matches.length} مباراة في matches.json`);
+        console.log(`✅ انتهى العمل. تم حفظ ${formattedMatches.length} مباراة في matches.json بنجاح.`);
 
     } catch (error) {
         console.error('❌ خطأ في السكربت الرئيسي:', error.message);
