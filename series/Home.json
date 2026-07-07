@@ -2,41 +2,46 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-07-07T09:35:55.319Z",
+  "lastUpdated": "2026-07-07T19:51:11.890Z",
   "series": [
     {
-      "id": "231853",
-      "title": "مسلسل Story of His Maid الموسم الاول الحلقة 8 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-story-of-his-maid-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231853",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/685mzbWfglvHVwS9eKft0EpsWId-433x650.jpg",
-      "imdbRating": null,
-      "story": "موسكو، القرن التاسع عشر. حفلات راقصة باذخة، قصور متألقة، ومؤامرات خفية. يعود الكونت نيكولاي شيريميتييف، الشاب الوسيم الذي يحسده الجميع، إلى عالم الطبقة الراقية بعد الحرب. يُحدث وصوله ضجة في الأوساط الاجتماعية: فالأمهات والبنات يتآمرن ويحلمن بالزواج من عريس ثري. لكن بالنسبة لنيكولاي نفسه، فالأمر أكثر تعقيدًا - فبحسب وصية والدته، عليه أن يتزوج في غضون عام، وإلا سيخسر ميراثه. في ذلك الوقت، كانت عائلة أفيرين على وشك الإفلاس بسبب ديون القمار التي تراكمت على رب الأسرة. قررت ابنته آنا، النبيلة العنيدة والذكية، مقابلة الكونت شخصيًا، على أمل أن يسامحها في الدين.",
+      "id": "232046",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 10 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232046",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
       "details": {
         "قسم المسلسل": [
           "مسلسلات اجنبي"
         ],
         "نوع المسلسل": [
-          "دراما"
+          "تاريخي",
+          "حربي",
+          "وثائقي"
         ],
         "جودة الحلقة": [
           "1080p WEB-DL"
         ],
         "موعد الصدور": [
           "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
         ]
       },
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-story-of-his-maid-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-68focdv9yvgx.html",
+          "url": "https://down.vidtube.one/embed-4pzp66bgszcf.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -45,94 +50,99 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://down.vidtube.one/d/68focdv9yvgx.html",
+          "url": "https://down.vidtube.one/d/4pzp66bgszcf.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
         {
           "name": "1080p",
-          "url": "https://updown.cam/0h5k9es1xgs2",
+          "url": "https://updown.cam/n8eyqq7pqnfd",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://down.mdiaload.com/d8n0uijzqsab",
+          "url": "https://down.mdiaload.com/w41itxbuuzau",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://ddownload.com/ih62grzisy0f",
+          "url": "https://ddownload.com/6ebppvivlwjc",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://nitroflare.com/view/5610BD1AFD1A129",
+          "url": "https://nitroflare.com/view/6CE5A505A8CD933",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://1fichier.com/?k3y6zjcd87kerufn72nb",
+          "url": "https://1fichier.com/?y97eg2ahgqvtgm5be5yc",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://rapidgator.net/file/2ba5b8768e904e4fb04c7e0d409b26be",
+          "url": "https://rapidgator.net/file/a02c475e7ca235913ac756e5591c4537",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://koramaup.com/666a",
+          "url": "https://koramaup.com/ailQ",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://1cloudfile.com/3xuA9",
+          "url": "https://1cloudfile.com/2Rxoz",
           "quality": "1080p",
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:01.982Z"
+      "scrapedAt": "2026-07-07T19:49:17.722Z"
     },
     {
-      "id": "231852",
-      "title": "مسلسل Story of His Maid الموسم الاول الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-story-of-his-maid-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231852",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/685mzbWfglvHVwS9eKft0EpsWId-433x650.jpg",
-      "imdbRating": null,
-      "story": "موسكو، القرن التاسع عشر. حفلات راقصة باذخة، قصور متألقة، ومؤامرات خفية. يعود الكونت نيكولاي شيريميتييف، الشاب الوسيم الذي يحسده الجميع، إلى عالم الطبقة الراقية بعد الحرب. يُحدث وصوله ضجة في الأوساط الاجتماعية: فالأمهات والبنات يتآمرن ويحلمن بالزواج من عريس ثري. لكن بالنسبة لنيكولاي نفسه، فالأمر أكثر تعقيدًا - فبحسب وصية والدته، عليه أن يتزوج في غضون عام، وإلا سيخسر ميراثه. في ذلك الوقت، كانت عائلة أفيرين على وشك الإفلاس بسبب ديون القمار التي تراكمت على رب الأسرة. قررت ابنته آنا، النبيلة العنيدة والذكية، مقابلة الكونت شخصيًا، على أمل أن يسامحها في الدين.",
+      "id": "232045",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232045",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
       "details": {
         "قسم المسلسل": [
           "مسلسلات اجنبي"
         ],
         "نوع المسلسل": [
-          "دراما"
+          "تاريخي",
+          "حربي",
+          "وثائقي"
         ],
         "جودة الحلقة": [
           "1080p WEB-DL"
         ],
         "موعد الصدور": [
           "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
         ]
       },
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-story-of-his-maid-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-c6f2k4qwui0z.html",
+          "url": "https://down.vidtube.one/embed-f0qbfymrc9y3.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -141,65 +151,873 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://down.vidtube.one/d/c6f2k4qwui0z.html",
+          "url": "https://down.vidtube.one/d/f0qbfymrc9y3.html",
           "quality": "متعدد الجودات",
           "type": "pro_server"
         },
         {
           "name": "1080p",
-          "url": "https://updown.cam/wu2kx63ltyzb",
+          "url": "https://updown.cam/19q6tutjdt7x",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://down.mdiaload.com/rn8zqt5unzye",
+          "url": "https://down.mdiaload.com/f9153nw71atm",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://ddownload.com/0baf8dh3bhis",
+          "url": "https://ddownload.com/br5753o5c2cg",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://nitroflare.com/view/6782E93E5FDE306",
+          "url": "https://nitroflare.com/view/BDE44E189AD4E2F",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://1fichier.com/?u2radjtacpv2c7qlest7",
+          "url": "https://1fichier.com/?ocvksfo2jlvdv9l6f2mb",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://rapidgator.net/file/2a220804a8a8118bc05176a0951de0be",
+          "url": "https://rapidgator.net/file/fa1fbfac2bb3db3e978430a869a474fb",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://koramaup.com/665c",
+          "url": "https://koramaup.com/ailP",
           "quality": "1080p",
           "type": "download_server"
         },
         {
           "name": "1080p",
-          "url": "https://1cloudfile.com/2Rx16",
+          "url": "https://1cloudfile.com/2Rxoy",
           "quality": "1080p",
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:04.096Z"
+      "scrapedAt": "2026-07-07T19:49:19.781Z"
+    },
+    {
+      "id": "232044",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232044",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "تاريخي",
+          "حربي",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-8l5bvl6u4l2g.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/8l5bvl6u4l2g.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/p12jyq3im900",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/vi80d7uq3ras",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/5xkide3enyrv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/8312844205C3DE7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?fw5b6i3312permkmj8cg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/310758c9a7da0f3b3d62361a7e2f491c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ailO",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rxow",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:21.828Z"
+    },
+    {
+      "id": "232043",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232043",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "تاريخي",
+          "حربي",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-uvo3ou1fzcib.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/uvo3ou1fzcib.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/feg8694ujfe2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/7atif67oh0cd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/dv5hk08c35rd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9FEFE26A3CB3639",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?c8h7vh6kapcgxb6rjz9a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ef09f70cdcda6cc76586855c49fd8778",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ailN",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rxov",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:23.857Z"
+    },
+    {
+      "id": "232042",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232042",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "تاريخي",
+          "حربي",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-2avpk937vjaz.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/2avpk937vjaz.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ce7ev7m7v6rx",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/8x01hg7gu5vr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/04s3o0boaqgt",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/68341D4661941FA",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?703ldmw3e6ef7ja2ayod",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/22856fdd9b52fc69f09dbc2264a370a0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ailM",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rxot",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:25.888Z"
+    },
+    {
+      "id": "232041",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 5 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232041",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "تاريخي",
+          "حربي",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-6eaxraoo6hky.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/6eaxraoo6hky.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/acdrkzm5g1gv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/u2z7t3nk7pmi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/14u3fee3pxql",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/98A8C17EF0182EC",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?ymcqdj4vsx89zspwe3n7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/9db07cf8ae9f74b5c803809ef418e897",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ailL",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rxos",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:27.929Z"
+    },
+    {
+      "id": "232040",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 4 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232040",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "تاريخي",
+          "حربي",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-el0om6tmic7x.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/el0om6tmic7x.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/o316t29klr9k",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/2pt9qyeemw7l",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/rrp0dwwu839h",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/10EE69120E22D8D",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?exr7epgguzmki54cuywj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/3de8a445e8d391b842dab3f16ff4091f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ailK",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rxor",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:29.958Z"
+    },
+    {
+      "id": "232039",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 3 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232039",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "تاريخي",
+          "حربي",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-kj1n2w2vq4u7.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/kj1n2w2vq4u7.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/3x7xszva09nd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/hzbg91cukq4u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/o5rpbzbcc17i",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E69F01EEB3CBAD8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?v6ouf654ozo0be3xgs1d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/30afbebaf0273ab1f4a0956f4926b887",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ailJ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rxoq",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:31.975Z"
+    },
+    {
+      "id": "232038",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 2 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232038",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "تاريخي",
+          "حربي",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-zvykyvtevt2g.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/zvykyvtevt2g.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/1b388sq5kwm1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/hinycnplwbro",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/bl7gbek49zey",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/3CC446C58CC7FC3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?tji7qccc4kwrb7n73huq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6ca14759d9f6918c04802cb4057b4ed5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ailI",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rxop",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:34.059Z"
+    },
+    {
+      "id": "232003",
+      "title": "مسلسل World War II with Tom Hanks الموسم الاول الحلقة 1 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=232003",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/07/MV5BMDJmOGQ3YTktYzg2Mi00YjRkLWFlYjEtMGEyYTA1MTM2NzIwXkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "7.8",
+      "story": "يستكشف هذا الكتاب الحرب العالمية الثانية بدءًا من غزو ألمانيا لبولندا وحتى العصر الذري، ويدرس المعارك المحورية، وقادة زمن الحرب مثل تشرشل وروزفلت، والتكلفة البشرية للحرب الشاملة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "تاريخي",
+          "حربي",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Tom Hanks"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-world-war-ii-with-tom-hanks-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-7v7t718iktuw.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/7v7t718iktuw.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/uhpz6eiiq1gk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/wfmczlzdv1b3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/sbmrmzjsaz9y",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/AD80FD86BA54734",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?jzvkcc5y0grxe40fcblg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/e8d290b2cd2327622b54187a3c09f495",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ailH",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rxon",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:36.089Z"
     },
     {
       "id": "231564",
       "title": "مسلسل House of the Dragon الموسم الثالث الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-house-of-the-dragon-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-house-of-the-dragon-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-1/",
       "shortLink": "https://topcinemaa.top/?p=231564",
       "image": "https://topcinemaa.top/wp-content/uploads/2026/06/_640x_8f55ff65eaf7133dd3b862695771b0daa6a4505481aac33e64469951021bd87d-439x650.jpg",
       "imdbRating": "8.3",
@@ -234,7 +1052,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-house-of-the-dragon-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-house-of-the-dragon-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-1/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -399,7 +1217,199 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:06.106Z"
+      "scrapedAt": "2026-07-07T19:49:37.939Z"
+    },
+    {
+      "id": "231853",
+      "title": "مسلسل Story of His Maid الموسم الاول الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-story-of-his-maid-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=231853",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/685mzbWfglvHVwS9eKft0EpsWId-433x650.jpg",
+      "imdbRating": null,
+      "story": "موسكو، القرن التاسع عشر. حفلات راقصة باذخة، قصور متألقة، ومؤامرات خفية. يعود الكونت نيكولاي شيريميتييف، الشاب الوسيم الذي يحسده الجميع، إلى عالم الطبقة الراقية بعد الحرب. يُحدث وصوله ضجة في الأوساط الاجتماعية: فالأمهات والبنات يتآمرن ويحلمن بالزواج من عريس ثري. لكن بالنسبة لنيكولاي نفسه، فالأمر أكثر تعقيدًا - فبحسب وصية والدته، عليه أن يتزوج في غضون عام، وإلا سيخسر ميراثه. في ذلك الوقت، كانت عائلة أفيرين على وشك الإفلاس بسبب ديون القمار التي تراكمت على رب الأسرة. قررت ابنته آنا، النبيلة العنيدة والذكية، مقابلة الكونت شخصيًا، على أمل أن يسامحها في الدين.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-story-of-his-maid-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-68focdv9yvgx.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/68focdv9yvgx.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/0h5k9es1xgs2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/d8n0uijzqsab",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/ih62grzisy0f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/5610BD1AFD1A129",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?k3y6zjcd87kerufn72nb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2ba5b8768e904e4fb04c7e0d409b26be",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/666a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xuA9",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:40.007Z"
+    },
+    {
+      "id": "231852",
+      "title": "مسلسل Story of His Maid الموسم الاول الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-story-of-his-maid-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.top/?p=231852",
+      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/685mzbWfglvHVwS9eKft0EpsWId-433x650.jpg",
+      "imdbRating": null,
+      "story": "موسكو، القرن التاسع عشر. حفلات راقصة باذخة، قصور متألقة، ومؤامرات خفية. يعود الكونت نيكولاي شيريميتييف، الشاب الوسيم الذي يحسده الجميع، إلى عالم الطبقة الراقية بعد الحرب. يُحدث وصوله ضجة في الأوساط الاجتماعية: فالأمهات والبنات يتآمرن ويحلمن بالزواج من عريس ثري. لكن بالنسبة لنيكولاي نفسه، فالأمر أكثر تعقيدًا - فبحسب وصية والدته، عليه أن يتزوج في غضون عام، وإلا سيخسر ميراثه. في ذلك الوقت، كانت عائلة أفيرين على وشك الإفلاس بسبب ديون القمار التي تراكمت على رب الأسرة. قررت ابنته آنا، النبيلة العنيدة والذكية، مقابلة الكونت شخصيًا، على أمل أن يسامحها في الدين.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-story-of-his-maid-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-c6f2k4qwui0z.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/c6f2k4qwui0z.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/wu2kx63ltyzb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/rn8zqt5unzye",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/0baf8dh3bhis",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/6782E93E5FDE306",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?u2radjtacpv2c7qlest7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2a220804a8a8118bc05176a0951de0be",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/665c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Rx16",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-07T19:49:42.042Z"
     },
     {
       "id": "231758",
@@ -498,7 +1508,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:08.146Z"
+      "scrapedAt": "2026-07-07T19:49:43.880Z"
     },
     {
       "id": "231570",
@@ -594,7 +1604,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:10.132Z"
+      "scrapedAt": "2026-07-07T19:49:45.740Z"
     },
     {
       "id": "46573",
@@ -701,7 +1711,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:12.841Z"
+      "scrapedAt": "2026-07-07T19:49:48.395Z"
     },
     {
       "id": "46574",
@@ -808,7 +1818,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:15.101Z"
+      "scrapedAt": "2026-07-07T19:49:50.612Z"
     },
     {
       "id": "46572",
@@ -915,7 +1925,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:17.235Z"
+      "scrapedAt": "2026-07-07T19:49:52.840Z"
     },
     {
       "id": "46571",
@@ -1022,7 +2032,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:19.082Z"
+      "scrapedAt": "2026-07-07T19:49:55.058Z"
     },
     {
       "id": "46570",
@@ -1129,7 +2139,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:21.123Z"
+      "scrapedAt": "2026-07-07T19:49:56.918Z"
     },
     {
       "id": "46569",
@@ -1236,7 +2246,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:23.117Z"
+      "scrapedAt": "2026-07-07T19:49:59.230Z"
     },
     {
       "id": "46568",
@@ -1343,7 +2353,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:25.212Z"
+      "scrapedAt": "2026-07-07T19:50:01.484Z"
     },
     {
       "id": "46466",
@@ -1450,7 +2460,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:27.476Z"
+      "scrapedAt": "2026-07-07T19:50:03.508Z"
     },
     {
       "id": "46566",
@@ -1557,7 +2567,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:30.092Z"
+      "scrapedAt": "2026-07-07T19:50:06.146Z"
     },
     {
       "id": "46565",
@@ -1664,7 +2674,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:32.132Z"
+      "scrapedAt": "2026-07-07T19:50:08.450Z"
     },
     {
       "id": "46564",
@@ -1771,7 +2781,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:34.320Z"
+      "scrapedAt": "2026-07-07T19:50:10.568Z"
     },
     {
       "id": "46563",
@@ -1878,7 +2888,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:36.503Z"
+      "scrapedAt": "2026-07-07T19:50:12.802Z"
     },
     {
       "id": "46562",
@@ -1985,7 +2995,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:38.679Z"
+      "scrapedAt": "2026-07-07T19:50:15.096Z"
     },
     {
       "id": "46561",
@@ -2092,7 +3102,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:40.860Z"
+      "scrapedAt": "2026-07-07T19:50:17.320Z"
     },
     {
       "id": "46560",
@@ -2199,7 +3209,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:42.782Z"
+      "scrapedAt": "2026-07-07T19:50:19.934Z"
     },
     {
       "id": "46465",
@@ -2306,7 +3316,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:44.955Z"
+      "scrapedAt": "2026-07-07T19:50:22.064Z"
     },
     {
       "id": "46519",
@@ -2413,7 +3423,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:47.391Z"
+      "scrapedAt": "2026-07-07T19:50:24.466Z"
     },
     {
       "id": "46518",
@@ -2520,7 +3530,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:49.315Z"
+      "scrapedAt": "2026-07-07T19:50:26.387Z"
     },
     {
       "id": "46517",
@@ -2627,7 +3637,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:51.342Z"
+      "scrapedAt": "2026-07-07T19:50:28.484Z"
     },
     {
       "id": "46516",
@@ -2734,7 +3744,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:53.599Z"
+      "scrapedAt": "2026-07-07T19:50:30.618Z"
     },
     {
       "id": "46515",
@@ -2841,7 +3851,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:55.782Z"
+      "scrapedAt": "2026-07-07T19:50:32.802Z"
     },
     {
       "id": "46514",
@@ -2948,7 +3958,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:34:57.783Z"
+      "scrapedAt": "2026-07-07T19:50:34.930Z"
     },
     {
       "id": "46513",
@@ -3055,7 +4065,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:00.027Z"
+      "scrapedAt": "2026-07-07T19:50:37.023Z"
     },
     {
       "id": "46512",
@@ -3162,7 +4172,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:02.046Z"
+      "scrapedAt": "2026-07-07T19:50:39.228Z"
     },
     {
       "id": "46464",
@@ -3269,7 +4279,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:03.983Z"
+      "scrapedAt": "2026-07-07T19:50:41.080Z"
     },
     {
       "id": "46511",
@@ -3376,7 +4386,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:05.992Z"
+      "scrapedAt": "2026-07-07T19:50:42.927Z"
     },
     {
       "id": "46510",
@@ -3483,7 +4493,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:08.281Z"
+      "scrapedAt": "2026-07-07T19:50:45.160Z"
     },
     {
       "id": "46509",
@@ -3590,7 +4600,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:10.369Z"
+      "scrapedAt": "2026-07-07T19:50:47.533Z"
     },
     {
       "id": "46508",
@@ -3697,7 +4707,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:12.613Z"
+      "scrapedAt": "2026-07-07T19:50:49.598Z"
     },
     {
       "id": "46507",
@@ -3804,7 +4814,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:14.531Z"
+      "scrapedAt": "2026-07-07T19:50:51.654Z"
     },
     {
       "id": "46506",
@@ -3911,7 +4921,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:16.531Z"
+      "scrapedAt": "2026-07-07T19:50:53.721Z"
     },
     {
       "id": "46505",
@@ -4018,7 +5028,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:18.610Z"
+      "scrapedAt": "2026-07-07T19:50:55.888Z"
     },
     {
       "id": "46504",
@@ -4125,7 +5135,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:20.601Z"
+      "scrapedAt": "2026-07-07T19:50:57.950Z"
     },
     {
       "id": "46503",
@@ -4232,7 +5242,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:22.601Z"
+      "scrapedAt": "2026-07-07T19:51:00.121Z"
     },
     {
       "id": "46502",
@@ -4339,7 +5349,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:24.589Z"
+      "scrapedAt": "2026-07-07T19:51:02.116Z"
     },
     {
       "id": "46460",
@@ -4446,7 +5456,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:26.408Z"
+      "scrapedAt": "2026-07-07T19:51:04.009Z"
     },
     {
       "id": "231548",
@@ -4547,7 +5557,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:28.666Z"
+      "scrapedAt": "2026-07-07T19:51:06.448Z"
     },
     {
       "id": "231547",
@@ -4648,7 +5658,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:31.100Z"
+      "scrapedAt": "2026-07-07T19:51:08.676Z"
     },
     {
       "id": "231546",
@@ -4749,1017 +5759,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-07T09:35:33.359Z"
-    },
-    {
-      "id": "231545",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 19 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231545",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-pn3ljhaz15cf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/pn3ljhaz15cf.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/ktmwm7gq27h0",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/w2f9tj8gy1yl",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/3yr7c21a1lck",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/A5D5278AE41B2C3",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/8a75b23c620afe3e5398666e66c2d0f9",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/64f4",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/Pw52",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:35.351Z"
-    },
-    {
-      "id": "231544",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 18 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231544",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-fcfzn1hjvhj0.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/fcfzn1hjvhj0.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/82vnutwnchv1",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/9zkjzgct47wh",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/zjaw0fei23hp",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/793553A6BBA2359",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/1dbb29c6bdb86cf232b94030e85bedbd",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/64f3",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/Pw50",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:37.334Z"
-    },
-    {
-      "id": "231541",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 17 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231541",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-dufxsvy6y149.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/dufxsvy6y149.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/3y0u385zttwl",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/pdmme03a6rwx",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/671af4w3gsvm",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/1F7383FFD4E70FE",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/fa1b69993959a713f012be0ddf95d39c",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/64f2",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1vtxj",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:39.330Z"
-    },
-    {
-      "id": "231539",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 16 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231539",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-6gsbv0zyi7ap.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/6gsbv0zyi7ap.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/gdvc1ymetkca",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/ud4gt39liwzc",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/f34dcjp6u8x9",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/58A91C4F0CA92C4",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/6acd891f9fe3a330119b3d37604eaae0",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/64f1",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1vtxi",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:41.318Z"
-    },
-    {
-      "id": "231543",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 15 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231543",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ltw5cgsye56f.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/ltw5cgsye56f.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/7vcuc1y85uj3",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/sp0nfakh7zpi",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/k9aphsdbj64f",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/1984E11707E2E9D",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/db6302e8c7d58a061e27014a1c769947",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/64f0",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1vtxh",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:43.240Z"
-    },
-    {
-      "id": "231542",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 14 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231542",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-an39buuqitu8.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/an39buuqitu8.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/c3umk4xfvcem",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/e7oopdgbd398",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/9qdci6xeahnn",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/20ADEAA69D7AB6C",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/193206ad0ea8c40a670f29dd070060f4",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/ago1",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1vtxf",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:45.488Z"
-    },
-    {
-      "id": "231540",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 13 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231540",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-4pfcfv8855zf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/4pfcfv8855zf.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/z2wsvs44czsm",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/2wtgwnv3u0e2",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/px2xu211jtlm",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/56FCB7032226676",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/903e86383cc33be73901bc5a93e3eccb",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/ago0",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1vtxc",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:47.737Z"
-    },
-    {
-      "id": "231538",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 12 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231538",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-28l9q77hx9mb.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/28l9q77hx9mb.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/x7yfp4mpp4dc",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/avpo9d5xrb3i",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/nuyjpka05nfv",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/154C7DC5F70E7F4",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/219feac6d8802ecf94ce905aa9482ab3",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/agnZ",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1vtxb",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:49.986Z"
-    },
-    {
-      "id": "231526",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 11 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231526",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-4loji4kb847e.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/4loji4kb847e.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/3ko2vi1dos6d",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/4wew15vb0rsd",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/4mg4wb13qxw6",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/C4D21FD6F3E746F",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/43f041bf7e27111eeeec1aba4bbc8883",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/agnY",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1vtx9",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:52.064Z"
-    },
-    {
-      "id": "231525",
-      "title": "مسلسل 90210 الموسم الخامس الحلقة 10 مترجمة",
-      "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.top/?p=231525",
-      "image": "https://topcinemaa.top/wp-content/uploads/2026/06/6kB94YLWIYNU8hsJ6WWkZr2kio1-442x650.jpg",
-      "imdbRating": null,
-      "story": "في الموسم الخامس من المسلسل، تعود فينيسا لليام حبيبها بإعطائه فرصة ثانية، ويكتشف الفريق أن ديكسون ما زال على قيد الحياة، ويجب منهم التعامل مع إعاقته الجديدة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2012"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "AnnaLynne McCord",
-          "Gillian Zinser",
-          "Jessica Lowndes",
-          "Jessica Stroup"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.top/%d9%85%d8%b3%d9%84%d8%b3%d9%84-90210-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-pax80z1lbl9y.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/pax80z1lbl9y.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/py2f8izp0eqi",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/erow9nt2pexp",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://ddownload.com/81b717pv4zj5",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/6E587D392C74F01",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/e24d29264a480dab58bf5c2bb26be0f1",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/agnX",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1vtx7",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-07T09:35:54.318Z"
+      "scrapedAt": "2026-07-07T19:51:10.889Z"
     }
   ]
 }
