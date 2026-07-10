@@ -22,7 +22,8 @@ jobs:
           sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libasound2t64
 
       - name: Install Dependencies
-        run: npm install axios cheerio puppeteer
+        # بدلاً من تثبيت مكتبات محددة، نعتمد على package.json الذي دمجناه
+        run: npm install
 
       - name: Run Scraper
         run: node index.js
@@ -31,10 +32,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          if [ -f match1.json ]; then
-            git add match1.json
-            git commit -m "Update matches data [skip ci]" || exit 0
-            git push
-          else
-            echo "File not generated, skipping push."
-          fi
+          # تأكد من إضافة كل الملفات التي قد تتغير وليس فقط match1.json
+          git add .
+          git commit -m "Update matches data [skip ci]" || exit 0
+          git push
