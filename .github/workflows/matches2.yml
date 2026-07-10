@@ -1,0 +1,40 @@
+name: مباريات سيرفر 2
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libasound2t64
+
+      - name: Install Dependencies
+        run: npm install axios cheerio puppeteer
+
+      - name: Run Scraper
+        run: node index.js
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          if [ -f match1.json ]; then
+            git add match1.json
+            git commit -m "Update matches data [skip ci]" || exit 0
+            git push
+          else
+            echo "File not generated, skipping push."
+          fi
