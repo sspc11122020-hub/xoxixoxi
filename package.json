@@ -1,9 +1,9 @@
 {
-  "name": "movie-and-channel-scraper",
+  "name": "combined-scraper-project",
   "version": "1.0.0",
   "type": "module",
-  "description": "أداة مؤتمتة لاستخراج بيانات الأفلام وقنوات البث المباشر",
-  "main": "movies.js",
+  "description": "أداة مؤتمتة لاستخراج بيانات الكورة، الأفلام، وقنوات البث المباشر",
+  "main": "index.js",
   "scripts": {
     "start": "node movies.js",
     "scrape-movies": "node movies.js",
