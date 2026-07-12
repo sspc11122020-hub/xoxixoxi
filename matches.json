@@ -1,28 +1,15 @@
 [
- {
-    "team1": "النرويج",
-    "team1Logo": "https://www.korax90.co/uploads/1783389809_6a4c5e712e0e0.png",
-    "team2": "إنجلترا",
-    "team2Logo": "https://www.korax90.co/uploads/1783389809_6a4c5e712e2a1.png",
-    "time": "2 - 1",
-    "status": "انتهت",
-    "league": "كأس العالم ربع نهائي",
-    "streamUrl": "https://hello.teri-kora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/٧‏/٢٠٢٦، ٩:٠٨:٥٨ ص",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
-  },
   {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://www.korax90.co/uploads/1783466830_6a4d8b4e2f39b.png",
-    "team2": "سويسرا",
-    "team2Logo": "https://www.korax90.co/uploads/1783466830_6a4d8b4e2f566.png",
-    "time": "1 - 3",
-    "status": "انتهت",
-    "league": "كأس العالم ربع نهائي",
-    "streamUrl": "https://hello.teri-kora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/٧‏/٢٠٢٦، ٩:٠٨:٥٨ ص",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+    "id": 1,
+    "team1": "انجلترا",
+    "team1Logo": "",
+    "team2": "النرويج",
+    "team2Logo": "",
+    "time": "",
+    "status": "جارية الآن",
+    "channel": "",
+    "league": "",
+    "streamUrl": "https://majed-koora.com/stream.php?channel=alimodsa",
+    "stream": "https://usher.ttvnw.net/api/channel/hls/.m3u8?allow_source=true&amp;fast_bread=true&amp;p=2805824&amp;player_backend=mediaplayer&amp;playlist_include_framerate=true&amp;reassignments_supported=true&amp;sig=dc68e44a23133b22cc8a503c448db56ab7db359a&amp;supported_codecs=av1,h264&amp;token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22alimodsa%22%2C%22channel_id%22%3A1516010971%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1783848718%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22159.198.41.140%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&amp;cdm=wv&amp;player_version=1.54.0):"
   }
 ]
