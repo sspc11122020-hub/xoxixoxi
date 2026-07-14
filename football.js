@@ -3,7 +3,6 @@ import fs from 'fs';
 
 /**
  * دالة لاستخراج الرابط المباشر m3u8 من المشغل
- * تم تحديث الـ Referer ليتناسب مع الموقع الجديد
  */
 async function getDirectStream(iframeUrl) {
     if (!iframeUrl) return "";
@@ -14,7 +13,7 @@ async function getDirectStream(iframeUrl) {
         const { data } = await axios.get(fullIframeUrl, { 
             headers: { 
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Referer': 'https://www.majed-koora.com/', // تم التحديث هنا
+                'Referer': 'https://liva7hd.info/', // تم التحديث ليطابق الموقع الجديد
                 'Accept': '*/*'
             },
             timeout: 10000 
@@ -47,20 +46,19 @@ async function getDirectStream(iframeUrl) {
 
         return "";
     } catch (e) {
-        // تم إخفاء رسالة الخطأ هنا لتنظيف الكونسول، يمكنك إعادتها إن شئت
         return "";
     }
 }
 
 /**
- * السكريبت الرئيسي للتعامل مع الـ API
+ * السكريبت الرئيسي للتعامل مع الـ API الجديد
  */
 async function scrapeMatches() {
     try {
         console.log("🚀 جاري جلب المباريات من الـ API...");
         
-        // توليد طابع زمني لمنع تخزين الكاش (Cache) وجلب بيانات جديدة دائماً
-        const apiUrl = `https://www.majed-koora.com/config.json?v=${Date.now()}`;
+        // الرابط الجديد
+        const apiUrl = `https://liva7hd.info/wp-content/themes/jannah-1/MatchesPanel/api/matches.php?v=${Date.now()}`;
         
         const { data } = await axios.get(apiUrl, {
             headers: { 
@@ -75,15 +73,16 @@ async function scrapeMatches() {
         for (let i = 0; i < matchesData.length; i++) {
             const matchInfo = matchesData[i];
             
-            console.log(`🔍 جاري استخراج: ${matchInfo.team1} vs ${matchInfo.team2}`);
+            // استخراج الأسماء من الكائنات المتداخلة في الـ API الجديد
+            const team1Name = matchInfo.team1?.name || "";
+            const team2Name = matchInfo.team2?.name || "";
 
-            // بناء رابط المشغل بناءً على قناة تويتش المرفقة في الـ API
-            let streamUrl = "";
-            if (matchInfo.twitch_channel) {
-                streamUrl = `https://majed-koora.com/stream.php?channel=${matchInfo.twitch_channel}`;
-            }
+            console.log(`🔍 جاري استخراج: ${team1Name} vs ${team2Name}`);
 
-            // محاولة جلب رابط البث المباشر (m3u8) من المشغل
+            // استخراج رابط البث من meta.link
+            const streamUrl = matchInfo.meta?.link || "";
+
+            // محاولة جلب رابط البث المباشر (m3u8)
             let directStream = "";
             if (streamUrl) {
                 directStream = await getDirectStream(streamUrl);
@@ -95,23 +94,23 @@ async function scrapeMatches() {
                 console.log(`❌ لم يتم العثور على رابط مباشر`);
             }
 
-            // تحويل حالة المباراة للغة المطلوبة
-            let matchStatus = matchInfo.status;
+            // تحويل حالة المباراة
+            let matchStatus = matchInfo.meta?.status || "";
             if (matchStatus && matchStatus.toLowerCase() === "live") {
                 matchStatus = "جارية الآن";
             }
 
-            // تجهيز الكائن بالشكل الذي طلبته
+            // تجهيز الكائن بالشكل القديم تماماً للحفاظ على نفس هيكل الـ JSON الناتج
             const match = {
                 id: i + 1,
-                team1: matchInfo.team1 || "",
-                team1Logo: matchInfo.logo1 || "",
-                team2: matchInfo.team2 || "",
-                team2Logo: matchInfo.logo2 || "",
-                time: matchInfo.time || "",
+                team1: team1Name,
+                team1Logo: matchInfo.team1?.logo || "",
+                team2: team2Name,
+                team2Logo: matchInfo.team2?.logo || "",
+                time: "", // تركت فارغة لأن الـ API الجديد لا يعرض وقت المباراة في هذا المستوى
                 status: matchStatus,
-                channel: matchInfo.commentator || "", // تم استخدام المعلق كقناة إذا لم تتوفر قناة
-                league: matchInfo.comp || "", // comp تعني البطولة (Competition)
+                channel: matchInfo.meta?.channel || matchInfo.meta?.commentator || "", // أولوية للقناة ثم المعلق
+                league: matchInfo.meta?.champ || "",
                 streamUrl: streamUrl,
                 stream: directStream
             };
