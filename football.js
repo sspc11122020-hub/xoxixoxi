@@ -3,23 +3,8 @@ import axios from 'axios';
 import fs from 'fs';
 
 /**
- * دالة للتحقق مما إذا كان رابط m3u8 يعمل (يعيد حالة 200)
- */
-async function isStreamWorking(m3u8Url) {
-    try {
-        const response = await axios.head(m3u8Url, { 
-            timeout: 5000,
-            headers: { 'User-Agent': 'Mozilla/5.0' }
-        });
-        return response.status === 200;
-    } catch (error) {
-        return false;
-    }
-}
-
-/**
  * دالة تستخدم متصفح Puppeteer لاستخراج m3u8 من المشغل
- * تقوم بمراقبة الشبكة والنقر على الأزرار لمحاولة إيجاد بث يعمل
+ * تم التحديث: النقر على زر التشغيل وتجاوز فحص axios الصارم
  */
 async function extractM3u8WithBrowser(iframeUrl, browser) {
     if (!iframeUrl) return "";
@@ -27,46 +12,59 @@ async function extractM3u8WithBrowser(iframeUrl, browser) {
     const page = await browser.newPage();
     let validM3u8 = "";
 
+    // تعيين User-Agent حقيقي لتجنب حظر المتصفحات الخفية (Bots)
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+    // تعيين حجم شاشة افتراضي لضمان تمركز النقر
+    await page.setViewport({ width: 1280, height: 720 });
+
     try {
-        // اعتراض طلبات الشبكة للقبض على روابط m3u8
+        // اعتراض طلبات الشبكة
         await page.setRequestInterception(true);
-        page.on('request', async (request) => {
+        page.on('request', (request) => {
             const url = request.url();
             
-            // إذا وجدنا رابط m3u8 ولم نقم بتخزين رابط صالح بعد
-            if (url.includes('.m3u8') && !validM3u8) {
-                // الفحص السريع للرابط للتأكد أنه يعمل
-                const working = await isStreamWorking(url);
-                if (working) {
-                    validM3u8 = url;
-                }
+            // بمجرد أن يطلب المشغل ملف m3u8، نقوم بالتقاطه فوراً
+            // استبعدنا كلمة ad لضمان عدم التقاط إعلانات الفيديو
+            if (url.includes('.m3u8') && !url.includes('/ad/') && !validM3u8) {
+                console.log(`\n[+] تم التقاط الرابط من الشبكة بنجاح!`);
+                validM3u8 = url; 
             }
             request.continue();
         });
 
-        // الذهاب لصفحة السيرفر
-        await page.goto(iframeUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
+        // فتح صفحة السيرفر
+        await page.goto(iframeUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
         
-        // ننتظر قليلاً علّ الرابط الأساسي يظهر فوراً
+        // 1. الانتظار حتى تكتمل واجهة المشغل
+        await new Promise(r => setTimeout(r, 4000));
+
+        // 2. محاكاة نقرة الماوس في منتصف الشاشة تماماً (مكان زر التشغيل الأزرق)
+        const { width, height } = await page.evaluate(() => ({
+            width: window.innerWidth,
+            height: window.innerHeight
+        }));
+        await page.mouse.click(width / 2, height / 2);
+        
+        // الانتظار قليلاً للسماح لطلب البث بالظهور في الشبكة بعد النقر
         await new Promise(r => setTimeout(r, 3000));
 
-        // إذا تم اصطياد الرابط فوراً وكان يعمل، نعيده
+        // إذا تم التقاط الرابط بعد النقر على Play
         if (validM3u8) {
             await page.close();
             return validM3u8;
         }
 
-        // إذا لم يظهر، سنحاول النقر على أزرار السيرفرات (li, button, .server)
-        // أضفنا محددات (Selectors) عامة تتواجد عادة في هذه المشغلات
+        // 3. الخطة البديلة: إذا لم يعمل، نجرب النقر على أزرار السيرفرات الجانبية
         const serverButtons = await page.$$('li, button, .server, .btn, a');
         
         for (let btn of serverButtons) {
-            // محاولة النقر على الزر
             await btn.click().catch(() => {});
+            await new Promise(r => setTimeout(r, 2000)); // انتظار التحميل
             
-            // ننتظر ثانيتين بعد كل نقرة للسماح للطلب بالظهور في الـ Network
+            // محاولة النقر في المنتصف للتشغيل مرة أخرى
+            await page.mouse.click(width / 2, height / 2);
             await new Promise(r => setTimeout(r, 2000));
-            
+
             if (validM3u8) {
                 await page.close();
                 return validM3u8;
@@ -74,7 +72,7 @@ async function extractM3u8WithBrowser(iframeUrl, browser) {
         }
 
     } catch (e) {
-        console.log(`⚠️ تجاوز مهلة البحث عن رابط m3u8...`);
+        console.log(`⚠️ تجاوز مهلة البحث: ${e.message}`);
     } finally {
         if (!page.isClosed()) {
             await page.close();
@@ -85,7 +83,7 @@ async function extractM3u8WithBrowser(iframeUrl, browser) {
 }
 
 /**
- * دالة لاستخراج رابط السيرفر (iframe src) من صفحة المباراة عبر axios (أسرع)
+ * دالة لاستخراج رابط السيرفر (iframe src) من صفحة المباراة
  */
 async function getServerIframeUrl(pageUrl) {
     if (!pageUrl) return "";
@@ -112,7 +110,7 @@ async function getServerIframeUrl(pageUrl) {
 }
 
 /**
- * السكريبت الرئيسي للتعامل مع الـ API
+ * السكريبت الرئيسي
  */
 async function scrapeMatches() {
     let browser = null;
@@ -120,10 +118,9 @@ async function scrapeMatches() {
     try {
         console.log("🚀 جاري جلب المباريات من الـ API...");
         
-        // تشغيل متصفح Puppeteer في الخلفية
         browser = await puppeteer.launch({ 
-            headless: true, // اجعله false إذا أردت رؤية المتصفح وهو يعمل بعينك
-            args: ['--no-sandbox', '--disable-setuid-sandbox']
+            headless: true,
+            args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security']
         });
 
         const apiUrl = `https://liva7hd.info/wp-content/themes/jannah-1/MatchesPanel/api/matches.php?v=${Date.now()}`;
@@ -154,14 +151,13 @@ async function scrapeMatches() {
             if (streamUrl) {
                 console.log(`🌐 تم العثور على رابط السيرفر (${streamUrl})`);
                 console.log(`🕵️ جاري فتح المتصفح لاعتراض رابط m3u8...`);
-                // تمرير المتصفح ورابط المشغل لدالة الاستخراج
                 directStream = await extractM3u8WithBrowser(streamUrl, browser);
             }
 
             if (directStream) {
-                console.log(`✅ تم التقاط رابط شغال! -> ${directStream.substring(0, 50)}...`);
+                console.log(`✅ تم استخراج الرابط المباشر بنجاح!`);
             } else {
-                console.log(`❌ لم يتم العثور على رابط m3u8 يعمل`);
+                console.log(`❌ لم يتم العثور على رابط m3u8`);
             }
 
             let matchStatus = matchInfo.meta?.status || "";
@@ -169,7 +165,6 @@ async function scrapeMatches() {
                 matchStatus = "جارية الآن";
             }
 
-            // تم الحفاظ على البنية القديمة بدون تغيير نهائياً
             const match = {
                 id: i + 1,
                 team1: team1Name,
@@ -194,7 +189,6 @@ async function scrapeMatches() {
     } catch (error) {
         console.error('❌ خطأ في السكربت الرئيسي:', error.message);
     } finally {
-        // إغلاق المتصفح لعدم استهلاك الذاكرة
         if (browser) {
             await browser.close();
         }
