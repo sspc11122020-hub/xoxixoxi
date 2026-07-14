@@ -1,12 +1,94 @@
+import puppeteer from 'puppeteer';
 import axios from 'axios';
 import fs from 'fs';
 
 /**
- * دالة لاستخراج رابط السيرفر (iframe src) من صفحة المباراة الرئيسية
+ * دالة للتحقق مما إذا كان رابط m3u8 يعمل (يعيد حالة 200)
+ */
+async function isStreamWorking(m3u8Url) {
+    try {
+        const response = await axios.head(m3u8Url, { 
+            timeout: 5000,
+            headers: { 'User-Agent': 'Mozilla/5.0' }
+        });
+        return response.status === 200;
+    } catch (error) {
+        return false;
+    }
+}
+
+/**
+ * دالة تستخدم متصفح Puppeteer لاستخراج m3u8 من المشغل
+ * تقوم بمراقبة الشبكة والنقر على الأزرار لمحاولة إيجاد بث يعمل
+ */
+async function extractM3u8WithBrowser(iframeUrl, browser) {
+    if (!iframeUrl) return "";
+    
+    const page = await browser.newPage();
+    let validM3u8 = "";
+
+    try {
+        // اعتراض طلبات الشبكة للقبض على روابط m3u8
+        await page.setRequestInterception(true);
+        page.on('request', async (request) => {
+            const url = request.url();
+            
+            // إذا وجدنا رابط m3u8 ولم نقم بتخزين رابط صالح بعد
+            if (url.includes('.m3u8') && !validM3u8) {
+                // الفحص السريع للرابط للتأكد أنه يعمل
+                const working = await isStreamWorking(url);
+                if (working) {
+                    validM3u8 = url;
+                }
+            }
+            request.continue();
+        });
+
+        // الذهاب لصفحة السيرفر
+        await page.goto(iframeUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
+        
+        // ننتظر قليلاً علّ الرابط الأساسي يظهر فوراً
+        await new Promise(r => setTimeout(r, 3000));
+
+        // إذا تم اصطياد الرابط فوراً وكان يعمل، نعيده
+        if (validM3u8) {
+            await page.close();
+            return validM3u8;
+        }
+
+        // إذا لم يظهر، سنحاول النقر على أزرار السيرفرات (li, button, .server)
+        // أضفنا محددات (Selectors) عامة تتواجد عادة في هذه المشغلات
+        const serverButtons = await page.$$('li, button, .server, .btn, a');
+        
+        for (let btn of serverButtons) {
+            // محاولة النقر على الزر
+            await btn.click().catch(() => {});
+            
+            // ننتظر ثانيتين بعد كل نقرة للسماح للطلب بالظهور في الـ Network
+            await new Promise(r => setTimeout(r, 2000));
+            
+            if (validM3u8) {
+                await page.close();
+                return validM3u8;
+            }
+        }
+
+    } catch (e) {
+        console.log(`⚠️ تجاوز مهلة البحث عن رابط m3u8...`);
+    } finally {
+        if (!page.isClosed()) {
+            await page.close();
+        }
+    }
+
+    return validM3u8;
+}
+
+/**
+ * دالة لاستخراج رابط السيرفر (iframe src) من صفحة المباراة عبر axios (أسرع)
  */
 async function getServerIframeUrl(pageUrl) {
     if (!pageUrl) return "";
-    
     try {
         const { data } = await axios.get(pageUrl, {
             headers: { 
@@ -16,75 +98,13 @@ async function getServerIframeUrl(pageUrl) {
             timeout: 10000 
         });
 
-        // جلب جميع وسوم iframe في الصفحة
         const iframes = data.match(/<iframe[^>]+>/gi) || [];
-        
-        // البحث عن الـ iframe الخاص بالمشغل الرئيسي
         for (let iframe of iframes) {
-            if (iframe.includes('id="main-player"') || iframe.includes("id='main-player'")) {
+            if (iframe.includes('id="main-player"') || iframe.includes("id='main-player'") || iframe.includes('/tv/')) {
                 const srcMatch = iframe.match(/src=["']([^"']+)["']/i);
                 if (srcMatch) return srcMatch[1];
             }
         }
-
-        // خطة بديلة: البحث عن أي iframe يحتوي رابطه على "/tv/"
-        for (let iframe of iframes) {
-            const srcMatch = iframe.match(/src=["']([^"']+)["']/i);
-            if (srcMatch && srcMatch[1].includes('/tv/')) {
-                return srcMatch[1];
-            }
-        }
-
-        return "";
-    } catch (e) {
-        console.log(`⚠️ فشل في جلب رابط السيرفر من: ${pageUrl}`);
-        return "";
-    }
-}
-
-/**
- * دالة لاستخراج الرابط المباشر m3u8 من رابط السيرفر المستخرج
- */
-async function getDirectStream(iframeUrl) {
-    if (!iframeUrl) return "";
-    
-    const fullIframeUrl = iframeUrl.startsWith('//') ? `https:${iframeUrl}` : iframeUrl;
-
-    try {
-        const { data } = await axios.get(fullIframeUrl, { 
-            headers: { 
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Referer': 'https://liva7hd.info/',
-                'Accept': '*/*'
-            },
-            timeout: 10000 
-        });
-
-        // 1. البحث عن روابط m3u8 الصريحة
-        const m3u8Regex = /https?[:\/\w\.-]+\.m3u8[^\s"']*/gi;
-        let matches = data.match(m3u8Regex);
-
-        if (matches && matches.length > 0) {
-            return matches[0].replace(/\\/g, ''); 
-        }
-
-        // 2. البحث عن الروابط داخل سمة "source" في المشغل
-        const sourceRegex = /file\s*:\s*["']([^"']+\.m3u8[^"']*)["']/i;
-        const sourceMatch = data.match(sourceRegex);
-        if (sourceMatch) return sourceMatch[1];
-
-        // 3. البحث عن روابط Base64 (إذا كان المشغل يشفر الرابط)
-        const base64Regex = /["']([A-Za-z0-9+/]{50,})={0,2}["']/g;
-        let b64Matches;
-        while ((b64Matches = base64Regex.exec(data)) !== null) {
-            try {
-                let decoded = Buffer.from(b64Matches[1], 'base64').toString('utf-8');
-                if (decoded.includes('.m3u8')) {
-                    return decoded.match(/https?[:\/\w\.-]+\.m3u8[^\s"']*/i)[0];
-                }
-            } catch (e) {}
-        }
-
         return "";
     } catch (e) {
         return "";
@@ -95,15 +115,21 @@ async function getDirectStream(iframeUrl) {
  * السكريبت الرئيسي للتعامل مع الـ API
  */
 async function scrapeMatches() {
+    let browser = null;
+    
     try {
         console.log("🚀 جاري جلب المباريات من الـ API...");
         
+        // تشغيل متصفح Puppeteer في الخلفية
+        browser = await puppeteer.launch({ 
+            headless: true, // اجعله false إذا أردت رؤية المتصفح وهو يعمل بعينك
+            args: ['--no-sandbox', '--disable-setuid-sandbox']
+        });
+
         const apiUrl = `https://liva7hd.info/wp-content/themes/jannah-1/MatchesPanel/api/matches.php?v=${Date.now()}`;
         
         const { data } = await axios.get(apiUrl, {
-            headers: { 
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' 
-            }
+            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
         });
 
         const matchesData = data.matches || [];
@@ -117,26 +143,25 @@ async function scrapeMatches() {
 
             console.log(`🔍 جاري معالجة: ${team1Name} vs ${team2Name}`);
 
-            // 1. رابط الصفحة الرئيسية للمباراة
             const matchPageLink = matchInfo.meta?.link || "";
             
-            // 2. استخراج رابط السيرفر (iframe)
             let streamUrl = "";
             if (matchPageLink) {
                 streamUrl = await getServerIframeUrl(matchPageLink);
             }
 
-            // 3. استخراج رابط البث (m3u8) من السيرفر
             let directStream = "";
             if (streamUrl) {
-                console.log(`🌐 تم العثور على رابط السيرفر، جاري فك التشفير...`);
-                directStream = await getDirectStream(streamUrl);
+                console.log(`🌐 تم العثور على رابط السيرفر (${streamUrl})`);
+                console.log(`🕵️ جاري فتح المتصفح لاعتراض رابط m3u8...`);
+                // تمرير المتصفح ورابط المشغل لدالة الاستخراج
+                directStream = await extractM3u8WithBrowser(streamUrl, browser);
             }
 
             if (directStream) {
-                console.log(`✅ تم العثور على الرابط المباشر (m3u8)!`);
+                console.log(`✅ تم التقاط رابط شغال! -> ${directStream.substring(0, 50)}...`);
             } else {
-                console.log(`❌ لم يتم العثور على رابط m3u8`);
+                console.log(`❌ لم يتم العثور على رابط m3u8 يعمل`);
             }
 
             let matchStatus = matchInfo.meta?.status || "";
@@ -144,7 +169,7 @@ async function scrapeMatches() {
                 matchStatus = "جارية الآن";
             }
 
-            // هيكل الـ JSON المطلوب بدون تغيير
+            // تم الحفاظ على البنية القديمة بدون تغيير نهائياً
             const match = {
                 id: i + 1,
                 team1: team1Name,
@@ -155,8 +180,8 @@ async function scrapeMatches() {
                 status: matchStatus,
                 channel: matchInfo.meta?.channel || matchInfo.meta?.commentator || "",
                 league: matchInfo.meta?.champ || "",
-                streamUrl: streamUrl, // تم وضع رابط الـ iframe هنا
-                stream: directStream  // تم وضع رابط الـ m3u8 هنا
+                streamUrl: streamUrl,
+                stream: directStream
             };
 
             formattedMatches.push(match);
@@ -168,6 +193,11 @@ async function scrapeMatches() {
 
     } catch (error) {
         console.error('❌ خطأ في السكربت الرئيسي:', error.message);
+    } finally {
+        // إغلاق المتصفح لعدم استهلاك الذاكرة
+        if (browser) {
+            await browser.close();
+        }
     }
 }
 
