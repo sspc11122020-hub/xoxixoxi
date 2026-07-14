@@ -3,109 +3,74 @@ import axios from 'axios';
 import fs from 'fs';
 
 /**
- * دالة تستخدم متصفح Puppeteer لاستخراج m3u8 من المشغل
- * تقوم بمراقبة الاستجابات (Response) للتأكد من أن الرابط يعمل (Status 200)
+ * دالة متقدمة لاستخراج الـ m3u8 من خلال التنقل في السيرفرات المتعددة
  */
-async function extractM3u8WithBrowser(iframeUrl, browser) {
-    if (!iframeUrl) return "";
-    
+async function extractM3u8WithBrowser(mainIframeUrl, browser) {
     const page = await browser.newPage();
     let validM3u8 = "";
 
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
-    await page.setViewport({ width: 1280, height: 720 });
+    
+    // مراقبة الاستجابة (نفس المنطق السابق)
+    page.on('response', (response) => {
+        const url = response.url();
+        if (url.includes('.m3u8') && !url.includes('/ad/') && !validM3u8 && response.status() === 200) {
+            validM3u8 = url;
+            console.log(`[+] تم العثور على رابط فعال: ${url}`);
+        }
+    });
 
     try {
-        await page.setRequestInterception(true);
-        page.on('request', (request) => request.continue());
+        await page.goto(mainIframeUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
 
-        // مراقبة الاستجابة للتأكد من أن الرابط شغال (Status 200)
-        page.on('response', (response) => {
-            const url = response.url();
-            if (url.includes('.m3u8') && !url.includes('/ad/') && !validM3u8) {
-                if (response.status() === 200) {
-                    console.log(`\n[+] تم التقاط رابط شغال: ${url.substring(0, 50)}...`);
-                    validM3u8 = url; 
-                } else {
-                    console.log(`\n[-] تم تجاهل رابط غير صالح (Status ${response.status()}): ${url.substring(0, 50)}...`);
-                }
-            }
-        });
-
-        await page.goto(iframeUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
-        await new Promise(r => setTimeout(r, 4000));
-
-        // النقر في المنتصف لتشغيل الفيديو
-        const { width, height } = await page.evaluate(() => ({ width: window.innerWidth, height: window.innerHeight }));
-        await page.mouse.click(width / 2, height / 2);
-        await new Promise(r => setTimeout(r, 4000));
-
-        if (validM3u8) {
-            await page.close();
-            return validM3u8;
-        }
-
-        // محاولة النقر على أزرار السيرفرات الأخرى إذا لم ينجح الرابط الأول
-        const serverButtons = await page.$$('li, button, .server, .btn, a');
-        for (let btn of serverButtons) {
+        // 1. جمع كل روابط السيرفرات الأساسية من .servers_list
+        const mainServers = await page.$$eval('.servers_list a', elements => elements.map(a => a.href));
+        
+        for (let serverUrl of mainServers) {
             if (validM3u8) break;
-            await btn.click().catch(() => {});
-            await new Promise(r => setTimeout(r, 2000)); 
-            await page.mouse.click(width / 2, height / 2);
-            await new Promise(r => setTimeout(r, 3000));
+            
+            console.log(`-> جاري فحص السيرفر الفرعي: ${serverUrl}`);
+            await page.goto(serverUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
+            await new Promise(r => setTimeout(r, 2000));
+
+            // 2. البحث عن سيرفرات داخلية (مثل aplr-menu) والنقر عليها
+            const subServers = await page.$$('.aplr-menu a[role="button"]');
+            
+            // نحاول النقر على السيرفرات الداخلية
+            for (let subBtn of subServers) {
+                if (validM3u8) break;
+                
+                await subBtn.click().catch(() => {});
+                // النقر في المنتصف لتشغيل الفيديو
+                await page.mouse.click(640, 360); 
+                await new Promise(r => setTimeout(r, 3000));
+            }
         }
-
     } catch (e) {
-        console.log(`⚠️ خطأ في التصفح: ${e.message}`);
+        console.log(`⚠️ خطأ أثناء التصفح: ${e.message}`);
     } finally {
-        if (!page.isClosed()) await page.close();
+        await page.close();
     }
-
     return validM3u8;
 }
 
-/**
- * دالة لاستخراج رابط الـ iframe من الصفحة الرئيسية للمباراة
- */
-async function getServerIframeUrl(pageUrl) {
-    if (!pageUrl) return "";
-    try {
-        const { data } = await axios.get(pageUrl, {
-            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' },
-            timeout: 10000 
-        });
-        const iframes = data.match(/<iframe[^>]+>/gi) || [];
-        for (let iframe of iframes) {
-            if (iframe.includes('id="main-player"') || iframe.includes('/tv/')) {
-                const srcMatch = iframe.match(/src=["']([^"']+)["']/i);
-                if (srcMatch) return srcMatch[1];
-            }
-        }
-        return "";
-    } catch (e) { return ""; }
-}
+// ... باقي الدوال (getServerIframeUrl و scrapeMatches) تبقى كما هي ...
 
 async function scrapeMatches() {
     let browser = null;
     try {
-        console.log("🚀 جاري جلب المباريات من الـ API...");
-        browser = await puppeteer.launch({ 
-            headless: true,
-            args: ['--no-sandbox', '--disable-setuid-sandbox']
-        });
-
+        browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox'] });
         const { data } = await axios.get('https://liva7hd.info/wp-content/themes/jannah-1/MatchesPanel/api/matches.php?v=' + Date.now());
         const matchesData = data.matches || [];
         const formattedMatches = [];
 
         for (let i = 0; i < matchesData.length; i++) {
             const matchInfo = matchesData[i];
-            console.log(`🔍 معالجة: ${matchInfo.team1?.name} vs ${matchInfo.team2?.name}`);
-
             const streamUrl = await getServerIframeUrl(matchInfo.meta?.link || "");
             let directStream = "";
+            
             if (streamUrl) {
-                console.log(`🌐 تم العثور على السيرفر: ${streamUrl}`);
+                console.log(`🔍 معالجة: ${matchInfo.team1?.name} vs ${matchInfo.team2?.name}`);
                 directStream = await extractM3u8WithBrowser(streamUrl, browser);
             }
 
@@ -123,14 +88,31 @@ async function scrapeMatches() {
                 stream: directStream
             });
         }
-
         fs.writeFileSync('matches.json', JSON.stringify(formattedMatches, null, 2), 'utf8');
-        console.log(`✅ انتهى العمل. تم حفظ ${formattedMatches.length} مباراة.`);
     } catch (error) {
         console.error('❌ خطأ:', error.message);
     } finally {
         if (browser) await browser.close();
     }
+}
+
+// دالة getServerIframeUrl المعتادة
+async function getServerIframeUrl(pageUrl) {
+    if (!pageUrl) return "";
+    try {
+        const { data } = await axios.get(pageUrl, {
+            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' },
+            timeout: 10000 
+        });
+        const iframes = data.match(/<iframe[^>]+>/gi) || [];
+        for (let iframe of iframes) {
+            if (iframe.includes('id="main-player"') || iframe.includes('/tv/')) {
+                const srcMatch = iframe.match(/src=["']([^"']+)["']/i);
+                if (srcMatch) return srcMatch[1];
+            }
+        }
+        return "";
+    } catch (e) { return ""; }
 }
 
 scrapeMatches();
