@@ -2,7 +2,48 @@ import axios from 'axios';
 import fs from 'fs';
 
 /**
- * دالة لاستخراج الرابط المباشر m3u8 من المشغل
+ * دالة لاستخراج رابط السيرفر (iframe src) من صفحة المباراة الرئيسية
+ */
+async function getServerIframeUrl(pageUrl) {
+    if (!pageUrl) return "";
+    
+    try {
+        const { data } = await axios.get(pageUrl, {
+            headers: { 
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Referer': 'https://liva7hd.info/'
+            },
+            timeout: 10000 
+        });
+
+        // جلب جميع وسوم iframe في الصفحة
+        const iframes = data.match(/<iframe[^>]+>/gi) || [];
+        
+        // البحث عن الـ iframe الخاص بالمشغل الرئيسي
+        for (let iframe of iframes) {
+            if (iframe.includes('id="main-player"') || iframe.includes("id='main-player'")) {
+                const srcMatch = iframe.match(/src=["']([^"']+)["']/i);
+                if (srcMatch) return srcMatch[1];
+            }
+        }
+
+        // خطة بديلة: البحث عن أي iframe يحتوي رابطه على "/tv/"
+        for (let iframe of iframes) {
+            const srcMatch = iframe.match(/src=["']([^"']+)["']/i);
+            if (srcMatch && srcMatch[1].includes('/tv/')) {
+                return srcMatch[1];
+            }
+        }
+
+        return "";
+    } catch (e) {
+        console.log(`⚠️ فشل في جلب رابط السيرفر من: ${pageUrl}`);
+        return "";
+    }
+}
+
+/**
+ * دالة لاستخراج الرابط المباشر m3u8 من رابط السيرفر المستخرج
  */
 async function getDirectStream(iframeUrl) {
     if (!iframeUrl) return "";
@@ -13,7 +54,7 @@ async function getDirectStream(iframeUrl) {
         const { data } = await axios.get(fullIframeUrl, { 
             headers: { 
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Referer': 'https://liva7hd.info/', // تم التحديث ليطابق الموقع الجديد
+                'Referer': 'https://liva7hd.info/',
                 'Accept': '*/*'
             },
             timeout: 10000 
@@ -51,13 +92,12 @@ async function getDirectStream(iframeUrl) {
 }
 
 /**
- * السكريبت الرئيسي للتعامل مع الـ API الجديد
+ * السكريبت الرئيسي للتعامل مع الـ API
  */
 async function scrapeMatches() {
     try {
         console.log("🚀 جاري جلب المباريات من الـ API...");
         
-        // الرابط الجديد
         const apiUrl = `https://liva7hd.info/wp-content/themes/jannah-1/MatchesPanel/api/matches.php?v=${Date.now()}`;
         
         const { data } = await axios.get(apiUrl, {
@@ -66,59 +106,62 @@ async function scrapeMatches() {
             }
         });
 
-        // الحصول على مصفوفة المباريات من الـ JSON
         const matchesData = data.matches || [];
         const formattedMatches = [];
 
         for (let i = 0; i < matchesData.length; i++) {
             const matchInfo = matchesData[i];
             
-            // استخراج الأسماء من الكائنات المتداخلة في الـ API الجديد
             const team1Name = matchInfo.team1?.name || "";
             const team2Name = matchInfo.team2?.name || "";
 
-            console.log(`🔍 جاري استخراج: ${team1Name} vs ${team2Name}`);
+            console.log(`🔍 جاري معالجة: ${team1Name} vs ${team2Name}`);
 
-            // استخراج رابط البث من meta.link
-            const streamUrl = matchInfo.meta?.link || "";
+            // 1. رابط الصفحة الرئيسية للمباراة
+            const matchPageLink = matchInfo.meta?.link || "";
+            
+            // 2. استخراج رابط السيرفر (iframe)
+            let streamUrl = "";
+            if (matchPageLink) {
+                streamUrl = await getServerIframeUrl(matchPageLink);
+            }
 
-            // محاولة جلب رابط البث المباشر (m3u8)
+            // 3. استخراج رابط البث (m3u8) من السيرفر
             let directStream = "";
             if (streamUrl) {
+                console.log(`🌐 تم العثور على رابط السيرفر، جاري فك التشفير...`);
                 directStream = await getDirectStream(streamUrl);
             }
 
             if (directStream) {
-                console.log(`✅ تم العثور على الرابط المباشر!`);
+                console.log(`✅ تم العثور على الرابط المباشر (m3u8)!`);
             } else {
-                console.log(`❌ لم يتم العثور على رابط مباشر`);
+                console.log(`❌ لم يتم العثور على رابط m3u8`);
             }
 
-            // تحويل حالة المباراة
             let matchStatus = matchInfo.meta?.status || "";
             if (matchStatus && matchStatus.toLowerCase() === "live") {
                 matchStatus = "جارية الآن";
             }
 
-            // تجهيز الكائن بالشكل القديم تماماً للحفاظ على نفس هيكل الـ JSON الناتج
+            // هيكل الـ JSON المطلوب بدون تغيير
             const match = {
                 id: i + 1,
                 team1: team1Name,
                 team1Logo: matchInfo.team1?.logo || "",
                 team2: team2Name,
                 team2Logo: matchInfo.team2?.logo || "",
-                time: "", // تركت فارغة لأن الـ API الجديد لا يعرض وقت المباراة في هذا المستوى
+                time: "", 
                 status: matchStatus,
-                channel: matchInfo.meta?.channel || matchInfo.meta?.commentator || "", // أولوية للقناة ثم المعلق
+                channel: matchInfo.meta?.channel || matchInfo.meta?.commentator || "",
                 league: matchInfo.meta?.champ || "",
-                streamUrl: streamUrl,
-                stream: directStream
+                streamUrl: streamUrl, // تم وضع رابط الـ iframe هنا
+                stream: directStream  // تم وضع رابط الـ m3u8 هنا
             };
 
             formattedMatches.push(match);
         }
 
-        // حفظ البيانات في الملف
         fs.writeFileSync('matches.json', JSON.stringify(formattedMatches, null, 2), 'utf8');
         console.log("---");
         console.log(`✅ انتهى العمل. تم حفظ ${formattedMatches.length} مباراة في matches.json بنجاح.`);
