@@ -13,13 +13,15 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3 # ✅ تم التصحيح هنا: استخدام إعداد Node.js الصحيح
+        uses: actions/setup-node@v3
         with:
           node-version: '18'
 
       - name: Install Dependencies
-        # ✅ تم التحديث هنا: إزالة cheerio وإضافة puppeteer
-        run: npm install axios puppeteer
+        # إضافة الأمر الخاص بتحميل متصفح كروم الخاص بـ Puppeteer
+        run: |
+          npm install axios puppeteer
+          npx puppeteer browsers install chrome
 
       - name: Run Scraper
         run: node football.js
