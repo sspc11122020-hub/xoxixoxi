@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import { JSDOM } from "jsdom";
 import { fileURLToPath } from "url";
-import puppeteer from "puppeteer"; // المكتبة الجديدة للقيام بعملية النقر الفعلي
+import puppeteer from "puppeteer";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -98,7 +98,7 @@ async function extractWatchServers(watchUrl) {
         
         const page = await browser.newPage();
         
-        // منع تحميل الصور والخطوط لتسريع التصفح وتوفير البيانات
+        // منع تحميل الصور والخطوط لتسريع التصفح
         await page.setRequestInterception(true);
         page.on('request', (req) => {
             if (['image', 'font'].includes(req.resourceType())) {
@@ -153,7 +153,7 @@ async function extractWatchServers(watchUrl) {
             if (iframeSrc) {
                 let m3u8Url = iframeSrc.includes('.m3u8') ? iframeSrc : null;
                 
-                // (اختياري) إذا لم يكن الرابط m3u8 صريحاً، نقوم بفحص كود الـ iframe في الخلفية
+                // إذا لم يكن الرابط m3u8 صريحاً، نقوم بفحص كود الـ iframe في الخلفية لقنصه
                 if (!m3u8Url) {
                     const serverHtml = await fetchPage(iframeSrc);
                     m3u8Url = findM3u8InSource(serverHtml);
@@ -193,4 +193,184 @@ async function extractDownloadServers(downloadUrl) {
         if (!html) return [];
         
         const dom = new JSDOM(html);
-        const doc = dom.window
+        const doc = dom.window.document;
+        const servers = [];
+        
+        // 1. سيرفرات proServer
+        const proServers = doc.querySelectorAll('.proServer a.downloadsLink');
+        proServers.forEach(server => {
+            const nameElement = server.querySelector('.text p');
+            const qualityElement = server.querySelector('.text span');
+            servers.push({
+                name: cleanText(nameElement?.textContent) || "VidTube",
+                url: server.href,
+                quality: cleanText(qualityElement?.textContent) || "متعدد الجودات",
+                type: "pro_server"
+            });
+        });
+        
+        // 2. سيرفرات الجودات DownloadBlock
+        const downloadBlocks = doc.querySelectorAll('.DownloadBlock');
+        downloadBlocks.forEach(block => {
+            const qualityElement = block.querySelector('.download-title span');
+            const quality = qualityElement ? cleanText(qualityElement.textContent) : "1080p";
+            
+            const serverLinks = block.querySelectorAll('ul.download-items a.downloadsLink');
+            serverLinks.forEach(link => {
+                const nameElement = link.querySelector('.text p');
+                servers.push({
+                    name: cleanText(nameElement?.textContent) || quality,
+                    url: link.href,
+                    quality: quality,
+                    type: "download_server"
+                });
+            });
+        });
+        
+        return servers.filter((server, index, self) => index === self.findIndex((s) => s.url === server.url));
+        
+    } catch (error) {
+        console.log(`   ⚠️ خطأ في سيرفرات التحميل: ${error.message}`);
+        return [];
+    }
+}
+
+// ==================== استخراج التفاصيل الكاملة للفيلم ====================
+async function fetchMovieDetails(movie, position, total) {
+    console.log(`\n🎬 [${position}/${total}] جاري استخراج تفاصيل: ${movie.title}...`);
+    
+    try {
+        const html = await fetchPage(movie.url);
+        if (!html) return null;
+        
+        const dom = new JSDOM(html);
+        const doc = dom.window.document;
+        
+        const shortLinkInput = doc.querySelector('input#shortlink');
+        let shortLink = shortLinkInput ? shortLinkInput.value : movie.url;
+        const movieId = extractMovieId(shortLink);
+        
+        const titleElement = doc.querySelector("h1.post-title a") || doc.querySelector(".post-title");
+        const title = cleanText(titleElement?.textContent || movie.title);
+        
+        let image = doc.querySelector(".image img")?.src || doc.querySelector("img[src*='MV5B']")?.src;
+        const imdbElement = doc.querySelector(".imdbR span, .imdbRating span");
+        const imdbRating = imdbElement ? cleanText(imdbElement.textContent) : null;
+        
+        const storyElement = doc.querySelector(".story p, .entry-content p");
+        const story = cleanText(storyElement?.textContent) || "غير متوفر";
+        
+        const details = {};
+        const detailItems = doc.querySelectorAll("ul.RightTaxContent li, .post-details li, .movie-details li");
+        
+        detailItems.forEach(item => {
+            const labelElement = item.querySelector("span, strong:first-child");
+            if (labelElement) {
+                let label = cleanText(labelElement.textContent).replace(":", "").trim();
+                let value = cleanText(item.textContent.replace(labelElement.textContent, ""));
+                const links = item.querySelectorAll("a");
+                const linkTexts = links.length > 0 ? Array.from(links).map(a => cleanText(a.textContent)) : [];
+                
+                if (label.includes('قسم') || label.includes('التصنيف')) details["قسم الفيلم"] = linkTexts.length > 0 ? linkTexts : [value];
+                else if (label.includes('نوع')) details["نوع الفيلم"] = linkTexts.length > 0 ? linkTexts : [value];
+                else if (label.includes('جودة')) details["جودة الفيلم"] = linkTexts.length > 0 ? linkTexts : [value];
+                else if (label.includes('توقيت') || label.includes('مدة')) details["توقيت الفيلم"] = value;
+                else if (label.includes('صدور') || label.includes('تاريخ')) details["موعد الصدور"] = linkTexts.length > 0 ? linkTexts : [value];
+                else if (label.includes('دولة')) details["دولة الفيلم"] = linkTexts.length > 0 ? linkTexts : [value];
+                else if (label.includes('مخرج')) details["المخرجين"] = linkTexts.length > 0 ? linkTexts : [value];
+                else if (label.includes('بطولة')) details["بطولة"] = linkTexts.length > 0 ? linkTexts : value.split(',');
+            }
+        });
+
+        const watchButton = doc.querySelector('a.watch, a[href*="/watch/"], .watch-btn a');
+        const downloadButton = doc.querySelector('a.download, a[href*="/download/"], .download-btn a');
+        
+        let watchServers = [];
+        if (watchButton && watchButton.href) {
+            watchServers = await extractWatchServers(watchButton.href);
+        } else {
+            watchServers = await extractWatchServers(movie.url);
+        }
+        
+        let downloadServers = [];
+        if (downloadButton && downloadButton.href) {
+            downloadServers = await extractDownloadServers(downloadButton.href);
+        }
+        
+        return {
+            id: movieId,
+            title: title,
+            url: movie.url,
+            shortLink: shortLink,
+            image: image || null,
+            imdbRating: imdbRating,
+            story: story,
+            details: details,
+            watchServers: watchServers,
+            downloadServers: downloadServers,
+            scrapedAt: new Date().toISOString()
+        };
+        
+    } catch (error) {
+        console.log(` ❌ خطأ في تفاصيل الفيلم: ${error.message}`);
+        return null;
+    }
+}
+
+// ==================== الدالة الأساسية للتشغيل ====================
+async function startScraping() {
+    console.log("🚀 بدء استخراج الصفحة الأولى فقط من قسم الأفلام...");
+    const url = `${BASE_URL}/movies/`;
+    
+    const html = await fetchPage(url);
+    if (!html) {
+        console.log("❌ فشل جلب الصفحة الرئيسية للموقع.");
+        return;
+    }
+    
+    const dom = new JSDOM(html);
+    const doc = dom.window.document;
+    const initialMovies = [];
+    
+    const movieElements = doc.querySelectorAll('.Small--Box a.recent--block');
+    console.log(`✅ تم العثور على ${movieElements.length} فيلم في الصفحة الأولى.`);
+    
+    movieElements.forEach((element, i) => {
+        let movieUrl = element.href;
+        if (movieUrl) {
+            if (movieUrl.startsWith('/')) movieUrl = BASE_URL + movieUrl;
+            
+            const titleElement = element.querySelector('h3.title') || element.querySelector('.title');
+            const title = cleanText(titleElement?.textContent || `فيلم ${i + 1}`);
+            
+            initialMovies.push({
+                title: title,
+                url: movieUrl
+            });
+        }
+    });
+    
+    const finalMoviesList = [];
+    
+    for (let i = 0; i < initialMovies.length; i++) {
+        const movieDetails = await fetchMovieDetails(initialMovies[i], i + 1, initialMovies.length);
+        if (movieDetails) {
+            finalMoviesList.push(movieDetails);
+        }
+        await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+    
+    const fileContent = {
+        fileName: "Home.json",
+        description: "أفلام الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة بالكامل",
+        totalMovies: finalMoviesList.length,
+        lastUpdated: new Date().toISOString(),
+        movies: finalMoviesList
+    };
+    
+    fs.writeFileSync(HOME_FILE, JSON.stringify(fileContent, null, 2));
+    console.log(`\n🏠 اكتملت العملية بنجاح! تم حفظ الصفحة الأولى في: ${HOME_FILE}`);
+}
+
+// تشغيل السكريبت
+startScraping();
