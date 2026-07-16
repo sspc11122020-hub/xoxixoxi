@@ -88,7 +88,7 @@ function findM3u8InSource(htmlContent) {
 // ==================== استخراج سيرفرات المشاهدة وروابط m3u8 ====================
 async function extractWatchServers(watchUrl) {
     try {
-        console.log(`   👁️ جاري استخراج سيرفرات المشاهدة والبحث عن m3u8...`);
+        console.log(`   👁️ جاري استخراج جميع سيرفرات المشاهدة من الصفحة...`);
         const html = await fetchPage(watchUrl);
         if (!html) return [];
         
@@ -96,59 +96,118 @@ async function extractWatchServers(watchUrl) {
         const doc = dom.window.document;
         const servers = [];
         
-        // 1. البحث في Meta Tags
-        const metaTags = ['og:video:secure_url', 'og:video', 'twitter:player:stream', 'video'];
-        metaTags.forEach(property => {
-            const meta = doc.querySelector(`meta[property="${property}"]`) || doc.querySelector(`meta[name="${property}"]`);
-            if (meta && meta.content) {
-                servers.push({
-                    name: "مشاهدة مباشرة",
-                    url: meta.content,
-                    quality: "متعدد الجودات",
-                    type: "meta_stream",
-                    m3u8Url: meta.content.includes('.m3u8') ? meta.content : null
-                });
-            }
-        });
+        // البحث عن قائمة السيرفرات التي قدمتها
+        const serverItems = doc.querySelectorAll('.watch--servers--list ul li.server--item');
         
-        // 2. البحث في الـ Iframes والـ Embeds والتعمق داخل أكواد السيرفرات الداخلية
-        const iframes = doc.querySelectorAll('iframe[src*="embed"], iframe[src*="video"], iframe[src*="player"], iframe[src*="vtt"], iframe[src*="ramp"]');
-        for (let i = 0; i < iframes.length; i++) {
-            let src = iframes[i].src;
-            if (src) {
-                // إصلاح الروابط النسبية لو وجدت
-                if (src.startsWith('//')) src = 'https:' + src;
-                
-                let m3u8Url = src.includes('.m3u8') ? src : null;
-                
-                // الدخول لعمق السيرفر (محاكاة الـ Network Sniffer) لقنص رابط الـ m3u8 الفعلي للمشغل
-                if (!m3u8Url) {
-                    const serverHtml = await fetchPage(src);
-                    m3u8Url = findM3u8InSource(serverHtml);
+        if (serverItems.length > 0) {
+            console.log(`   🔍 تم العثور على أزرار لـ ${serverItems.length} سيرفر، جاري فحصها...`);
+            
+            // البحث عن الـ iframe النشط حالياً في الصفحة
+            const activeIframeElement = doc.querySelector('iframe[src*="embed"], iframe[src*="video"], iframe[src*="player"]');
+            const activeIframeSrc = activeIframeElement ? activeIframeElement.src : null;
+
+            for (let i = 0; i < serverItems.length; i++) {
+                const item = serverItems[i];
+                const serverName = cleanText(item.querySelector('span')?.textContent) || `سيرفر ${i + 1}`;
+                const dataId = item.getAttribute('data-id');
+                const dataServer = item.getAttribute('data-server');
+                const isActive = item.classList.contains('active');
+
+                let iframeSrc = null;
+
+                if (isActive && activeIframeSrc) {
+                    // إذا كان السيرفر هو النشط، نأخذ رابط الـ iframe الموجود أصلاً في الصفحة
+                    iframeSrc = activeIframeSrc;
+                } else if (dataId && dataServer) {
+                    // إذا كان السيرفر غير نشط، نحاكي طلب الجافا سكريبت (AJAX) لجلبه
+                    try {
+                        const ajaxUrl = `${BASE_URL}/wp-admin/admin-ajax.php`;
+                        const params = new URLSearchParams();
+                        
+                        // Action الشائع في قوالب ووردبريس الخاصة بالأفلام
+                        params.append('action', 'ts_get_server'); 
+                        params.append('post_id', dataId);
+                        params.append('server', dataServer);
+
+                        const ajaxRes = await fetch(ajaxUrl, {
+                            method: 'POST',
+                            body: params,
+                            headers: {
+                                'Content-Type': 'application/x-www-form-urlencoded',
+                                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+                                'X-Requested-With': 'XMLHttpRequest', // ضروري ليعتبره الموقع طلب AJAX
+                                'Referer': watchUrl
+                            }
+                        });
+
+                        if (ajaxRes.ok) {
+                            const ajaxText = await ajaxRes.text();
+                            // تحليل رد الـ AJAX حسب ما يرسله الموقع
+                            if (ajaxText.includes('<iframe')) {
+                                const ajaxDom = new JSDOM(ajaxText);
+                                const iframe = ajaxDom.window.document.querySelector('iframe');
+                                if (iframe && iframe.src) iframeSrc = iframe.src;
+                            } else if (ajaxText.startsWith('http')) {
+                                iframeSrc = ajaxText.replace(/\\/g, '').replace(/"/g, '').trim();
+                            } else {
+                                // محاولة التقاط أي رابط مضمن بصيغة JSON
+                                const linkMatch = ajaxText.match(/(https?:\/\/[^"'\s]+embed[^"'\s]+)/);
+                                if (linkMatch) iframeSrc = linkMatch[1];
+                            }
+                        }
+                    } catch (ajaxError) {
+                        console.log(`   ⚠️ فشل جلب السيرفر ${serverName} عبر الـ AJAX.`);
+                    }
                 }
 
-                servers.push({
-                    name: `سيرفر مشاهدة ${i + 1}`,
-                    url: src,
-                    quality: "متعدد الجودات",
-                    type: "iframe",
-                    m3u8Url: m3u8Url
-                });
+                if (iframeSrc) {
+                    if (iframeSrc.startsWith('//')) iframeSrc = 'https:' + iframeSrc;
+                    
+                    let m3u8Url = iframeSrc.includes('.m3u8') ? iframeSrc : null;
+                    
+                    // البحث داخل الـ iframe إذا لم يكن الرابط m3u8 بشكل صريح
+                    if (!m3u8Url) {
+                        const serverHtml = await fetchPage(iframeSrc);
+                        m3u8Url = findM3u8InSource(serverHtml);
+                    }
+
+                    servers.push({
+                        name: serverName,
+                        url: iframeSrc,
+                        quality: "متعدد الجودات",
+                        type: isActive ? "iframe_active" : "iframe_ajax",
+                        m3u8Url: m3u8Url
+                    });
+                    
+                    // تأخير 500 ملي ثانية لتفادي ضغط السيرفر أو الحظر
+                    await new Promise(resolve => setTimeout(resolve, 500));
+                }
             }
-        }
+        } 
         
-        // 3. فحص عام لكود الصفحة بالكامل لربما يكون هناك كود مشغل مدمج مباشرة (Inline Player)
-        const generalM3u8 = findM3u8InSource(html);
-        if (generalM3u8 && servers.length > 0 && !servers[0].m3u8Url) {
-            servers[0].m3u8Url = generalM3u8;
-        } else if (generalM3u8 && servers.length === 0) {
-            servers.push({
-                name: "مشغل مدمج",
-                url: watchUrl,
-                quality: "تلقائي",
-                type: "inline",
-                m3u8Url: generalM3u8
-            });
+        // مسار بديل (Fallback): إذا لم يجد أزرار السيرفرات يبحث عن أي iframe في الصفحة
+        if (servers.length === 0) {
+            const iframes = doc.querySelectorAll('iframe[src*="embed"], iframe[src*="video"], iframe[src*="player"], iframe[src*="vtt"], iframe[src*="ramp"]');
+            for (let i = 0; i < iframes.length; i++) {
+                let src = iframes[i].src;
+                if (src) {
+                    if (src.startsWith('//')) src = 'https:' + src;
+                    let m3u8Url = src.includes('.m3u8') ? src : null;
+                    
+                    if (!m3u8Url) {
+                        const serverHtml = await fetchPage(src);
+                        m3u8Url = findM3u8InSource(serverHtml);
+                    }
+
+                    servers.push({
+                        name: `سيرفر مشاهدة ${i + 1}`,
+                        url: src,
+                        quality: "متعدد الجودات",
+                        type: "iframe_fallback",
+                        m3u8Url: m3u8Url
+                    });
+                }
+            }
         }
         
         console.log(`   ✅ تم العثور على ${servers.length} سيرفر مشاهدة.`);
@@ -259,7 +318,6 @@ async function fetchMovieDetails(movie, position, total) {
             }
         });
 
-        // التقاط أزرار المشاهدة والتحميل والتعامل مع الروابط بذكاء
         const watchButton = doc.querySelector('a.watch, a[href*="/watch/"], .watch-btn a');
         const downloadButton = doc.querySelector('a.download, a[href*="/download/"], .download-btn a');
         
@@ -267,7 +325,6 @@ async function fetchMovieDetails(movie, position, total) {
         if (watchButton && watchButton.href) {
             watchServers = await extractWatchServers(watchButton.href);
         } else {
-            // في حال كانت السيرفرات مدمجة بنفس الصفحة مباشرة ولم تكن بصفحة منفصلة
             watchServers = await extractWatchServers(movie.url);
         }
         
@@ -318,43 +375,7 @@ async function startScraping() {
     movieElements.forEach((element, i) => {
         let movieUrl = element.href;
         if (movieUrl) {
-            // إصلاح الرابط لو كان نسبياً
             if (movieUrl.startsWith('/')) movieUrl = BASE_URL + movieUrl;
             
             const titleElement = element.querySelector('h3.title') || element.querySelector('.title');
-            const title = cleanText(titleElement?.textContent || `فيلم ${i + 1}`);
-            
-            initialMovies.push({
-                title: title,
-                url: movieUrl
-            });
-        }
-    });
-    
-    const finalMoviesList = [];
-    
-    // المرور الفعلي على الأفلام وفحص السيرفرات وروابط الـ m3u8 بالتفصيل
-    for (let i = 0; i < initialMovies.length; i++) {
-        const movieDetails = await fetchMovieDetails(initialMovies[i], i + 1, initialMovies.length);
-        if (movieDetails) {
-            finalMoviesList.push(movieDetails);
-        }
-        // تأخير ثانية واحدة لتفادي الحظر وحماية السيرفر
-        await new Promise(resolve => setTimeout(resolve, 1000));
-    }
-    
-    // بناء وتخزين ملف الـ Home.json
-    const fileContent = {
-        fileName: "Home.json",
-        description: "أفلام الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
-        totalMovies: finalMoviesList.length,
-        lastUpdated: new Date().toISOString(),
-        movies: finalMoviesList
-    };
-    
-    fs.writeFileSync(HOME_FILE, JSON.stringify(fileContent, null, 2));
-    console.log(`\n🏠 اكتملت العملية بنجاح! تم حفظ الصفحة الأولى في: ${HOME_FILE}`);
-}
-
-// تشغيل السكريبت
-startScraping();
+            const title
