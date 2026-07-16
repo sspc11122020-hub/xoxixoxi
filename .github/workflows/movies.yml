@@ -1,4 +1,4 @@
-name:  افلام
+name: افلام
 
 on:
   schedule:
@@ -28,7 +28,7 @@ jobs:
     - name: Ensure movies directory exists
       run: mkdir -p movies
 
-    # 1️⃣ المزامنة والتنظيف تتم أولاً وهي فارغة
+    # 1️⃣ المزامنة والتنظيف
     - name: Synchronize with remote
       run: |
         git config --global user.name "GitHub Actions Bot"
@@ -37,14 +37,23 @@ jobs:
         git reset --hard origin/main
         git clean -fd
     
-    # 2️⃣ التثبيت يتم الآن بناءً على الـ package.json الخاص بك لضمان بقاء الحزم
-    - name: Install Dependencies
-      run: npm install
+    # 2️⃣ تثبيت حزم النظام المطلوبة لتشغيل متصفح كروم المخفي (Puppeteer)
+    - name: Install System Dependencies for Puppeteer
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libasound2
         
-    # 3️⃣ تشغيل السكربت مباشرة بعد التثبيت
+    # 3️⃣ تثبيت الحزم الخاصة بالمشروع والتأكد من تحميل متصفح Puppeteer
+    - name: Install Dependencies
+      run: |
+        npm install
+        npm install puppeteer jsdom # للضمان في حال لم تكن موجودة في package.json
+        npx puppeteer browsers install chrome # أمر إجباري في النسخ الحديثة لضمان تحميل الكروم
+        
+    # 4️⃣ تشغيل السكربت
     - name: Run movie scraper
       run: |
-        echo "🎬 بدء استخراج الأفلام..."
+        echo "🎬 بدء استخراج الأفلام والسيرفرات..."
         node movies.js --daily-update
       continue-on-error: true
     
@@ -59,11 +68,12 @@ jobs:
           echo "has_changes=false" >> $GITHUB_OUTPUT
         fi
     
+    # 5️⃣ الرفع (Push)
     - name: Push changes (if any)
       if: steps.changes.outputs.has_changes == 'true'
       run: |
         git add movies/
-        COMMIT_MSG="🎬 تحديث الأفلام - $(date +'%Y-%m-%d %H:%M')"
+        COMMIT_MSG="🎬 تحديث الأفلام والسيرفرات - $(date +'%Y-%m-%d %H:%M')"
         git commit -m "$COMMIT_MSG"
         
         ATTEMPT=1
