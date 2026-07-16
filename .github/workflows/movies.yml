@@ -37,20 +37,20 @@ jobs:
         git reset --hard origin/main
         git clean -fd
     
-    # 2️⃣ تثبيت حزم النظام المطلوبة لتشغيل متصفح كروم المخفي (Puppeteer)
+    # 2️⃣ تثبيت حزم النظام المطلوبة لـ Puppeteer (تم التحديث لـ Ubuntu 24.04)
     - name: Install System Dependencies for Puppeteer
       run: |
         sudo apt-get update
-        sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libasound2
+        sudo apt-get install -y libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libasound2t64
         
-    # 3️⃣ تثبيت الحزم الخاصة بالمشروع والتأكد من تحميل متصفح Puppeteer
+    # 3️⃣ تثبيت الحزم الخاصة بالمشروع وتحميل متصفح Chrome لـ Puppeteer
     - name: Install Dependencies
       run: |
         npm install
-        npm install puppeteer jsdom # للضمان في حال لم تكن موجودة في package.json
-        npx puppeteer browsers install chrome # أمر إجباري في النسخ الحديثة لضمان تحميل الكروم
+        npm install puppeteer jsdom
+        npx puppeteer browsers install chrome
         
-    # 4️⃣ تشغيل السكربت
+    # 4️⃣ تشغيل السكربت (تأكد أن اسم ملف الجافا سكريبت هو movies.js)
     - name: Run movie scraper
       run: |
         echo "🎬 بدء استخراج الأفلام والسيرفرات..."
@@ -68,7 +68,7 @@ jobs:
           echo "has_changes=false" >> $GITHUB_OUTPUT
         fi
     
-    # 5️⃣ الرفع (Push)
+    # 5️⃣ رفع التعديلات تلقائياً إلى مستودعك
     - name: Push changes (if any)
       if: steps.changes.outputs.has_changes == 'true'
       run: |
@@ -79,7 +79,7 @@ jobs:
         ATTEMPT=1
         MAX_ATTEMPTS=3
         
-        while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
+        while [ $ATTEMPT -le$MAX_ATTEMPTS ]; do
           echo "🚀 محاولة Push #$ATTEMPT"
           
           if git pull --rebase origin main; then
@@ -95,7 +95,7 @@ jobs:
             echo "❌ فشل pull في المحاولة #$ATTEMPT"
           fi
           
-          if [ $ATTEMPT -eq $MAX_ATTEMPTS ]; then
+          if [ $ATTEMPT -eq$MAX_ATTEMPTS ]; then
             echo "💥 فشلت جميع المحاولات"
             exit 1
           fi
