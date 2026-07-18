@@ -60,7 +60,7 @@ async function scrapeMatches() {
     let browser = null;
     try {
         browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox'] });
-        const { data } = await axios.get('https://liva7hd.info/wp-content/themes/jannah-1/MatchesPanel/api/matches.php?v=' + Date.now());
+        const { data } = await axios.get('https://yallakora.world/api.php?day=today' + Date.now());
         const matchesData = data.matches || [];
         const formattedMatches = [];
 
