@@ -2,14 +2,116 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-07-26T08:22:02.760Z",
+  "lastUpdated": "2026-07-26T13:12:56.959Z",
   "series": [
+    {
+      "id": "236352",
+      "title": "مسلسل The Walking Dead: Dead City الموسم الثالث الحلقة 1 مترجمة",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-walking-dead-dead-city-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236352",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/f4njNMbHfpuD0ibQb49c4wxZE6E-433x650.jpg",
+      "imdbRating": "7",
+      "story": "يتوجه (نيجان) و(ماجي) إلى حيّ مانهاتن ما بعد نهاية العالم، حيث أصبح جزيرة منفصلة تحكمها جماعات الزومبي، والمجتمعات الخطرة، التي نشأت بين أنقاض مدينة مُحطَمة، ويواجهان صراعًا من أجل البقاء.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما",
+          "رعب",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Kevin Dowling",
+          "Loren Yaconelli"
+        ],
+        "بطولة": [
+          "Aimee Garcia",
+          "Aixa Kendrick",
+          "Alex Borlo",
+          "Christopher C. James"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-walking-dead-dead-city-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-kxtwn86f32sz.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/kxtwn86f32sz.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/qga1lfzefvck",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/m9sgqwychjvh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/DC7779929280DA1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a49a871fbf75c8537c13e43ca020e95e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/68qo",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4dAev",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-26T13:10:43.290Z"
+    },
     {
       "id": "236222",
       "title": "مسلسل ER الموسم الثالث الحلقة 22 والاخيرة مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236222",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236222",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -39,7 +141,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -96,14 +198,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:03.241Z"
+      "scrapedAt": "2026-07-26T13:10:46.271Z"
     },
     {
       "id": "236221",
       "title": "مسلسل ER الموسم الثالث الحلقة 21 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236221",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236221",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -133,7 +235,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -190,14 +292,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:05.565Z"
+      "scrapedAt": "2026-07-26T13:10:48.668Z"
     },
     {
       "id": "236220",
       "title": "مسلسل ER الموسم الثالث الحلقة 20 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236220",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236220",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -227,7 +329,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -284,14 +386,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:08.096Z"
+      "scrapedAt": "2026-07-26T13:10:51.244Z"
     },
     {
       "id": "236219",
       "title": "مسلسل ER الموسم الثالث الحلقة 19 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236219",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236219",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -321,7 +423,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -378,14 +480,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:10.387Z"
+      "scrapedAt": "2026-07-26T13:10:54.034Z"
     },
     {
       "id": "236218",
       "title": "مسلسل ER الموسم الثالث الحلقة 18 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236218",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236218",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -415,7 +517,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -472,14 +574,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:12.627Z"
+      "scrapedAt": "2026-07-26T13:10:56.350Z"
     },
     {
       "id": "236217",
       "title": "مسلسل ER الموسم الثالث الحلقة 17 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236217",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236217",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -509,7 +611,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -566,14 +668,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:14.902Z"
+      "scrapedAt": "2026-07-26T13:10:58.643Z"
     },
     {
       "id": "236214",
       "title": "مسلسل ER الموسم الثالث الحلقة 16 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236214",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236214",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -603,7 +705,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -660,14 +762,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:17.140Z"
+      "scrapedAt": "2026-07-26T13:11:00.979Z"
     },
     {
       "id": "236215",
       "title": "مسلسل ER الموسم الثالث الحلقة 15 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236215",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236215",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -697,7 +799,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -754,14 +856,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:19.402Z"
+      "scrapedAt": "2026-07-26T13:11:03.284Z"
     },
     {
       "id": "236213",
       "title": "مسلسل ER الموسم الثالث الحلقة 14 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236213",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236213",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -791,7 +893,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -848,14 +950,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:21.674Z"
+      "scrapedAt": "2026-07-26T13:11:05.622Z"
     },
     {
       "id": "236216",
       "title": "مسلسل ER الموسم الثالث الحلقة 13 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236216",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236216",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -885,7 +987,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -942,14 +1044,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:23.857Z"
+      "scrapedAt": "2026-07-26T13:11:09.238Z"
     },
     {
       "id": "236212",
       "title": "مسلسل ER الموسم الثالث الحلقة 12 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236212",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236212",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -979,7 +1081,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1036,14 +1138,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:26.110Z"
+      "scrapedAt": "2026-07-26T13:11:11.543Z"
     },
     {
       "id": "236210",
       "title": "مسلسل ER الموسم الثالث الحلقة 11 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236210",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236210",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1073,7 +1175,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1130,14 +1232,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:29.373Z"
+      "scrapedAt": "2026-07-26T13:11:13.878Z"
     },
     {
       "id": "236209",
       "title": "مسلسل ER الموسم الثالث الحلقة 10 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236209",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236209",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1167,7 +1269,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1224,14 +1326,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:31.554Z"
+      "scrapedAt": "2026-07-26T13:11:16.232Z"
     },
     {
       "id": "236208",
       "title": "مسلسل ER الموسم الثالث الحلقة 9 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236208",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236208",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1261,7 +1363,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1318,14 +1420,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:33.735Z"
+      "scrapedAt": "2026-07-26T13:11:18.603Z"
     },
     {
       "id": "236207",
       "title": "مسلسل ER الموسم الثالث الحلقة 8 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236207",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236207",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1355,7 +1457,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1412,14 +1514,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:35.831Z"
+      "scrapedAt": "2026-07-26T13:11:20.900Z"
     },
     {
       "id": "236206",
       "title": "مسلسل ER الموسم الثالث الحلقة 7 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236206",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236206",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1449,7 +1551,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1506,14 +1608,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:38.018Z"
+      "scrapedAt": "2026-07-26T13:11:24.921Z"
     },
     {
       "id": "236205",
       "title": "مسلسل ER الموسم الثالث الحلقة 6 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236205",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236205",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1543,7 +1645,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1600,14 +1702,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:40.115Z"
+      "scrapedAt": "2026-07-26T13:11:27.227Z"
     },
     {
       "id": "236204",
       "title": "مسلسل ER الموسم الثالث الحلقة 5 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236204",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236204",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1637,7 +1739,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1694,14 +1796,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:42.273Z"
+      "scrapedAt": "2026-07-26T13:11:29.515Z"
     },
     {
       "id": "236203",
       "title": "مسلسل ER الموسم الثالث الحلقة 4 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236203",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236203",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1731,7 +1833,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1788,14 +1890,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:44.247Z"
+      "scrapedAt": "2026-07-26T13:11:31.849Z"
     },
     {
       "id": "236202",
       "title": "مسلسل ER الموسم الثالث الحلقة 3 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236202",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236202",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1825,7 +1927,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1882,14 +1984,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:46.331Z"
+      "scrapedAt": "2026-07-26T13:11:34.234Z"
     },
     {
       "id": "236201",
       "title": "مسلسل ER الموسم الثالث الحلقة 2 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236201",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236201",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -1919,7 +2021,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1976,14 +2078,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:49.518Z"
+      "scrapedAt": "2026-07-26T13:11:36.651Z"
     },
     {
       "id": "235330",
       "title": "مسلسل ER الموسم الثالث الحلقة 1 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=235330",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=235330",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/qPKlRDq8lk125u00zWkJj7AhCuK-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثالث من المسلسل، يلحظ جرين أنه يكن مشاعر حب نحو سوزان لويس ويقرر أن يسابق الزمن من أجل اﻹعلان عن مشاعره إليها، ويطلب منها أن تبقى في العمل.",
       "details": {
@@ -2013,7 +2115,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2070,14 +2172,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:51.519Z"
+      "scrapedAt": "2026-07-26T13:11:39.003Z"
     },
     {
       "id": "236180",
       "title": "مسلسل ER الموسم الثاني الحلقة 22 والاخيرة مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236180",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236180",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2107,7 +2209,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2164,14 +2266,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:53.508Z"
+      "scrapedAt": "2026-07-26T13:11:42.669Z"
     },
     {
       "id": "236179",
       "title": "مسلسل ER الموسم الثاني الحلقة 21 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236179",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236179",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2201,7 +2303,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2258,14 +2360,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:55.665Z"
+      "scrapedAt": "2026-07-26T13:11:44.977Z"
     },
     {
       "id": "236178",
       "title": "مسلسل ER الموسم الثاني الحلقة 20 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236178",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236178",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2295,7 +2397,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2352,14 +2454,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:20:57.843Z"
+      "scrapedAt": "2026-07-26T13:11:47.273Z"
     },
     {
       "id": "236177",
       "title": "مسلسل ER الموسم الثاني الحلقة 19 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236177",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236177",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2389,7 +2491,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2446,14 +2548,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:00.034Z"
+      "scrapedAt": "2026-07-26T13:11:49.581Z"
     },
     {
       "id": "236176",
       "title": "مسلسل ER الموسم الثاني الحلقة 18 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236176",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236176",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2483,7 +2585,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2540,14 +2642,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:02.233Z"
+      "scrapedAt": "2026-07-26T13:11:51.899Z"
     },
     {
       "id": "236175",
       "title": "مسلسل ER الموسم الثاني الحلقة 17 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236175",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236175",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2577,7 +2679,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2634,14 +2736,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:04.313Z"
+      "scrapedAt": "2026-07-26T13:11:54.217Z"
     },
     {
       "id": "236174",
       "title": "مسلسل ER الموسم الثاني الحلقة 16 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236174",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236174",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2671,7 +2773,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2728,14 +2830,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:06.369Z"
+      "scrapedAt": "2026-07-26T13:11:56.537Z"
     },
     {
       "id": "236171",
       "title": "مسلسل ER الموسم الثاني الحلقة 15 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236171",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236171",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2765,7 +2867,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2822,14 +2924,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:08.819Z"
+      "scrapedAt": "2026-07-26T13:11:58.879Z"
     },
     {
       "id": "236172",
       "title": "مسلسل ER الموسم الثاني الحلقة 14 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236172",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236172",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2859,7 +2961,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2916,14 +3018,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:11.227Z"
+      "scrapedAt": "2026-07-26T13:12:01.484Z"
     },
     {
       "id": "236173",
       "title": "مسلسل ER الموسم الثاني الحلقة 13 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236173",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236173",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -2953,7 +3055,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3010,14 +3112,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:13.427Z"
+      "scrapedAt": "2026-07-26T13:12:04.151Z"
     },
     {
       "id": "236170",
       "title": "مسلسل ER الموسم الثاني الحلقة 12 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236170",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236170",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3047,7 +3149,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3104,14 +3206,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:15.689Z"
+      "scrapedAt": "2026-07-26T13:12:06.520Z"
     },
     {
       "id": "236168",
       "title": "مسلسل ER الموسم الثاني الحلقة 11 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236168",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236168",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3141,7 +3243,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3198,14 +3300,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:17.854Z"
+      "scrapedAt": "2026-07-26T13:12:08.884Z"
     },
     {
       "id": "236167",
       "title": "مسلسل ER الموسم الثاني الحلقة 10 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236167",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236167",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3235,7 +3337,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3292,14 +3394,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:20.020Z"
+      "scrapedAt": "2026-07-26T13:12:12.126Z"
     },
     {
       "id": "236166",
       "title": "مسلسل ER الموسم الثاني الحلقة 9 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236166",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236166",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3329,7 +3431,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3386,14 +3488,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:22.211Z"
+      "scrapedAt": "2026-07-26T13:12:14.435Z"
     },
     {
       "id": "236165",
       "title": "مسلسل ER الموسم الثاني الحلقة 8 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236165",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236165",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3423,7 +3525,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3480,14 +3582,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:24.370Z"
+      "scrapedAt": "2026-07-26T13:12:16.757Z"
     },
     {
       "id": "236162",
       "title": "مسلسل ER الموسم الثاني الحلقة 7 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236162",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236162",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3517,7 +3619,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3574,14 +3676,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:27.058Z"
+      "scrapedAt": "2026-07-26T13:12:19.086Z"
     },
     {
       "id": "236164",
       "title": "مسلسل ER الموسم الثاني الحلقة 6 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236164",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236164",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3611,7 +3713,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3668,14 +3770,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:29.167Z"
+      "scrapedAt": "2026-07-26T13:12:21.380Z"
     },
     {
       "id": "236163",
       "title": "مسلسل ER الموسم الثاني الحلقة 5 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236163",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236163",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3705,7 +3807,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3762,14 +3864,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:31.256Z"
+      "scrapedAt": "2026-07-26T13:12:23.679Z"
     },
     {
       "id": "236160",
       "title": "مسلسل ER الموسم الثاني الحلقة 4 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236160",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236160",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3799,7 +3901,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3856,14 +3958,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:33.395Z"
+      "scrapedAt": "2026-07-26T13:12:25.971Z"
     },
     {
       "id": "236161",
       "title": "مسلسل ER الموسم الثاني الحلقة 3 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236161",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236161",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3893,7 +3995,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3950,14 +4052,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:36.728Z"
+      "scrapedAt": "2026-07-26T13:12:28.326Z"
     },
     {
       "id": "236159",
       "title": "مسلسل ER الموسم الثاني الحلقة 2 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236159",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236159",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -3987,7 +4089,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4044,14 +4146,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:39.003Z"
+      "scrapedAt": "2026-07-26T13:12:30.661Z"
     },
     {
       "id": "235329",
       "title": "مسلسل ER الموسم الثاني الحلقة 1 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=235329",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=235329",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/9toGbsGgG0EDO9svLEG0jNjP3yw-456x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثاني من المسلسل، يجد جرين نفسه أمام تحد كبير بالموازنة بين عمله وحياته الشخصية، وذلك بعد انتقاله إلى ميلووكي، ويكتشف أن زوجته تخونه، ويطلقها ويبدأ من جديد.",
       "details": {
@@ -4081,7 +4183,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4138,14 +4240,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:41.166Z"
+      "scrapedAt": "2026-07-26T13:12:33.009Z"
     },
     {
       "id": "236136",
       "title": "مسلسل ER الموسم الاول الحلقة 25 والاخيرة مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236136",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236136",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4175,7 +4277,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4232,14 +4334,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:43.257Z"
+      "scrapedAt": "2026-07-26T13:12:35.562Z"
     },
     {
       "id": "236135",
       "title": "مسلسل ER الموسم الاول الحلقة 24 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236135",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236135",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4269,7 +4371,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4326,14 +4428,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:45.326Z"
+      "scrapedAt": "2026-07-26T13:12:37.853Z"
     },
     {
       "id": "236134",
       "title": "مسلسل ER الموسم الاول الحلقة 23 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236134",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236134",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4363,7 +4465,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4420,14 +4522,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:47.408Z"
+      "scrapedAt": "2026-07-26T13:12:40.167Z"
     },
     {
       "id": "236133",
       "title": "مسلسل ER الموسم الاول الحلقة 22 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236133",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236133",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4457,7 +4559,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4514,14 +4616,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:49.486Z"
+      "scrapedAt": "2026-07-26T13:12:43.826Z"
     },
     {
       "id": "236131",
       "title": "مسلسل ER الموسم الاول الحلقة 21 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236131",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236131",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4551,7 +4653,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4608,14 +4710,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:51.594Z"
+      "scrapedAt": "2026-07-26T13:12:46.148Z"
     },
     {
       "id": "236130",
       "title": "مسلسل ER الموسم الاول الحلقة 20 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236130",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236130",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4645,7 +4747,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4702,14 +4804,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:53.647Z"
+      "scrapedAt": "2026-07-26T13:12:48.503Z"
     },
     {
       "id": "236129",
       "title": "مسلسل ER الموسم الاول الحلقة 19 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236129",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236129",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4739,7 +4841,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4796,14 +4898,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:55.728Z"
+      "scrapedAt": "2026-07-26T13:12:50.824Z"
     },
     {
       "id": "236128",
       "title": "مسلسل ER الموسم الاول الحلقة 18 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236128",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236128",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4833,7 +4935,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4890,14 +4992,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:57.783Z"
+      "scrapedAt": "2026-07-26T13:12:53.627Z"
     },
     {
       "id": "236127",
       "title": "مسلسل ER الموسم الاول الحلقة 17 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236127",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
+      "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web2.topcinemaa.com/?p=236127",
+      "image": "https://web2.topcinemaa.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
       "imdbRating": "7.9",
       "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
       "details": {
@@ -4927,7 +5029,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://web2.topcinemaa.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4984,101 +5086,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-26T08:21:59.785Z"
-    },
-    {
-      "id": "236126",
-      "title": "مسلسل ER الموسم الاول الحلقة 16 مترجمة",
-      "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinma.com/?p=236126",
-      "image": "https://topcinma.com/wp-content/uploads/2026/07/psv8MxRRExsUQdMRTJxyIFkceGK-442x650.jpg",
-      "imdbRating": "7.9",
-      "story": "دراما طبية تصور الحياة والموت في غرفة الطوارئ في مستشفى شيكاغو، ففي كل حلقة تحكي عن ما يحصل في غرفة الطوارئ من الإثارة والمتعة والفرح والحزن لتتصور بدقة البيئة المجهدة التي يعيشها الأطباء هناك.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "1994"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinma.com/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-byo3iusqrwr1.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/byo3iusqrwr1.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/dl4dxk9op4fw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/vt96pyk98kkt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/35094A412B05745",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/86b9205ac63f7693dbcaff01f0cf0072",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/evUn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dxx5",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-26T08:22:01.760Z"
+      "scrapedAt": "2026-07-26T13:12:55.958Z"
     }
   ]
 }
