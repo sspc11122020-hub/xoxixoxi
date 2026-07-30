@@ -2,8 +2,614 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-07-30T08:20:01.027Z",
+  "lastUpdated": "2026-07-30T13:50:55.057Z",
   "series": [
+    {
+      "id": "158163",
+      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 6 والاخيرة مترجمة",
+      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cc/?p=158163",
+      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "تاريخي",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adam Rothenberg",
+          "Andrew Rothney",
+          "Archie McCormick",
+          "Connor Swindells"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-n1ujcf8mly1f.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/n1ujcf8mly1f.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/uibmwpzoo30n",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/y33guc5j1e5t",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/B9765E6341B6AF2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?fh1st1zijlzzu9xdt355",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/8f85d8cf71d6d3e9892c75decc9f8e9a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ex7B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xEdu",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-30T13:48:50.031Z"
+    },
+    {
+      "id": "158162",
+      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 5 مترجمة",
+      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cc/?p=158162",
+      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "تاريخي",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adam Rothenberg",
+          "Andrew Rothney",
+          "Archie McCormick",
+          "Connor Swindells"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-crp9w5357g83.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/crp9w5357g83.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/s2u5jaubhahj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/tt2895uuuo0k",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/B314CCA0BDFF52A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?hia85jmbdzz4q4csirp2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/5a899c5838653995087aee107efb01c8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ex7A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xEdt",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-30T13:48:52.297Z"
+    },
+    {
+      "id": "157723",
+      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 4 مترجمة",
+      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cc/?p=157723",
+      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "تاريخي",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adam Rothenberg",
+          "Andrew Rothney",
+          "Archie McCormick",
+          "Connor Swindells"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-cdgy9u93l5ot.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/cdgy9u93l5ot.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/r777c7d5ccgm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/kjht14heqm4o",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/BDF5310B992CA22",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?27zxg8nowb5vy9c38qz2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/f3859e659bb23a00135acc1374ea4cde",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ex7z",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xEdp",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-30T13:48:54.574Z"
+    },
+    {
+      "id": "157660",
+      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 3 مترجمة",
+      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cc/?p=157660",
+      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "تاريخي",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adam Rothenberg",
+          "Andrew Rothney",
+          "Archie McCormick",
+          "Connor Swindells"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-wsg8nfpmbbgb.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/wsg8nfpmbbgb.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/86pd7lioeuul",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/334zllisblkb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/DA9F1FC292BA4C6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?j3fylmsxl3i9xwfmf0wd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/3bd2bc153928ea55e53a2f86793bd332",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ex7w",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xEdn",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-30T13:48:56.835Z"
+    },
+    {
+      "id": "157659",
+      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 2 مترجمة",
+      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cc/?p=157659",
+      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "تاريخي",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adam Rothenberg",
+          "Andrew Rothney",
+          "Archie McCormick",
+          "Connor Swindells"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-y1gn4qyvtjdz.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/y1gn4qyvtjdz.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/vtm8xs5t23o9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/j5dal0e9olda",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/AC560E2DCABDF3D",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?rggdx5pu53pcfouudwkk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/096398189ec6674607687eced5e477e8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ex7v",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xEdj",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-30T13:48:59.036Z"
+    },
+    {
+      "id": "157656",
+      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 1 مترجمة",
+      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.cc/?p=157656",
+      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "تاريخي",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adam Rothenberg",
+          "Andrew Rothney",
+          "Archie McCormick",
+          "Connor Swindells"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-w1u33laxs0hy.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/w1u33laxs0hy.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/pr63totyc8no",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/krmdalizeuwb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/85270B8F1C1845B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?uvgrt7knlqyn0r3clhx2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/be852248eee81d966f2724dd56552dca",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ex7u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xEdh",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-07-30T13:49:01.257Z"
+    },
     {
       "id": "237082",
       "title": "مسلسل The Idaho Murders: College Nightmare الموسم الاول الحلقة 3 والاخيرة مترجمة",
@@ -87,7 +693,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:17:46.610Z"
+      "scrapedAt": "2026-07-30T13:49:04.230Z"
     },
     {
       "id": "237081",
@@ -172,7 +778,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:17:49.244Z"
+      "scrapedAt": "2026-07-30T13:49:06.465Z"
     },
     {
       "id": "237077",
@@ -257,7 +863,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:17:51.878Z"
+      "scrapedAt": "2026-07-30T13:49:08.684Z"
     },
     {
       "id": "237019",
@@ -349,7 +955,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:17:54.336Z"
+      "scrapedAt": "2026-07-30T13:49:10.926Z"
     },
     {
       "id": "237018",
@@ -441,7 +1047,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:17:56.774Z"
+      "scrapedAt": "2026-07-30T13:49:13.163Z"
     },
     {
       "id": "237015",
@@ -533,7 +1139,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:17:59.248Z"
+      "scrapedAt": "2026-07-30T13:49:15.389Z"
     },
     {
       "id": "237014",
@@ -625,7 +1231,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:01.690Z"
+      "scrapedAt": "2026-07-30T13:49:17.824Z"
     },
     {
       "id": "237012",
@@ -717,7 +1323,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:04.125Z"
+      "scrapedAt": "2026-07-30T13:49:20.077Z"
     },
     {
       "id": "236936",
@@ -809,7 +1415,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:06.574Z"
+      "scrapedAt": "2026-07-30T13:49:22.331Z"
     },
     {
       "id": "237002",
@@ -893,7 +1499,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:09.045Z"
+      "scrapedAt": "2026-07-30T13:49:24.574Z"
     },
     {
       "id": "237001",
@@ -977,7 +1583,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:11.498Z"
+      "scrapedAt": "2026-07-30T13:49:26.829Z"
     },
     {
       "id": "237000",
@@ -1061,7 +1667,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:13.955Z"
+      "scrapedAt": "2026-07-30T13:49:29.439Z"
     },
     {
       "id": "236999",
@@ -1145,7 +1751,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:16.556Z"
+      "scrapedAt": "2026-07-30T13:49:31.767Z"
     },
     {
       "id": "236998",
@@ -1229,7 +1835,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:19.007Z"
+      "scrapedAt": "2026-07-30T13:49:34.418Z"
     },
     {
       "id": "236997",
@@ -1313,7 +1919,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:21.602Z"
+      "scrapedAt": "2026-07-30T13:49:36.643Z"
     },
     {
       "id": "236995",
@@ -1397,7 +2003,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:24.052Z"
+      "scrapedAt": "2026-07-30T13:49:38.901Z"
     },
     {
       "id": "236996",
@@ -1481,7 +2087,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:26.491Z"
+      "scrapedAt": "2026-07-30T13:49:41.123Z"
     },
     {
       "id": "236994",
@@ -1565,7 +2171,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:29.053Z"
+      "scrapedAt": "2026-07-30T13:49:43.359Z"
     },
     {
       "id": "236981",
@@ -1649,7 +2255,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:31.478Z"
+      "scrapedAt": "2026-07-30T13:49:45.592Z"
     },
     {
       "id": "236980",
@@ -1733,7 +2339,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:33.736Z"
+      "scrapedAt": "2026-07-30T13:49:47.811Z"
     },
     {
       "id": "236979",
@@ -1817,7 +2423,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:36.293Z"
+      "scrapedAt": "2026-07-30T13:49:50.016Z"
     },
     {
       "id": "236978",
@@ -1901,7 +2507,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:38.746Z"
+      "scrapedAt": "2026-07-30T13:49:52.266Z"
     },
     {
       "id": "236977",
@@ -1985,7 +2591,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:41.174Z"
+      "scrapedAt": "2026-07-30T13:49:54.509Z"
     },
     {
       "id": "236976",
@@ -2069,7 +2675,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:43.521Z"
+      "scrapedAt": "2026-07-30T13:49:56.764Z"
     },
     {
       "id": "236975",
@@ -2153,7 +2759,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:46.110Z"
+      "scrapedAt": "2026-07-30T13:49:58.998Z"
     },
     {
       "id": "236973",
@@ -2237,7 +2843,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:48.683Z"
+      "scrapedAt": "2026-07-30T13:50:01.263Z"
     },
     {
       "id": "236974",
@@ -2321,7 +2927,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:51.107Z"
+      "scrapedAt": "2026-07-30T13:50:03.863Z"
     },
     {
       "id": "236972",
@@ -2405,7 +3011,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:53.704Z"
+      "scrapedAt": "2026-07-30T13:50:06.113Z"
     },
     {
       "id": "236944",
@@ -2489,7 +3095,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:56.308Z"
+      "scrapedAt": "2026-07-30T13:50:08.342Z"
     },
     {
       "id": "236559",
@@ -2588,7 +3194,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:18:58.748Z"
+      "scrapedAt": "2026-07-30T13:50:10.981Z"
     },
     {
       "id": "236928",
@@ -2688,7 +3294,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:01.193Z"
+      "scrapedAt": "2026-07-30T13:50:13.829Z"
     },
     {
       "id": "236930",
@@ -2780,7 +3386,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:03.628Z"
+      "scrapedAt": "2026-07-30T13:50:16.059Z"
     },
     {
       "id": "236906",
@@ -2874,7 +3480,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:06.214Z"
+      "scrapedAt": "2026-07-30T13:50:18.716Z"
     },
     {
       "id": "236905",
@@ -2968,7 +3574,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:08.733Z"
+      "scrapedAt": "2026-07-30T13:50:21.087Z"
     },
     {
       "id": "236904",
@@ -3062,7 +3668,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:11.284Z"
+      "scrapedAt": "2026-07-30T13:50:23.476Z"
     },
     {
       "id": "236903",
@@ -3156,7 +3762,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:13.818Z"
+      "scrapedAt": "2026-07-30T13:50:25.830Z"
     },
     {
       "id": "236902",
@@ -3250,7 +3856,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:16.487Z"
+      "scrapedAt": "2026-07-30T13:50:28.169Z"
     },
     {
       "id": "236901",
@@ -3344,7 +3950,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:19.147Z"
+      "scrapedAt": "2026-07-30T13:50:30.599Z"
     },
     {
       "id": "236900",
@@ -3438,7 +4044,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:21.684Z"
+      "scrapedAt": "2026-07-30T13:50:32.937Z"
     },
     {
       "id": "236898",
@@ -3532,7 +4138,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:24.214Z"
+      "scrapedAt": "2026-07-30T13:50:35.281Z"
     },
     {
       "id": "236899",
@@ -3626,7 +4232,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:26.892Z"
+      "scrapedAt": "2026-07-30T13:50:37.610Z"
     },
     {
       "id": "236897",
@@ -3720,7 +4326,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:29.424Z"
+      "scrapedAt": "2026-07-30T13:50:39.983Z"
     },
     {
       "id": "236896",
@@ -3814,7 +4420,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:32.092Z"
+      "scrapedAt": "2026-07-30T13:50:42.317Z"
     },
     {
       "id": "236894",
@@ -3908,7 +4514,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:34.778Z"
+      "scrapedAt": "2026-07-30T13:50:44.681Z"
     },
     {
       "id": "236893",
@@ -4002,7 +4608,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:37.291Z"
+      "scrapedAt": "2026-07-30T13:50:46.998Z"
     },
     {
       "id": "236892",
@@ -4096,7 +4702,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:39.807Z"
+      "scrapedAt": "2026-07-30T13:50:49.371Z"
     },
     {
       "id": "236891",
@@ -4190,7 +4796,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:42.323Z"
+      "scrapedAt": "2026-07-30T13:50:51.700Z"
     },
     {
       "id": "236890",
@@ -4284,571 +4890,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-07-30T08:19:44.873Z"
-    },
-    {
-      "id": "236886",
-      "title": "مسلسل ER الموسم الثامن الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236886",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2001"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ickmq4ntihh4.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/ickmq4ntihh4.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/xt1ndky3eaau",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/umctc2y9ot1d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/471A059EF339340",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/7038703880337555721be8c818036208",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ajWb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xBgb",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-30T08:19:47.424Z"
-    },
-    {
-      "id": "236887",
-      "title": "مسلسل ER الموسم الثامن الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236887",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2001"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-4rv0dbrmsohl.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/4rv0dbrmsohl.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/vt0enzhefnsh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/ivaib60jwgj3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/77230229E198007",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/435918c2654d6d6ae77e660059687cae",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ajWa",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dydy",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-30T08:19:50.010Z"
-    },
-    {
-      "id": "236889",
-      "title": "مسلسل ER الموسم الثامن الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236889",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2001"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-x6dyphcx40kl.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/x6dyphcx40kl.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/hobvynfaga8e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/ansldy0lifx2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/DE8DCBC0572B2AD",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3e48cfe4a85ec3ae9998a5b7b39cdda3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ajW9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dydv",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-30T08:19:52.561Z"
-    },
-    {
-      "id": "236888",
-      "title": "مسلسل ER الموسم الثامن الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236888",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2001"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-60xkr69b6b30.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/60xkr69b6b30.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/kfx1ntzfwy5c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/j0y2dy0kk3xa",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/645256D9754272F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3e196aca79e9f2e66db40edb22ca6d7c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ajW8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xBga",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-30T08:19:55.078Z"
-    },
-    {
-      "id": "236885",
-      "title": "مسلسل ER الموسم الثامن الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236885",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2001"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-erdfcjiaztl5.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/erdfcjiaztl5.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/a8f6ssndptka",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/apte9g3ppspc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/ED54F2472BEE70E",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/33c505455db9740dbc21ad7dc45f84f3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ajW7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1vJ0r",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-30T08:19:57.601Z"
-    },
-    {
-      "id": "235335",
-      "title": "مسلسل ER الموسم الثامن الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=235335",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2001"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ocvclqdn8bed.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/ocvclqdn8bed.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/3dwpcsu9txg4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/24w1oha7ojf0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/D746F97AF2A5BCF",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/00e9f3f4a55c4e4649e8480e7218e10e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ajW6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dydc",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-07-30T08:20:00.026Z"
+      "scrapedAt": "2026-07-30T13:50:54.055Z"
     }
   ]
 }
