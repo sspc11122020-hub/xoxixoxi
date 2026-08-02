@@ -1,15 +1,109 @@
 {
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
-  "totalSeries": 54,
-  "lastUpdated": "2026-08-02T08:16:54.207Z",
+  "totalSeries": 52,
+  "lastUpdated": "2026-08-02T13:25:27.646Z",
   "series": [
+    {
+      "id": "237226",
+      "title": "مسلسل Fightland الموسم الاول الحلقة 1 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-fightland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237226",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BNDAwZWU0OTQtZmM3NC00N2M3LTk5YWItMTg2OGQ4YTEyOTkwXkEyXkFqcGc@._V1_-433x650.jpg",
+      "imdbRating": null,
+      "story": "بطل ملاكمة مُهان يُطلق سراحه من السجن ويعود إلى لندن للانتقام من عائلة الجريمة التي خانته.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Akin Gazi",
+          "Alix Bailey",
+          "Andreas Karras",
+          "Anita-Joy Uwajeh"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-fightland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-dceroln5mc31.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://down.vidtube.one/d/dceroln5mc31.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/z4ojon9t4btf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/l8xan0ybb6tq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/7035C503A73168F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/5f7e6d868db556d843bf007c721ab5c9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/693r",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RHn9",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-02T13:11:42.696Z"
+    },
     {
       "id": "237224",
       "title": "مسلسل Power Book III: Raising Kanan الموسم الخامس الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-power-book-iii-raising-kanan-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237224",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/06/MV5BYmQ2MzM0YTItMWNhMy00MzhjLTkwZjgtMTRkNzVkY2JkMTg2XkEyXkFqcGc@._V1_-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-power-book-iii-raising-kanan-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237224",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/06/MV5BYmQ2MzM0YTItMWNhMy00MzhjLTkwZjgtMTRkNzVkY2JkMTg2XkEyXkFqcGc@._V1_-433x650.jpg",
       "imdbRating": "7.7",
       "story": "تدور الأحداث في فترة التسعينيات من القرن الماضي، حيث يتناول العمل فترة شباب (كانان ستارك)، ورحلة صعوده المليئة بالأحداث المثيرة والغريبة في عالم الجريمة.",
       "details": {
@@ -44,7 +138,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-power-book-iii-raising-kanan-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-power-book-iii-raising-kanan-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -101,14 +195,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:14:53.400Z"
+      "scrapedAt": "2026-08-02T13:12:09.021Z"
     },
     {
       "id": "237233",
       "title": "مسلسل The Ark الموسم الثالث الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237233",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/xKciDV7Kbn5U7uoTVvwnz1OioCq-462x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237233",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/xKciDV7Kbn5U7uoTVvwnz1OioCq-462x650.jpg",
       "imdbRating": "5.8",
       "story": "يتابع المسلسل قصة الطاقم المتبقي لمركبة فضائية تُعرف باسم \"آرك وان\"، والذين يجب أن يصبحوا أفضل نسخة من أنفسهم للبقاء على المسار الصحيح والنجاة بعد تعرضهم لحدث كارثي تسبب في دمار هائل وخسائر في الأرواح.",
       "details": {
@@ -144,7 +238,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -201,14 +295,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:14:55.668Z"
+      "scrapedAt": "2026-08-02T13:12:49.241Z"
     },
     {
       "id": "237216",
       "title": "مسلسل Sugar الموسم الثاني الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-sugar-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237216",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/06/wCJtxNGBWY2Sg6YyrbLDsgGdZMq-scaled-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-sugar-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237216",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/06/wCJtxNGBWY2Sg6YyrbLDsgGdZMq-scaled-433x650.jpg",
       "imdbRating": "7.4",
       "story": "في الموسم الثاني، يعود (شوجر) إلى لوس أنجلوس، حيث يتولى قضية جديدة تتعلق باختفاء شقيقة ملاكم، بينما يواصل بحثه الشخصي المستمر عن شقيقته المفقودة.",
       "details": {
@@ -244,7 +338,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-sugar-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-sugar-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -307,14 +401,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:14:57.891Z"
+      "scrapedAt": "2026-08-02T13:12:57.291Z"
     },
     {
       "id": "237215",
       "title": "مسلسل Silo الموسم الثالث الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-silo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237215",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/_640x_1732374d71aa3cd96380d3a4331f1271fa3cea316deb3b343a20478a190dcbc2-435x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-silo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237215",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/_640x_1732374d71aa3cd96380d3a4331f1271fa3cea316deb3b343a20478a190dcbc2-435x650.jpg",
       "imdbRating": "8.1",
       "story": "بعد نجاتها من العالم الخارجي، تعود (جولييت) وهي تعاني من فقدان الذاكرة، مما يجبرها على إعادة اكتشاف الحقيقة حول العالم الخارجي، والجزيئات النانوية القاتلة، والصوامع المجاورة.",
       "details": {
@@ -349,7 +443,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-silo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-silo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -412,14 +506,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:00.187Z"
+      "scrapedAt": "2026-08-02T13:13:04.964Z"
     },
     {
       "id": "237217",
       "title": "مسلسل Cape Fear الموسم الاول الحلقة 10 والاخيرة مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-cape-fear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237217",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/06/MV5BYmZkOTkxNjAtZDY2MS00NTM3LTgwYWItMmNhMzFjMTBlOGI5XkEyXkFqcGc@-scaled-366x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-cape-fear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237217",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/06/MV5BYmZkOTkxNjAtZDY2MS00NTM3LTgwYWItMmNhMzFjMTBlOGI5XkEyXkFqcGc@-scaled-366x650.jpg",
       "imdbRating": null,
       "story": "يتبع العمل قصة زوجين سعيدين في زواجهما يواجهان تهديدًا متصاعدًا عندما يُفرج عن قاتل سيئ السمعة من ماضيهما يُدعى (ماكس كادي)، والذي يسعى للانتقام منهما.",
       "details": {
@@ -450,7 +544,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-cape-fear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-cape-fear-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -513,14 +607,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:02.400Z"
+      "scrapedAt": "2026-08-02T13:13:11.198Z"
     },
     {
       "id": "236934",
       "title": "مسلسل Star Trek: Strange New Worlds الموسم الرابع الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236934",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/fW8uT1hiZPpd5k8tryEyOclkW1p-scaled-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236934",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/fW8uT1hiZPpd5k8tryEyOclkW1p-scaled-433x650.jpg",
       "imdbRating": "8.2",
       "story": "ينطلق الكابتن (بايك)، برفقة الضابط (سبوك)، والضابطة (تشين رايلي) الملقبة بالرقم واحد، في رحلة استكشافية ملحمية عبر أرجاء المجرة الشاسعة على متن سفينة الفضاء الأمريكية (إنتربرايز).",
       "details": {
@@ -556,7 +650,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -619,14 +713,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:04.551Z"
+      "scrapedAt": "2026-08-02T13:13:15.255Z"
     },
     {
       "id": "158163",
       "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 6 والاخيرة مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=158163",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=158163",
+      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
       "imdbRating": "7.4",
       "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
       "details": {
@@ -657,7 +751,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -720,14 +814,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:06.773Z"
+      "scrapedAt": "2026-08-02T13:13:17.307Z"
     },
     {
       "id": "158162",
       "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=158162",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=158162",
+      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
       "imdbRating": "7.4",
       "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
       "details": {
@@ -758,7 +852,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -821,14 +915,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:09.001Z"
+      "scrapedAt": "2026-08-02T13:13:19.340Z"
     },
     {
       "id": "157723",
       "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=157723",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=157723",
+      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
       "imdbRating": "7.4",
       "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
       "details": {
@@ -859,7 +953,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -922,14 +1016,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:11.186Z"
+      "scrapedAt": "2026-08-02T13:13:21.375Z"
     },
     {
       "id": "157660",
       "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=157660",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=157660",
+      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
       "imdbRating": "7.4",
       "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
       "details": {
@@ -960,7 +1054,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1023,14 +1117,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:13.386Z"
+      "scrapedAt": "2026-08-02T13:13:23.400Z"
     },
     {
       "id": "157659",
       "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=157659",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=157659",
+      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
       "imdbRating": "7.4",
       "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
       "details": {
@@ -1061,7 +1155,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1124,14 +1218,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:15.625Z"
+      "scrapedAt": "2026-08-02T13:13:25.428Z"
     },
     {
       "id": "157656",
       "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=157656",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=157656",
+      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
       "imdbRating": "7.4",
       "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
       "details": {
@@ -1162,7 +1256,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1225,14 +1319,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:17.831Z"
+      "scrapedAt": "2026-08-02T13:13:27.885Z"
     },
     {
       "id": "237082",
       "title": "مسلسل The Idaho Murders: College Nightmare الموسم الاول الحلقة 3 والاخيرة مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237082",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BNmFkMzQyYzgtZGE4Mi00MDZlLTgyYTgtMjE0Mjk4NzU4ZDRkXkEyXkFqcGc@-439x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237082",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BNmFkMzQyYzgtZGE4Mi00MDZlLTgyYTgtMjE0Mjk4NzU4ZDRkXkEyXkFqcGc@-439x650.jpg",
       "imdbRating": null,
       "story": "من خلال لقطات وثقتها كاميرات الشرطة ورسائل نصية ومقابلات مع المقربين من الضحايا، يكشف هذا الوثائقي خفايا جريمة القتل المروعة التي هزّت جامعة \"أيداهو\" وأودت بحياة أربعة من طلابها.",
       "details": {
@@ -1253,7 +1347,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1310,14 +1404,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:20.522Z"
+      "scrapedAt": "2026-08-02T13:13:31.507Z"
     },
     {
       "id": "237081",
       "title": "مسلسل The Idaho Murders: College Nightmare الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237081",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BNmFkMzQyYzgtZGE4Mi00MDZlLTgyYTgtMjE0Mjk4NzU4ZDRkXkEyXkFqcGc@-439x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237081",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BNmFkMzQyYzgtZGE4Mi00MDZlLTgyYTgtMjE0Mjk4NzU4ZDRkXkEyXkFqcGc@-439x650.jpg",
       "imdbRating": null,
       "story": "من خلال لقطات وثقتها كاميرات الشرطة ورسائل نصية ومقابلات مع المقربين من الضحايا، يكشف هذا الوثائقي خفايا جريمة القتل المروعة التي هزّت جامعة \"أيداهو\" وأودت بحياة أربعة من طلابها.",
       "details": {
@@ -1338,7 +1432,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1395,14 +1489,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:22.755Z"
+      "scrapedAt": "2026-08-02T13:13:34.108Z"
     },
     {
       "id": "237077",
       "title": "مسلسل The Idaho Murders: College Nightmare الموسم الاول الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237077",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BNmFkMzQyYzgtZGE4Mi00MDZlLTgyYTgtMjE0Mjk4NzU4ZDRkXkEyXkFqcGc@-439x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237077",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BNmFkMzQyYzgtZGE4Mi00MDZlLTgyYTgtMjE0Mjk4NzU4ZDRkXkEyXkFqcGc@-439x650.jpg",
       "imdbRating": null,
       "story": "من خلال لقطات وثقتها كاميرات الشرطة ورسائل نصية ومقابلات مع المقربين من الضحايا، يكشف هذا الوثائقي خفايا جريمة القتل المروعة التي هزّت جامعة \"أيداهو\" وأودت بحياة أربعة من طلابها.",
       "details": {
@@ -1423,7 +1517,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-idaho-murders-college-nightmare-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1480,14 +1574,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:24.946Z"
+      "scrapedAt": "2026-08-02T13:13:36.635Z"
     },
     {
       "id": "237019",
       "title": "مسلسل Wrath الموسم الاول الحلقة 6 والاخيرة مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237019",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237019",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
       "imdbRating": null,
       "story": "يجد رجل جريح فقد ذاكرته ملاذًا لدى مدرب فنون قتالية مختلطة، ويخوض غمار الحلبة ممزَقًا بين أمل بحياة جديدة وماضٍ خطير يواصل مطاردته.",
       "details": {
@@ -1515,7 +1609,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1572,14 +1666,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:27.163Z"
+      "scrapedAt": "2026-08-02T13:13:39.352Z"
     },
     {
       "id": "237018",
       "title": "مسلسل Wrath الموسم الاول الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237018",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237018",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
       "imdbRating": null,
       "story": "يجد رجل جريح فقد ذاكرته ملاذًا لدى مدرب فنون قتالية مختلطة، ويخوض غمار الحلبة ممزَقًا بين أمل بحياة جديدة وماضٍ خطير يواصل مطاردته.",
       "details": {
@@ -1607,7 +1701,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1664,14 +1758,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:29.362Z"
+      "scrapedAt": "2026-08-02T13:13:44.145Z"
     },
     {
       "id": "237015",
       "title": "مسلسل Wrath الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237015",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237015",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
       "imdbRating": null,
       "story": "يجد رجل جريح فقد ذاكرته ملاذًا لدى مدرب فنون قتالية مختلطة، ويخوض غمار الحلبة ممزَقًا بين أمل بحياة جديدة وماضٍ خطير يواصل مطاردته.",
       "details": {
@@ -1699,7 +1793,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1756,14 +1850,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:31.548Z"
+      "scrapedAt": "2026-08-02T13:13:48.842Z"
     },
     {
       "id": "237014",
       "title": "مسلسل Wrath الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237014",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237014",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
       "imdbRating": null,
       "story": "يجد رجل جريح فقد ذاكرته ملاذًا لدى مدرب فنون قتالية مختلطة، ويخوض غمار الحلبة ممزَقًا بين أمل بحياة جديدة وماضٍ خطير يواصل مطاردته.",
       "details": {
@@ -1791,7 +1885,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1848,14 +1942,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:33.658Z"
+      "scrapedAt": "2026-08-02T13:13:50.887Z"
     },
     {
       "id": "237012",
       "title": "مسلسل Wrath الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237012",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237012",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
       "imdbRating": null,
       "story": "يجد رجل جريح فقد ذاكرته ملاذًا لدى مدرب فنون قتالية مختلطة، ويخوض غمار الحلبة ممزَقًا بين أمل بحياة جديدة وماضٍ خطير يواصل مطاردته.",
       "details": {
@@ -1883,7 +1977,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -1940,14 +2034,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:35.836Z"
+      "scrapedAt": "2026-08-02T13:13:53.181Z"
     },
     {
       "id": "236936",
       "title": "مسلسل Wrath الموسم الاول الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236936",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236936",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BMTI1YWY5YmEtMTZmOC00OGY0LTgzZjItMTU0ZTMwODNhZDg5XkEyXkFqcGc@-520x650.jpg",
       "imdbRating": null,
       "story": "يجد رجل جريح فقد ذاكرته ملاذًا لدى مدرب فنون قتالية مختلطة، ويخوض غمار الحلبة ممزَقًا بين أمل بحياة جديدة وماضٍ خطير يواصل مطاردته.",
       "details": {
@@ -1975,7 +2069,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wrath-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2032,14 +2126,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:38.051Z"
+      "scrapedAt": "2026-08-02T13:13:56.043Z"
     },
     {
       "id": "237002",
       "title": "مسلسل Final Project الموسم الاول الحلقة 20 والاخيرة مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237002",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237002",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2059,7 +2153,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2116,14 +2210,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:40.245Z"
+      "scrapedAt": "2026-08-02T13:13:58.491Z"
     },
     {
       "id": "237001",
       "title": "مسلسل Final Project الموسم الاول الحلقة 19 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237001",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237001",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2143,7 +2237,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2200,14 +2294,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:42.463Z"
+      "scrapedAt": "2026-08-02T13:14:01.934Z"
     },
     {
       "id": "237000",
       "title": "مسلسل Final Project الموسم الاول الحلقة 18 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=237000",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=237000",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2227,7 +2321,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2284,14 +2378,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:44.626Z"
+      "scrapedAt": "2026-08-02T13:14:07.184Z"
     },
     {
       "id": "236999",
       "title": "مسلسل Final Project الموسم الاول الحلقة 17 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236999",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236999",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2311,7 +2405,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2368,14 +2462,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:46.835Z"
+      "scrapedAt": "2026-08-02T13:14:19.533Z"
     },
     {
       "id": "236998",
       "title": "مسلسل Final Project الموسم الاول الحلقة 16 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236998",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236998",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2395,7 +2489,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2408,142 +2502,15 @@
           "m3u8Url": null
         }
       ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/oa6pn0f54e8c.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9rxuhk3v0yhp",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/3iqau8xdpjtp",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/0872774809AC03B",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/e504f78d206d31dad1f3bf77b427fd01",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r7sT",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xDU1",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-02T08:15:49.045Z"
-    },
-    {
-      "id": "236997",
-      "title": "مسلسل Final Project الموسم الاول الحلقة 15 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236997",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
-      "imdbRating": null,
-      "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-mtjp31hu7gxi.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/mtjp31hu7gxi.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/eg3s21wijuxm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/20zs7d3kcx7r",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/35A0F38CA07E785",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/34556bb7d6a6827007c579aca8f8d6e2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r7sS",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xDTZ",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-02T08:15:51.246Z"
+      "downloadServers": [],
+      "scrapedAt": "2026-08-02T13:15:29.963Z"
     },
     {
       "id": "236995",
       "title": "مسلسل Final Project الموسم الاول الحلقة 14 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236995",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236995",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2563,7 +2530,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2620,14 +2587,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:53.472Z"
+      "scrapedAt": "2026-08-02T13:16:54.087Z"
     },
     {
       "id": "236996",
       "title": "مسلسل Final Project الموسم الاول الحلقة 13 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236996",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236996",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2647,7 +2614,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2704,14 +2671,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:55.672Z"
+      "scrapedAt": "2026-08-02T13:17:15.207Z"
     },
     {
       "id": "236994",
       "title": "مسلسل Final Project الموسم الاول الحلقة 12 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236994",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236994",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2731,7 +2698,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2788,14 +2755,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:15:57.876Z"
+      "scrapedAt": "2026-08-02T13:18:03.943Z"
     },
     {
       "id": "236981",
       "title": "مسلسل Final Project الموسم الاول الحلقة 11 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236981",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236981",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2815,7 +2782,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -2872,14 +2839,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:00.080Z"
+      "scrapedAt": "2026-08-02T13:18:34.025Z"
     },
     {
       "id": "236980",
       "title": "مسلسل Final Project الموسم الاول الحلقة 10 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236980",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236980",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -2896,22 +2863,7 @@
           "2026"
         ]
       },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-yr1c5tog9wi1.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
+      "watchServers": [],
       "downloadServers": [
         {
           "name": "VidTube",
@@ -2956,98 +2908,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:02.309Z"
-    },
-    {
-      "id": "236979",
-      "title": "مسلسل Final Project الموسم الاول الحلقة 9 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236979",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
-      "imdbRating": null,
-      "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-p8a0qc4kphtj.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/p8a0qc4kphtj.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/uxrkk5jgywrr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/nu776jly8ole",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/862B17B91F1B79B",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/60d734e451c9b1d10e10a17584f40587",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ex1D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2RGrq",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-02T08:16:04.523Z"
+      "scrapedAt": "2026-08-02T13:20:17.628Z"
     },
     {
       "id": "236978",
       "title": "مسلسل Final Project الموسم الاول الحلقة 8 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236978",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236978",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -3067,7 +2935,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3124,14 +2992,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:06.711Z"
+      "scrapedAt": "2026-08-02T13:21:31.144Z"
     },
     {
       "id": "236977",
       "title": "مسلسل Final Project الموسم الاول الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236977",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236977",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -3151,7 +3019,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3208,14 +3076,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:08.923Z"
+      "scrapedAt": "2026-08-02T13:22:28.547Z"
     },
     {
       "id": "236976",
       "title": "مسلسل Final Project الموسم الاول الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236976",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236976",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -3235,7 +3103,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3292,14 +3160,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:11.120Z"
+      "scrapedAt": "2026-08-02T13:23:21.433Z"
     },
     {
       "id": "236975",
       "title": "مسلسل Final Project الموسم الاول الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236975",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236975",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -3319,7 +3187,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3376,14 +3244,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:13.332Z"
+      "scrapedAt": "2026-08-02T13:23:54.632Z"
     },
     {
       "id": "236973",
       "title": "مسلسل Final Project الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236973",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236973",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -3403,7 +3271,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3460,14 +3328,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:15.567Z"
+      "scrapedAt": "2026-08-02T13:24:11.631Z"
     },
     {
       "id": "236974",
       "title": "مسلسل Final Project الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236974",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236974",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -3487,7 +3355,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3544,14 +3412,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:17.764Z"
+      "scrapedAt": "2026-08-02T13:24:20.094Z"
     },
     {
       "id": "236972",
       "title": "مسلسل Final Project الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236972",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236972",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -3571,7 +3439,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3628,14 +3496,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:19.963Z"
+      "scrapedAt": "2026-08-02T13:24:26.076Z"
     },
     {
       "id": "236944",
       "title": "مسلسل Final Project الموسم الاول الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236944",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236944",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BODE3MjU0NzYtYjg3Yi00MDJjLWE4YmMtODVkNmNhNWMyMjY3XkEyXkFqcGc@._V1_FMjpg_UX1080_-520x650.jpg",
       "imdbRating": null,
       "story": "بداية جديدة في مدرسة جديدة… إلى أن يتشكّل رابط خطير بفعل هجمات إلكترونية عنيفة إلى جانب تحدي مريب من أحد الزملاء، ما يدفع \"تامارا\" إلى خوض تحوّل جذري.",
       "details": {
@@ -3655,7 +3523,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-final-project-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3712,14 +3580,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:22.172Z"
+      "scrapedAt": "2026-08-02T13:24:30.924Z"
     },
     {
       "id": "236559",
       "title": "مسلسل All American الموسم الثامن الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-all-american-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236559",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/6106Fj8A5WtS9A250ndz7OCUu0r-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-all-american-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236559",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/6106Fj8A5WtS9A250ndz7OCUu0r-433x650.jpg",
       "imdbRating": "7.6",
       "story": "عندما يُجند لاعب كرة قدم نجم في مدرسة ثانوية من ساوث سنترال للعب في مدرسة (بيفرلي هيلز) الثانوية، يتصادم ويدخل في حيرة بين الفريقين فكيف سيواجه تلك الأزمة؟",
       "details": {
@@ -3754,7 +3622,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-all-american-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-all-american-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3811,14 +3679,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:24.653Z"
+      "scrapedAt": "2026-08-02T13:24:34.732Z"
     },
     {
       "id": "236928",
       "title": "مسلسل Trying الموسم الخامس الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-trying-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236928",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/bnCrZ9soOEPLsBW05Z60yN4Gayv-scaled-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-trying-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236928",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/bnCrZ9soOEPLsBW05Z60yN4Gayv-scaled-433x650.jpg",
       "imdbRating": "8",
       "story": "في الموسم الخامس، يواجه (نيكي) و(جيسون) تداعيات ظهور (كات)، الأم البيولوجية لـ(برينسيس) و(تايلر)، على باب منزلهما، وما تسببه من فوضى واضطراب يقلب استقرار حياتهما العائلية رأسًا على عقب.",
       "details": {
@@ -3854,7 +3722,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-trying-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-trying-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -3911,14 +3779,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:27.117Z"
+      "scrapedAt": "2026-08-02T13:24:40.728Z"
     },
     {
       "id": "236930",
       "title": "مسلسل Lucky الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-lucky-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236930",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@-scaled-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-lucky-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236930",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@-scaled-433x650.jpg",
       "imdbRating": null,
       "story": "في إطار من الجريمة والدراما، تُجبر مجرمة سابقة على مواجهة ماضيها والعودة إلى عالم الأنشطة غير المشروعة لتنفيذ مهمة أخيرة، على أمل نيل حريتها ووضع حد نهائي لحياتها السابقة.",
       "details": {
@@ -3946,7 +3814,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-lucky-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-lucky-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4003,14 +3871,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:29.335Z"
+      "scrapedAt": "2026-08-02T13:24:46.581Z"
     },
     {
       "id": "236906",
       "title": "مسلسل ER الموسم الثامن الحلقة 22 والاخيرة مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236906",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236906",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4040,7 +3908,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4097,14 +3965,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:31.815Z"
+      "scrapedAt": "2026-08-02T13:24:52.506Z"
     },
     {
       "id": "236905",
       "title": "مسلسل ER الموسم الثامن الحلقة 21 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236905",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236905",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4134,7 +4002,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4191,14 +4059,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:34.089Z"
+      "scrapedAt": "2026-08-02T13:24:55.587Z"
     },
     {
       "id": "236904",
       "title": "مسلسل ER الموسم الثامن الحلقة 20 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236904",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236904",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4228,7 +4096,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4285,14 +4153,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:36.400Z"
+      "scrapedAt": "2026-08-02T13:24:58.468Z"
     },
     {
       "id": "236903",
       "title": "مسلسل ER الموسم الثامن الحلقة 19 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236903",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236903",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4322,7 +4190,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4379,14 +4247,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:38.711Z"
+      "scrapedAt": "2026-08-02T13:25:02.210Z"
     },
     {
       "id": "236902",
       "title": "مسلسل ER الموسم الثامن الحلقة 18 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236902",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236902",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4416,7 +4284,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4473,14 +4341,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:41.108Z"
+      "scrapedAt": "2026-08-02T13:25:07.754Z"
     },
     {
       "id": "236901",
       "title": "مسلسل ER الموسم الثامن الحلقة 17 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236901",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236901",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4510,7 +4378,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4567,14 +4435,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:43.591Z"
+      "scrapedAt": "2026-08-02T13:25:12.716Z"
     },
     {
       "id": "236900",
       "title": "مسلسل ER الموسم الثامن الحلقة 16 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236900",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236900",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4604,7 +4472,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4661,14 +4529,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:46.021Z"
+      "scrapedAt": "2026-08-02T13:25:18.646Z"
     },
     {
       "id": "236898",
       "title": "مسلسل ER الموسم الثامن الحلقة 15 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236898",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236898",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4698,7 +4566,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4755,14 +4623,14 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:48.413Z"
+      "scrapedAt": "2026-08-02T13:25:23.656Z"
     },
     {
       "id": "236899",
       "title": "مسلسل ER الموسم الثامن الحلقة 14 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236899",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=236899",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
       "imdbRating": "7.9",
       "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
       "details": {
@@ -4792,7 +4660,7 @@
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "m3u8Url": null
@@ -4849,101 +4717,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-02T08:16:50.781Z"
-    },
-    {
-      "id": "236897",
-      "title": "مسلسل ER الموسم الثامن الحلقة 13 مترجمة",
-      "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.cc/?p=236897",
-      "image": "https://topcinemaa.cc/wp-content/uploads/2026/07/q2P7eMeJkkyfmNeb2QQIrNPm8mX-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثامن من المسلسل، يعاني جرين من مشاكل صحية ويبدأ في التعامل مع راتشيل بعدما بدأت في التسبب في مشاكل، وتبدأ ويفر في تقبل هويتها الجنسية تمامًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2001"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-7q35in1demiy.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://down.vidtube.one/d/7q35in1demiy.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/7a8tfjkqa5s2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/z3fkbi88ked5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9B4755C9C20BD3D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/9e5d9138ca3a662b3423671bd557430a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ew5k",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xBgf",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-02T08:16:53.206Z"
+      "scrapedAt": "2026-08-02T13:25:26.644Z"
     }
   ]
 }
