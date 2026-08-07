@@ -2,8 +2,633 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-08-07T02:28:55.126Z",
+  "lastUpdated": "2026-08-07T07:09:44.213Z",
   "series": [
+    {
+      "id": "238103",
+      "title": "مسلسل The Shards الموسم الاول الحلقة 2 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-shards-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=238103",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/MV5BZDgwMTAzZDUtY2VmNC00MGM2LThiNmQtZDU5N2JlZDQ4ODY0XkEyXkFqcGc@-scaled-520x650.jpg",
+      "imdbRating": "5.9",
+      "story": "تدور الأحداث في لوس أنجلوس عام 1981، حيث تتابع مجموعة من طلاب المدرسة الثانوية المنتمين إلى عائلات ثرية خلال مرحلة المراهقة، بينما تتغير حياتهم مع انتشار جرائم قاتل متسلسل يثير الرعب في أنحاء المدينة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رعب",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Cortés Alexander",
+          "Daniel Dale",
+          "Evan Rachel Wood",
+          "George Todd McLachlan"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-shards-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-y2rvfu91o1f9.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/y2rvfu91o1f9.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/aewo3vl8hrw4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/58x995my7bax",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4E8CBE778F95982",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?e3b6atua2msfhy3z5jvk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/d11e5943e0190c5d89c2506b3a48b734",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/exRZ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vOzk",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-07T07:07:36.916Z"
+    },
+    {
+      "id": "238099",
+      "title": "مسلسل The Shards الموسم الاول الحلقة 1 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-shards-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=238099",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/MV5BZDgwMTAzZDUtY2VmNC00MGM2LThiNmQtZDU5N2JlZDQ4ODY0XkEyXkFqcGc@-scaled-520x650.jpg",
+      "imdbRating": "5.9",
+      "story": "تدور الأحداث في لوس أنجلوس عام 1981، حيث تتابع مجموعة من طلاب المدرسة الثانوية المنتمين إلى عائلات ثرية خلال مرحلة المراهقة، بينما تتغير حياتهم مع انتشار جرائم قاتل متسلسل يثير الرعب في أنحاء المدينة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رعب",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Cortés Alexander",
+          "Daniel Dale",
+          "Evan Rachel Wood",
+          "George Todd McLachlan"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-shards-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-v85kxfx3aud0.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/v85kxfx3aud0.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/pc2xgtbvbyq4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/g6vd8cfxh1nr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/DC851FD788B64CB",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?syji165apkq1spjhhcri",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b30b5d79acebd1cc9278a3e0d29cd4dd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/exRX",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2bM1z",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-07T07:07:39.285Z"
+    },
+    {
+      "id": "238096",
+      "title": "مسلسل The Ark الموسم الثالث الحلقة 2 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=238096",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/xKciDV7Kbn5U7uoTVvwnz1OioCq-462x650.jpg",
+      "imdbRating": "5.8",
+      "story": "يتابع المسلسل قصة الطاقم المتبقي لمركبة فضائية تُعرف باسم \"آرك وان\"، والذين يجب أن يصبحوا أفضل نسخة من أنفسهم للبقاء على المسار الصحيح والنجاة بعد تعرضهم لحدث كارثي تسبب في دمار هائل وخسائر في الأرواح.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "خيال علمي",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Dean Devlin",
+          "Jonathan Glassner",
+          "Marc Roskin"
+        ],
+        "بطولة": [
+          "Christie Burke",
+          "Christina Wolfe",
+          "Cosmo Kay",
+          "Jelena Moore"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-v6agafxu4xi8.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/v6agafxu4xi8.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ni9onz35e8vz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/iscnicnu1cea",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/1B23CEFC394441D",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?uloxpq2cf8zh8ar5adfa",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/4a70094defede764a0b342f58f19602d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/exRV",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2bM1w",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-07T07:07:41.633Z"
+    },
+    {
+      "id": "238092",
+      "title": "مسلسل Sugar الموسم الثاني الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-sugar-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=238092",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/06/wCJtxNGBWY2Sg6YyrbLDsgGdZMq-scaled-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "في الموسم الثاني، يعود (شوجر) إلى لوس أنجلوس، حيث يتولى قضية جديدة تتعلق باختفاء شقيقة ملاكم، بينما يواصل بحثه الشخصي المستمر عن شقيقته المفقودة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Adam Arkin",
+          "Fernando Meirelles"
+        ],
+        "بطولة": [
+          "Alex Hernandez",
+          "Amy Ryan",
+          "Anna Gunn",
+          "Bernardo Badillo"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-sugar-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-n8ykj5fxpxmc.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/n8ykj5fxpxmc.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/7xkhezqh9gt9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/43gvq8bvxvpq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/CDEF7CB187E6C60",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?6b9gq54l13t5klvo0iyk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/c8452faa272de96098d0757eaf297114",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/exSf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RJw0",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-07T07:07:43.963Z"
+    },
+    {
+      "id": "238094",
+      "title": "مسلسل Star Trek: Strange New Worlds الموسم الرابع الحلقة 3 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=238094",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/fW8uT1hiZPpd5k8tryEyOclkW1p-scaled-433x650.jpg",
+      "imdbRating": "8.2",
+      "story": "ينطلق الكابتن (بايك)، برفقة الضابط (سبوك)، والضابطة (تشين رايلي) الملقبة بالرقم واحد، في رحلة استكشافية ملحمية عبر أرجاء المجرة الشاسعة على متن سفينة الفضاء الأمريكية (إنتربرايز).",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "خيال علمي",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Akiva Goldsman",
+          "Amanda Row",
+          "Andi Armaganian"
+        ],
+        "بطولة": [
+          "Adrian Holmes",
+          "Alex Kapp",
+          "Andr Dae Kim",
+          "Anson Mount"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-x7qec2i9j1d4.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/x7qec2i9j1d4.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/zn14qoy5aqro",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/asynopvr5mwv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/56FB0F8C4E28274",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?5efshz9m0juwto9rhcfg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/bfb2197f19459b0a635ab19161eec188",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/exRU",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2bM1u",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-07T07:07:46.300Z"
+    },
+    {
+      "id": "238091",
+      "title": "مسلسل Silo الموسم الثالث الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-silo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=238091",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/_640x_1732374d71aa3cd96380d3a4331f1271fa3cea316deb3b343a20478a190dcbc2-435x650.jpg",
+      "imdbRating": "8.1",
+      "story": "بعد نجاتها من العالم الخارجي، تعود (جولييت) وهي تعاني من فقدان الذاكرة، مما يجبرها على إعادة اكتشاف الحقيقة حول العالم الخارجي، والجزيئات النانوية القاتلة، والصوامع المجاورة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "خيال علمي",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "David Semel",
+          "Morten Tyldum"
+        ],
+        "بطولة": [
+          "Angela Yeoh",
+          "Avi Nash",
+          "Billy Postlethwaite",
+          "Caitlin Zoz"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-silo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-byzm4qc1n4pn.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/byzm4qc1n4pn.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/chnb6ii7svzi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/4wa6r5si1tqh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/5CB935B487ACD46",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?uwhdk7avqhmgnf6tr81w",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/19479368371a94fd6524be03b537e6c0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/alJ9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RJvx",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-07T07:07:48.631Z"
+    },
     {
       "id": "238081",
       "title": "مسلسل My Life with the Walter Boys الموسم الثالث الحلقة 10 والاخيرة مترجمة",
@@ -107,7 +732,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:26:40.626Z"
+      "scrapedAt": "2026-08-07T07:07:51.846Z"
     },
     {
       "id": "238080",
@@ -212,7 +837,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:26:42.950Z"
+      "scrapedAt": "2026-08-07T07:07:54.154Z"
     },
     {
       "id": "238075",
@@ -317,7 +942,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:26:45.296Z"
+      "scrapedAt": "2026-08-07T07:07:56.508Z"
     },
     {
       "id": "238078",
@@ -422,7 +1047,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:26:47.596Z"
+      "scrapedAt": "2026-08-07T07:07:58.834Z"
     },
     {
       "id": "238076",
@@ -527,7 +1152,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:26:49.939Z"
+      "scrapedAt": "2026-08-07T07:08:01.167Z"
     },
     {
       "id": "238074",
@@ -632,7 +1257,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:26:52.307Z"
+      "scrapedAt": "2026-08-07T07:08:03.485Z"
     },
     {
       "id": "238079",
@@ -737,7 +1362,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:26:54.946Z"
+      "scrapedAt": "2026-08-07T07:08:05.806Z"
     },
     {
       "id": "238077",
@@ -842,7 +1467,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:26:57.221Z"
+      "scrapedAt": "2026-08-07T07:08:08.110Z"
     },
     {
       "id": "238073",
@@ -947,7 +1572,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:00.071Z"
+      "scrapedAt": "2026-08-07T07:08:10.440Z"
     },
     {
       "id": "238069",
@@ -1052,7 +1677,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:02.336Z"
+      "scrapedAt": "2026-08-07T07:08:12.744Z"
     },
     {
       "id": "238046",
@@ -1156,7 +1781,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:04.997Z"
+      "scrapedAt": "2026-08-07T07:08:15.064Z"
     },
     {
       "id": "238045",
@@ -1260,7 +1885,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:07.394Z"
+      "scrapedAt": "2026-08-07T07:08:17.381Z"
     },
     {
       "id": "238043",
@@ -1364,7 +1989,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:09.815Z"
+      "scrapedAt": "2026-08-07T07:08:19.726Z"
     },
     {
       "id": "238041",
@@ -1468,7 +2093,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:12.733Z"
+      "scrapedAt": "2026-08-07T07:08:22.061Z"
     },
     {
       "id": "238042",
@@ -1572,7 +2197,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:15.169Z"
+      "scrapedAt": "2026-08-07T07:08:24.383Z"
     },
     {
       "id": "238044",
@@ -1676,7 +2301,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:18.087Z"
+      "scrapedAt": "2026-08-07T07:08:26.711Z"
     },
     {
       "id": "238040",
@@ -1780,7 +2405,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:20.502Z"
+      "scrapedAt": "2026-08-07T07:08:29.007Z"
     },
     {
       "id": "238037",
@@ -1884,7 +2509,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:22.808Z"
+      "scrapedAt": "2026-08-07T07:08:31.329Z"
     },
     {
       "id": "237918",
@@ -1989,7 +2614,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:25.953Z"
+      "scrapedAt": "2026-08-07T07:08:34.485Z"
     },
     {
       "id": "237917",
@@ -2094,7 +2719,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:28.254Z"
+      "scrapedAt": "2026-08-07T07:08:36.815Z"
     },
     {
       "id": "237916",
@@ -2199,7 +2824,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:30.594Z"
+      "scrapedAt": "2026-08-07T07:08:39.147Z"
     },
     {
       "id": "237915",
@@ -2304,7 +2929,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:32.883Z"
+      "scrapedAt": "2026-08-07T07:08:41.485Z"
     },
     {
       "id": "237919",
@@ -2409,7 +3034,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:35.183Z"
+      "scrapedAt": "2026-08-07T07:08:43.783Z"
     },
     {
       "id": "237914",
@@ -2514,7 +3139,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:37.439Z"
+      "scrapedAt": "2026-08-07T07:08:46.102Z"
     },
     {
       "id": "237787",
@@ -2619,7 +3244,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:40.625Z"
+      "scrapedAt": "2026-08-07T07:08:48.391Z"
     },
     {
       "id": "237906",
@@ -2719,7 +3344,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:42.939Z"
+      "scrapedAt": "2026-08-07T07:08:50.725Z"
     },
     {
       "id": "237905",
@@ -2819,7 +3444,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:45.296Z"
+      "scrapedAt": "2026-08-07T07:08:53.060Z"
     },
     {
       "id": "237902",
@@ -2919,7 +3544,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:47.636Z"
+      "scrapedAt": "2026-08-07T07:08:55.366Z"
     },
     {
       "id": "237901",
@@ -3019,7 +3644,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:49.991Z"
+      "scrapedAt": "2026-08-07T07:08:57.687Z"
     },
     {
       "id": "237903",
@@ -3119,7 +3744,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:52.323Z"
+      "scrapedAt": "2026-08-07T07:09:00.017Z"
     },
     {
       "id": "237904",
@@ -3219,7 +3844,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:54.615Z"
+      "scrapedAt": "2026-08-07T07:09:02.683Z"
     },
     {
       "id": "237900",
@@ -3319,7 +3944,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:27:56.935Z"
+      "scrapedAt": "2026-08-07T07:09:05.008Z"
     },
     {
       "id": "237782",
@@ -3419,7 +4044,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:00.173Z"
+      "scrapedAt": "2026-08-07T07:09:07.345Z"
     },
     {
       "id": "237831",
@@ -3518,7 +4143,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:03.328Z"
+      "scrapedAt": "2026-08-07T07:09:09.903Z"
     },
     {
       "id": "237779",
@@ -3655,7 +4280,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:07.675Z"
+      "scrapedAt": "2026-08-07T07:09:12.189Z"
     },
     {
       "id": "237777",
@@ -3755,7 +4380,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:10.505Z"
+      "scrapedAt": "2026-08-07T07:09:14.900Z"
     },
     {
       "id": "237775",
@@ -3847,7 +4472,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:12.854Z"
+      "scrapedAt": "2026-08-07T07:09:17.205Z"
     },
     {
       "id": "237651",
@@ -3942,7 +4567,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:15.175Z"
+      "scrapedAt": "2026-08-07T07:09:19.504Z"
     },
     {
       "id": "237554",
@@ -4042,7 +4667,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:17.803Z"
+      "scrapedAt": "2026-08-07T07:09:21.813Z"
     },
     {
       "id": "237548",
@@ -4229,7 +4854,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:20.107Z"
+      "scrapedAt": "2026-08-07T07:09:24.170Z"
     },
     {
       "id": "237428",
@@ -4335,7 +4960,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:22.390Z"
+      "scrapedAt": "2026-08-07T07:09:26.485Z"
     },
     {
       "id": "237546",
@@ -4473,7 +5098,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:24.705Z"
+      "scrapedAt": "2026-08-07T07:09:28.779Z"
     },
     {
       "id": "237226",
@@ -4567,7 +5192,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:26.991Z"
+      "scrapedAt": "2026-08-07T07:09:31.083Z"
     },
     {
       "id": "237224",
@@ -4666,7 +5291,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:29.324Z"
+      "scrapedAt": "2026-08-07T07:09:33.402Z"
     },
     {
       "id": "237233",
@@ -4766,7 +5391,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:31.612Z"
+      "scrapedAt": "2026-08-07T07:09:36.258Z"
     },
     {
       "id": "237216",
@@ -4872,7 +5497,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:33.925Z"
+      "scrapedAt": "2026-08-07T07:09:38.568Z"
     },
     {
       "id": "237215",
@@ -4977,7 +5602,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:36.438Z"
+      "scrapedAt": "2026-08-07T07:09:40.906Z"
     },
     {
       "id": "237217",
@@ -5078,618 +5703,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-07T02:28:38.733Z"
-    },
-    {
-      "id": "236934",
-      "title": "مسلسل Star Trek: Strange New Worlds الموسم الرابع الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=236934",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/fW8uT1hiZPpd5k8tryEyOclkW1p-scaled-433x650.jpg",
-      "imdbRating": "8.2",
-      "story": "ينطلق الكابتن (بايك)، برفقة الضابط (سبوك)، والضابطة (تشين رايلي) الملقبة بالرقم واحد، في رحلة استكشافية ملحمية عبر أرجاء المجرة الشاسعة على متن سفينة الفضاء الأمريكية (إنتربرايز).",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "خيال علمي",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Akiva Goldsman",
-          "Amanda Row",
-          "Andi Armaganian"
-        ],
-        "بطولة": [
-          "Adrian Holmes",
-          "Alex Kapp",
-          "Andr Dae Kim",
-          "Anson Mount"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-dve5ut8bwl5i.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/dve5ut8bwl5i.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/e224562xmmgt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/8rj1e1yogtl9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/517DB3887E5B5B5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?1p3eryct4kb4ztmbxdj9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/1128f03a9c5c2c691dfe958d35e5c32a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/akZb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dBHd",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-07T02:28:41.045Z"
-    },
-    {
-      "id": "158163",
-      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 6 والاخيرة مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=158163",
-      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "تاريخي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adam Rothenberg",
-          "Andrew Rothney",
-          "Archie McCormick",
-          "Connor Swindells"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-n1ujcf8mly1f.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/n1ujcf8mly1f.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/uibmwpzoo30n",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/y33guc5j1e5t",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B9765E6341B6AF2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?fh1st1zijlzzu9xdt355",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/8f85d8cf71d6d3e9892c75decc9f8e9a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ex7B",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEdu",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-07T02:28:43.363Z"
-    },
-    {
-      "id": "158162",
-      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=158162",
-      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "تاريخي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adam Rothenberg",
-          "Andrew Rothney",
-          "Archie McCormick",
-          "Connor Swindells"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-crp9w5357g83.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/crp9w5357g83.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/s2u5jaubhahj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/tt2895uuuo0k",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B314CCA0BDFF52A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?hia85jmbdzz4q4csirp2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/5a899c5838653995087aee107efb01c8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ex7A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEdt",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-07T02:28:46.414Z"
-    },
-    {
-      "id": "157723",
-      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=157723",
-      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "تاريخي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adam Rothenberg",
-          "Andrew Rothney",
-          "Archie McCormick",
-          "Connor Swindells"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-cdgy9u93l5ot.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/cdgy9u93l5ot.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/r777c7d5ccgm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/kjht14heqm4o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/BDF5310B992CA22",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?27zxg8nowb5vy9c38qz2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/f3859e659bb23a00135acc1374ea4cde",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ex7z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEdp",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-07T02:28:48.808Z"
-    },
-    {
-      "id": "157660",
-      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=157660",
-      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "تاريخي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adam Rothenberg",
-          "Andrew Rothney",
-          "Archie McCormick",
-          "Connor Swindells"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-wsg8nfpmbbgb.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/wsg8nfpmbbgb.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/86pd7lioeuul",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/334zllisblkb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/DA9F1FC292BA4C6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?j3fylmsxl3i9xwfmf0wd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3bd2bc153928ea55e53a2f86793bd332",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ex7w",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEdn",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-07T02:28:51.757Z"
-    },
-    {
-      "id": "157659",
-      "title": "مسلسل The Bombing of Pan Am 103 الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=157659",
-      "image": "https://topcinemaa.co/wp-content/uploads/2025/05/9RR6jkc35HOJcZG3modHZwh3J3J-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "استنادًا إلى الأحداث المحيطة بتفجير لوكربي عام ١٩٨٨، سيركز مسلسل لوكربي على التحقيق في الحادث الذي وقع على جانبي المحيط الأطلسي، والآثار المدمرة التي خلّفها على البلدة الصغيرة والعائلات التي فقدت أحباءها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "تاريخي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adam Rothenberg",
-          "Andrew Rothney",
-          "Archie McCormick",
-          "Connor Swindells"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-bombing-of-pan-am-103-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-y1gn4qyvtjdz.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/y1gn4qyvtjdz.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/vtm8xs5t23o9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/j5dal0e9olda",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/AC560E2DCABDF3D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?rggdx5pu53pcfouudwkk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/096398189ec6674607687eced5e477e8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ex7v",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEdj",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-07T02:28:54.127Z"
+      "scrapedAt": "2026-08-07T07:09:43.212Z"
     }
   ]
 }
