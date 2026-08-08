@@ -1,9 +1,99 @@
 {
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
-  "totalSeries": 54,
-  "lastUpdated": "2026-08-08T13:28:49.751Z",
+  "totalSeries": 53,
+  "lastUpdated": "2026-08-08T19:11:39.330Z",
   "series": [
+    {
+      "id": "238475",
+      "title": "انمي World Is Dancing الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-world-is-dancing-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=238475",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/06/MV5BM2E4MmE2ZGItZTYwYS00NWQ2LTk5NjMtMDZiYTE5NWI3MjRhXkEyXkFqcGc@._V1_-442x650.jpg",
+      "imdbRating": null,
+      "story": "“لا يحتاج المرء للرقص ليعيش.” في عام 1374، خلال العصر المضطرب الذي كانت فيه البلاطين الملكيين الشمالي والجنوبي في صراع، أصبح شوغون بلاط الشمال، أشيكاغا يوشيميتسو، قوة متزايدة النفوذ. ولد أونيياشا ابنًا لكانامي، رئيس فرقة كانزي لمؤديي الساروجاكو، ويعيش أيامه وهو يحمل سؤالًا غامضًا في قلبه: لماذا يرقص الناس؟ ظلت روحه غائمة حتى اليوم الذي يصادف فيه رقصة تُعتبر حقًا “جميلة”. فضوليًا وحساسًا وجميلًا بشكل لافت، يلتقي الصبي بالناس، يضحك ويبكي، يواجه ضعفه، ويبدأ ببطء في تشكيل شكل جديد من الرقص لعالم غارق في زوال الأشياء.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-world-is-dancing-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-g0rrz8mdveag.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/g0rrz8mdveag.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/3whj6kj6aoej",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/4wygkjbmfo3r",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/EB201B069CA437F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?rbb9uew0s5qppxw3395h",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/1e45ade77cea1a3a05efd8cee71766e8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/exXh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xHjf",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-08T19:08:17.280Z"
+    },
     {
       "id": "238386",
       "title": "انمي Uchi no Otouto-domo ga Sumimasen الحلقة 6 مترجمة",
@@ -92,7 +182,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:26:44.381Z"
+      "scrapedAt": "2026-08-08T19:08:19.575Z"
     },
     {
       "id": "238385",
@@ -184,7 +274,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:26:46.602Z"
+      "scrapedAt": "2026-08-08T19:08:21.857Z"
     },
     {
       "id": "238384",
@@ -276,7 +366,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:26:48.797Z"
+      "scrapedAt": "2026-08-08T19:08:24.138Z"
     },
     {
       "id": "238383",
@@ -367,7 +457,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:26:51.004Z"
+      "scrapedAt": "2026-08-08T19:08:26.434Z"
     },
     {
       "id": "237260",
@@ -459,7 +549,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:26:53.213Z"
+      "scrapedAt": "2026-08-08T19:08:28.667Z"
     },
     {
       "id": "238317",
@@ -550,7 +640,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:26:55.419Z"
+      "scrapedAt": "2026-08-08T19:08:30.906Z"
     },
     {
       "id": "238304",
@@ -641,7 +731,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:26:57.596Z"
+      "scrapedAt": "2026-08-08T19:08:33.178Z"
     },
     {
       "id": "238293",
@@ -734,7 +824,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:26:59.813Z"
+      "scrapedAt": "2026-08-08T19:08:35.439Z"
     },
     {
       "id": "238291",
@@ -827,7 +917,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:02.047Z"
+      "scrapedAt": "2026-08-08T19:08:38.001Z"
     },
     {
       "id": "238292",
@@ -920,7 +1010,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:04.256Z"
+      "scrapedAt": "2026-08-08T19:08:40.246Z"
     },
     {
       "id": "238294",
@@ -1013,7 +1103,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:06.452Z"
+      "scrapedAt": "2026-08-08T19:08:42.575Z"
     },
     {
       "id": "238290",
@@ -1106,7 +1196,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:08.653Z"
+      "scrapedAt": "2026-08-08T19:08:45.217Z"
     },
     {
       "id": "238114",
@@ -1199,7 +1289,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:10.853Z"
+      "scrapedAt": "2026-08-08T19:08:47.835Z"
     },
     {
       "id": "238266",
@@ -1289,7 +1379,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:13.320Z"
+      "scrapedAt": "2026-08-08T19:08:50.669Z"
     },
     {
       "id": "238244",
@@ -1381,7 +1471,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:15.680Z"
+      "scrapedAt": "2026-08-08T19:08:52.969Z"
     },
     {
       "id": "238242",
@@ -1465,7 +1555,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:18.080Z"
+      "scrapedAt": "2026-08-08T19:08:55.368Z"
     },
     {
       "id": "238238",
@@ -1557,7 +1647,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:20.284Z"
+      "scrapedAt": "2026-08-08T19:08:57.703Z"
     },
     {
       "id": "238229",
@@ -1649,7 +1739,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:22.372Z"
+      "scrapedAt": "2026-08-08T19:09:00.353Z"
     },
     {
       "id": "238226",
@@ -1739,7 +1829,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:24.566Z"
+      "scrapedAt": "2026-08-08T19:09:02.685Z"
     },
     {
       "id": "238225",
@@ -1829,7 +1919,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:26.860Z"
+      "scrapedAt": "2026-08-08T19:09:05.356Z"
     },
     {
       "id": "238171",
@@ -1921,7 +2011,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:29.198Z"
+      "scrapedAt": "2026-08-08T19:09:07.962Z"
     },
     {
       "id": "238170",
@@ -2012,7 +2102,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:31.509Z"
+      "scrapedAt": "2026-08-08T19:09:10.360Z"
     },
     {
       "id": "238067",
@@ -2104,7 +2194,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:33.598Z"
+      "scrapedAt": "2026-08-08T19:09:12.735Z"
     },
     {
       "id": "238012",
@@ -2194,7 +2284,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:36.073Z"
+      "scrapedAt": "2026-08-08T19:09:15.400Z"
     },
     {
       "id": "237265",
@@ -2286,7 +2376,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:38.405Z"
+      "scrapedAt": "2026-08-08T19:09:18.874Z"
     },
     {
       "id": "238010",
@@ -2378,7 +2468,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:40.651Z"
+      "scrapedAt": "2026-08-08T19:09:21.581Z"
     },
     {
       "id": "238008",
@@ -2470,7 +2560,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:43.020Z"
+      "scrapedAt": "2026-08-08T19:09:23.971Z"
     },
     {
       "id": "238006",
@@ -2560,7 +2650,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:45.338Z"
+      "scrapedAt": "2026-08-08T19:09:26.716Z"
     },
     {
       "id": "238004",
@@ -2652,7 +2742,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:47.895Z"
+      "scrapedAt": "2026-08-08T19:09:30.128Z"
     },
     {
       "id": "238002",
@@ -2744,7 +2834,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:50.323Z"
+      "scrapedAt": "2026-08-08T19:09:33.243Z"
     },
     {
       "id": "238000",
@@ -2837,7 +2927,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:52.655Z"
+      "scrapedAt": "2026-08-08T19:09:36.055Z"
     },
     {
       "id": "237950",
@@ -2929,7 +3019,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:54.994Z"
+      "scrapedAt": "2026-08-08T19:09:39.116Z"
     },
     {
       "id": "237949",
@@ -3020,7 +3110,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:57.310Z"
+      "scrapedAt": "2026-08-08T19:09:42.316Z"
     },
     {
       "id": "237947",
@@ -3112,99 +3202,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:27:59.907Z"
-    },
-    {
-      "id": "237933",
-      "title": "مسلسل Star Wars: Visions Presents – The Ninth Jedi الموسم الاول الحلقة 8 والاخيرة مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-presents-the-ninth-jedi-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=237933",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/MV5BNjdmNjlmNmMtZjc2NS00N2NjLWExOTEtNTI3NDdhYzI5NTNkXkEyXkFqcGc@-438x650.jpg",
-      "imdbRating": null,
-      "story": "تدور الأحداث حول (كارا) التي تنطلق برفقة فريقها غير التقليدي من فرسان الجيداي للبحث عن مقاتلين جديرين بالانضمام إليهم، استعدادًا لمواجهة زعيم حرب تزداد قوته ونفوذه يومًا بعد يوم.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-presents-the-ninth-jedi-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-s3ve6hrqntq7.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/s3ve6hrqntq7.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/pinqcnmqyzj8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/8rkopfk70uiy",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/6087FA2BB19BA9E",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?4nqcvwqif4vewq01u6kh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/92d253724f7b3b8c0e168bc919b520e1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/69of",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2RIR7",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-08T13:28:02.602Z"
+      "scrapedAt": "2026-08-08T19:09:45.201Z"
     },
     {
       "id": "237932",
@@ -3296,7 +3294,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:04.813Z"
+      "scrapedAt": "2026-08-08T19:10:50.353Z"
     },
     {
       "id": "237931",
@@ -3388,7 +3386,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:07.258Z"
+      "scrapedAt": "2026-08-08T19:10:53.721Z"
     },
     {
       "id": "237930",
@@ -3480,7 +3478,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:09.459Z"
+      "scrapedAt": "2026-08-08T19:10:56.614Z"
     },
     {
       "id": "237928",
@@ -3572,7 +3570,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:11.839Z"
+      "scrapedAt": "2026-08-08T19:10:59.432Z"
     },
     {
       "id": "237929",
@@ -3664,7 +3662,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:14.157Z"
+      "scrapedAt": "2026-08-08T19:11:02.247Z"
     },
     {
       "id": "237927",
@@ -3756,7 +3754,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:16.582Z"
+      "scrapedAt": "2026-08-08T19:11:05.014Z"
     },
     {
       "id": "237790",
@@ -3848,7 +3846,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:18.766Z"
+      "scrapedAt": "2026-08-08T19:11:07.739Z"
     },
     {
       "id": "237898",
@@ -3940,7 +3938,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:20.862Z"
+      "scrapedAt": "2026-08-08T19:11:10.384Z"
     },
     {
       "id": "237888",
@@ -4026,7 +4024,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:22.959Z"
+      "scrapedAt": "2026-08-08T19:11:13.025Z"
     },
     {
       "id": "237869",
@@ -4112,7 +4110,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:24.995Z"
+      "scrapedAt": "2026-08-08T19:11:15.721Z"
     },
     {
       "id": "237830",
@@ -4198,7 +4196,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:27.537Z"
+      "scrapedAt": "2026-08-08T19:11:18.418Z"
     },
     {
       "id": "237824",
@@ -4290,7 +4288,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:30.058Z"
+      "scrapedAt": "2026-08-08T19:11:21.095Z"
     },
     {
       "id": "237818",
@@ -4374,7 +4372,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:32.763Z"
+      "scrapedAt": "2026-08-08T19:11:23.785Z"
     },
     {
       "id": "237799",
@@ -4458,7 +4456,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:35.213Z"
+      "scrapedAt": "2026-08-08T19:11:26.489Z"
     },
     {
       "id": "237796",
@@ -4542,7 +4540,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:37.632Z"
+      "scrapedAt": "2026-08-08T19:11:29.579Z"
     },
     {
       "id": "237769",
@@ -4628,7 +4626,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:40.085Z"
+      "scrapedAt": "2026-08-08T19:11:32.358Z"
     },
     {
       "id": "237766",
@@ -4714,7 +4712,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:42.520Z"
+      "scrapedAt": "2026-08-08T19:11:35.227Z"
     },
     {
       "id": "237738",
@@ -4800,93 +4798,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-08T13:28:45.062Z"
-    },
-    {
-      "id": "237706",
-      "title": "مسلسل Futurama الموسم 14 الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-futurama-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-14-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=237706",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/_640x_ebbcc5484e8c9f18c21a11b7c7a34c48d33a22fb0126f1cf9afec2085113168f-439x650.jpg",
-      "imdbRating": "8.5",
-      "story": "في الموسم الرابع عشر، يحاول (البروفيسور) ابتكار لحوم مستزرعة في المختبر، حتى يتمكن (فراي) من المنافسة في بطولة العالم لتناول النقانق، ويتعرض (فراي) و(بندر) لهجوم من قراصنة فضاء خطرين.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون",
-          "كوميدي",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-futurama-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-14-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-xud30qj9gc9x.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/xud30qj9gc9x.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/gpgtubgxb0rt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/yjvt1qk6ptxk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C5500AA50EBC4E8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3221cab7f146a66bd116619feb747671",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/69dw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dD6b",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-08T13:28:48.749Z"
+      "scrapedAt": "2026-08-08T19:11:38.329Z"
     }
   ]
 }
