@@ -2,8 +2,100 @@
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-08-11T13:56:06.192Z",
+  "lastUpdated": "2026-08-11T19:36:38.097Z",
   "series": [
+    {
+      "id": "239343",
+      "title": "انمي Mao الحلقة 19 مترجمة",
+      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-mao-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=239343",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/04/MV5BOGRkZWMwMjEtMjYzNC00ZDA2LThhZGYtYzU4ODA5MGU5ODA5XkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": null,
+      "story": "القصة تتحدث عن نانوكا كيبا فتاة نجت من حادث مأساوي في طفولتها وتجد نفسها تنتقل عبر الزمن إلى عصر تايشو الياباني. تلتقي هناك طارد الأرواح الشريرة ماو الذي يبحث عن وحش تسبب في مآسٍ ماضية.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-mao-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-olrglwzy8bj9.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/olrglwzy8bj9.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/7n39a9n564ue",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/q9y6bmnvxclg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/3ED26D423807E32",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?ylsdtuoprymkb99u1mef",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/c70aacd899f032d9047708d9b6846868",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6a2k",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RLnm",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-11T19:34:45.225Z"
+    },
     {
       "id": "239273",
       "title": "مسلسل Adventure Time: Fionna & Cake الموسم الثاني الحلقة 10 والاخيرة مترجمة",
@@ -88,7 +180,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:12.024Z"
+      "scrapedAt": "2026-08-11T19:34:48.029Z"
     },
     {
       "id": "239272",
@@ -174,7 +266,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:14.117Z"
+      "scrapedAt": "2026-08-11T19:34:50.025Z"
     },
     {
       "id": "239271",
@@ -260,7 +352,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:16.199Z"
+      "scrapedAt": "2026-08-11T19:34:52.213Z"
     },
     {
       "id": "239270",
@@ -346,7 +438,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:18.278Z"
+      "scrapedAt": "2026-08-11T19:34:54.307Z"
     },
     {
       "id": "239268",
@@ -432,7 +524,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:20.345Z"
+      "scrapedAt": "2026-08-11T19:34:56.399Z"
     },
     {
       "id": "239269",
@@ -518,7 +610,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:22.399Z"
+      "scrapedAt": "2026-08-11T19:34:58.571Z"
     },
     {
       "id": "239267",
@@ -604,7 +696,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:24.454Z"
+      "scrapedAt": "2026-08-11T19:35:00.651Z"
     },
     {
       "id": "239266",
@@ -690,7 +782,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:26.518Z"
+      "scrapedAt": "2026-08-11T19:35:02.733Z"
     },
     {
       "id": "239265",
@@ -776,7 +868,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:28.588Z"
+      "scrapedAt": "2026-08-11T19:35:04.944Z"
     },
     {
       "id": "239261",
@@ -862,7 +954,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:30.658Z"
+      "scrapedAt": "2026-08-11T19:35:07.062Z"
     },
     {
       "id": "239259",
@@ -948,7 +1040,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:32.739Z"
+      "scrapedAt": "2026-08-11T19:35:09.161Z"
     },
     {
       "id": "47237",
@@ -1034,7 +1126,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:34.813Z"
+      "scrapedAt": "2026-08-11T19:35:11.249Z"
     },
     {
       "id": "47238",
@@ -1120,7 +1212,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:36.868Z"
+      "scrapedAt": "2026-08-11T19:35:13.355Z"
     },
     {
       "id": "47239",
@@ -1206,7 +1298,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:38.923Z"
+      "scrapedAt": "2026-08-11T19:35:15.511Z"
     },
     {
       "id": "35094",
@@ -1292,7 +1384,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:41.015Z"
+      "scrapedAt": "2026-08-11T19:35:17.477Z"
     },
     {
       "id": "34977",
@@ -1378,7 +1470,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:43.079Z"
+      "scrapedAt": "2026-08-11T19:35:19.562Z"
     },
     {
       "id": "32346",
@@ -1464,7 +1556,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:45.146Z"
+      "scrapedAt": "2026-08-11T19:35:21.649Z"
     },
     {
       "id": "32347",
@@ -1550,7 +1642,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:47.185Z"
+      "scrapedAt": "2026-08-11T19:35:23.748Z"
     },
     {
       "id": "30423",
@@ -1636,7 +1728,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:49.268Z"
+      "scrapedAt": "2026-08-11T19:35:25.834Z"
     },
     {
       "id": "30411",
@@ -1722,7 +1814,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:51.326Z"
+      "scrapedAt": "2026-08-11T19:35:28.017Z"
     },
     {
       "id": "239119",
@@ -1814,7 +1906,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:53.373Z"
+      "scrapedAt": "2026-08-11T19:35:30.094Z"
     },
     {
       "id": "239117",
@@ -1907,7 +1999,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:55.428Z"
+      "scrapedAt": "2026-08-11T19:35:32.154Z"
     },
     {
       "id": "238881",
@@ -1999,7 +2091,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:57.494Z"
+      "scrapedAt": "2026-08-11T19:35:34.230Z"
     },
     {
       "id": "238880",
@@ -2091,7 +2183,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:54:59.579Z"
+      "scrapedAt": "2026-08-11T19:35:36.319Z"
     },
     {
       "id": "238874",
@@ -2181,7 +2273,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:01.634Z"
+      "scrapedAt": "2026-08-11T19:35:38.373Z"
     },
     {
       "id": "238878",
@@ -2273,7 +2365,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:03.703Z"
+      "scrapedAt": "2026-08-11T19:35:40.358Z"
     },
     {
       "id": "238872",
@@ -2365,7 +2457,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:05.752Z"
+      "scrapedAt": "2026-08-11T19:35:42.427Z"
     },
     {
       "id": "238873",
@@ -2457,7 +2549,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:07.797Z"
+      "scrapedAt": "2026-08-11T19:35:44.580Z"
     },
     {
       "id": "238724",
@@ -2549,7 +2641,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:09.905Z"
+      "scrapedAt": "2026-08-11T19:35:46.660Z"
     },
     {
       "id": "238778",
@@ -2641,7 +2733,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:11.954Z"
+      "scrapedAt": "2026-08-11T19:35:48.746Z"
     },
     {
       "id": "238722",
@@ -2776,7 +2868,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:14.023Z"
+      "scrapedAt": "2026-08-11T19:35:50.748Z"
     },
     {
       "id": "238723",
@@ -2868,7 +2960,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:16.071Z"
+      "scrapedAt": "2026-08-11T19:35:52.807Z"
     },
     {
       "id": "238720",
@@ -2960,7 +3052,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:18.575Z"
+      "scrapedAt": "2026-08-11T19:35:54.685Z"
     },
     {
       "id": "238721",
@@ -3050,7 +3142,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:20.624Z"
+      "scrapedAt": "2026-08-11T19:35:56.851Z"
     },
     {
       "id": "238713",
@@ -3142,7 +3234,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:22.669Z"
+      "scrapedAt": "2026-08-11T19:35:59.015Z"
     },
     {
       "id": "238715",
@@ -3234,7 +3326,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:24.731Z"
+      "scrapedAt": "2026-08-11T19:36:01.082Z"
     },
     {
       "id": "238714",
@@ -3324,7 +3416,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:26.791Z"
+      "scrapedAt": "2026-08-11T19:36:03.237Z"
     },
     {
       "id": "238685",
@@ -3414,7 +3506,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:28.828Z"
+      "scrapedAt": "2026-08-11T19:36:05.313Z"
     },
     {
       "id": "238683",
@@ -3506,7 +3598,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:31.484Z"
+      "scrapedAt": "2026-08-11T19:36:07.382Z"
     },
     {
       "id": "238658",
@@ -3596,7 +3688,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:33.996Z"
+      "scrapedAt": "2026-08-11T19:36:09.444Z"
     },
     {
       "id": "238656",
@@ -3688,7 +3780,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:36.556Z"
+      "scrapedAt": "2026-08-11T19:36:11.534Z"
     },
     {
       "id": "238657",
@@ -3780,7 +3872,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:39.114Z"
+      "scrapedAt": "2026-08-11T19:36:13.680Z"
     },
     {
       "id": "238641",
@@ -3872,7 +3964,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:41.674Z"
+      "scrapedAt": "2026-08-11T19:36:16.066Z"
     },
     {
       "id": "238640",
@@ -3963,7 +4055,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:43.710Z"
+      "scrapedAt": "2026-08-11T19:36:18.043Z"
     },
     {
       "id": "238639",
@@ -4055,7 +4147,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:45.643Z"
+      "scrapedAt": "2026-08-11T19:36:20.114Z"
     },
     {
       "id": "238635",
@@ -4147,7 +4239,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:47.687Z"
+      "scrapedAt": "2026-08-11T19:36:22.183Z"
     },
     {
       "id": "238634",
@@ -4239,7 +4331,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:49.727Z"
+      "scrapedAt": "2026-08-11T19:36:24.260Z"
     },
     {
       "id": "238633",
@@ -4326,7 +4418,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:51.871Z"
+      "scrapedAt": "2026-08-11T19:36:26.359Z"
     },
     {
       "id": "238629",
@@ -4417,7 +4509,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:53.910Z"
+      "scrapedAt": "2026-08-11T19:36:28.414Z"
     },
     {
       "id": "238628",
@@ -4509,7 +4601,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:55.950Z"
+      "scrapedAt": "2026-08-11T19:36:30.517Z"
     },
     {
       "id": "238627",
@@ -4599,7 +4691,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:55:58.528Z"
+      "scrapedAt": "2026-08-11T19:36:32.884Z"
     },
     {
       "id": "238512",
@@ -4689,7 +4781,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:56:00.599Z"
+      "scrapedAt": "2026-08-11T19:36:34.992Z"
     },
     {
       "id": "238508",
@@ -4780,98 +4872,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-11T13:56:03.111Z"
-    },
-    {
-      "id": "238507",
-      "title": "انمي Black Torch الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=238507",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BOTdiYWZmM2QtYWU3OS00NzdiLWJkZjUtM2VlYWI1N2RhYzU2XkEyXkFqcGc@._V1_-433x650.jpg",
-      "imdbRating": null,
-      "story": "يعيش جيرو أزوما، الفتى البالغ من العمر سبعة عشر عامًا، حياة هادئة برفقة جده، مستفيدًا من قدرته الخارقة على التحدث مع الحيوانات لمصادقتها وحمايتها. وينحدر جيرو وجده من عشيرة شينوبي عريقة، لذلك يواصلان التدريب على القتال حفاظًا على إرث فنون المعركة داخل العائلة. لكن حياة جيرو تنقلب رأسًا على عقب عندما ينقذ قطًا أسود يبدو عاديًا يُدعى راغو، ليكتشف لاحقًا أنه في الحقيقة مونونوكي، أي روح شيطانية خاضت صراعًا طويلًا ضد البشر. وعندما يظهر مونونوكي عدائي بحثًا عن راغو، يندفع جيرو مستخدمًا تدريبه كشينوبي للدفاع عن القط، لكنه يتعرض لإصابة قاتلة. وبينما يجد راغو نفسه أمام خيار التهام طاقة جيرو المتلاشية ليستعيد قوته الكاملة، يقرر بدلًا من ذلك منحه ما تبقى لديه من طاقة. وبذلك يعود جيرو إلى الحياة، مكتسبًا قوى خارقة عظيمة تنسجم مع أسلوبه القتالي كشينوبي. يشهد ريوسوكي شيبا، أحد ضباط مكتب التجسس المسؤول عن القضاء على المونونوكي العدائيين، هذا الحدث الغريب، فيعرض على جيرو وجده الانضمام إلى الفرقة الجديدة التابعة للمكتب، والمعروفة باسم Black Torch، لمساعدتهم في مواجهة المونونوكي الأقوياء الذين يستهدفون الأبرياء.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ism61wudiwpb.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ism61wudiwpb.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/yd5afgfu05ry",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/qkot937pvwva",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/6C542E94B6366DF",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?1yyeifqz8bbmcwhpi0t4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/7f91cfe11ace42769bf889755943976a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r8tP",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2RKe3",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-11T13:56:05.191Z"
+      "scrapedAt": "2026-08-11T19:36:37.096Z"
     }
   ]
 }
