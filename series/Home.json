@@ -2,8 +2,742 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-08-12T07:19:31.104Z",
+  "lastUpdated": "2026-08-12T13:00:57.463Z",
   "series": [
+    {
+      "id": "239130",
+      "title": "مسلسل Trying الموسم الخامس الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-trying-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=239130",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/bnCrZ9soOEPLsBW05Z60yN4Gayv-scaled-433x650.jpg",
+      "imdbRating": "8",
+      "story": "في الموسم الخامس، يواجه (نيكي) و(جيسون) تداعيات ظهور (كات)، الأم البيولوجية لـ(برينسيس) و(تايلر)، على باب منزلهما، وما تسببه من فوضى واضطراب يقلب استقرار حياتهما العائلية رأسًا على عقب.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "المملكة المتحدة"
+        ],
+        "المخرجين": [
+          "Ellie Heydon",
+          "Elliot Hegarty",
+          "Jim OHanlon"
+        ],
+        "بطولة": [
+          "Ava Talbot",
+          "Ciara Baxendale",
+          "Cooper Turner",
+          "Darren Boyd"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-trying-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-thgazjn28vgu.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/thgazjn28vgu.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/b4wfxfms2jfw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/pgf26m5uwyp7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/85E127FE74F6B08",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?m0q8e9zuho6lskbm8aek",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6b59b75245aeb9755dceb4fec009d495",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6a5v",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xJay",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-12T12:58:17.429Z"
+    },
+    {
+      "id": "239131",
+      "title": "مسلسل Ted Lasso الموسم الرابع الحلقة 2 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ted-lasso-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=239131",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/kcMA01YaRpgLmygNh66eOEvQBdM-scaled-433x650.jpg",
+      "imdbRating": "8.7",
+      "story": "في الموسم الرابع، يعود (تيد) إلى ريتشموند لتدريب فريق نسائي لكرة القدم في الدرجة الثانية، حيث يواجه أكبر تحدٍ في مسيرته، بينما يقود فريقًا جديدًا طموحًا.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رياضي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Declan Lowney",
+          "Destiny Ekaragha",
+          "Elliot Hegarty"
+        ],
+        "بطولة": [
+          "Adam Colborne",
+          "Annette Badland",
+          "Billy Harris",
+          "Brendan Hunt"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ted-lasso-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-v3jo20y24361.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/v3jo20y24361.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/v9h72aes5usr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/wdkjdsxj12dk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/D61B544478EC201",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?nw0g5j3bu6btyz3g1xug",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/044b0f75199c925f21cba54e344302e4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6a5u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xJax",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-12T12:58:20.153Z"
+    },
+    {
+      "id": "239127",
+      "title": "مسلسل Reacher الموسم الرابع الحلقة 3 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reacher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=239127",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/_640x_f35729eb6659e8a2ca80f78d8322ca233eb0c2f489e56a4741ba66dee45a482f-520x650.jpg",
+      "imdbRating": "8",
+      "story": "يشهد جاك ريتشر في الجزء الرابع انتحار امرأة داخل قطار أنفاق مدينة نيويورك، فيجد نفسه في خضم مؤامرة مميتة تتورط فيها جهات حكومية رفيعة المستوى وعناصر إرهابية سرية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Carol Banker",
+          "Christine Moore",
+          "Julian Holmes"
+        ],
+        "بطولة": [
+          "Alan Ritchson",
+          "Bruce McGill",
+          "Chris Webster",
+          "Domenick Lombardozzi"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reacher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-4k8j2nbz0y1k.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/4k8j2nbz0y1k.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/snlj8oiyu8pd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/hn2up165uolr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/8AFB80F92D8E5B2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?mvw7etfk8smib1vyjhhf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/c2e9da8e19546d3a704deb84b7141de0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6a5t",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xJau",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-12T12:58:22.863Z"
+    },
+    {
+      "id": "239133",
+      "title": "مسلسل Lucky الموسم الاول الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-lucky-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=239133",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@-scaled-433x650.jpg",
+      "imdbRating": null,
+      "story": "في إطار من الجريمة والدراما، تُجبر مجرمة سابقة على مواجهة ماضيها والعودة إلى عالم الأنشطة غير المشروعة لتنفيذ مهمة أخيرة، على أمل نيل حريتها ووضع حد نهائي لحياتها السابقة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Aadyn Encalarde",
+          "Adrian Lorenzo",
+          "Annette Bening",
+          "Anya Taylor-Joy"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-lucky-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-98xgop1xa6nf.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/98xgop1xa6nf.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/snjz3e9atx2r",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/t282in6ciyv8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/25BF19FEB8F07D9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?1nahx9gbr0i0j8o419ry",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b88b5aa74d0a8954e637740fc57f8b70",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6a5r",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xJah",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-12T12:58:25.540Z"
+    },
+    {
+      "id": "239126",
+      "title": "مسلسل Reacher الموسم الرابع الحلقة 2 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reacher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=239126",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/_640x_f35729eb6659e8a2ca80f78d8322ca233eb0c2f489e56a4741ba66dee45a482f-520x650.jpg",
+      "imdbRating": "8",
+      "story": "يشهد جاك ريتشر في الجزء الرابع انتحار امرأة داخل قطار أنفاق مدينة نيويورك، فيجد نفسه في خضم مؤامرة مميتة تتورط فيها جهات حكومية رفيعة المستوى وعناصر إرهابية سرية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Carol Banker",
+          "Christine Moore",
+          "Julian Holmes"
+        ],
+        "بطولة": [
+          "Alan Ritchson",
+          "Bruce McGill",
+          "Chris Webster",
+          "Domenick Lombardozzi"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reacher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-zdmxos7ujnei.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/zdmxos7ujnei.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/o7qzevlhdbc2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/xxrjhqw8kqw8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/632E1E6104850B6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?a5rng7w27d1aq6khnd95",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/193f40b34524d3b62ebd3e387d58d4cb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6a5q",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xJae",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-12T12:58:28.225Z"
+    },
+    {
+      "id": "239120",
+      "title": "مسلسل All American الموسم الثامن الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-all-american-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=239120",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/6106Fj8A5WtS9A250ndz7OCUu0r-433x650.jpg",
+      "imdbRating": "7.6",
+      "story": "عندما يُجند لاعب كرة قدم نجم في مدرسة ثانوية من ساوث سنترال للعب في مدرسة (بيفرلي هيلز) الثانوية، يتصادم ويدخل في حيرة بين الفريقين فكيف سيواجه تلك الأزمة؟",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رياضي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Avi Youabian",
+          "Benny Boom",
+          "Charissa Sanjarernsuithikul"
+        ],
+        "بطولة": [
+          "Bre-Z",
+          "Chelsea Tavares",
+          "Cody Christian",
+          "Daniel Ezra"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-all-american-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-vg2qjz0r4k7d.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/vg2qjz0r4k7d.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/rvhmgqne1l04",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/o3d9dz9foq9m",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/6AEAFB264C28AF4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?fllwcb9jmpsqm5ikyjz9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/290917f9caf7b0907764522e31660c7b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6a5n",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xJa6",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-12T12:58:31.918Z"
+    },
+    {
+      "id": "239123",
+      "title": "مسلسل Reacher الموسم الرابع الحلقة 1 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reacher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=239123",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/_640x_f35729eb6659e8a2ca80f78d8322ca233eb0c2f489e56a4741ba66dee45a482f-520x650.jpg",
+      "imdbRating": "8",
+      "story": "يشهد جاك ريتشر في الجزء الرابع انتحار امرأة داخل قطار أنفاق مدينة نيويورك، فيجد نفسه في خضم مؤامرة مميتة تتورط فيها جهات حكومية رفيعة المستوى وعناصر إرهابية سرية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Carol Banker",
+          "Christine Moore",
+          "Julian Holmes"
+        ],
+        "بطولة": [
+          "Alan Ritchson",
+          "Bruce McGill",
+          "Chris Webster",
+          "Domenick Lombardozzi"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reacher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ixexb0y8yxst.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ixexb0y8yxst.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/p8phpa9q34p6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/332palumr04b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/C1A6452AE33A4A7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?4kow5fl9tqth7n5tue9x",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/891d28fe8a7008bdc89af8c33215095e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6a5l",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xJa3",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-12T12:58:34.613Z"
+    },
     {
       "id": "239226",
       "title": "مسلسل ER الموسم 15 الحلقة 22 والاخيرة مترجمة",
@@ -96,7 +830,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:29.377Z"
+      "scrapedAt": "2026-08-12T12:58:37.302Z"
     },
     {
       "id": "239225",
@@ -190,7 +924,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:31.699Z"
+      "scrapedAt": "2026-08-12T12:58:40.031Z"
     },
     {
       "id": "239224",
@@ -284,7 +1018,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:33.999Z"
+      "scrapedAt": "2026-08-12T12:58:42.740Z"
     },
     {
       "id": "239223",
@@ -378,7 +1112,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:36.304Z"
+      "scrapedAt": "2026-08-12T12:58:45.418Z"
     },
     {
       "id": "239222",
@@ -472,7 +1206,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:38.634Z"
+      "scrapedAt": "2026-08-12T12:58:48.127Z"
     },
     {
       "id": "239221",
@@ -566,7 +1300,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:40.944Z"
+      "scrapedAt": "2026-08-12T12:58:50.789Z"
     },
     {
       "id": "239220",
@@ -660,7 +1394,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:43.259Z"
+      "scrapedAt": "2026-08-12T12:58:53.467Z"
     },
     {
       "id": "239219",
@@ -754,7 +1488,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:45.574Z"
+      "scrapedAt": "2026-08-12T12:58:56.176Z"
     },
     {
       "id": "239218",
@@ -848,7 +1582,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:47.851Z"
+      "scrapedAt": "2026-08-12T12:58:58.854Z"
     },
     {
       "id": "239217",
@@ -942,7 +1676,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:50.120Z"
+      "scrapedAt": "2026-08-12T12:59:01.538Z"
     },
     {
       "id": "239216",
@@ -1036,7 +1770,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:52.389Z"
+      "scrapedAt": "2026-08-12T12:59:04.224Z"
     },
     {
       "id": "239214",
@@ -1130,7 +1864,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:54.706Z"
+      "scrapedAt": "2026-08-12T12:59:06.902Z"
     },
     {
       "id": "239213",
@@ -1224,7 +1958,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:56.999Z"
+      "scrapedAt": "2026-08-12T12:59:09.563Z"
     },
     {
       "id": "239212",
@@ -1318,7 +2052,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:17:59.323Z"
+      "scrapedAt": "2026-08-12T12:59:12.250Z"
     },
     {
       "id": "239211",
@@ -1412,7 +2146,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:01.619Z"
+      "scrapedAt": "2026-08-12T12:59:15.066Z"
     },
     {
       "id": "239210",
@@ -1506,7 +2240,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:03.887Z"
+      "scrapedAt": "2026-08-12T12:59:17.592Z"
     },
     {
       "id": "239208",
@@ -1600,7 +2334,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:06.165Z"
+      "scrapedAt": "2026-08-12T12:59:20.281Z"
     },
     {
       "id": "239207",
@@ -1694,7 +2428,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:08.479Z"
+      "scrapedAt": "2026-08-12T12:59:22.814Z"
     },
     {
       "id": "239209",
@@ -1788,7 +2522,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:10.777Z"
+      "scrapedAt": "2026-08-12T12:59:25.388Z"
     },
     {
       "id": "239206",
@@ -1882,7 +2616,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:13.090Z"
+      "scrapedAt": "2026-08-12T12:59:27.908Z"
     },
     {
       "id": "239205",
@@ -1976,7 +2710,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:15.368Z"
+      "scrapedAt": "2026-08-12T12:59:30.580Z"
     },
     {
       "id": "235362",
@@ -2070,7 +2804,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:17.568Z"
+      "scrapedAt": "2026-08-12T12:59:33.291Z"
     },
     {
       "id": "239188",
@@ -2164,7 +2898,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:19.768Z"
+      "scrapedAt": "2026-08-12T12:59:35.865Z"
     },
     {
       "id": "239187",
@@ -2258,7 +2992,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:21.954Z"
+      "scrapedAt": "2026-08-12T12:59:38.551Z"
     },
     {
       "id": "239183",
@@ -2352,7 +3086,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:24.157Z"
+      "scrapedAt": "2026-08-12T12:59:41.236Z"
     },
     {
       "id": "239185",
@@ -2446,7 +3180,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:26.347Z"
+      "scrapedAt": "2026-08-12T12:59:43.744Z"
     },
     {
       "id": "239184",
@@ -2540,7 +3274,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:28.551Z"
+      "scrapedAt": "2026-08-12T12:59:46.254Z"
     },
     {
       "id": "239186",
@@ -2634,7 +3368,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:30.737Z"
+      "scrapedAt": "2026-08-12T12:59:48.780Z"
     },
     {
       "id": "239182",
@@ -2728,7 +3462,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:32.935Z"
+      "scrapedAt": "2026-08-12T12:59:51.279Z"
     },
     {
       "id": "239181",
@@ -2822,7 +3556,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:35.153Z"
+      "scrapedAt": "2026-08-12T12:59:53.958Z"
     },
     {
       "id": "239170",
@@ -2916,7 +3650,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:37.355Z"
+      "scrapedAt": "2026-08-12T12:59:56.502Z"
     },
     {
       "id": "239169",
@@ -3010,7 +3744,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:39.608Z"
+      "scrapedAt": "2026-08-12T12:59:59.212Z"
     },
     {
       "id": "239168",
@@ -3104,7 +3838,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:42.046Z"
+      "scrapedAt": "2026-08-12T13:00:01.734Z"
     },
     {
       "id": "239167",
@@ -3198,7 +3932,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:44.350Z"
+      "scrapedAt": "2026-08-12T13:00:05.782Z"
     },
     {
       "id": "239166",
@@ -3292,7 +4026,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:46.621Z"
+      "scrapedAt": "2026-08-12T13:00:11.392Z"
     },
     {
       "id": "239163",
@@ -3386,7 +4120,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:48.889Z"
+      "scrapedAt": "2026-08-12T13:00:15.071Z"
     },
     {
       "id": "239162",
@@ -3480,7 +4214,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:51.174Z"
+      "scrapedAt": "2026-08-12T13:00:18.408Z"
     },
     {
       "id": "239165",
@@ -3574,7 +4308,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:53.437Z"
+      "scrapedAt": "2026-08-12T13:00:24.579Z"
     },
     {
       "id": "239164",
@@ -3668,7 +4402,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:55.714Z"
+      "scrapedAt": "2026-08-12T13:00:29.678Z"
     },
     {
       "id": "239161",
@@ -3762,7 +4496,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:18:58.009Z"
+      "scrapedAt": "2026-08-12T13:00:35.486Z"
     },
     {
       "id": "235361",
@@ -3856,7 +4590,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:19:00.288Z"
+      "scrapedAt": "2026-08-12T13:00:38.504Z"
     },
     {
       "id": "239103",
@@ -3950,7 +4684,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:19:02.714Z"
+      "scrapedAt": "2026-08-12T13:00:41.636Z"
     },
     {
       "id": "239102",
@@ -4044,7 +4778,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:19:05.007Z"
+      "scrapedAt": "2026-08-12T13:00:44.654Z"
     },
     {
       "id": "239101",
@@ -4138,7 +4872,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:19:07.336Z"
+      "scrapedAt": "2026-08-12T13:00:47.522Z"
     },
     {
       "id": "239100",
@@ -4232,7 +4966,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:19:09.606Z"
+      "scrapedAt": "2026-08-12T13:00:50.496Z"
     },
     {
       "id": "239093",
@@ -4326,7 +5060,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:19:11.903Z"
+      "scrapedAt": "2026-08-12T13:00:53.458Z"
     },
     {
       "id": "239097",
@@ -4420,665 +5154,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-12T07:19:14.192Z"
-    },
-    {
-      "id": "239094",
-      "title": "مسلسل ER الموسم 13 الحلقة 17 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239094",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/dtGLKN4xiWmbYivUcfbcjmPffW3-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث عشر من المسلسل، تقرر كيري ويفر أن تغادر، ويضطر كوفيك أن يقتطع مبالغ ضخمة من الميزانية، مما يهدد العمل الحالي، ويعود توني جيتز ليكون متدربًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2006"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-qpb2qyigoajr.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/qpb2qyigoajr.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/kz3yfens4e85",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/oigjei94gpni",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/7F89198BED91F30",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/e58565c646c00f2f8528acbf1321c249",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ew83",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bG0w",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-12T07:19:16.523Z"
-    },
-    {
-      "id": "239099",
-      "title": "مسلسل ER الموسم 13 الحلقة 16 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239099",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/dtGLKN4xiWmbYivUcfbcjmPffW3-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث عشر من المسلسل، تقرر كيري ويفر أن تغادر، ويضطر كوفيك أن يقتطع مبالغ ضخمة من الميزانية، مما يهدد العمل الحالي، ويعود توني جيتز ليكون متدربًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2006"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-r4j38iyd7bqe.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/r4j38iyd7bqe.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/yucn6osurork",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/m3k0r2ucrqia",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/AF16FF2081E706A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/b7bf551bd6004e2687ae74c7c89f5ae4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ew81",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bG0s",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-12T07:19:18.834Z"
-    },
-    {
-      "id": "239096",
-      "title": "مسلسل ER الموسم 13 الحلقة 15 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239096",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/dtGLKN4xiWmbYivUcfbcjmPffW3-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث عشر من المسلسل، تقرر كيري ويفر أن تغادر، ويضطر كوفيك أن يقتطع مبالغ ضخمة من الميزانية، مما يهدد العمل الحالي، ويعود توني جيتز ليكون متدربًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2006"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-pw082y54njqn.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/pw082y54njqn.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/v9k3qm7tady2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/0vwdcp1zjkw2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/68624FE5A6FCA6D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/7226bdb4b7e45f86354499554503b870",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r6z3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4TwcD",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-12T07:19:21.132Z"
-    },
-    {
-      "id": "239098",
-      "title": "مسلسل ER الموسم 13 الحلقة 14 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239098",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/dtGLKN4xiWmbYivUcfbcjmPffW3-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث عشر من المسلسل، تقرر كيري ويفر أن تغادر، ويضطر كوفيك أن يقتطع مبالغ ضخمة من الميزانية، مما يهدد العمل الحالي، ويعود توني جيتز ليكون متدربًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2006"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-a6bo36t9la0u.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/a6bo36t9la0u.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/4sccwvjc5pda",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/xikk7jwdvqzw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/F0749EB0E85A9A9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3004474f15f7fae2e5996161310eb04e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r6z1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bG0l",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-12T07:19:23.430Z"
-    },
-    {
-      "id": "239095",
-      "title": "مسلسل ER الموسم 13 الحلقة 13 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239095",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/dtGLKN4xiWmbYivUcfbcjmPffW3-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث عشر من المسلسل، تقرر كيري ويفر أن تغادر، ويضطر كوفيك أن يقتطع مبالغ ضخمة من الميزانية، مما يهدد العمل الحالي، ويعود توني جيتز ليكون متدربًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2006"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-6n045sm5yfg0.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/6n045sm5yfg0.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ev8v89yy6gm0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/a871rh70tara",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2BE3C18D8255D0A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6c29c1fd6d389110cd09a2b7ff08374e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r6yZ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bG0h",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-12T07:19:25.710Z"
-    },
-    {
-      "id": "239092",
-      "title": "مسلسل ER الموسم 13 الحلقة 12 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239092",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/dtGLKN4xiWmbYivUcfbcjmPffW3-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث عشر من المسلسل، تقرر كيري ويفر أن تغادر، ويضطر كوفيك أن يقتطع مبالغ ضخمة من الميزانية، مما يهدد العمل الحالي، ويعود توني جيتز ليكون متدربًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2006"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-9qvs64sbjvps.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/9qvs64sbjvps.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/gz1z0xwerqfi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/k8flj71fccg4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/4F62945687072BF",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/66a4e9cbd12174e7f8096c32e838d6aa",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r6yY",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4TwcB",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-12T07:19:27.892Z"
-    },
-    {
-      "id": "239047",
-      "title": "مسلسل ER الموسم 13 الحلقة 11 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239047",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/dtGLKN4xiWmbYivUcfbcjmPffW3-433x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث عشر من المسلسل، تقرر كيري ويفر أن تغادر، ويضطر كوفيك أن يقتطع مبالغ ضخمة من الميزانية، مما يهدد العمل الحالي، ويعود توني جيتز ليكون متدربًا.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2006"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Anthony Edwards",
-          "Deezer D",
-          "Eriq La Salle",
-          "George Clooney"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-er-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-13-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-4m67h16nulmf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/4m67h16nulmf.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/pmsofrrk63xj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/134abed86spe",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/08DD87528D51242",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/be55cf690d46bb5df7d49c595b5f8228",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r6yX",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4TwcA",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-12T07:19:30.103Z"
+      "scrapedAt": "2026-08-12T13:00:56.462Z"
     }
   ]
 }
