@@ -2,7 +2,7 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-08-16T01:05:48.012Z",
+  "lastUpdated": "2026-08-16T06:34:09.405Z",
   "series": [
     {
       "id": "214173",
@@ -101,7 +101,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:01:59.439Z"
+      "scrapedAt": "2026-08-16T06:31:54.086Z"
     },
     {
       "id": "214172",
@@ -200,7 +200,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:02.131Z"
+      "scrapedAt": "2026-08-16T06:31:56.695Z"
     },
     {
       "id": "212990",
@@ -299,7 +299,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:04.770Z"
+      "scrapedAt": "2026-08-16T06:31:58.976Z"
     },
     {
       "id": "210909",
@@ -398,7 +398,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:07.484Z"
+      "scrapedAt": "2026-08-16T06:32:01.615Z"
     },
     {
       "id": "208318",
@@ -497,7 +497,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:10.141Z"
+      "scrapedAt": "2026-08-16T06:32:04.247Z"
     },
     {
       "id": "207263",
@@ -596,7 +596,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:12.815Z"
+      "scrapedAt": "2026-08-16T06:32:06.887Z"
     },
     {
       "id": "206338",
@@ -695,7 +695,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:15.315Z"
+      "scrapedAt": "2026-08-16T06:32:09.161Z"
     },
     {
       "id": "202054",
@@ -794,7 +794,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:17.665Z"
+      "scrapedAt": "2026-08-16T06:32:11.760Z"
     },
     {
       "id": "200084",
@@ -893,7 +893,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:20.137Z"
+      "scrapedAt": "2026-08-16T06:32:14.206Z"
     },
     {
       "id": "198885",
@@ -992,7 +992,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:22.673Z"
+      "scrapedAt": "2026-08-16T06:32:16.784Z"
     },
     {
       "id": "197043",
@@ -1091,7 +1091,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:25.095Z"
+      "scrapedAt": "2026-08-16T06:32:19.268Z"
     },
     {
       "id": "194849",
@@ -1190,7 +1190,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:27.444Z"
+      "scrapedAt": "2026-08-16T06:32:21.856Z"
     },
     {
       "id": "185059",
@@ -1289,7 +1289,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:29.964Z"
+      "scrapedAt": "2026-08-16T06:32:24.474Z"
     },
     {
       "id": "183603",
@@ -1388,7 +1388,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:32.442Z"
+      "scrapedAt": "2026-08-16T06:32:27.117Z"
     },
     {
       "id": "182322",
@@ -1487,7 +1487,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:02:34.969Z"
+      "scrapedAt": "2026-08-16T06:32:29.742Z"
     },
     {
       "id": "181506",
@@ -1536,8 +1536,57 @@
           "m3u8Url": null
         }
       ],
-      "downloadServers": [],
-      "scrapedAt": "2026-08-16T01:03:37.156Z"
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/unjv3eidwlha.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/skhrkp7gaw3t",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/895tjmhcsnjo",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/590AE95906C0D78",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?npd4n3kypzjpgddmm7cz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a9805fc5190ff1a51f72a518816aafe8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/68vy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RFtd",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-16T06:32:32.343Z"
     },
     {
       "id": "179702",
@@ -1636,7 +1685,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:03:47.787Z"
+      "scrapedAt": "2026-08-16T06:32:34.965Z"
     },
     {
       "id": "178273",
@@ -1735,7 +1784,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:03:57.652Z"
+      "scrapedAt": "2026-08-16T06:32:37.569Z"
     },
     {
       "id": "176944",
@@ -1834,7 +1883,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:06.679Z"
+      "scrapedAt": "2026-08-16T06:32:40.104Z"
     },
     {
       "id": "175696",
@@ -1933,7 +1982,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:16.587Z"
+      "scrapedAt": "2026-08-16T06:32:42.433Z"
     },
     {
       "id": "174472",
@@ -2026,7 +2075,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:23.189Z"
+      "scrapedAt": "2026-08-16T06:32:45.055Z"
     },
     {
       "id": "171655",
@@ -2119,7 +2168,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:27.152Z"
+      "scrapedAt": "2026-08-16T06:32:47.230Z"
     },
     {
       "id": "146885",
@@ -2212,7 +2261,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:29.953Z"
+      "scrapedAt": "2026-08-16T06:32:49.674Z"
     },
     {
       "id": "146859",
@@ -2305,7 +2354,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:32.433Z"
+      "scrapedAt": "2026-08-16T06:32:52.125Z"
     },
     {
       "id": "144477",
@@ -2398,7 +2447,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:34.782Z"
+      "scrapedAt": "2026-08-16T06:32:54.731Z"
     },
     {
       "id": "143722",
@@ -2491,7 +2540,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:37.162Z"
+      "scrapedAt": "2026-08-16T06:32:57.355Z"
     },
     {
       "id": "142080",
@@ -2584,7 +2633,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:40.188Z"
+      "scrapedAt": "2026-08-16T06:32:59.946Z"
     },
     {
       "id": "140929",
@@ -2677,7 +2726,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:42.594Z"
+      "scrapedAt": "2026-08-16T06:33:02.561Z"
     },
     {
       "id": "139504",
@@ -2770,7 +2819,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:45.413Z"
+      "scrapedAt": "2026-08-16T06:33:05.143Z"
     },
     {
       "id": "138117",
@@ -2863,7 +2912,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:47.820Z"
+      "scrapedAt": "2026-08-16T06:33:07.657Z"
     },
     {
       "id": "136776",
@@ -2956,7 +3005,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:50.216Z"
+      "scrapedAt": "2026-08-16T06:33:10.250Z"
     },
     {
       "id": "135369",
@@ -3049,7 +3098,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:52.584Z"
+      "scrapedAt": "2026-08-16T06:33:12.844Z"
     },
     {
       "id": "239686",
@@ -3146,7 +3195,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:55.036Z"
+      "scrapedAt": "2026-08-16T06:33:15.538Z"
     },
     {
       "id": "239857",
@@ -3252,7 +3301,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:04:57.596Z"
+      "scrapedAt": "2026-08-16T06:33:18.098Z"
     },
     {
       "id": "239811",
@@ -3352,7 +3401,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:00.148Z"
+      "scrapedAt": "2026-08-16T06:33:20.592Z"
     },
     {
       "id": "239684",
@@ -3452,7 +3501,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:02.482Z"
+      "scrapedAt": "2026-08-16T06:33:22.945Z"
     },
     {
       "id": "239750",
@@ -3544,7 +3593,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:04.723Z"
+      "scrapedAt": "2026-08-16T06:33:25.532Z"
     },
     {
       "id": "239749",
@@ -3636,7 +3685,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:06.959Z"
+      "scrapedAt": "2026-08-16T06:33:28.020Z"
     },
     {
       "id": "239748",
@@ -3728,7 +3777,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:09.203Z"
+      "scrapedAt": "2026-08-16T06:33:30.535Z"
     },
     {
       "id": "239747",
@@ -3820,7 +3869,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:11.808Z"
+      "scrapedAt": "2026-08-16T06:33:32.863Z"
     },
     {
       "id": "239746",
@@ -3912,7 +3961,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:14.141Z"
+      "scrapedAt": "2026-08-16T06:33:35.384Z"
     },
     {
       "id": "239745",
@@ -4004,7 +4053,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:16.516Z"
+      "scrapedAt": "2026-08-16T06:33:37.885Z"
     },
     {
       "id": "239705",
@@ -4096,7 +4145,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:18.833Z"
+      "scrapedAt": "2026-08-16T06:33:40.395Z"
     },
     {
       "id": "239737",
@@ -4192,7 +4241,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:21.435Z"
+      "scrapedAt": "2026-08-16T06:33:43.034Z"
     },
     {
       "id": "239736",
@@ -4288,7 +4337,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:23.804Z"
+      "scrapedAt": "2026-08-16T06:33:45.480Z"
     },
     {
       "id": "239735",
@@ -4384,7 +4433,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:26.229Z"
+      "scrapedAt": "2026-08-16T06:33:48.211Z"
     },
     {
       "id": "239733",
@@ -4480,7 +4529,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:29.033Z"
+      "scrapedAt": "2026-08-16T06:33:50.801Z"
     },
     {
       "id": "239734",
@@ -4576,7 +4625,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:31.753Z"
+      "scrapedAt": "2026-08-16T06:33:53.081Z"
     },
     {
       "id": "239732",
@@ -4672,7 +4721,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:34.404Z"
+      "scrapedAt": "2026-08-16T06:33:55.690Z"
     },
     {
       "id": "239731",
@@ -4768,7 +4817,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:37.131Z"
+      "scrapedAt": "2026-08-16T06:33:58.188Z"
     },
     {
       "id": "239701",
@@ -4864,7 +4913,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:39.476Z"
+      "scrapedAt": "2026-08-16T06:34:00.693Z"
     },
     {
       "id": "239682",
@@ -4969,7 +5018,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:41.702Z"
+      "scrapedAt": "2026-08-16T06:34:03.042Z"
     },
     {
       "id": "212353",
@@ -5069,7 +5118,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:44.392Z"
+      "scrapedAt": "2026-08-16T06:34:05.793Z"
     },
     {
       "id": "210603",
@@ -5169,7 +5218,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T01:05:47.011Z"
+      "scrapedAt": "2026-08-16T06:34:08.404Z"
     }
   ]
 }
