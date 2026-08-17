@@ -2,8 +2,417 @@
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-08-16T18:58:32.377Z",
+  "lastUpdated": "2026-08-17T02:06:52.802Z",
   "series": [
+    {
+      "id": "240075",
+      "title": "انمي ون بيس One Piece الحلقة 1174 مترجمة",
+      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-%d9%88%d9%86-%d8%a8%d9%8a%d8%b3-one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1174-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=240075",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/04/Elbaph_Arc-500x627.webp",
+      "imdbRating": "9",
+      "story": "العظمة , المجد , الذهب , مزايا اشتملت عليها حياة ملك القراصنة غولد روجر الذي حكم عليه بالإعدام لأسباب مجهولة, و ارتأى أن يشي بسر كنزه المعروف بـ ” ون بيس” و المخبأ في مكان ما على الخط الكبير قبل أن ينفذ فيه حكم الإعدام. و بعد اثنين و عشرين سنة من هذه الحادثة تبدأ أحداث قصتنا , و يظهر بطلنا القرصان مونكي دي لوفي الحالم بالعثور على الكنزو الطامع بلقب ملك القراصنة , و من أجل ذلك , يقوم بتناول فاكهة الشيطان للحصول على القوة اللازمة و لتيسير و تذييل العقبات التي من شأنها إعاقة المهمة. و قبل البدء بأي شيء , عليه أولاً أن يجد الطاقم المناسب ليبدءون رحلة البحث عن الكنز الأسطوري.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-%d9%88%d9%86-%d8%a8%d9%8a%d8%b3-one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1174-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-5ebzq4ux1a5z.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/5ebzq4ux1a5z.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/99xbashsprdc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ds5u1cl8ruoa",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4099A79792E5206",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?9racj8rzrrkpurmh32w2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/520652be931b96d635f32e9cf644b832",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6azy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RNle",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/fy9ffp8vwzgj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/ppyisj6h6m2a",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/8C5C4C24AEE9DAB",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?qkkypgj36lwljfdz7zgi",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/97b80f2a09e24d77d99dc27ad3307d2e",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6azt",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2RNl3",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-17T02:04:36.669Z"
+    },
+    {
+      "id": "240074",
+      "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.co/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=240074",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BNGQ0NDk2ZTEtMTI3Yy00YmE5LTlmYmMtMTljMjllOWE3NDU5XkEyXkFqcGc@-scaled-460x650.jpg",
+      "imdbRating": null,
+      "story": "في البلاط الداخلي الفخم لمملكة إي، يقع بلاط العذارى المزدهر، حيث تُختار الإمبراطورة وأربع زوجات من بين خمس قبائل مرموقة. ومن بينهن، تبرز ريرين كو، إحدى الزوجات المتدربات، كمرشحة مثالية للإمبراطورة المستقبلية. ففضيلتها وأناقتها لا مثيل لهما، وهي كاملة الجمال - باستثناء بنيتها الصحية الهشة. بالمقارنة مع ريرين الرقيقة، يبدو كيغيتسو شو الفظ كجرذ مجاري. يحدق كيغيتسو دائمًا في ريرين بحسد مرير، وهو عار على بلاط العذارى.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ej2p7e53qy9u.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ej2p7e53qy9u.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/l0ydasj2n4lm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/7hxsjsntzu07",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/2F45FF87682360A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?pddpbborv0fc5jourkec",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/0b045de41d964d801a70ac8941037adc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6azx",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RNlc",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-17T02:04:39.067Z"
+    },
+    {
+      "id": "240076",
+      "title": "انمي Azur Lane: Bisoku Zenshin الموسم الثاني الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-azur-lane-bisoku-zenshin-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=240076",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/qKneYIw0HJFOWhLfCzTYG0I9a6n-433x650.jpg",
+      "imdbRating": "6.3",
+      "story": "هذا عالمٌ غريبٌ بعض الشيء، حيث تعيش فتيات السفن. تبدأ حياةٌ مدرسيةٌ نابضةٌ بالحياة وممتعةٌ لفتياتٍ من فصائلَ مختلفةٍ في ميناء أزور لين البحري. تعيش هؤلاء الفتيات حياتهنّ على أكمل وجه، وينخرطن في مغامراتٍ مختلفةٍ - ببطءٍ ولكن بثبات!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "رومانسي",
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-azur-lane-bisoku-zenshin-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-56hvvohewgcz.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/56hvvohewgcz.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/gmqh4tx4mky2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/1bepck222kjs",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A72B43B944ADC1D",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?verv3zxihika1oqx2qjb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/924bea492330af0e05cd01254217a3f7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6azw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RNla",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-17T02:04:41.614Z"
+    },
+    {
+      "id": "240073",
+      "title": "انمي Sayonara Lara الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-sayonara-lara-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=240073",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BOWVhMDE0ZTAtMjZjYi00NGQ5LTgxNjktMjA3MmE5YmI0NjM1XkEyXkFqcGc@._V1_-460x650.jpg",
+      "imdbRating": null,
+      "story": "منذ زمن بعيد جدًا، عاشت أميرة حورية بحر تُدعى لارا، نشأت في كنف والدها ملك البحر وشقيقاتها وسط الحب والرعاية. في أحد الأيام، وقعت لارا في حب أمير بشري يعيش على اليابسة، لكن هذا الحب كان محرّمًا في عالم الحوريات ولا يُسمح به. ومع ذلك، قررت لارا أن تتبع قلبها، فذهبت إلى سطح البحر. هناك حصلت على جرعة سحرية من الساحرة غريس، جعلتها تتحول إلى إنسانة. لكن هذا التحول كان مشروطًا بثمن قاسٍ: إذا لم تجد الحب الحقيقي، ستتحول إلى رغوة وتختفي في أعماق البحر. اختارت لارا الحب رغم المخاطرة، لكنها لم تنجح في تحقيق أمنيتها، فاختفت في البحر كما تنبأت اللعنة. بعد مرور مئتي عام، تستيقظ لارا من جديد، ولكن هذه المرة في بحيرة بيوا، لتبدأ رحلة جديدة بحثًا عن حبها الحقيقي الذي لم يكتمل.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "رومانسي",
+          "فانتازيا",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-sayonara-lara-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-b07ylbjaymor.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/b07ylbjaymor.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/nu9576t9n6kv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/r3b5k4azflsv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/034A0C36B1226DA",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?6gkzuqi5jsja6his79x9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/f88ff0fde1e760dab42ce4d521202365",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6azb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2RNik",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-17T02:04:43.986Z"
+    },
     {
       "id": "240072",
       "title": "انمي Mushoku Tensei الموسم الثالث الحلقة 8 مترجمة",
@@ -94,7 +503,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:14.282Z"
+      "scrapedAt": "2026-08-17T02:04:46.685Z"
     },
     {
       "id": "240067",
@@ -184,7 +593,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:16.897Z"
+      "scrapedAt": "2026-08-17T02:04:49.205Z"
     },
     {
       "id": "240065",
@@ -276,7 +685,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:19.526Z"
+      "scrapedAt": "2026-08-17T02:04:51.559Z"
     },
     {
       "id": "240068",
@@ -366,7 +775,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:22.146Z"
+      "scrapedAt": "2026-08-17T02:04:54.091Z"
     },
     {
       "id": "240070",
@@ -458,7 +867,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:24.753Z"
+      "scrapedAt": "2026-08-17T02:04:56.616Z"
     },
     {
       "id": "240066",
@@ -550,7 +959,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:27.323Z"
+      "scrapedAt": "2026-08-17T02:04:59.140Z"
     },
     {
       "id": "240071",
@@ -640,7 +1049,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:29.910Z"
+      "scrapedAt": "2026-08-17T02:05:01.850Z"
     },
     {
       "id": "240069",
@@ -732,7 +1141,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:32.491Z"
+      "scrapedAt": "2026-08-17T02:05:04.380Z"
     },
     {
       "id": "240147",
@@ -824,7 +1233,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:35.825Z"
+      "scrapedAt": "2026-08-17T02:05:07.869Z"
     },
     {
       "id": "240001",
@@ -916,7 +1325,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:38.405Z"
+      "scrapedAt": "2026-08-17T02:05:10.235Z"
     },
     {
       "id": "239994",
@@ -1008,7 +1417,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:40.995Z"
+      "scrapedAt": "2026-08-17T02:05:12.777Z"
     },
     {
       "id": "239995",
@@ -1099,7 +1508,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:43.587Z"
+      "scrapedAt": "2026-08-17T02:05:15.146Z"
     },
     {
       "id": "239992",
@@ -1191,7 +1600,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:46.159Z"
+      "scrapedAt": "2026-08-17T02:05:17.672Z"
     },
     {
       "id": "239990",
@@ -1283,7 +1692,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:48.779Z"
+      "scrapedAt": "2026-08-17T02:05:20.226Z"
     },
     {
       "id": "239988",
@@ -1373,7 +1782,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:51.034Z"
+      "scrapedAt": "2026-08-17T02:05:22.582Z"
     },
     {
       "id": "239986",
@@ -1460,7 +1869,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:53.638Z"
+      "scrapedAt": "2026-08-17T02:05:25.121Z"
     },
     {
       "id": "239984",
@@ -1551,7 +1960,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:56.244Z"
+      "scrapedAt": "2026-08-17T02:05:27.475Z"
     },
     {
       "id": "239982",
@@ -1642,7 +2051,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:56:58.804Z"
+      "scrapedAt": "2026-08-17T02:05:30.161Z"
     },
     {
       "id": "239980",
@@ -1734,7 +2143,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:01.386Z"
+      "scrapedAt": "2026-08-17T02:05:32.515Z"
     },
     {
       "id": "239978",
@@ -1824,7 +2233,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:03.971Z"
+      "scrapedAt": "2026-08-17T02:05:34.865Z"
     },
     {
       "id": "239948",
@@ -1915,7 +2324,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:06.553Z"
+      "scrapedAt": "2026-08-17T02:05:37.400Z"
     },
     {
       "id": "239864",
@@ -2007,7 +2416,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:09.185Z"
+      "scrapedAt": "2026-08-17T02:05:39.765Z"
     },
     {
       "id": "239862",
@@ -2099,7 +2508,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:11.769Z"
+      "scrapedAt": "2026-08-17T02:05:42.125Z"
     },
     {
       "id": "239858",
@@ -2191,7 +2600,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:14.372Z"
+      "scrapedAt": "2026-08-17T02:05:44.836Z"
     },
     {
       "id": "239783",
@@ -2281,7 +2690,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:16.953Z"
+      "scrapedAt": "2026-08-17T02:05:47.370Z"
     },
     {
       "id": "239774",
@@ -2372,7 +2781,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:19.547Z"
+      "scrapedAt": "2026-08-17T02:05:50.083Z"
     },
     {
       "id": "239775",
@@ -2464,7 +2873,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:22.130Z"
+      "scrapedAt": "2026-08-17T02:05:52.449Z"
     },
     {
       "id": "239782",
@@ -2556,7 +2965,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:24.691Z"
+      "scrapedAt": "2026-08-17T02:05:54.805Z"
     },
     {
       "id": "239771",
@@ -2647,7 +3056,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:27.275Z"
+      "scrapedAt": "2026-08-17T02:05:57.341Z"
     },
     {
       "id": "239778",
@@ -2738,7 +3147,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:29.840Z"
+      "scrapedAt": "2026-08-17T02:05:59.712Z"
     },
     {
       "id": "239770",
@@ -2828,7 +3237,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:32.414Z"
+      "scrapedAt": "2026-08-17T02:06:02.244Z"
     },
     {
       "id": "239664",
@@ -2920,7 +3329,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:35.015Z"
+      "scrapedAt": "2026-08-17T02:06:04.603Z"
     },
     {
       "id": "239447",
@@ -3012,7 +3421,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:37.604Z"
+      "scrapedAt": "2026-08-17T02:06:07.301Z"
     },
     {
       "id": "238240",
@@ -3103,7 +3512,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:40.170Z"
+      "scrapedAt": "2026-08-17T02:06:09.652Z"
     },
     {
       "id": "239649",
@@ -3195,7 +3604,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:42.729Z"
+      "scrapedAt": "2026-08-17T02:06:12.176Z"
     },
     {
       "id": "239647",
@@ -3287,7 +3696,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:45.305Z"
+      "scrapedAt": "2026-08-17T02:06:14.640Z"
     },
     {
       "id": "239638",
@@ -3377,7 +3786,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:47.869Z"
+      "scrapedAt": "2026-08-17T02:06:17.171Z"
     },
     {
       "id": "239640",
@@ -3467,7 +3876,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:50.259Z"
+      "scrapedAt": "2026-08-17T02:06:19.698Z"
     },
     {
       "id": "239637",
@@ -3558,7 +3967,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:53.058Z"
+      "scrapedAt": "2026-08-17T02:06:22.588Z"
     },
     {
       "id": "239591",
@@ -3650,7 +4059,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:55.952Z"
+      "scrapedAt": "2026-08-17T02:06:25.539Z"
     },
     {
       "id": "239536",
@@ -3742,7 +4151,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:57:58.382Z"
+      "scrapedAt": "2026-08-17T02:06:28.076Z"
     },
     {
       "id": "239522",
@@ -3832,7 +4241,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:01.226Z"
+      "scrapedAt": "2026-08-17T02:06:31.023Z"
     },
     {
       "id": "229460",
@@ -3924,7 +4333,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:03.656Z"
+      "scrapedAt": "2026-08-17T02:06:33.571Z"
     },
     {
       "id": "239451",
@@ -4016,7 +4425,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:06.095Z"
+      "scrapedAt": "2026-08-17T02:06:36.110Z"
     },
     {
       "id": "239449",
@@ -4108,7 +4517,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:08.674Z"
+      "scrapedAt": "2026-08-17T02:06:38.776Z"
     },
     {
       "id": "239422",
@@ -4198,7 +4607,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:11.097Z"
+      "scrapedAt": "2026-08-17T02:06:41.301Z"
     },
     {
       "id": "239412",
@@ -4290,7 +4699,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:13.688Z"
+      "scrapedAt": "2026-08-17T02:06:43.838Z"
     },
     {
       "id": "239410",
@@ -4381,7 +4790,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:16.264Z"
+      "scrapedAt": "2026-08-17T02:06:46.771Z"
     },
     {
       "id": "239408",
@@ -4474,7 +4883,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:18.878Z"
+      "scrapedAt": "2026-08-17T02:06:49.282Z"
     },
     {
       "id": "239393",
@@ -4566,369 +4975,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-16T18:58:21.316Z"
-    },
-    {
-      "id": "239380",
-      "title": "انمي World Is Dancing الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-world-is-dancing-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239380",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/06/MV5BM2E4MmE2ZGItZTYwYS00NWQ2LTk5NjMtMDZiYTE5NWI3MjRhXkEyXkFqcGc@._V1_-442x650.jpg",
-      "imdbRating": null,
-      "story": "“لا يحتاج المرء للرقص ليعيش.” في عام 1374، خلال العصر المضطرب الذي كانت فيه البلاطين الملكيين الشمالي والجنوبي في صراع، أصبح شوغون بلاط الشمال، أشيكاغا يوشيميتسو، قوة متزايدة النفوذ. ولد أونيياشا ابنًا لكانامي، رئيس فرقة كانزي لمؤديي الساروجاكو، ويعيش أيامه وهو يحمل سؤالًا غامضًا في قلبه: لماذا يرقص الناس؟ ظلت روحه غائمة حتى اليوم الذي يصادف فيه رقصة تُعتبر حقًا “جميلة”. فضوليًا وحساسًا وجميلًا بشكل لافت، يلتقي الصبي بالناس، يضحك ويبكي، يواجه ضعفه، ويبدأ ببطء في تشكيل شكل جديد من الرقص لعالم غارق في زوال الأشياء.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-world-is-dancing-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-9qdyns6uof45.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/9qdyns6uof45.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/3owx2yojkko9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/0vjlpb0t1tqr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/BB5D77A67131FF5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?yma9wo6v3xspw4apvinw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/4104b421adc46b2f009916466f16fef1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6a69",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xJes",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-16T18:58:23.897Z"
-    },
-    {
-      "id": "239354",
-      "title": "انمي Liar Game الحلقة 19 مترجمة",
-      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-liar-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239354",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/04/MV5BZWY1NGMwY2UtZjEzNS00YTI3LTlhNWMtZDIzOGNkNGUxMzAxXkEyXkFqcGc@._V1_-scaled-460x650.jpg",
-      "imdbRating": "7.3",
-      "story": "تدور قصة الانمي حول ناو كانزاكي، طالبة جامعية معروفة بصدقها الشديد، لدرجة أنها توصف بأنها “صادقة بشكل ساذج”. لكن حياتها تنقلب رأسًا على عقب عندما تستلم طردًا غامضًا يحتوي على مئة مليون ين، لتجد نفسها قد دخلت دون قصد في لعبة تُعرف باسم “Liar Game”. في هذه اللعبة، يُشجَّع المشاركون على الخداع والخيانة للفوز بمبالغ ضخمة، بينما يعني الخسارة الوقوع في ديون هائلة قد تلازمهم مدى الحياة. ومع فقدانها لأي أمل، لا تجد ناو خيارًا سوى طلب المساعدة من محتال محترف. في نفس اليوم، يتم الإفراج عن شينيتشي أكياما، وهو محتال مشهور وطالب سابق في علم النفس، اشتهر بإفلاسه لشركة كاملة بمفرده. ترى ناو فيه فرصتها الوحيدة للنجاة، ورغم تردده في البداية، إلا أنه يوافق في النهاية على مساعدتها بعد إصرارها. داخل هذا العالم القائم على الخداع، لكل من ناو وأكياما أهدافه الخاصة، لكن سرعان ما يكتشفان الحقيقة القاسية ليس فقط عن اللعبة… بل عن الأشخاص المشاركين فيها أيضًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-liar-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-t771x05m3hxc.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/t771x05m3hxc.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/s9ljpd74weql",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/wxdpp2k0bb42",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/3D8FF7891572FCF",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?kkxbf88tgt6bvoiblrzs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3b7482f774651ab93e3f4d315bf6660d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ameZ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xJd3",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-16T18:58:26.350Z"
-    },
-    {
-      "id": "239353",
-      "title": "انمي Liar Game الحلقة 18 مترجمة",
-      "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-liar-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239353",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/04/MV5BZWY1NGMwY2UtZjEzNS00YTI3LTlhNWMtZDIzOGNkNGUxMzAxXkEyXkFqcGc@._V1_-scaled-460x650.jpg",
-      "imdbRating": "7.3",
-      "story": "تدور قصة الانمي حول ناو كانزاكي، طالبة جامعية معروفة بصدقها الشديد، لدرجة أنها توصف بأنها “صادقة بشكل ساذج”. لكن حياتها تنقلب رأسًا على عقب عندما تستلم طردًا غامضًا يحتوي على مئة مليون ين، لتجد نفسها قد دخلت دون قصد في لعبة تُعرف باسم “Liar Game”. في هذه اللعبة، يُشجَّع المشاركون على الخداع والخيانة للفوز بمبالغ ضخمة، بينما يعني الخسارة الوقوع في ديون هائلة قد تلازمهم مدى الحياة. ومع فقدانها لأي أمل، لا تجد ناو خيارًا سوى طلب المساعدة من محتال محترف. في نفس اليوم، يتم الإفراج عن شينيتشي أكياما، وهو محتال مشهور وطالب سابق في علم النفس، اشتهر بإفلاسه لشركة كاملة بمفرده. ترى ناو فيه فرصتها الوحيدة للنجاة، ورغم تردده في البداية، إلا أنه يوافق في النهاية على مساعدتها بعد إصرارها. داخل هذا العالم القائم على الخداع، لكل من ناو وأكياما أهدافه الخاصة، لكن سرعان ما يكتشفان الحقيقة القاسية ليس فقط عن اللعبة… بل عن الأشخاص المشاركين فيها أيضًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d8%a7%d9%86%d9%85%d9%8a-liar-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-vioelvr3b6zh.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/vioelvr3b6zh.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/5lj8zydx80z7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/ahy5k0p1v55l",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/85D3B1F85FCB65B",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?kuxcq14f0uu94hpbhd87",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/9f5275ce920c6003fce4ce17b15fce6e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ameY",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xJd2",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-16T18:58:28.954Z"
-    },
-    {
-      "id": "239132",
-      "title": "مسلسل X-Men ’97 الموسم الثاني الحلقة 9 والاخيرة مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-x-men-97-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=239132",
-      "image": "https://topcinemaa.co/wp-content/uploads/2026/06/MV5BYmU0MTRjNzgtMjNlZi00YWM2LWExZmItY2RkYjVhZjJmODEyXkEyXkFqcGc@._V1_-438x650.jpg",
-      "imdbRating": "8.7",
-      "story": "مسلسل رسوم متحركة يستكمل أحداث مسلسل (X-Men: The Animated Series) عام 1992، حيث تعود شخصيات (رجال إكس) الشهيرة لخوض سلسلة من المغامرات الجديدة الشيقة.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-x-men-97-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ztl45yrt38qq.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ztl45yrt38qq.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/k8xsk0r5kp1n",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/9891q9da3yxe",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/0BCC95618A9C72F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?m4zrss31adytfoxm96h1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/713c8dc16f6e0ab2979d60a1311f865a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6a5w",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xJaz",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-16T18:58:31.377Z"
+      "scrapedAt": "2026-08-17T02:06:51.803Z"
     }
   ]
 }
