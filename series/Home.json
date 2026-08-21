@@ -2,8 +2,113 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-08-21T01:03:52.774Z",
+  "lastUpdated": "2026-08-21T06:39:56.312Z",
   "series": [
+    {
+      "id": "240853",
+      "title": "مسلسل Silo الموسم الثالث الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-silo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=240853",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/_640x_1732374d71aa3cd96380d3a4331f1271fa3cea316deb3b343a20478a190dcbc2-435x650.jpg",
+      "imdbRating": "8.1",
+      "story": "بعد نجاتها من العالم الخارجي، تعود (جولييت) وهي تعاني من فقدان الذاكرة، مما يجبرها على إعادة اكتشاف الحقيقة حول العالم الخارجي، والجزيئات النانوية القاتلة، والصوامع المجاورة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "خيال علمي",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "David Semel",
+          "Morten Tyldum"
+        ],
+        "بطولة": [
+          "Angela Yeoh",
+          "Avi Nash",
+          "Billy Postlethwaite",
+          "Caitlin Zoz"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-silo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-d8eluuy0z75c.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/d8eluuy0z75c.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ju4897pv0lai",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/jwcgovoz4c7m",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/3978EBA97622B88",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?ub4k5k8e1cs4yv6qkhcy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/93410d451984422b84c223bc5471c11a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6bdo",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xMvx",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-21T06:37:59.789Z"
+    },
     {
       "id": "241044",
       "title": "مسلسل The Ark الموسم الثالث الحلقة 4 مترجمة",
@@ -108,7 +213,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:01:43.466Z"
+      "scrapedAt": "2026-08-21T06:38:02.157Z"
     },
     {
       "id": "240920",
@@ -209,7 +314,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:01:46.293Z"
+      "scrapedAt": "2026-08-21T06:38:04.278Z"
     },
     {
       "id": "240921",
@@ -310,7 +415,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:01:48.692Z"
+      "scrapedAt": "2026-08-21T06:38:06.288Z"
     },
     {
       "id": "240922",
@@ -411,7 +516,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:01:51.077Z"
+      "scrapedAt": "2026-08-21T06:38:08.381Z"
     },
     {
       "id": "240919",
@@ -512,7 +617,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:01:53.487Z"
+      "scrapedAt": "2026-08-21T06:38:10.529Z"
     },
     {
       "id": "240815",
@@ -613,7 +718,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:01:55.828Z"
+      "scrapedAt": "2026-08-21T06:38:12.622Z"
     },
     {
       "id": "240905",
@@ -720,7 +825,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:01:58.091Z"
+      "scrapedAt": "2026-08-21T06:38:14.751Z"
     },
     {
       "id": "240904",
@@ -827,7 +932,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:00.472Z"
+      "scrapedAt": "2026-08-21T06:38:16.873Z"
     },
     {
       "id": "240906",
@@ -934,7 +1039,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:02.715Z"
+      "scrapedAt": "2026-08-21T06:38:18.973Z"
     },
     {
       "id": "240903",
@@ -1041,7 +1146,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:05.042Z"
+      "scrapedAt": "2026-08-21T06:38:21.091Z"
     },
     {
       "id": "240800",
@@ -1142,7 +1247,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:07.561Z"
+      "scrapedAt": "2026-08-21T06:38:23.212Z"
     },
     {
       "id": "240801",
@@ -1248,7 +1353,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:09.752Z"
+      "scrapedAt": "2026-08-21T06:38:25.302Z"
     },
     {
       "id": "240863",
@@ -1355,7 +1460,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:12.076Z"
+      "scrapedAt": "2026-08-21T06:38:27.397Z"
     },
     {
       "id": "240859",
@@ -1462,7 +1567,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:14.456Z"
+      "scrapedAt": "2026-08-21T06:38:29.488Z"
     },
     {
       "id": "240858",
@@ -1569,7 +1674,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:16.689Z"
+      "scrapedAt": "2026-08-21T06:38:31.605Z"
     },
     {
       "id": "240857",
@@ -1676,7 +1781,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:18.858Z"
+      "scrapedAt": "2026-08-21T06:38:33.717Z"
     },
     {
       "id": "240855",
@@ -1783,7 +1888,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:21.050Z"
+      "scrapedAt": "2026-08-21T06:38:35.848Z"
     },
     {
       "id": "240804",
@@ -1890,7 +1995,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:23.348Z"
+      "scrapedAt": "2026-08-21T06:38:37.943Z"
     },
     {
       "id": "109372",
@@ -1997,7 +2102,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:25.925Z"
+      "scrapedAt": "2026-08-21T06:38:40.267Z"
     },
     {
       "id": "109371",
@@ -2104,7 +2209,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:28.321Z"
+      "scrapedAt": "2026-08-21T06:38:42.435Z"
     },
     {
       "id": "109350",
@@ -2211,7 +2316,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:30.737Z"
+      "scrapedAt": "2026-08-21T06:38:44.615Z"
     },
     {
       "id": "109349",
@@ -2318,7 +2423,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:33.198Z"
+      "scrapedAt": "2026-08-21T06:38:46.792Z"
     },
     {
       "id": "109348",
@@ -2425,7 +2530,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:35.640Z"
+      "scrapedAt": "2026-08-21T06:38:48.965Z"
     },
     {
       "id": "109347",
@@ -2532,7 +2637,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:38.043Z"
+      "scrapedAt": "2026-08-21T06:38:51.057Z"
     },
     {
       "id": "109346",
@@ -2639,7 +2744,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:40.460Z"
+      "scrapedAt": "2026-08-21T06:38:53.170Z"
     },
     {
       "id": "109345",
@@ -2746,7 +2851,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:42.787Z"
+      "scrapedAt": "2026-08-21T06:38:55.363Z"
     },
     {
       "id": "109344",
@@ -2853,7 +2958,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:45.159Z"
+      "scrapedAt": "2026-08-21T06:38:57.693Z"
     },
     {
       "id": "109343",
@@ -2960,7 +3065,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:47.632Z"
+      "scrapedAt": "2026-08-21T06:38:59.897Z"
     },
     {
       "id": "109342",
@@ -3067,7 +3172,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:50.061Z"
+      "scrapedAt": "2026-08-21T06:39:02.281Z"
     },
     {
       "id": "109341",
@@ -3174,7 +3279,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:52.424Z"
+      "scrapedAt": "2026-08-21T06:39:04.542Z"
     },
     {
       "id": "109339",
@@ -3281,7 +3386,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:54.695Z"
+      "scrapedAt": "2026-08-21T06:39:06.755Z"
     },
     {
       "id": "109338",
@@ -3388,7 +3493,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:57.127Z"
+      "scrapedAt": "2026-08-21T06:39:08.948Z"
     },
     {
       "id": "109337",
@@ -3495,7 +3600,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:02:59.570Z"
+      "scrapedAt": "2026-08-21T06:39:10.995Z"
     },
     {
       "id": "109336",
@@ -3602,7 +3707,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:02.041Z"
+      "scrapedAt": "2026-08-21T06:39:13.330Z"
     },
     {
       "id": "109335",
@@ -3709,7 +3814,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:04.846Z"
+      "scrapedAt": "2026-08-21T06:39:15.513Z"
     },
     {
       "id": "109334",
@@ -3816,7 +3921,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:07.695Z"
+      "scrapedAt": "2026-08-21T06:39:17.725Z"
     },
     {
       "id": "109333",
@@ -3923,7 +4028,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:10.203Z"
+      "scrapedAt": "2026-08-21T06:39:19.925Z"
     },
     {
       "id": "109332",
@@ -4030,7 +4135,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:12.687Z"
+      "scrapedAt": "2026-08-21T06:39:22.124Z"
     },
     {
       "id": "109331",
@@ -4137,7 +4242,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:15.171Z"
+      "scrapedAt": "2026-08-21T06:39:24.447Z"
     },
     {
       "id": "109330",
@@ -4244,7 +4349,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:17.524Z"
+      "scrapedAt": "2026-08-21T06:39:26.653Z"
     },
     {
       "id": "109085",
@@ -4351,7 +4456,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:19.977Z"
+      "scrapedAt": "2026-08-21T06:39:28.729Z"
     },
     {
       "id": "109266",
@@ -4458,7 +4563,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:22.633Z"
+      "scrapedAt": "2026-08-21T06:39:31.172Z"
     },
     {
       "id": "109265",
@@ -4565,7 +4670,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:24.991Z"
+      "scrapedAt": "2026-08-21T06:39:33.367Z"
     },
     {
       "id": "109264",
@@ -4672,7 +4777,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:27.410Z"
+      "scrapedAt": "2026-08-21T06:39:35.520Z"
     },
     {
       "id": "109263",
@@ -4779,7 +4884,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:29.739Z"
+      "scrapedAt": "2026-08-21T06:39:37.723Z"
     },
     {
       "id": "109262",
@@ -4886,7 +4991,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:32.026Z"
+      "scrapedAt": "2026-08-21T06:39:39.919Z"
     },
     {
       "id": "109261",
@@ -4993,7 +5098,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:34.439Z"
+      "scrapedAt": "2026-08-21T06:39:42.114Z"
     },
     {
       "id": "109260",
@@ -5100,7 +5205,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:36.943Z"
+      "scrapedAt": "2026-08-21T06:39:44.324Z"
     },
     {
       "id": "109259",
@@ -5207,7 +5312,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:39.501Z"
+      "scrapedAt": "2026-08-21T06:39:46.502Z"
     },
     {
       "id": "109258",
@@ -5314,7 +5419,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:41.780Z"
+      "scrapedAt": "2026-08-21T06:39:48.703Z"
     },
     {
       "id": "109257",
@@ -5421,7 +5526,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:44.231Z"
+      "scrapedAt": "2026-08-21T06:39:50.855Z"
     },
     {
       "id": "109256",
@@ -5528,7 +5633,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:46.764Z"
+      "scrapedAt": "2026-08-21T06:39:53.045Z"
     },
     {
       "id": "109243",
@@ -5635,114 +5740,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-21T01:03:49.257Z"
-    },
-    {
-      "id": "109242",
-      "title": "مسلسل Revenge الموسم الثالث الحلقة 10 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=109242",
-      "image": "https://topcinemaa.co/wp-content/uploads/2024/09/8HEdV6RZtFmDKDosmMWv9ULFFpG-scaled-433x650.jpg",
-      "imdbRating": "7.8",
-      "story": "تدور أحداث المسلسل في أحد مجتمعات الطبقة العليا ببلدة هامبتون الوافدة الجديدة لبلدة هامبتون إيميلي ثورن التي استأجرت المنزل المجاور لعائلة غرايسون للإستمتاع بالصيف. ثم يتبين أن إيميلي قد أتت من قبل لبلدة هامبتون وأن اسمها الحقيقي هو أماندا كلارك وهي ابنة متهم بتفجير طائرة قد حكم عليه بالسجن المؤبد الجريمة التي لم يرتكبها وقد قتل في وقت لاحق بالسجن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "44 دقيقة",
-        "موعد الصدور": [
-          "2013"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Allison Liddi-Brown",
-          "Alrick Riley",
-          "Bethany Rooney"
-        ],
-        "بطولة": [
-          "Amber Valletta",
-          "Ashley Madekwe",
-          "Barry Sloane",
-          "Brian Hallisay"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-e7gaojb47ije.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/e7gaojb47ije.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/uy95qm3tnmhk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/ii8koob941mz",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/BF87C7C9A1D0D92",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?oh4n2f6caq623u5nq8zp",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/f5f64766bbb77804204f0b40be53e3b9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/al45",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEqg",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-21T01:03:51.774Z"
+      "scrapedAt": "2026-08-21T06:39:55.311Z"
     }
   ]
 }
