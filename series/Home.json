@@ -1,9 +1,194 @@
 {
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
-  "totalSeries": 54,
-  "lastUpdated": "2026-08-22T18:23:57.849Z",
+  "totalSeries": 52,
+  "lastUpdated": "2026-08-23T01:05:04.785Z",
   "series": [
+    {
+      "id": "241356",
+      "title": "مسلسل Fightland الموسم الاول الحلقة 4 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-fightland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=241356",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/07/MV5BNDAwZWU0OTQtZmM3NC00N2M3LTk5YWItMTg2OGQ4YTEyOTkwXkEyXkFqcGc@._V1_-433x650.jpg",
+      "imdbRating": null,
+      "story": "بطل ملاكمة مُهان يُطلق سراحه من السجن ويعود إلى لندن للانتقام من عائلة الجريمة التي خانته.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Akin Gazi",
+          "Alix Bailey",
+          "Andreas Karras",
+          "Anita-Joy Uwajeh"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-fightland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-6lj1h6mv96no.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/6lj1h6mv96no.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/j0dpgkih8gvd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/3yspzmvy231d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E57A164D69FF9D9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/d8a2e0de44535bd46680f9b545211019",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/anyC",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xN6j",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-23T01:02:42.317Z"
+    },
+    {
+      "id": "241355",
+      "title": "مسلسل Anna Pigeon الموسم الاول الحلقة 3 مترجمة",
+      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-anna-pigeon-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.co/?p=241355",
+      "image": "https://topcinemaa.co/wp-content/uploads/2026/08/MV5BZWUzMzFiZDAtZGNiYi00MWRlLThjZTItYWQ2NDBlNWVjOTQ0XkEyXkFqcGc@-433x650.jpg",
+      "imdbRating": null,
+      "story": "تركت آنا بيجون، حارسة المتنزهات، حياة المدينة بعد مأساة شخصية. والآن، تُوظّف ألمها في التحقيق في الجرائم التي تُرتكب في المتنزهات الوطنية، عازمةً على حلّ القضايا مهما كانت العقبات.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Bill Baksa",
+          "Chad Rook",
+          "CJ Collard",
+          "Cooper Levy"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-anna-pigeon-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-gj2f9udhtejj.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/gj2f9udhtejj.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/fyclzu7ispss",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/zznwe6x78pn5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/2718B04C8008229",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ad63117db14110bc9a53be837acf5ef5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6bpy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3xN6g",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-08-23T01:02:44.807Z"
+    },
     {
       "id": "240853",
       "title": "مسلسل Silo الموسم الثالث الحلقة 8 مترجمة",
@@ -107,7 +292,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:21:52.075Z"
+      "scrapedAt": "2026-08-23T01:02:46.988Z"
     },
     {
       "id": "241044",
@@ -213,7 +398,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:21:54.151Z"
+      "scrapedAt": "2026-08-23T01:02:49.509Z"
     },
     {
       "id": "240920",
@@ -314,7 +499,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:21:56.319Z"
+      "scrapedAt": "2026-08-23T01:02:51.967Z"
     },
     {
       "id": "240921",
@@ -415,7 +600,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:21:58.482Z"
+      "scrapedAt": "2026-08-23T01:02:54.204Z"
     },
     {
       "id": "240922",
@@ -516,7 +701,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:00.629Z"
+      "scrapedAt": "2026-08-23T01:02:56.441Z"
     },
     {
       "id": "240919",
@@ -617,7 +802,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:02.777Z"
+      "scrapedAt": "2026-08-23T01:02:58.684Z"
     },
     {
       "id": "240815",
@@ -718,7 +903,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:04.934Z"
+      "scrapedAt": "2026-08-23T01:03:00.908Z"
     },
     {
       "id": "240905",
@@ -825,7 +1010,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:07.088Z"
+      "scrapedAt": "2026-08-23T01:03:04.288Z"
     },
     {
       "id": "240904",
@@ -932,7 +1117,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:09.111Z"
+      "scrapedAt": "2026-08-23T01:03:06.439Z"
     },
     {
       "id": "240906",
@@ -1039,7 +1224,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:11.270Z"
+      "scrapedAt": "2026-08-23T01:03:08.616Z"
     },
     {
       "id": "240903",
@@ -1146,7 +1331,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:13.440Z"
+      "scrapedAt": "2026-08-23T01:03:10.776Z"
     },
     {
       "id": "240800",
@@ -1247,7 +1432,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:15.538Z"
+      "scrapedAt": "2026-08-23T01:03:13.451Z"
     },
     {
       "id": "240801",
@@ -1353,7 +1538,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:17.679Z"
+      "scrapedAt": "2026-08-23T01:03:16.341Z"
     },
     {
       "id": "240863",
@@ -1460,7 +1645,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:19.824Z"
+      "scrapedAt": "2026-08-23T01:03:18.514Z"
     },
     {
       "id": "240859",
@@ -1567,7 +1752,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:21.981Z"
+      "scrapedAt": "2026-08-23T01:03:20.676Z"
     },
     {
       "id": "240858",
@@ -1674,7 +1859,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:24.151Z"
+      "scrapedAt": "2026-08-23T01:03:22.843Z"
     },
     {
       "id": "240857",
@@ -1781,7 +1966,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:26.309Z"
+      "scrapedAt": "2026-08-23T01:03:25.009Z"
     },
     {
       "id": "240855",
@@ -1888,7 +2073,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:28.507Z"
+      "scrapedAt": "2026-08-23T01:03:27.657Z"
     },
     {
       "id": "240804",
@@ -1995,7 +2180,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:30.646Z"
+      "scrapedAt": "2026-08-23T01:03:29.810Z"
     },
     {
       "id": "109372",
@@ -2102,7 +2287,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:32.784Z"
+      "scrapedAt": "2026-08-23T01:03:32.812Z"
     },
     {
       "id": "109371",
@@ -2209,7 +2394,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:35.196Z"
+      "scrapedAt": "2026-08-23T01:03:35.510Z"
     },
     {
       "id": "109350",
@@ -2316,7 +2501,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:37.461Z"
+      "scrapedAt": "2026-08-23T01:03:38.199Z"
     },
     {
       "id": "109349",
@@ -2423,7 +2608,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:39.692Z"
+      "scrapedAt": "2026-08-23T01:03:40.905Z"
     },
     {
       "id": "109348",
@@ -2530,7 +2715,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:41.840Z"
+      "scrapedAt": "2026-08-23T01:03:43.603Z"
     },
     {
       "id": "109347",
@@ -2637,7 +2822,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:43.978Z"
+      "scrapedAt": "2026-08-23T01:03:46.307Z"
     },
     {
       "id": "109346",
@@ -2744,7 +2929,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:46.531Z"
+      "scrapedAt": "2026-08-23T01:03:49.107Z"
     },
     {
       "id": "109345",
@@ -2851,7 +3036,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:48.775Z"
+      "scrapedAt": "2026-08-23T01:03:51.833Z"
     },
     {
       "id": "109344",
@@ -2958,7 +3143,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:51.014Z"
+      "scrapedAt": "2026-08-23T01:03:54.458Z"
     },
     {
       "id": "109343",
@@ -3065,7 +3250,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:53.267Z"
+      "scrapedAt": "2026-08-23T01:03:57.161Z"
     },
     {
       "id": "109342",
@@ -3172,7 +3357,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:55.491Z"
+      "scrapedAt": "2026-08-23T01:03:59.845Z"
     },
     {
       "id": "109341",
@@ -3279,7 +3464,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:57.764Z"
+      "scrapedAt": "2026-08-23T01:04:02.526Z"
     },
     {
       "id": "109339",
@@ -3386,7 +3571,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:22:59.985Z"
+      "scrapedAt": "2026-08-23T01:04:05.221Z"
     },
     {
       "id": "109338",
@@ -3493,7 +3678,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:02.614Z"
+      "scrapedAt": "2026-08-23T01:04:07.951Z"
     },
     {
       "id": "109337",
@@ -3600,7 +3785,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:05.583Z"
+      "scrapedAt": "2026-08-23T01:04:11.686Z"
     },
     {
       "id": "109336",
@@ -3707,7 +3892,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:08.259Z"
+      "scrapedAt": "2026-08-23T01:04:14.386Z"
     },
     {
       "id": "109335",
@@ -3814,7 +3999,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:10.913Z"
+      "scrapedAt": "2026-08-23T01:04:17.092Z"
     },
     {
       "id": "109334",
@@ -3921,7 +4106,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:13.338Z"
+      "scrapedAt": "2026-08-23T01:04:19.781Z"
     },
     {
       "id": "109333",
@@ -4028,7 +4213,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:15.589Z"
+      "scrapedAt": "2026-08-23T01:04:22.461Z"
     },
     {
       "id": "109332",
@@ -4135,7 +4320,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:18.270Z"
+      "scrapedAt": "2026-08-23T01:04:25.124Z"
     },
     {
       "id": "109331",
@@ -4242,7 +4427,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:20.592Z"
+      "scrapedAt": "2026-08-23T01:04:27.786Z"
     },
     {
       "id": "109330",
@@ -4349,7 +4534,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:23.159Z"
+      "scrapedAt": "2026-08-23T01:04:30.341Z"
     },
     {
       "id": "109085",
@@ -4456,7 +4641,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:25.309Z"
+      "scrapedAt": "2026-08-23T01:04:33.046Z"
     },
     {
       "id": "109266",
@@ -4563,7 +4748,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:28.076Z"
+      "scrapedAt": "2026-08-23T01:04:35.865Z"
     },
     {
       "id": "109265",
@@ -4670,7 +4855,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:30.636Z"
+      "scrapedAt": "2026-08-23T01:04:38.590Z"
     },
     {
       "id": "109264",
@@ -4777,7 +4962,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:33.309Z"
+      "scrapedAt": "2026-08-23T01:04:41.271Z"
     },
     {
       "id": "109263",
@@ -4884,221 +5069,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:35.964Z"
-    },
-    {
-      "id": "109262",
-      "title": "مسلسل Revenge الموسم الثالث الحلقة 18 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=109262",
-      "image": "https://topcinemaa.co/wp-content/uploads/2024/09/8HEdV6RZtFmDKDosmMWv9ULFFpG-scaled-433x650.jpg",
-      "imdbRating": "7.8",
-      "story": "تدور أحداث المسلسل في أحد مجتمعات الطبقة العليا ببلدة هامبتون الوافدة الجديدة لبلدة هامبتون إيميلي ثورن التي استأجرت المنزل المجاور لعائلة غرايسون للإستمتاع بالصيف. ثم يتبين أن إيميلي قد أتت من قبل لبلدة هامبتون وأن اسمها الحقيقي هو أماندا كلارك وهي ابنة متهم بتفجير طائرة قد حكم عليه بالسجن المؤبد الجريمة التي لم يرتكبها وقد قتل في وقت لاحق بالسجن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "44 دقيقة",
-        "موعد الصدور": [
-          "2013"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Allison Liddi-Brown",
-          "Alrick Riley",
-          "Bethany Rooney"
-        ],
-        "بطولة": [
-          "Amber Valletta",
-          "Ashley Madekwe",
-          "Barry Sloane",
-          "Brian Hallisay"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-r10830vpxcu0.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/r10830vpxcu0.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/m5uymhh1p086",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/yozcixfbu7lq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/1B92B7B217A8671",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?ptsi5lldu2wszb1b5lmm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/8f22ee177abe04370e6520e8306bb377",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/al4e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEqq",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-22T18:23:38.622Z"
-    },
-    {
-      "id": "109261",
-      "title": "مسلسل Revenge الموسم الثالث الحلقة 17 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=109261",
-      "image": "https://topcinemaa.co/wp-content/uploads/2024/09/8HEdV6RZtFmDKDosmMWv9ULFFpG-scaled-433x650.jpg",
-      "imdbRating": "7.8",
-      "story": "تدور أحداث المسلسل في أحد مجتمعات الطبقة العليا ببلدة هامبتون الوافدة الجديدة لبلدة هامبتون إيميلي ثورن التي استأجرت المنزل المجاور لعائلة غرايسون للإستمتاع بالصيف. ثم يتبين أن إيميلي قد أتت من قبل لبلدة هامبتون وأن اسمها الحقيقي هو أماندا كلارك وهي ابنة متهم بتفجير طائرة قد حكم عليه بالسجن المؤبد الجريمة التي لم يرتكبها وقد قتل في وقت لاحق بالسجن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "44 دقيقة",
-        "موعد الصدور": [
-          "2013"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Allison Liddi-Brown",
-          "Alrick Riley",
-          "Bethany Rooney"
-        ],
-        "بطولة": [
-          "Amber Valletta",
-          "Ashley Madekwe",
-          "Barry Sloane",
-          "Brian Hallisay"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-l7fb9ltwcek1.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/l7fb9ltwcek1.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/d5c406ddw1xi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/qma8bm177m1b",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/15E0CC2CB71503D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?ooi87e30ma3uosgy4hrh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/7aeb00e166ec9c4048d5e2bad6f70e98",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/al4d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEqp",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-22T18:23:41.298Z"
+      "scrapedAt": "2026-08-23T01:04:43.963Z"
     },
     {
       "id": "109260",
@@ -5205,7 +5176,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:43.941Z"
+      "scrapedAt": "2026-08-23T01:04:55.555Z"
     },
     {
       "id": "109259",
@@ -5312,7 +5283,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:46.530Z"
+      "scrapedAt": "2026-08-23T01:04:58.284Z"
     },
     {
       "id": "109258",
@@ -5419,7 +5390,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:49.165Z"
+      "scrapedAt": "2026-08-23T01:05:00.798Z"
     },
     {
       "id": "109257",
@@ -5526,221 +5497,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-08-22T18:23:51.574Z"
-    },
-    {
-      "id": "109256",
-      "title": "مسلسل Revenge الموسم الثالث الحلقة 12 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=109256",
-      "image": "https://topcinemaa.co/wp-content/uploads/2024/09/8HEdV6RZtFmDKDosmMWv9ULFFpG-scaled-433x650.jpg",
-      "imdbRating": "7.8",
-      "story": "تدور أحداث المسلسل في أحد مجتمعات الطبقة العليا ببلدة هامبتون الوافدة الجديدة لبلدة هامبتون إيميلي ثورن التي استأجرت المنزل المجاور لعائلة غرايسون للإستمتاع بالصيف. ثم يتبين أن إيميلي قد أتت من قبل لبلدة هامبتون وأن اسمها الحقيقي هو أماندا كلارك وهي ابنة متهم بتفجير طائرة قد حكم عليه بالسجن المؤبد الجريمة التي لم يرتكبها وقد قتل في وقت لاحق بالسجن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "44 دقيقة",
-        "موعد الصدور": [
-          "2013"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Allison Liddi-Brown",
-          "Alrick Riley",
-          "Bethany Rooney"
-        ],
-        "بطولة": [
-          "Amber Valletta",
-          "Ashley Madekwe",
-          "Barry Sloane",
-          "Brian Hallisay"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-sp66p1fj441b.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/sp66p1fj441b.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/uu7atqyusrlo",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/o369l83obj9g",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/58547617E33F60A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?7bvam1dph8sx8rs0fksi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/00f55a5c79559668569d6f491094322a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/al47",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEqi",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-22T18:23:54.165Z"
-    },
-    {
-      "id": "109243",
-      "title": "مسلسل Revenge الموسم الثالث الحلقة 11 مترجمة",
-      "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.co/?p=109243",
-      "image": "https://topcinemaa.co/wp-content/uploads/2024/09/8HEdV6RZtFmDKDosmMWv9ULFFpG-scaled-433x650.jpg",
-      "imdbRating": "7.8",
-      "story": "تدور أحداث المسلسل في أحد مجتمعات الطبقة العليا ببلدة هامبتون الوافدة الجديدة لبلدة هامبتون إيميلي ثورن التي استأجرت المنزل المجاور لعائلة غرايسون للإستمتاع بالصيف. ثم يتبين أن إيميلي قد أتت من قبل لبلدة هامبتون وأن اسمها الحقيقي هو أماندا كلارك وهي ابنة متهم بتفجير طائرة قد حكم عليه بالسجن المؤبد الجريمة التي لم يرتكبها وقد قتل في وقت لاحق بالسجن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "44 دقيقة",
-        "موعد الصدور": [
-          "2013"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Allison Liddi-Brown",
-          "Alrick Riley",
-          "Bethany Rooney"
-        ],
-        "بطولة": [
-          "Amber Valletta",
-          "Ashley Madekwe",
-          "Barry Sloane",
-          "Brian Hallisay"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.co/%d9%85%d8%b3%d9%84%d8%b3%d9%84-revenge-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-drderw9bcjcf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/drderw9bcjcf.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/v4efr00d3thz",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/h8yu6d2m3je8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/ADF7994E92839A5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?u58wq5k2kol2naooy1l1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/145db78549a485314bc7856bd9b607e6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/al46",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xEqh",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-08-22T18:23:56.850Z"
+      "scrapedAt": "2026-08-23T01:05:03.784Z"
     }
   ]
 }
