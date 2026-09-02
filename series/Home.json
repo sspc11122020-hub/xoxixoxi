@@ -2,8 +2,261 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-09-02T02:37:25.296Z",
+  "lastUpdated": "2026-09-02T10:32:16.602Z",
   "series": [
+    {
+      "id": "243166",
+      "title": "مسلسل Women in Blue الموسم الثاني الحلقة 4 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-women-in-blue-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=243166",
+      "image": "https://topcinema.io/wp-content/uploads/2026/08/MV5BNzQ5MWFmYTgtYmZjNS00Y2RlLWI5YmQtZmZlMTAzYjA5YWUxXkEyXkFqcGc@._V1_-433x650.jpg",
+      "imdbRating": "7.3",
+      "story": "تحتضن أول مجموعة للشرطة النسائية في المكسيك أربع نساء، يتحدين الأعراف المتزمتة، لكن سرعان ما يكتشفن أن وجودهن ليس سوى واجهة لإخفاء جريمة بشعة تورط فيها قاتل متسلسل.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "المكسيك"
+        ],
+        "المخرجين": [
+          "Alfonso Pineda Ulloa",
+          "Fernando Rovzar"
+        ],
+        "بطولة": [
+          "Albi De Abreu",
+          "Amorita Rasgado",
+          "Bárbara Mori",
+          "Brbara Mori"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-women-in-blue-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-vbw253ajyqfs.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/vbw253ajyqfs.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ht2c0j8vgv53",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/sy4jixrobh0h",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4A19FB8F4B3B0DE",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?pa7n8o02qpklml6aqx22",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/8d78f617f2358c264b863c6f11e48456",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/rbFJ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4dPa2",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-02T10:30:00.919Z"
+    },
+    {
+      "id": "243164",
+      "title": "مسلسل Ted Lasso الموسم الرابع الحلقة 5 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ted-lasso-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=243164",
+      "image": "https://topcinema.io/wp-content/uploads/2026/08/kcMA01YaRpgLmygNh66eOEvQBdM-scaled-433x650.jpg",
+      "imdbRating": "8.7",
+      "story": "في الموسم الرابع، يعود (تيد) إلى ريتشموند لتدريب فريق نسائي لكرة القدم في الدرجة الثانية، حيث يواجه أكبر تحدٍ في مسيرته، بينما يقود فريقًا جديدًا طموحًا.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رياضي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Declan Lowney",
+          "Destiny Ekaragha",
+          "Elliot Hegarty"
+        ],
+        "بطولة": [
+          "Adam Colborne",
+          "Annette Badland",
+          "Billy Harris",
+          "Brendan Hunt"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ted-lasso-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-1n15qbtw2jxw.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/1n15qbtw2jxw.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/2jch705980s0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/sjux5n2jh1ji",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/7C70E14E913694A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?tmlxctwrobtcvfq6nku1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/881af54fda149b838c11fd5d96ea2b63",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ap5l",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4TMC9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/waoobukot8lq",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/fwyiarg6upm2",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/6D0A01090AB2EBF",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?otu86a8vbjtataufu3s3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/1eeb923550a7b3735744bc1eb55b00ac",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/ap5q",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/5zK4x",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-02T10:30:03.227Z"
+    },
     {
       "id": "243147",
       "title": "مسلسل Rescue Me الموسم الخامس الحلقة 22 والاخيرة مترجمة",
@@ -102,7 +355,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:33.825Z"
+      "scrapedAt": "2026-09-02T10:30:05.830Z"
     },
     {
       "id": "243146",
@@ -202,7 +455,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:35.962Z"
+      "scrapedAt": "2026-09-02T10:30:08.194Z"
     },
     {
       "id": "243145",
@@ -302,7 +555,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:38.070Z"
+      "scrapedAt": "2026-09-02T10:30:10.530Z"
     },
     {
       "id": "243144",
@@ -402,7 +655,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:40.145Z"
+      "scrapedAt": "2026-09-02T10:30:12.847Z"
     },
     {
       "id": "243143",
@@ -502,7 +755,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:42.229Z"
+      "scrapedAt": "2026-09-02T10:30:15.216Z"
     },
     {
       "id": "243142",
@@ -602,7 +855,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:44.279Z"
+      "scrapedAt": "2026-09-02T10:30:17.559Z"
     },
     {
       "id": "243138",
@@ -702,7 +955,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:46.346Z"
+      "scrapedAt": "2026-09-02T10:30:19.900Z"
     },
     {
       "id": "243139",
@@ -802,7 +1055,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:48.412Z"
+      "scrapedAt": "2026-09-02T10:30:22.639Z"
     },
     {
       "id": "243141",
@@ -902,7 +1155,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:50.513Z"
+      "scrapedAt": "2026-09-02T10:30:24.959Z"
     },
     {
       "id": "243140",
@@ -1002,7 +1255,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:52.564Z"
+      "scrapedAt": "2026-09-02T10:30:27.327Z"
     },
     {
       "id": "243137",
@@ -1102,7 +1355,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:54.631Z"
+      "scrapedAt": "2026-09-02T10:30:29.641Z"
     },
     {
       "id": "243111",
@@ -1202,7 +1455,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:56.727Z"
+      "scrapedAt": "2026-09-02T10:30:31.990Z"
     },
     {
       "id": "243109",
@@ -1302,7 +1555,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:35:58.796Z"
+      "scrapedAt": "2026-09-02T10:30:34.277Z"
     },
     {
       "id": "243108",
@@ -1402,7 +1655,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:00.889Z"
+      "scrapedAt": "2026-09-02T10:30:36.626Z"
     },
     {
       "id": "243112",
@@ -1502,7 +1755,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:03.497Z"
+      "scrapedAt": "2026-09-02T10:30:38.945Z"
     },
     {
       "id": "243107",
@@ -1602,7 +1855,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:05.542Z"
+      "scrapedAt": "2026-09-02T10:30:41.292Z"
     },
     {
       "id": "243110",
@@ -1702,7 +1955,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:07.577Z"
+      "scrapedAt": "2026-09-02T10:30:43.641Z"
     },
     {
       "id": "243106",
@@ -1802,7 +2055,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:09.611Z"
+      "scrapedAt": "2026-09-02T10:30:46.344Z"
     },
     {
       "id": "243105",
@@ -1902,7 +2155,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:11.633Z"
+      "scrapedAt": "2026-09-02T10:30:49.252Z"
     },
     {
       "id": "243104",
@@ -2002,7 +2255,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:13.683Z"
+      "scrapedAt": "2026-09-02T10:30:51.658Z"
     },
     {
       "id": "243103",
@@ -2102,7 +2355,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:15.725Z"
+      "scrapedAt": "2026-09-02T10:30:54.000Z"
     },
     {
       "id": "242802",
@@ -2202,7 +2455,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:18.219Z"
+      "scrapedAt": "2026-09-02T10:30:56.339Z"
     },
     {
       "id": "243115",
@@ -2302,7 +2555,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:20.408Z"
+      "scrapedAt": "2026-09-02T10:30:58.672Z"
     },
     {
       "id": "243114",
@@ -2402,7 +2655,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:22.448Z"
+      "scrapedAt": "2026-09-02T10:31:00.988Z"
     },
     {
       "id": "243100",
@@ -2502,7 +2755,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:24.510Z"
+      "scrapedAt": "2026-09-02T10:31:03.324Z"
     },
     {
       "id": "243099",
@@ -2602,7 +2855,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:26.604Z"
+      "scrapedAt": "2026-09-02T10:31:05.562Z"
     },
     {
       "id": "243098",
@@ -2702,7 +2955,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:28.646Z"
+      "scrapedAt": "2026-09-02T10:31:07.806Z"
     },
     {
       "id": "243097",
@@ -2802,7 +3055,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:30.684Z"
+      "scrapedAt": "2026-09-02T10:31:10.062Z"
     },
     {
       "id": "243092",
@@ -2902,7 +3155,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:32.739Z"
+      "scrapedAt": "2026-09-02T10:31:12.315Z"
     },
     {
       "id": "243096",
@@ -3002,7 +3255,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:34.779Z"
+      "scrapedAt": "2026-09-02T10:31:14.587Z"
     },
     {
       "id": "243093",
@@ -3102,7 +3355,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:36.821Z"
+      "scrapedAt": "2026-09-02T10:31:16.851Z"
     },
     {
       "id": "243095",
@@ -3202,7 +3455,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:38.889Z"
+      "scrapedAt": "2026-09-02T10:31:19.126Z"
     },
     {
       "id": "243094",
@@ -3302,7 +3555,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:40.905Z"
+      "scrapedAt": "2026-09-02T10:31:21.376Z"
     },
     {
       "id": "243091",
@@ -3402,7 +3655,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:42.955Z"
+      "scrapedAt": "2026-09-02T10:31:23.626Z"
     },
     {
       "id": "242800",
@@ -3502,7 +3755,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:45.000Z"
+      "scrapedAt": "2026-09-02T10:31:25.889Z"
     },
     {
       "id": "243031",
@@ -3606,7 +3859,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:46.943Z"
+      "scrapedAt": "2026-09-02T10:31:28.323Z"
     },
     {
       "id": "242931",
@@ -3701,7 +3954,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:48.867Z"
+      "scrapedAt": "2026-09-02T10:31:30.720Z"
     },
     {
       "id": "242852",
@@ -3801,7 +4054,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:51.070Z"
+      "scrapedAt": "2026-09-02T10:31:33.266Z"
     },
     {
       "id": "242850",
@@ -3901,7 +4154,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:53.093Z"
+      "scrapedAt": "2026-09-02T10:31:35.978Z"
     },
     {
       "id": "242851",
@@ -4001,7 +4254,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:55.117Z"
+      "scrapedAt": "2026-09-02T10:31:39.877Z"
     },
     {
       "id": "242845",
@@ -4101,7 +4354,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:57.179Z"
+      "scrapedAt": "2026-09-02T10:31:43.903Z"
     },
     {
       "id": "242848",
@@ -4201,7 +4454,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:36:59.227Z"
+      "scrapedAt": "2026-09-02T10:31:52.439Z"
     },
     {
       "id": "242849",
@@ -4301,7 +4554,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:01.274Z"
+      "scrapedAt": "2026-09-02T10:31:54.753Z"
     },
     {
       "id": "242843",
@@ -4401,7 +4654,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:03.306Z"
+      "scrapedAt": "2026-09-02T10:31:57.079Z"
     },
     {
       "id": "242847",
@@ -4501,7 +4754,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:05.350Z"
+      "scrapedAt": "2026-09-02T10:31:59.438Z"
     },
     {
       "id": "242846",
@@ -4601,7 +4854,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:07.411Z"
+      "scrapedAt": "2026-09-02T10:32:01.766Z"
     },
     {
       "id": "242844",
@@ -4701,7 +4954,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:09.440Z"
+      "scrapedAt": "2026-09-02T10:32:04.087Z"
     },
     {
       "id": "242842",
@@ -4801,7 +5054,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:11.497Z"
+      "scrapedAt": "2026-09-02T10:32:06.360Z"
     },
     {
       "id": "242841",
@@ -4901,7 +5154,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:13.539Z"
+      "scrapedAt": "2026-09-02T10:32:08.641Z"
     },
     {
       "id": "242804",
@@ -5001,7 +5254,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:15.583Z"
+      "scrapedAt": "2026-09-02T10:32:10.905Z"
     },
     {
       "id": "242835",
@@ -5101,7 +5354,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:17.823Z"
+      "scrapedAt": "2026-09-02T10:32:13.331Z"
     },
     {
       "id": "242833",
@@ -5201,207 +5454,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T02:37:19.881Z"
-    },
-    {
-      "id": "242840",
-      "title": "مسلسل Rescue Me الموسم الثاني الحلقة 11 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-rescue-me-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=242840",
-      "image": "https://topcinema.io/wp-content/uploads/2026/08/gnOwOb82chSJkQEZ9pd6jf2ZrEX-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "يبدأ الموسم الثاني مع اعتياد تومي على حياته بمركز الإطفاء الجديد الخاص به في جزيرة ستاتن، وحينما تهدد مكالمة تليفونية وظيفة بديلة سولي، سرعان ما يصبح تومي مرشحًا للعودة لوظيفته القديمة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2005"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Andrea Roth",
-          "Callie Thorne",
-          "Daniel Sunjata",
-          "Denis Leary"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-rescue-me-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-nq7kzcun8kpr.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/nq7kzcun8kpr.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/6amki2zbvfkm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/80jq6rbvl969",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/BDBA011C41948C8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?kidloovklvz52tl9nbor",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/29f40402e45b7eaaadcd18a0edc3b247",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ezYn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2RQvw",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-02T02:37:21.897Z"
-    },
-    {
-      "id": "242838",
-      "title": "مسلسل Rescue Me الموسم الثاني الحلقة 10 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-rescue-me-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=242838",
-      "image": "https://topcinema.io/wp-content/uploads/2026/08/gnOwOb82chSJkQEZ9pd6jf2ZrEX-scaled-433x650.jpg",
-      "imdbRating": "8.3",
-      "story": "يبدأ الموسم الثاني مع اعتياد تومي على حياته بمركز الإطفاء الجديد الخاص به في جزيرة ستاتن، وحينما تهدد مكالمة تليفونية وظيفة بديلة سولي، سرعان ما يصبح تومي مرشحًا للعودة لوظيفته القديمة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2005"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Andrea Roth",
-          "Callie Thorne",
-          "Daniel Sunjata",
-          "Denis Leary"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-rescue-me-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-rv1ja0rbvt44.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/rv1ja0rbvt44.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/8p6zv1dezw9o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/4zm89a72anbg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/1F974AA993F697B",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?crg0gnveraaijeejymy6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6e05097fbd6d046c94f7c5bcb6cea149",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ezYj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2bT37",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-02T02:37:24.296Z"
+      "scrapedAt": "2026-09-02T10:32:15.602Z"
     }
   ]
 }
