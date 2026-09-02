@@ -2,8 +2,100 @@
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-09-02T04:57:37.625Z",
+  "lastUpdated": "2026-09-02T11:37:41.339Z",
   "series": [
+    {
+      "id": "243084",
+      "title": "انمي Koukaku Kidoutai الحلقة 9 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-koukaku-kidoutai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=243084",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BMmRlNzgzYTAtNTMyOC00YzFjLTk1M2MtOTA4N2FmZDcyNzEwXkEyXkFqcGc@._V1_-scaled-460x650.jpg",
+      "imdbRating": "7.5",
+      "story": "في عام 2029، أصبحت مدينة نيهاما مدينة متطورة تقنياً. وبفضل التطورات الهائلة في مجال علم التحكم الآلي، أصبح بإمكان سكانها استبدال أطرافهم بأجزاء آلية.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "خيال علمي",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-koukaku-kidoutai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-6qow1krxowql.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/6qow1krxowql.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/yd8f60j76pl7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/xxie48d68qdc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/58AD386DFCAD88F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?hh7xi31vec2em687946a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/07db11b09600f277bb5efcd9aacbf2cb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/vnP2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4dPam",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-02T11:35:37.003Z"
+    },
     {
       "id": "243086",
       "title": "انمي Sora wa Akai Kawa no Hotori الحلقة 9 مترجمة",
@@ -94,7 +186,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:22.401Z"
+      "scrapedAt": "2026-09-02T11:35:39.227Z"
     },
     {
       "id": "243085",
@@ -186,7 +278,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:24.785Z"
+      "scrapedAt": "2026-09-02T11:35:41.291Z"
     },
     {
       "id": "243080",
@@ -276,7 +368,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:27.128Z"
+      "scrapedAt": "2026-09-02T11:35:43.691Z"
     },
     {
       "id": "243083",
@@ -366,7 +458,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:29.462Z"
+      "scrapedAt": "2026-09-02T11:35:45.874Z"
     },
     {
       "id": "243079",
@@ -456,7 +548,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:32.186Z"
+      "scrapedAt": "2026-09-02T11:35:48.069Z"
     },
     {
       "id": "242748",
@@ -546,7 +638,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:34.521Z"
+      "scrapedAt": "2026-09-02T11:35:50.119Z"
     },
     {
       "id": "242960",
@@ -632,7 +724,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:36.844Z"
+      "scrapedAt": "2026-09-02T11:35:52.558Z"
     },
     {
       "id": "242955",
@@ -718,7 +810,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:39.199Z"
+      "scrapedAt": "2026-09-02T11:35:54.756Z"
     },
     {
       "id": "242954",
@@ -802,7 +894,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:41.508Z"
+      "scrapedAt": "2026-09-02T11:35:56.784Z"
     },
     {
       "id": "242952",
@@ -888,7 +980,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:43.844Z"
+      "scrapedAt": "2026-09-02T11:35:59.007Z"
     },
     {
       "id": "242907",
@@ -974,7 +1066,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:46.372Z"
+      "scrapedAt": "2026-09-02T11:36:01.445Z"
     },
     {
       "id": "242961",
@@ -1060,7 +1152,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:48.720Z"
+      "scrapedAt": "2026-09-02T11:36:03.665Z"
     },
     {
       "id": "242953",
@@ -1146,7 +1238,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:51.878Z"
+      "scrapedAt": "2026-09-02T11:36:05.853Z"
     },
     {
       "id": "242982",
@@ -1232,7 +1324,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:54.263Z"
+      "scrapedAt": "2026-09-02T11:36:08.054Z"
     },
     {
       "id": "242909",
@@ -1318,7 +1410,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:56.711Z"
+      "scrapedAt": "2026-09-02T11:36:10.427Z"
     },
     {
       "id": "242905",
@@ -1402,7 +1494,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:55:59.072Z"
+      "scrapedAt": "2026-09-02T11:36:12.625Z"
     },
     {
       "id": "242895",
@@ -1486,7 +1578,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:01.646Z"
+      "scrapedAt": "2026-09-02T11:36:14.813Z"
     },
     {
       "id": "242897",
@@ -1572,7 +1664,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:04.026Z"
+      "scrapedAt": "2026-09-02T11:36:17.013Z"
     },
     {
       "id": "242893",
@@ -1658,7 +1750,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:07.291Z"
+      "scrapedAt": "2026-09-02T11:36:19.109Z"
     },
     {
       "id": "242903",
@@ -1744,7 +1836,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:09.932Z"
+      "scrapedAt": "2026-09-02T11:36:21.402Z"
     },
     {
       "id": "242899",
@@ -1830,7 +1922,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:12.581Z"
+      "scrapedAt": "2026-09-02T11:36:23.721Z"
     },
     {
       "id": "242901",
@@ -1953,7 +2045,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:15.048Z"
+      "scrapedAt": "2026-09-02T11:36:25.961Z"
     },
     {
       "id": "242853",
@@ -2039,7 +2131,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:17.808Z"
+      "scrapedAt": "2026-09-02T11:36:28.430Z"
     },
     {
       "id": "242762",
@@ -2123,7 +2215,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:20.046Z"
+      "scrapedAt": "2026-09-02T11:36:30.628Z"
     },
     {
       "id": "242744",
@@ -2209,7 +2301,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:22.705Z"
+      "scrapedAt": "2026-09-02T11:36:32.834Z"
     },
     {
       "id": "242743",
@@ -2295,7 +2387,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:25.421Z"
+      "scrapedAt": "2026-09-02T11:36:34.875Z"
     },
     {
       "id": "242742",
@@ -2380,7 +2472,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:27.855Z"
+      "scrapedAt": "2026-09-02T11:36:37.057Z"
     },
     {
       "id": "242711",
@@ -2464,7 +2556,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:30.276Z"
+      "scrapedAt": "2026-09-02T11:36:39.347Z"
     },
     {
       "id": "242708",
@@ -2550,7 +2642,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:33.052Z"
+      "scrapedAt": "2026-09-02T11:36:41.851Z"
     },
     {
       "id": "242707",
@@ -2636,7 +2728,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:35.490Z"
+      "scrapedAt": "2026-09-02T11:36:44.330Z"
     },
     {
       "id": "242510",
@@ -2728,7 +2820,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:37.732Z"
+      "scrapedAt": "2026-09-02T11:36:46.754Z"
     },
     {
       "id": "242508",
@@ -2820,7 +2912,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:40.189Z"
+      "scrapedAt": "2026-09-02T11:36:49.282Z"
     },
     {
       "id": "242506",
@@ -2912,7 +3004,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:42.445Z"
+      "scrapedAt": "2026-09-02T11:36:51.307Z"
     },
     {
       "id": "242504",
@@ -2999,7 +3091,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:44.880Z"
+      "scrapedAt": "2026-09-02T11:36:53.570Z"
     },
     {
       "id": "242502",
@@ -3090,7 +3182,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:47.219Z"
+      "scrapedAt": "2026-09-02T11:36:55.825Z"
     },
     {
       "id": "242483",
@@ -3181,7 +3273,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:49.642Z"
+      "scrapedAt": "2026-09-02T11:36:58.009Z"
     },
     {
       "id": "242482",
@@ -3273,7 +3365,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:51.895Z"
+      "scrapedAt": "2026-09-02T11:37:00.245Z"
     },
     {
       "id": "242484",
@@ -3363,7 +3455,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:54.565Z"
+      "scrapedAt": "2026-09-02T11:37:03.119Z"
     },
     {
       "id": "242478",
@@ -3453,7 +3545,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:57.007Z"
+      "scrapedAt": "2026-09-02T11:37:05.994Z"
     },
     {
       "id": "241309",
@@ -3545,7 +3637,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:56:59.798Z"
+      "scrapedAt": "2026-09-02T11:37:08.291Z"
     },
     {
       "id": "242477",
@@ -3636,7 +3728,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:02.259Z"
+      "scrapedAt": "2026-09-02T11:37:10.380Z"
     },
     {
       "id": "242481",
@@ -3727,7 +3819,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:04.695Z"
+      "scrapedAt": "2026-09-02T11:37:12.953Z"
     },
     {
       "id": "242222",
@@ -3811,7 +3903,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:07.319Z"
+      "scrapedAt": "2026-09-02T11:37:15.364Z"
     },
     {
       "id": "242221",
@@ -3897,7 +3989,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:09.594Z"
+      "scrapedAt": "2026-09-02T11:37:18.362Z"
     },
     {
       "id": "241069",
@@ -3983,7 +4075,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:12.043Z"
+      "scrapedAt": "2026-09-02T11:37:20.814Z"
     },
     {
       "id": "242219",
@@ -4069,7 +4161,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:14.501Z"
+      "scrapedAt": "2026-09-02T11:37:23.027Z"
     },
     {
       "id": "242220",
@@ -4154,7 +4246,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:16.929Z"
+      "scrapedAt": "2026-09-02T11:37:25.681Z"
     },
     {
       "id": "242218",
@@ -4239,7 +4331,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:20.579Z"
+      "scrapedAt": "2026-09-02T11:37:27.900Z"
     },
     {
       "id": "242217",
@@ -4324,7 +4416,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:23.479Z"
+      "scrapedAt": "2026-09-02T11:37:30.324Z"
     },
     {
       "id": "242213",
@@ -4408,7 +4500,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:26.203Z"
+      "scrapedAt": "2026-09-02T11:37:32.531Z"
     },
     {
       "id": "242194",
@@ -4494,7 +4586,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:28.845Z"
+      "scrapedAt": "2026-09-02T11:37:35.051Z"
     },
     {
       "id": "242052",
@@ -4580,7 +4672,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:31.501Z"
+      "scrapedAt": "2026-09-02T11:37:37.958Z"
     },
     {
       "id": "242104",
@@ -4665,93 +4757,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-02T04:57:34.172Z"
-    },
-    {
-      "id": "242114",
-      "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru الحلقة 9 مترجمة",
-      "url": "https://topcinema.io/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=242114",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BYjYyMmQwNDQtN2RmMC00OWVlLWFiYzItOGRiZWJlMzg4Mjg1XkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
-      "imdbRating": null,
-      "story": "“أيها الابن عديم الفائدة! كان من المفترض أن تصبح سيافًا أسطوريًا مثل أسلافك، لكنني لم أتوقع أن تكون النتيجة بهذا السوء!” في اليوم الذي يبلغ فيه كل طفل الخامسة عشرة من عمره، يخضع لـ”طقس البركة الإلهية” الذي يحدد فئته وقدره. وبصفته وريثًا لعائلة اشتهرت عبر الأجيال بأعظم المبارزين، كان الجميع يتوقع أن يسير إليماس على خطى والده. لكن المفاجأة كانت صادمة؛ إذ حصل على الفئة المعيبة المعروفة باسم **الفارس الثقيل**. وبسبب ذلك، لم يفقد فقط حقه في وراثة زعامة العائلة، بل نُفي أيضًا من موطنه. يشتهر الفرسان الثقال بإحصائيات غير متوازنة ومهارات تبدو عديمة الفائدة، حتى أصبحوا يُوصَفون بأنهم فئة الجبناء والكسالى. لكن إليماس وحده يعرف الحقيقة. فالعالم الذي يعيش فيه ليس غريبًا عنه، بل هو العالم نفسه الذي اعتاد خوض مغامراته فيه داخل لعبة من حياته السابقة… وهناك، كانت فئة **الفارس الثقيل** هي الأقوى على الإطلاق. مستعينًا بذكريات حياته الماضية ومعرفته الكاملة بهذا العالم، ينطلق إليماس في رحلة لاستغلال قوته الحقيقية وإخضاع العالم بأسره.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-2dysf2vz8ccp.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/2dysf2vz8ccp.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ci4c3ulbhfw5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/syzlgi1swewr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/651B0082866E90D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/097c127978450e3a233bc58e6f0316df",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6c5i",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xPi3",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-02T04:57:36.624Z"
+      "scrapedAt": "2026-09-02T11:37:40.340Z"
     }
   ]
 }
