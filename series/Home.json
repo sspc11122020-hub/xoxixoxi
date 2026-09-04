@@ -2,8 +2,338 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-09-04T10:29:52.073Z",
+  "lastUpdated": "2026-09-04T15:41:44.753Z",
   "series": [
+    {
+      "id": "243334",
+      "title": "مسلسل The Ark الموسم الثالث الحلقة 6 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=243334",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/xKciDV7Kbn5U7uoTVvwnz1OioCq-462x650.jpg",
+      "imdbRating": "5.8",
+      "story": "يتابع المسلسل قصة الطاقم المتبقي لمركبة فضائية تُعرف باسم \"آرك وان\"، والذين يجب أن يصبحوا أفضل نسخة من أنفسهم للبقاء على المسار الصحيح والنجاة بعد تعرضهم لحدث كارثي تسبب في دمار هائل وخسائر في الأرواح.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "خيال علمي",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Dean Devlin",
+          "Jonathan Glassner",
+          "Marc Roskin"
+        ],
+        "بطولة": [
+          "Christie Burke",
+          "Christina Wolfe",
+          "Cosmo Kay",
+          "Jelena Moore"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-2w7lt2ipy0zz.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/2w7lt2ipy0zz.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/bx53b1hg7z2w",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4RsvV",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/8fe9atlic250",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/0229B18E07FB565",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?g6c4jzj87odja2g3kklk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/5690afddac4ba18846d1ecd44397804e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6djn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q3js",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-04T15:39:55.567Z"
+    },
+    {
+      "id": "243336",
+      "title": "مسلسل Star Trek: Strange New Worlds الموسم الرابع الحلقة 7 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=243336",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/fW8uT1hiZPpd5k8tryEyOclkW1p-scaled-433x650.jpg",
+      "imdbRating": "8.2",
+      "story": "ينطلق الكابتن (بايك)، برفقة الضابط (سبوك)، والضابطة (تشين رايلي) الملقبة بالرقم واحد، في رحلة استكشافية ملحمية عبر أرجاء المجرة الشاسعة على متن سفينة الفضاء الأمريكية (إنتربرايز).",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "خيال علمي",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Akiva Goldsman",
+          "Amanda Row",
+          "Andi Armaganian"
+        ],
+        "بطولة": [
+          "Adrian Holmes",
+          "Alex Kapp",
+          "Andr Dae Kim",
+          "Anson Mount"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-93qtdyhxmszy.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/93qtdyhxmszy.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/d3lasrjge17k",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bv3u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/hn5895l2ywhc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/0C420F3C8C5B006",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?ryf9ilcah14sx0wrnfmx",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ff81e72ef6aab56b306f5a727898569a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6djm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q3jq",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-04T15:39:57.540Z"
+    },
+    {
+      "id": "243426",
+      "title": "مسلسل Fightland الموسم الاول الحلقة 6 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-fightland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=243426",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNDAwZWU0OTQtZmM3NC00N2M3LTk5YWItMTg2OGQ4YTEyOTkwXkEyXkFqcGc@._V1_-433x650.jpg",
+      "imdbRating": null,
+      "story": "بطل ملاكمة مُهان يُطلق سراحه من السجن ويعود إلى لندن للانتقام من عائلة الجريمة التي خانته.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Akin Gazi",
+          "Alix Bailey",
+          "Andreas Karras",
+          "Anita-Joy Uwajeh"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-fightland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-48z8rinnbx3u.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/48z8rinnbx3u.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/fi0t4d1bkwkd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bv3p",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/zjr24xmz0uz2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/33E0B3A091B2E65",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?rh3ryg4yj2kdjj0vvesf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/f4b8f23e7f1b928667b8539bd04a26f2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6djl",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q3jp",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-04T15:39:59.493Z"
+    },
     {
       "id": "243424",
       "title": "مسلسل Dark Matter الموسم الثاني الحلقة 2 مترجمة",
@@ -114,7 +444,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:27:53.748Z"
+      "scrapedAt": "2026-09-04T15:40:01.429Z"
     },
     {
       "id": "243418",
@@ -225,7 +555,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:27:56.594Z"
+      "scrapedAt": "2026-09-04T15:40:03.378Z"
     },
     {
       "id": "218134",
@@ -344,7 +674,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:27:58.707Z"
+      "scrapedAt": "2026-09-04T15:40:05.725Z"
     },
     {
       "id": "217105",
@@ -463,7 +793,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:01.052Z"
+      "scrapedAt": "2026-09-04T15:40:07.741Z"
     },
     {
       "id": "215679",
@@ -582,7 +912,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:03.145Z"
+      "scrapedAt": "2026-09-04T15:40:09.754Z"
     },
     {
       "id": "214108",
@@ -701,7 +1031,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:05.515Z"
+      "scrapedAt": "2026-09-04T15:40:11.680Z"
     },
     {
       "id": "212867",
@@ -802,7 +1132,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:07.567Z"
+      "scrapedAt": "2026-09-04T15:40:13.737Z"
     },
     {
       "id": "210791",
@@ -915,7 +1245,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:09.960Z"
+      "scrapedAt": "2026-09-04T15:40:15.789Z"
     },
     {
       "id": "209786",
@@ -1016,7 +1346,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:12.115Z"
+      "scrapedAt": "2026-09-04T15:40:17.879Z"
     },
     {
       "id": "208105",
@@ -1129,7 +1459,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:14.566Z"
+      "scrapedAt": "2026-09-04T15:40:19.953Z"
     },
     {
       "id": "207168",
@@ -1236,7 +1566,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:16.668Z"
+      "scrapedAt": "2026-09-04T15:40:22.038Z"
     },
     {
       "id": "206228",
@@ -1343,7 +1673,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:18.781Z"
+      "scrapedAt": "2026-09-04T15:40:23.972Z"
     },
     {
       "id": "204797",
@@ -1456,7 +1786,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:20.906Z"
+      "scrapedAt": "2026-09-04T15:40:25.997Z"
     },
     {
       "id": "203220",
@@ -1563,7 +1893,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:23.069Z"
+      "scrapedAt": "2026-09-04T15:40:28.038Z"
     },
     {
       "id": "201949",
@@ -1670,7 +2000,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:25.177Z"
+      "scrapedAt": "2026-09-04T15:40:30.068Z"
     },
     {
       "id": "199980",
@@ -1783,7 +2113,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:27.628Z"
+      "scrapedAt": "2026-09-04T15:40:32.104Z"
     },
     {
       "id": "198794",
@@ -1896,7 +2226,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:29.741Z"
+      "scrapedAt": "2026-09-04T15:40:34.145Z"
     },
     {
       "id": "197044",
@@ -2009,7 +2339,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:32.143Z"
+      "scrapedAt": "2026-09-04T15:40:36.187Z"
     },
     {
       "id": "194851",
@@ -2122,7 +2452,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:34.273Z"
+      "scrapedAt": "2026-09-04T15:40:38.246Z"
     },
     {
       "id": "193151",
@@ -2235,7 +2565,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:36.303Z"
+      "scrapedAt": "2026-09-04T15:40:40.186Z"
     },
     {
       "id": "155272",
@@ -2342,7 +2672,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:38.379Z"
+      "scrapedAt": "2026-09-04T15:40:42.513Z"
     },
     {
       "id": "154343",
@@ -2449,7 +2779,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:40.468Z"
+      "scrapedAt": "2026-09-04T15:40:44.561Z"
     },
     {
       "id": "153536",
@@ -2556,7 +2886,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:42.531Z"
+      "scrapedAt": "2026-09-04T15:40:46.614Z"
     },
     {
       "id": "152656",
@@ -2663,7 +2993,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:44.915Z"
+      "scrapedAt": "2026-09-04T15:40:48.651Z"
     },
     {
       "id": "151653",
@@ -2770,7 +3100,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:47.156Z"
+      "scrapedAt": "2026-09-04T15:40:50.681Z"
     },
     {
       "id": "150785",
@@ -2877,7 +3207,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:49.252Z"
+      "scrapedAt": "2026-09-04T15:40:52.726Z"
     },
     {
       "id": "149605",
@@ -2984,7 +3314,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:51.380Z"
+      "scrapedAt": "2026-09-04T15:40:54.739Z"
     },
     {
       "id": "148832",
@@ -3091,7 +3421,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:53.603Z"
+      "scrapedAt": "2026-09-04T15:40:56.781Z"
     },
     {
       "id": "147938",
@@ -3198,7 +3528,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:55.746Z"
+      "scrapedAt": "2026-09-04T15:40:59.039Z"
     },
     {
       "id": "146866",
@@ -3305,7 +3635,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:28:58.172Z"
+      "scrapedAt": "2026-09-04T15:41:01.079Z"
     },
     {
       "id": "144488",
@@ -3412,7 +3742,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:00.350Z"
+      "scrapedAt": "2026-09-04T15:41:03.094Z"
     },
     {
       "id": "143729",
@@ -3519,7 +3849,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:02.799Z"
+      "scrapedAt": "2026-09-04T15:41:05.158Z"
     },
     {
       "id": "142087",
@@ -3626,7 +3956,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:04.975Z"
+      "scrapedAt": "2026-09-04T15:41:07.170Z"
     },
     {
       "id": "140936",
@@ -3733,7 +4063,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:07.402Z"
+      "scrapedAt": "2026-09-04T15:41:09.119Z"
     },
     {
       "id": "139512",
@@ -3840,7 +4170,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:09.609Z"
+      "scrapedAt": "2026-09-04T15:41:11.174Z"
     },
     {
       "id": "138127",
@@ -3947,7 +4277,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:11.831Z"
+      "scrapedAt": "2026-09-04T15:41:13.225Z"
     },
     {
       "id": "136792",
@@ -4054,7 +4384,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:13.985Z"
+      "scrapedAt": "2026-09-04T15:41:15.179Z"
     },
     {
       "id": "135408",
@@ -4161,7 +4491,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:16.296Z"
+      "scrapedAt": "2026-09-04T15:41:17.187Z"
     },
     {
       "id": "83457",
@@ -4268,7 +4598,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:18.437Z"
+      "scrapedAt": "2026-09-04T15:41:19.514Z"
     },
     {
       "id": "80742",
@@ -4375,7 +4705,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:20.589Z"
+      "scrapedAt": "2026-09-04T15:41:21.441Z"
     },
     {
       "id": "78841",
@@ -4482,7 +4812,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:22.706Z"
+      "scrapedAt": "2026-09-04T15:41:23.378Z"
     },
     {
       "id": "76133",
@@ -4589,7 +4919,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:24.855Z"
+      "scrapedAt": "2026-09-04T15:41:25.738Z"
     },
     {
       "id": "73173",
@@ -4696,7 +5026,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:27.037Z"
+      "scrapedAt": "2026-09-04T15:41:27.727Z"
     },
     {
       "id": "71749",
@@ -4803,7 +5133,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:29.255Z"
+      "scrapedAt": "2026-09-04T15:41:29.702Z"
     },
     {
       "id": "68881",
@@ -4910,7 +5240,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:31.418Z"
+      "scrapedAt": "2026-09-04T15:41:31.646Z"
     },
     {
       "id": "68277",
@@ -5017,7 +5347,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:33.593Z"
+      "scrapedAt": "2026-09-04T15:41:33.570Z"
     },
     {
       "id": "67255",
@@ -5124,7 +5454,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:35.739Z"
+      "scrapedAt": "2026-09-04T15:41:35.480Z"
     },
     {
       "id": "66573",
@@ -5231,7 +5561,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:37.849Z"
+      "scrapedAt": "2026-09-04T15:41:37.416Z"
     },
     {
       "id": "243403",
@@ -5338,7 +5668,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:40.197Z"
+      "scrapedAt": "2026-09-04T15:41:39.331Z"
     },
     {
       "id": "243400",
@@ -5445,7 +5775,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:42.391Z"
+      "scrapedAt": "2026-09-04T15:41:41.739Z"
     },
     {
       "id": "243402",
@@ -5552,328 +5882,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-04T10:29:44.613Z"
-    },
-    {
-      "id": "243399",
-      "title": "مسلسل The Rookie الموسم الخامس الحلقة 19 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-rookie-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=243399",
-      "image": "https://topcinema.io/wp-content/uploads/2025/04/cofQdlJ0voWzWlpisBqfuRChTbf-scaled-433x650.jpg",
-      "imdbRating": "8",
-      "story": "تدور أحداث الجزء الخامس حول استمرار الضابط (جون نولان) في العمل على الكشف عن القضايا الإجرامية الخطيرة بمساعدة الضابطة (سيلينا) المنضمة حديثًا للعمل معه وفريقهما، حيث يتعرض الفريق للعديد من المواقف الخطيرة خلال التحقيق في هذه الجرائم لمحاولة فرض الأمن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "43 دقيقة",
-        "موعد الصدور": [
-          "2022"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Adam Davidson",
-          "Alexi Hawley",
-          "Anna Mastro"
-        ],
-        "بطولة": [
-          "Afton Williamson",
-          "Alyssa Diaz",
-          "Arjay Smith",
-          "Brent Huff"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-rookie-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-3e0asulz3r5x.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/3e0asulz3r5x.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/bf132ddy37bg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/347ask54yy4o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/0AADB29692FD5FF",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?f3hhkbea2lm9s9it10i0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/080aae3dac68dfaee0010aa06cac7894",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/vnJM",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xRv3",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-04T10:29:46.773Z"
-    },
-    {
-      "id": "243401",
-      "title": "مسلسل The Rookie الموسم الخامس الحلقة 18 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-rookie-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=243401",
-      "image": "https://topcinema.io/wp-content/uploads/2025/04/cofQdlJ0voWzWlpisBqfuRChTbf-scaled-433x650.jpg",
-      "imdbRating": "8",
-      "story": "تدور أحداث الجزء الخامس حول استمرار الضابط (جون نولان) في العمل على الكشف عن القضايا الإجرامية الخطيرة بمساعدة الضابطة (سيلينا) المنضمة حديثًا للعمل معه وفريقهما، حيث يتعرض الفريق للعديد من المواقف الخطيرة خلال التحقيق في هذه الجرائم لمحاولة فرض الأمن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "43 دقيقة",
-        "موعد الصدور": [
-          "2022"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Adam Davidson",
-          "Alexi Hawley",
-          "Anna Mastro"
-        ],
-        "بطولة": [
-          "Afton Williamson",
-          "Alyssa Diaz",
-          "Arjay Smith",
-          "Brent Huff"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-rookie-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-d04rijyjgbpg.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/d04rijyjgbpg.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/cp27y67s7dhr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/rr6kacfjamdd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/7E4B8BE77244520",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?libdt1r6a7uuwk0ne193",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/75e08dd319b13fa6ded54e7847981118",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ap0y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4TMpB",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-04T10:29:48.930Z"
-    },
-    {
-      "id": "243397",
-      "title": "مسلسل The Rookie الموسم الخامس الحلقة 17 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-rookie-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=243397",
-      "image": "https://topcinema.io/wp-content/uploads/2025/04/cofQdlJ0voWzWlpisBqfuRChTbf-scaled-433x650.jpg",
-      "imdbRating": "8",
-      "story": "تدور أحداث الجزء الخامس حول استمرار الضابط (جون نولان) في العمل على الكشف عن القضايا الإجرامية الخطيرة بمساعدة الضابطة (سيلينا) المنضمة حديثًا للعمل معه وفريقهما، حيث يتعرض الفريق للعديد من المواقف الخطيرة خلال التحقيق في هذه الجرائم لمحاولة فرض الأمن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الحلقة": "43 دقيقة",
-        "موعد الصدور": [
-          "2022"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Adam Davidson",
-          "Alexi Hawley",
-          "Anna Mastro"
-        ],
-        "بطولة": [
-          "Afton Williamson",
-          "Alyssa Diaz",
-          "Arjay Smith",
-          "Brent Huff"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-rookie-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-icmx426xfvn6.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/icmx426xfvn6.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/hozaobvlvz0w",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/wsu9xdaactv0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/77CCB333FC952BA",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?3f5djfgzqfrhd46kgu35",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/b8636b6fa2003b9ec7c121deab9fdb15",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ap0x",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4TMpy",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-04T10:29:51.073Z"
+      "scrapedAt": "2026-09-04T15:41:43.752Z"
     }
   ]
 }
