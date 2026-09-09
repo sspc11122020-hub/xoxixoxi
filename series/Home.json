@@ -2,7 +2,7 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-09-09T15:51:44.197Z",
+  "lastUpdated": "2026-09-09T20:22:14.759Z",
   "series": [
     {
       "id": "244520",
@@ -22,7 +22,8 @@
           "دراما"
         ],
         "جودة الحلقة": [
-          "1080p WEB-DL"
+          "1080p WEB-DL",
+          "720p WEB-DL"
         ],
         "موعد الصدور": [
           "2026"
@@ -162,7 +163,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:28.665Z"
+      "scrapedAt": "2026-09-09T20:19:51.562Z"
     },
     {
       "id": "244524",
@@ -272,7 +273,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:31.266Z"
+      "scrapedAt": "2026-09-09T20:19:54.003Z"
     },
     {
       "id": "244514",
@@ -378,7 +379,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:33.864Z"
+      "scrapedAt": "2026-09-09T20:19:56.680Z"
     },
     {
       "id": "244510",
@@ -484,7 +485,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:36.439Z"
+      "scrapedAt": "2026-09-09T20:19:59.205Z"
     },
     {
       "id": "244519",
@@ -645,7 +646,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:39.034Z"
+      "scrapedAt": "2026-09-09T20:20:01.768Z"
     },
     {
       "id": "244533",
@@ -752,7 +753,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:41.587Z"
+      "scrapedAt": "2026-09-09T20:20:04.190Z"
     },
     {
       "id": "244384",
@@ -856,7 +857,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:44.156Z"
+      "scrapedAt": "2026-09-09T20:20:06.902Z"
     },
     {
       "id": "244383",
@@ -960,7 +961,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:46.725Z"
+      "scrapedAt": "2026-09-09T20:20:09.346Z"
     },
     {
       "id": "244382",
@@ -1064,7 +1065,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:49.316Z"
+      "scrapedAt": "2026-09-09T20:20:11.936Z"
     },
     {
       "id": "244381",
@@ -1168,7 +1169,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:51.948Z"
+      "scrapedAt": "2026-09-09T20:20:14.611Z"
     },
     {
       "id": "244380",
@@ -1272,7 +1273,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:54.528Z"
+      "scrapedAt": "2026-09-09T20:20:17.026Z"
     },
     {
       "id": "244379",
@@ -1376,7 +1377,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:57.134Z"
+      "scrapedAt": "2026-09-09T20:20:20.099Z"
     },
     {
       "id": "244378",
@@ -1480,7 +1481,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:49:59.716Z"
+      "scrapedAt": "2026-09-09T20:20:22.576Z"
     },
     {
       "id": "244373",
@@ -1584,7 +1585,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:02.282Z"
+      "scrapedAt": "2026-09-09T20:20:24.723Z"
     },
     {
       "id": "50422",
@@ -1684,7 +1685,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:04.851Z"
+      "scrapedAt": "2026-09-09T20:20:28.118Z"
     },
     {
       "id": "50421",
@@ -1784,7 +1785,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:07.443Z"
+      "scrapedAt": "2026-09-09T20:20:30.763Z"
     },
     {
       "id": "50420",
@@ -1884,7 +1885,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:10.021Z"
+      "scrapedAt": "2026-09-09T20:20:33.324Z"
     },
     {
       "id": "50419",
@@ -1984,7 +1985,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:12.611Z"
+      "scrapedAt": "2026-09-09T20:20:37.265Z"
     },
     {
       "id": "50418",
@@ -2084,7 +2085,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:15.191Z"
+      "scrapedAt": "2026-09-09T20:20:39.765Z"
     },
     {
       "id": "50417",
@@ -2184,7 +2185,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:17.747Z"
+      "scrapedAt": "2026-09-09T20:20:43.139Z"
     },
     {
       "id": "50416",
@@ -2284,7 +2285,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:20.327Z"
+      "scrapedAt": "2026-09-09T20:20:47.374Z"
     },
     {
       "id": "50415",
@@ -2384,7 +2385,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:22.892Z"
+      "scrapedAt": "2026-09-09T20:20:50.289Z"
     },
     {
       "id": "50414",
@@ -2484,7 +2485,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:25.486Z"
+      "scrapedAt": "2026-09-09T20:20:52.667Z"
     },
     {
       "id": "49767",
@@ -2584,7 +2585,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:28.054Z"
+      "scrapedAt": "2026-09-09T20:20:55.735Z"
     },
     {
       "id": "244287",
@@ -2691,7 +2692,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:30.598Z"
+      "scrapedAt": "2026-09-09T20:20:58.394Z"
     },
     {
       "id": "244286",
@@ -2798,7 +2799,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:33.197Z"
+      "scrapedAt": "2026-09-09T20:21:00.937Z"
     },
     {
       "id": "244291",
@@ -2905,7 +2906,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:35.805Z"
+      "scrapedAt": "2026-09-09T20:21:03.401Z"
     },
     {
       "id": "244289",
@@ -3012,7 +3013,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:38.414Z"
+      "scrapedAt": "2026-09-09T20:21:05.966Z"
     },
     {
       "id": "244285",
@@ -3119,7 +3120,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:40.981Z"
+      "scrapedAt": "2026-09-09T20:21:08.424Z"
     },
     {
       "id": "244288",
@@ -3226,7 +3227,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:43.583Z"
+      "scrapedAt": "2026-09-09T20:21:11.766Z"
     },
     {
       "id": "244290",
@@ -3333,7 +3334,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:46.209Z"
+      "scrapedAt": "2026-09-09T20:21:14.178Z"
     },
     {
       "id": "244284",
@@ -3440,7 +3441,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:48.803Z"
+      "scrapedAt": "2026-09-09T20:21:16.828Z"
     },
     {
       "id": "244283",
@@ -3547,7 +3548,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:51.212Z"
+      "scrapedAt": "2026-09-09T20:21:19.301Z"
     },
     {
       "id": "244065",
@@ -3654,7 +3655,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:53.806Z"
+      "scrapedAt": "2026-09-09T20:21:23.414Z"
     },
     {
       "id": "244282",
@@ -3761,7 +3762,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:56.404Z"
+      "scrapedAt": "2026-09-09T20:21:25.847Z"
     },
     {
       "id": "244281",
@@ -3868,7 +3869,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:50:59.024Z"
+      "scrapedAt": "2026-09-09T20:21:28.266Z"
     },
     {
       "id": "244280",
@@ -3975,7 +3976,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:01.613Z"
+      "scrapedAt": "2026-09-09T20:21:30.902Z"
     },
     {
       "id": "244279",
@@ -4082,7 +4083,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:04.205Z"
+      "scrapedAt": "2026-09-09T20:21:33.351Z"
     },
     {
       "id": "244278",
@@ -4189,7 +4190,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:06.807Z"
+      "scrapedAt": "2026-09-09T20:21:35.971Z"
     },
     {
       "id": "244277",
@@ -4296,7 +4297,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:09.346Z"
+      "scrapedAt": "2026-09-09T20:21:38.343Z"
     },
     {
       "id": "244276",
@@ -4403,7 +4404,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:12.343Z"
+      "scrapedAt": "2026-09-09T20:21:41.015Z"
     },
     {
       "id": "244274",
@@ -4510,7 +4511,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:14.947Z"
+      "scrapedAt": "2026-09-09T20:21:43.418Z"
     },
     {
       "id": "244275",
@@ -4617,7 +4618,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:17.604Z"
+      "scrapedAt": "2026-09-09T20:21:45.837Z"
     },
     {
       "id": "244273",
@@ -4724,7 +4725,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:20.194Z"
+      "scrapedAt": "2026-09-09T20:21:49.299Z"
     },
     {
       "id": "244272",
@@ -4831,7 +4832,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:22.640Z"
+      "scrapedAt": "2026-09-09T20:21:51.905Z"
     },
     {
       "id": "244064",
@@ -4938,7 +4939,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:25.092Z"
+      "scrapedAt": "2026-09-09T20:21:54.306Z"
     },
     {
       "id": "244257",
@@ -5045,7 +5046,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:27.316Z"
+      "scrapedAt": "2026-09-09T20:21:56.734Z"
     },
     {
       "id": "244256",
@@ -5152,7 +5153,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:29.570Z"
+      "scrapedAt": "2026-09-09T20:21:59.163Z"
     },
     {
       "id": "244255",
@@ -5259,7 +5260,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:31.813Z"
+      "scrapedAt": "2026-09-09T20:22:01.582Z"
     },
     {
       "id": "244254",
@@ -5366,7 +5367,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:34.064Z"
+      "scrapedAt": "2026-09-09T20:22:04.003Z"
     },
     {
       "id": "244253",
@@ -5473,7 +5474,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:36.536Z"
+      "scrapedAt": "2026-09-09T20:22:06.396Z"
     },
     {
       "id": "244252",
@@ -5580,7 +5581,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:38.760Z"
+      "scrapedAt": "2026-09-09T20:22:08.803Z"
     },
     {
       "id": "244251",
@@ -5687,7 +5688,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:40.980Z"
+      "scrapedAt": "2026-09-09T20:22:10.931Z"
     },
     {
       "id": "244250",
@@ -5794,7 +5795,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T15:51:43.197Z"
+      "scrapedAt": "2026-09-09T20:22:13.758Z"
     }
   ]
 }
