@@ -2,8 +2,333 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-09-09T20:22:14.759Z",
+  "lastUpdated": "2026-09-10T02:51:56.720Z",
   "series": [
+    {
+      "id": "244316",
+      "title": "مسلسل It’s Always Sunny in Philadelphia الموسم 18 الحلقة 5 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-its-always-sunny-in-philadelphia-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-18-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=244316",
+      "image": "https://topcinema.io/wp-content/uploads/2026/08/MV5BZjkxZWUzNGEtNWFjZi00MDJmLWI2ODctMDRiZTdhY2RiNmZkXkEyXkFqcGc@._V1_-scaled-520x650.jpg",
+      "imdbRating": "8.8",
+      "story": "في الموسم الثامن عشر، يستعد (فرانك) للزواج من (سام)، لكن أصدقاءه يحاولون مساعدته في التغلب على تردده، بينما تسعى (دي) لإفساد الزفاف عبر تخويف العروس بشهادات من معارفها. وفي الوقت نفسه، يكتشف (دينيس) و(دي) إصابتهما باضطراب فرط الحركة ونقص الانتباه.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Daniel Attias",
+          "Fred Savage",
+          "Glenn Howerton"
+        ],
+        "بطولة": [
+          "Andrew Friedman",
+          "Artemis Pebdani",
+          "Catherine Reitman",
+          "Charlie Day"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-its-always-sunny-in-philadelphia-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-18-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-2qv8cze53zjv.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/2qv8cze53zjv.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/j7a5c1s1c3o8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vzR3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/g9md3mrei8cz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/981682BF1AA7997",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?7uf4w548gahs5bewnw89",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fd6345de4123437ee350826fc6e2a996",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aqwS",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w36u",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-10T02:49:38.971Z"
+    },
+    {
+      "id": "244527",
+      "title": "مسلسل The Drop: A Snowfall Saga الموسم الاول الحلقة 1 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-drop-a-snowfall-saga-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=244527",
+      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BN2U5YjQ1ZGEtOTAyMS00YTcxLWJkYzEtYzM0ZjI2NDU0Y2RkXkEyXkFqcGc@-scaled-520x650.jpg",
+      "imdbRating": null,
+      "story": "في لوس أنجلوس خلال تسعينات القرن الماضي، يتراجع انتشار موسيقى الكراك مع صعود موسيقى الراب، بينما تتحول المناطق التي تسيطر عليها عصابتا (بلودز) و(كريبس) في جنوب وسط المدينة إلى نقطة انطلاق لمشهد موسيقي جديد.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "Music",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Andre Ozim",
+          "Andrew Etzel",
+          "Asante Blackk",
+          "Brandon Mychal Smith"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-drop-a-snowfall-saga-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-2z18ikzmrn60.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/2z18ikzmrn60.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/24bu1fwdmijc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bxje",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ch6lzbpatuai",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/EE5336E9D7EC3D5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?5btz8hv8vvrq0qptrggc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2155d5723110d11b9ab39ce7634b8ee9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6eny",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w368",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-10T02:49:41.526Z"
+    },
+    {
+      "id": "244315",
+      "title": "مسلسل All American الموسم الثامن الحلقة 10 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-all-american-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=244315",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/6106Fj8A5WtS9A250ndz7OCUu0r-433x650.jpg",
+      "imdbRating": "7.6",
+      "story": "عندما يُجند لاعب كرة قدم نجم في مدرسة ثانوية من ساوث سنترال للعب في مدرسة (بيفرلي هيلز) الثانوية، يتصادم ويدخل في حيرة بين الفريقين فكيف سيواجه تلك الأزمة؟",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رياضي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Avi Youabian",
+          "Benny Boom",
+          "Charissa Sanjarernsuithikul"
+        ],
+        "بطولة": [
+          "Bre-Z",
+          "Chelsea Tavares",
+          "Cody Christian",
+          "Daniel Ezra"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-all-american-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-chvyqshkpqkm.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/chvyqshkpqkm.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/jvy6fjs929on",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PCop",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/2tcygixbfs4b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/33A0636125F0672",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?grurmkhd82oiis491z33",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/3f3e719a88e34e2a5110664f9451d13b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6enl",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2c0yf",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-10T02:49:44.083Z"
+    },
     {
       "id": "244520",
       "title": "مسلسل Reacher الموسم الرابع الحلقة 7 مترجمة",
@@ -163,7 +488,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:19:51.562Z"
+      "scrapedAt": "2026-09-10T02:49:46.603Z"
     },
     {
       "id": "244524",
@@ -273,7 +598,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:19:54.003Z"
+      "scrapedAt": "2026-09-10T02:49:49.118Z"
     },
     {
       "id": "244514",
@@ -379,7 +704,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:19:56.680Z"
+      "scrapedAt": "2026-09-10T02:49:51.615Z"
     },
     {
       "id": "244510",
@@ -485,7 +810,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:19:59.205Z"
+      "scrapedAt": "2026-09-10T02:49:54.184Z"
     },
     {
       "id": "244519",
@@ -646,7 +971,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:01.768Z"
+      "scrapedAt": "2026-09-10T02:49:56.663Z"
     },
     {
       "id": "244533",
@@ -753,7 +1078,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:04.190Z"
+      "scrapedAt": "2026-09-10T02:49:59.161Z"
     },
     {
       "id": "244384",
@@ -857,7 +1182,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:06.902Z"
+      "scrapedAt": "2026-09-10T02:50:01.667Z"
     },
     {
       "id": "244383",
@@ -961,7 +1286,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:09.346Z"
+      "scrapedAt": "2026-09-10T02:50:04.417Z"
     },
     {
       "id": "244382",
@@ -1065,7 +1390,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:11.936Z"
+      "scrapedAt": "2026-09-10T02:50:07.001Z"
     },
     {
       "id": "244381",
@@ -1169,7 +1494,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:14.611Z"
+      "scrapedAt": "2026-09-10T02:50:09.583Z"
     },
     {
       "id": "244380",
@@ -1273,7 +1598,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:17.026Z"
+      "scrapedAt": "2026-09-10T02:50:12.218Z"
     },
     {
       "id": "244379",
@@ -1377,7 +1702,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:20.099Z"
+      "scrapedAt": "2026-09-10T02:50:14.798Z"
     },
     {
       "id": "244378",
@@ -1481,7 +1806,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:22.576Z"
+      "scrapedAt": "2026-09-10T02:50:17.400Z"
     },
     {
       "id": "244373",
@@ -1585,7 +1910,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:24.723Z"
+      "scrapedAt": "2026-09-10T02:50:20.000Z"
     },
     {
       "id": "50422",
@@ -1685,7 +2010,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:28.118Z"
+      "scrapedAt": "2026-09-10T02:50:22.492Z"
     },
     {
       "id": "50421",
@@ -1785,7 +2110,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:30.763Z"
+      "scrapedAt": "2026-09-10T02:50:25.185Z"
     },
     {
       "id": "50420",
@@ -1885,7 +2210,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:33.324Z"
+      "scrapedAt": "2026-09-10T02:50:27.796Z"
     },
     {
       "id": "50419",
@@ -1985,7 +2310,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:37.265Z"
+      "scrapedAt": "2026-09-10T02:50:30.386Z"
     },
     {
       "id": "50418",
@@ -2085,7 +2410,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:39.765Z"
+      "scrapedAt": "2026-09-10T02:50:32.983Z"
     },
     {
       "id": "50417",
@@ -2185,7 +2510,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:43.139Z"
+      "scrapedAt": "2026-09-10T02:50:35.563Z"
     },
     {
       "id": "50416",
@@ -2285,7 +2610,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:47.374Z"
+      "scrapedAt": "2026-09-10T02:50:38.060Z"
     },
     {
       "id": "50415",
@@ -2385,7 +2710,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:50.289Z"
+      "scrapedAt": "2026-09-10T02:50:40.567Z"
     },
     {
       "id": "50414",
@@ -2485,7 +2810,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:52.667Z"
+      "scrapedAt": "2026-09-10T02:50:43.072Z"
     },
     {
       "id": "49767",
@@ -2585,7 +2910,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:55.735Z"
+      "scrapedAt": "2026-09-10T02:50:45.578Z"
     },
     {
       "id": "244287",
@@ -2692,7 +3017,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:20:58.394Z"
+      "scrapedAt": "2026-09-10T02:50:48.295Z"
     },
     {
       "id": "244286",
@@ -2799,7 +3124,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:00.937Z"
+      "scrapedAt": "2026-09-10T02:50:50.883Z"
     },
     {
       "id": "244291",
@@ -2906,7 +3231,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:03.401Z"
+      "scrapedAt": "2026-09-10T02:50:53.498Z"
     },
     {
       "id": "244289",
@@ -3013,7 +3338,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:05.966Z"
+      "scrapedAt": "2026-09-10T02:50:56.083Z"
     },
     {
       "id": "244285",
@@ -3120,7 +3445,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:08.424Z"
+      "scrapedAt": "2026-09-10T02:50:58.690Z"
     },
     {
       "id": "244288",
@@ -3227,7 +3552,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:11.766Z"
+      "scrapedAt": "2026-09-10T02:51:01.294Z"
     },
     {
       "id": "244290",
@@ -3334,7 +3659,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:14.178Z"
+      "scrapedAt": "2026-09-10T02:51:03.733Z"
     },
     {
       "id": "244284",
@@ -3441,7 +3766,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:16.828Z"
+      "scrapedAt": "2026-09-10T02:51:06.359Z"
     },
     {
       "id": "244283",
@@ -3548,7 +3873,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:19.301Z"
+      "scrapedAt": "2026-09-10T02:51:09.004Z"
     },
     {
       "id": "244065",
@@ -3655,7 +3980,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:23.414Z"
+      "scrapedAt": "2026-09-10T02:51:11.630Z"
     },
     {
       "id": "244282",
@@ -3762,7 +4087,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:25.847Z"
+      "scrapedAt": "2026-09-10T02:51:14.542Z"
     },
     {
       "id": "244281",
@@ -3869,7 +4194,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:28.266Z"
+      "scrapedAt": "2026-09-10T02:51:17.337Z"
     },
     {
       "id": "244280",
@@ -3976,7 +4301,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:30.902Z"
+      "scrapedAt": "2026-09-10T02:51:20.163Z"
     },
     {
       "id": "244279",
@@ -4083,7 +4408,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:33.351Z"
+      "scrapedAt": "2026-09-10T02:51:22.853Z"
     },
     {
       "id": "244278",
@@ -4190,7 +4515,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:35.971Z"
+      "scrapedAt": "2026-09-10T02:51:25.478Z"
     },
     {
       "id": "244277",
@@ -4297,7 +4622,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:38.343Z"
+      "scrapedAt": "2026-09-10T02:51:28.125Z"
     },
     {
       "id": "244276",
@@ -4404,7 +4729,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:41.015Z"
+      "scrapedAt": "2026-09-10T02:51:30.433Z"
     },
     {
       "id": "244274",
@@ -4511,7 +4836,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:43.418Z"
+      "scrapedAt": "2026-09-10T02:51:32.706Z"
     },
     {
       "id": "244275",
@@ -4618,7 +4943,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:45.837Z"
+      "scrapedAt": "2026-09-10T02:51:34.994Z"
     },
     {
       "id": "244273",
@@ -4725,7 +5050,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:49.299Z"
+      "scrapedAt": "2026-09-10T02:51:37.630Z"
     },
     {
       "id": "244272",
@@ -4832,7 +5157,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:51.905Z"
+      "scrapedAt": "2026-09-10T02:51:40.309Z"
     },
     {
       "id": "244064",
@@ -4939,7 +5264,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:54.306Z"
+      "scrapedAt": "2026-09-10T02:51:42.595Z"
     },
     {
       "id": "244257",
@@ -5046,7 +5371,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:56.734Z"
+      "scrapedAt": "2026-09-10T02:51:45.190Z"
     },
     {
       "id": "244256",
@@ -5153,7 +5478,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:21:59.163Z"
+      "scrapedAt": "2026-09-10T02:51:47.866Z"
     },
     {
       "id": "244255",
@@ -5260,7 +5585,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:22:01.582Z"
+      "scrapedAt": "2026-09-10T02:51:50.466Z"
     },
     {
       "id": "244254",
@@ -5367,7 +5692,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:22:04.003Z"
+      "scrapedAt": "2026-09-10T02:51:53.064Z"
     },
     {
       "id": "244253",
@@ -5474,328 +5799,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-09T20:22:06.396Z"
-    },
-    {
-      "id": "244252",
-      "title": "مسلسل Gomorrah الموسم الثالث الحلقة 7 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-gomorrah-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244252",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/jood1yOyAjjoD2nfUE8uhKZHvve-scaled-433x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يتولى (جيني) السيطرة على مدينتي (نابولي) و(روما) ويضمهما ضمن شبكته، بينما يُشكل (تشيرو) شراكة جديدة مع (إنزو) وتقوم على إثرها بوادر اتفاقية سلام مع (جيني) بشروط محددة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p BluRay"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ],
-        "دولة المسلسل": [
-          "إيطاليا"
-        ],
-        "بطولة": [
-          "Alessandro Palladino",
-          "Arturo Muselli",
-          "Brian Flaccus",
-          "Cristiana DellAnna"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-gomorrah-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-pk6gxlhygril.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/pk6gxlhygril.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/l2h69wfmyxuv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/29Evt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/na1nxzn63pxy",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B61F5B21C40B32A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?k0viy8ympe120cycldgs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/18268952e6d3d7ef756dd88499524bc1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aqgD",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q58n",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-09T20:22:08.803Z"
-    },
-    {
-      "id": "244251",
-      "title": "مسلسل Gomorrah الموسم الثالث الحلقة 6 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-gomorrah-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244251",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/jood1yOyAjjoD2nfUE8uhKZHvve-scaled-433x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يتولى (جيني) السيطرة على مدينتي (نابولي) و(روما) ويضمهما ضمن شبكته، بينما يُشكل (تشيرو) شراكة جديدة مع (إنزو) وتقوم على إثرها بوادر اتفاقية سلام مع (جيني) بشروط محددة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p BluRay"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ],
-        "دولة المسلسل": [
-          "إيطاليا"
-        ],
-        "بطولة": [
-          "Alessandro Palladino",
-          "Arturo Muselli",
-          "Brian Flaccus",
-          "Cristiana DellAnna"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-gomorrah-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-9mne9pdg3uvg.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/9mne9pdg3uvg.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9hb3o8z20tfy",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/29Evr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/krp2bmtxtzfb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9739505710AEFBB",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?tzbvw51sozhecnelwj8c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/fb63fdd1f6171792a6fa59e1d42e6153",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aqgC",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q58m",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-09T20:22:10.931Z"
-    },
-    {
-      "id": "244250",
-      "title": "مسلسل Gomorrah الموسم الثالث الحلقة 5 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-gomorrah-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244250",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/jood1yOyAjjoD2nfUE8uhKZHvve-scaled-433x650.jpg",
-      "imdbRating": "8.6",
-      "story": "يتولى (جيني) السيطرة على مدينتي (نابولي) و(روما) ويضمهما ضمن شبكته، بينما يُشكل (تشيرو) شراكة جديدة مع (إنزو) وتقوم على إثرها بوادر اتفاقية سلام مع (جيني) بشروط محددة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p BluRay"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ],
-        "دولة المسلسل": [
-          "إيطاليا"
-        ],
-        "بطولة": [
-          "Alessandro Palladino",
-          "Arturo Muselli",
-          "Brian Flaccus",
-          "Cristiana DellAnna"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-gomorrah-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-eaja11cst80n.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/eaja11cst80n.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9uwmpz1c0wxi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/29Evo",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/2bpabh4x48xp",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/5FE21C01DAFFFC8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?xv7zcv8pcqapk68ep0rv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/dca4284deccff1f232089008f49e6335",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6e7z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q58j",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-09T20:22:13.758Z"
+      "scrapedAt": "2026-09-10T02:51:55.719Z"
     }
   ]
 }
