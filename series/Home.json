@@ -1,9 +1,235 @@
 {
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
-  "totalSeries": 54,
-  "lastUpdated": "2026-09-13T11:01:51.496Z",
+  "totalSeries": 52,
+  "lastUpdated": "2026-09-13T15:39:10.662Z",
   "series": [
+    {
+      "id": "245278",
+      "title": "مسلسل Special Ops: Lioness الموسم الثالث الحلقة 7 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-special-ops-lioness-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245278",
+      "image": "https://topcinema.io/wp-content/uploads/2026/08/MV5BYTczNDVlMTctMmY2ZC00YzQxLWIwZjMtYzhiMzNjNThiMTYyXkEyXkFqcGc@._V1_-scaled-438x650.jpg",
+      "imdbRating": "7.8",
+      "story": "في الموسم الثالث، تستكمل (جو) رحلتها، حيث تقود فريقها في عملية عالمية شديدة الخطورة تستهدف تكتلًا تكنولوجيًا متورطًا في تهريب الأسلحة على المستوى الدولي.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Anthony Byrne",
+          "John Hillcoat",
+          "Paul Cameron"
+        ],
+        "بطولة": [
+          "Austin Hbert",
+          "Austin Hébert",
+          "Carla Mansour",
+          "Celestina Harris"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-special-ops-lioness-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-uwloqf0i6p8q.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/uwloqf0i6p8q.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/kzxfm8lkfc37",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vBS7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/l8t91wo6wv2f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A9E3CA405972C50",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?hppurcg3lrizs4zqexpn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/79c5d1478d6b1a9e1ab1e3daea2217e2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6f9v",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w560",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-13T15:31:54.314Z"
+    },
+    {
+      "id": "245273",
+      "title": "مسلسل The Walking Dead: Dead City الموسم الثالث الحلقة 8 والاخيرة مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-walking-dead-dead-city-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245273",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/f4njNMbHfpuD0ibQb49c4wxZE6E-433x650.jpg",
+      "imdbRating": "7",
+      "story": "يتوجه (نيجان) و(ماجي) إلى حيّ مانهاتن ما بعد نهاية العالم، حيث أصبح جزيرة منفصلة تحكمها جماعات الزومبي، والمجتمعات الخطرة، التي نشأت بين أنقاض مدينة مُحطَمة، ويواجهان صراعًا من أجل البقاء.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما",
+          "رعب",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Kevin Dowling",
+          "Loren Yaconelli"
+        ],
+        "بطولة": [
+          "Aimee Garcia",
+          "Aixa Kendrick",
+          "Alex Borlo",
+          "Christopher C. James"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-walking-dead-dead-city-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-06cku90lozav.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/06cku90lozav.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ix6kjgtl7lpy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bzk7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ikcbokzi6r2g",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/8B20700021AB9E3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?jxm6syzmtlihrwyvjnwt",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/c28ce34b05f4d77303bac501c1fa4fbf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6f9u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2c2yj",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-13T15:32:25.014Z"
+    },
     {
       "id": "244895",
       "title": "مسلسل Anna Pigeon الموسم الاول الحلقة 6 مترجمة",
@@ -105,221 +331,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T10:59:56.270Z"
-    },
-    {
-      "id": "245241",
-      "title": "مسلسل Possession الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-possession-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=245241",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BYzllMGM3ZTctNGYyZS00MTg1LTk1OTgtMWQ1MTY1NzdiYjAwXkEyXkFqcGc@-521x650.jpg",
-      "imdbRating": "5.7",
-      "story": "تسافر كلوديا، المحامية ذات الأصول المختلطة، إلى مزرعة كونوت المسكونة في جامايكا لخوض معركة قضائية تتعلق بميراث. ويكشف لها اكتشاف أسرار تاريخية مظلمة متشابكة مع مظالم معاصرة، مما يزيد من حدة كابوسها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اثارة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "المملكة المتحدة"
-        ],
-        "بطولة": [
-          "Bel Powley",
-          "Gugu Mbatha-Raw",
-          "Jeany Spark",
-          "Jonny Lee Miller"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-possession-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-1omkpfyc4qij.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/1omkpfyc4qij.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/p3ug7tvk1srv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4Rwex",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/q05xmclwt297",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/1795A90D1AE26E5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?g56241q54hzhcycidqu2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/fb1709ad5cc42970ca0438c3622295e7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6f1q",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q7fq",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T10:59:58.236Z"
-    },
-    {
-      "id": "245176",
-      "title": "مسلسل Hawaii Five-0 الموسم الاول الحلقة 24 والاخيرة مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-hawaii-five-0-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=245176",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/993TiSKrrYafrfuFz6nMs6iBFP5-scaled-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "تدور أحداث المسلسل في إطار درامي تشويقي، حول فكرة الانتقام والثأر، حيث بطل المسلسل الذي يقرر العودة إلى بلدته القديمة، في سبيل الإنتقام من قتلة والده.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "كوميدي",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2010"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alex O'Loughlin",
-          "Chi McBride",
-          "Daniel Dae Kim",
-          "Dennis Chun"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-hawaii-five-0-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-lq8vu8knf4ak.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/lq8vu8knf4ak.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/0hjcc0s80wtx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vyik",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/7zkgi4hcbb2w",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/8D517114A631B3A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?2hzr8uwfy7o41hlbc45e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/23f3596da069bc5c9e87eb3372acba09",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/apP7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q41v",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T11:00:00.442Z"
+      "scrapedAt": "2026-09-13T15:33:43.576Z"
     },
     {
       "id": "245177",
@@ -426,7 +438,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:02.904Z"
+      "scrapedAt": "2026-09-13T15:36:24.414Z"
     },
     {
       "id": "245175",
@@ -533,7 +545,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:05.157Z"
+      "scrapedAt": "2026-09-13T15:36:52.274Z"
     },
     {
       "id": "245173",
@@ -640,7 +652,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:07.406Z"
+      "scrapedAt": "2026-09-13T15:37:01.661Z"
     },
     {
       "id": "245172",
@@ -747,7 +759,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:09.802Z"
+      "scrapedAt": "2026-09-13T15:37:05.942Z"
     },
     {
       "id": "245171",
@@ -854,7 +866,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:12.287Z"
+      "scrapedAt": "2026-09-13T15:37:08.789Z"
     },
     {
       "id": "245170",
@@ -961,7 +973,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:14.730Z"
+      "scrapedAt": "2026-09-13T15:37:11.596Z"
     },
     {
       "id": "245169",
@@ -1068,7 +1080,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:17.193Z"
+      "scrapedAt": "2026-09-13T15:37:14.415Z"
     },
     {
       "id": "245166",
@@ -1175,7 +1187,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:19.633Z"
+      "scrapedAt": "2026-09-13T15:37:17.252Z"
     },
     {
       "id": "245168",
@@ -1282,7 +1294,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:22.039Z"
+      "scrapedAt": "2026-09-13T15:37:20.054Z"
     },
     {
       "id": "245167",
@@ -1389,7 +1401,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:24.478Z"
+      "scrapedAt": "2026-09-13T15:37:22.875Z"
     },
     {
       "id": "245165",
@@ -1496,7 +1508,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:26.919Z"
+      "scrapedAt": "2026-09-13T15:37:25.665Z"
     },
     {
       "id": "245164",
@@ -1603,7 +1615,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:29.403Z"
+      "scrapedAt": "2026-09-13T15:37:28.485Z"
     },
     {
       "id": "245162",
@@ -1710,7 +1722,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:31.855Z"
+      "scrapedAt": "2026-09-13T15:37:31.313Z"
     },
     {
       "id": "245161",
@@ -1817,7 +1829,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:34.257Z"
+      "scrapedAt": "2026-09-13T15:37:34.055Z"
     },
     {
       "id": "245160",
@@ -1924,7 +1936,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:36.687Z"
+      "scrapedAt": "2026-09-13T15:37:36.713Z"
     },
     {
       "id": "245159",
@@ -2031,7 +2043,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:39.032Z"
+      "scrapedAt": "2026-09-13T15:37:39.578Z"
     },
     {
       "id": "245158",
@@ -2138,7 +2150,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:41.892Z"
+      "scrapedAt": "2026-09-13T15:37:42.425Z"
     },
     {
       "id": "245156",
@@ -2245,7 +2257,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:44.212Z"
+      "scrapedAt": "2026-09-13T15:37:44.973Z"
     },
     {
       "id": "245157",
@@ -2352,7 +2364,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:46.370Z"
+      "scrapedAt": "2026-09-13T15:37:47.525Z"
     },
     {
       "id": "245155",
@@ -2459,7 +2471,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:48.597Z"
+      "scrapedAt": "2026-09-13T15:37:51.102Z"
     },
     {
       "id": "245154",
@@ -2566,7 +2578,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:50.607Z"
+      "scrapedAt": "2026-09-13T15:37:53.727Z"
     },
     {
       "id": "245153",
@@ -2673,7 +2685,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:52.616Z"
+      "scrapedAt": "2026-09-13T15:37:56.320Z"
     },
     {
       "id": "244687",
@@ -2780,7 +2792,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:54.576Z"
+      "scrapedAt": "2026-09-13T15:37:58.876Z"
     },
     {
       "id": "245121",
@@ -2877,7 +2889,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:56.512Z"
+      "scrapedAt": "2026-09-13T15:38:01.749Z"
     },
     {
       "id": "245120",
@@ -2974,7 +2986,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:00:58.479Z"
+      "scrapedAt": "2026-09-13T15:38:04.464Z"
     },
     {
       "id": "245119",
@@ -3071,7 +3083,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:00.419Z"
+      "scrapedAt": "2026-09-13T15:38:07.110Z"
     },
     {
       "id": "245118",
@@ -3168,7 +3180,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:02.392Z"
+      "scrapedAt": "2026-09-13T15:38:09.837Z"
     },
     {
       "id": "245117",
@@ -3265,7 +3277,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:04.358Z"
+      "scrapedAt": "2026-09-13T15:38:12.565Z"
     },
     {
       "id": "245116",
@@ -3362,7 +3374,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:06.337Z"
+      "scrapedAt": "2026-09-13T15:38:15.117Z"
     },
     {
       "id": "245115",
@@ -3459,7 +3471,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:08.289Z"
+      "scrapedAt": "2026-09-13T15:38:17.863Z"
     },
     {
       "id": "245114",
@@ -3556,7 +3568,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:10.238Z"
+      "scrapedAt": "2026-09-13T15:38:20.610Z"
     },
     {
       "id": "245113",
@@ -3653,7 +3665,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:12.374Z"
+      "scrapedAt": "2026-09-13T15:38:23.360Z"
     },
     {
       "id": "245112",
@@ -3750,7 +3762,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:14.354Z"
+      "scrapedAt": "2026-09-13T15:38:26.038Z"
     },
     {
       "id": "245110",
@@ -3847,7 +3859,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:16.353Z"
+      "scrapedAt": "2026-09-13T15:38:28.850Z"
     },
     {
       "id": "245109",
@@ -3944,7 +3956,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:18.405Z"
+      "scrapedAt": "2026-09-13T15:38:31.622Z"
     },
     {
       "id": "245107",
@@ -4041,7 +4053,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:20.361Z"
+      "scrapedAt": "2026-09-13T15:38:34.439Z"
     },
     {
       "id": "245108",
@@ -4138,7 +4150,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:22.388Z"
+      "scrapedAt": "2026-09-13T15:38:37.286Z"
     },
     {
       "id": "245105",
@@ -4235,7 +4247,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:24.609Z"
+      "scrapedAt": "2026-09-13T15:38:40.086Z"
     },
     {
       "id": "245103",
@@ -4332,7 +4344,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:26.593Z"
+      "scrapedAt": "2026-09-13T15:38:42.784Z"
     },
     {
       "id": "245106",
@@ -4429,7 +4441,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:28.590Z"
+      "scrapedAt": "2026-09-13T15:38:45.546Z"
     },
     {
       "id": "245104",
@@ -4526,7 +4538,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:30.612Z"
+      "scrapedAt": "2026-09-13T15:38:48.335Z"
     },
     {
       "id": "245102",
@@ -4623,7 +4635,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:32.626Z"
+      "scrapedAt": "2026-09-13T15:38:51.014Z"
     },
     {
       "id": "245101",
@@ -4720,7 +4732,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:34.523Z"
+      "scrapedAt": "2026-09-13T15:38:53.650Z"
     },
     {
       "id": "245099",
@@ -4817,7 +4829,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:36.520Z"
+      "scrapedAt": "2026-09-13T15:38:56.419Z"
     },
     {
       "id": "245098",
@@ -4914,7 +4926,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:38.503Z"
+      "scrapedAt": "2026-09-13T15:38:59.002Z"
     },
     {
       "id": "245097",
@@ -5011,7 +5023,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:40.543Z"
+      "scrapedAt": "2026-09-13T15:39:01.650Z"
     },
     {
       "id": "245096",
@@ -5108,7 +5120,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:42.533Z"
+      "scrapedAt": "2026-09-13T15:39:04.289Z"
     },
     {
       "id": "245095",
@@ -5205,7 +5217,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:44.508Z"
+      "scrapedAt": "2026-09-13T15:39:07.063Z"
     },
     {
       "id": "245094",
@@ -5302,201 +5314,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T11:01:46.531Z"
-    },
-    {
-      "id": "245093",
-      "title": "مسلسل Stolen Heartbeats الموسم الاول الحلقة 5 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-stolen-heartbeats-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=245093",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/3rnQOZr6yoVWYdy5BiSO4xItYi4-433x650.jpg",
-      "imdbRating": null,
-      "story": "تدخل \"أنابيل\" في غيبوبة إثر هجوم فتتعاون مع \"رافاييل\"، وهو ممرض يسمع أصوات الموتى، في سباق مع الزمن لإنقاذ حياتها قبل أن يصل إليها أعداؤها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-stolen-heartbeats-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-43uzscptjddx.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/43uzscptjddx.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/5bh3t3sisjmi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bym5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/xym8ksaaxs49",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2B1BE806110C19A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?87yfon1eb062natop6wl",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/128358d2f90ea0534b816fc017230544",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/iPiT",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c1N5",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T11:01:48.561Z"
-    },
-    {
-      "id": "245092",
-      "title": "مسلسل Stolen Heartbeats الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-stolen-heartbeats-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=245092",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/3rnQOZr6yoVWYdy5BiSO4xItYi4-433x650.jpg",
-      "imdbRating": null,
-      "story": "تدخل \"أنابيل\" في غيبوبة إثر هجوم فتتعاون مع \"رافاييل\"، وهو ممرض يسمع أصوات الموتى، في سباق مع الزمن لإنقاذ حياتها قبل أن يصل إليها أعداؤها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-stolen-heartbeats-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-sc0bneujdy7q.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/sc0bneujdy7q.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/3dgfgjljw8m3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bym4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/et1xhn17y0l4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/F78D8E2C87389BA",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?24q5qkfoj2fpb3yiy2hm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/cb6bdcdccbca9cbae2a0187d59e6a061",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/iPiS",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c1N4",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T11:01:50.496Z"
+      "scrapedAt": "2026-09-13T15:39:09.660Z"
     }
   ]
 }
