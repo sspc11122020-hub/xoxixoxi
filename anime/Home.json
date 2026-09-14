@@ -2,8 +2,1128 @@
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-09-13T21:05:51.002Z",
+  "lastUpdated": "2026-09-14T05:20:26.659Z",
   "series": [
+    {
+      "id": "245576",
+      "title": "انمي ون بيس One Piece الحلقة 1178 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-%d9%88%d9%86-%d8%a8%d9%8a%d8%b3-one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1178-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245576",
+      "image": "https://topcinema.io/wp-content/uploads/2026/04/Elbaph_Arc-500x627.webp",
+      "imdbRating": "9",
+      "story": "العظمة , المجد , الذهب , مزايا اشتملت عليها حياة ملك القراصنة غولد روجر الذي حكم عليه بالإعدام لأسباب مجهولة, و ارتأى أن يشي بسر كنزه المعروف بـ ” ون بيس” و المخبأ في مكان ما على الخط الكبير قبل أن ينفذ فيه حكم الإعدام. و بعد اثنين و عشرين سنة من هذه الحادثة تبدأ أحداث قصتنا , و يظهر بطلنا القرصان مونكي دي لوفي الحالم بالعثور على الكنزو الطامع بلقب ملك القراصنة , و من أجل ذلك , يقوم بتناول فاكهة الشيطان للحصول على القوة اللازمة و لتيسير و تذييل العقبات التي من شأنها إعاقة المهمة. و قبل البدء بأي شيء , عليه أولاً أن يجد الطاقم المناسب ليبدءون رحلة البحث عن الكنز الأسطوري.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-%d9%88%d9%86-%d8%a8%d9%8a%d8%b3-one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1178-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-nyo9wk5a4f8e.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/nyo9wk5a4f8e.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/hj4hpvg166p7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/29H0k",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/xvuhm5qfe197",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/268194025B1CFF7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?uek92ewj8wgd4mofhuik",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b540e59122560e2e2fd6d6e395c2978f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6fbh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w5gb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/ar2kingwbvin",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/29H0l",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/nsu6i7fdc2yl",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/2348AEEB70E8455",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?c0mmlivoifh4tmf34fn1",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/09fcb9091c67abc6948dfe37b06a05bb",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6fbp",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w5gn",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:12.725Z"
+    },
+    {
+      "id": "245496",
+      "title": "انمي Tetsunabe no Jan الحلقة 11 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245496",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BMGNhZDNjMjctOGZjMy00ODE2LWI0OWItM2NjZTk0YTY1YjUwXkEyXkFqcGc@._V1_FMjpg_UX1019_-458x650.jpg",
+      "imdbRating": null,
+      "story": "طاهٍ شاب عبقري يُدعى جان أكياما، يعمل في مطعم من الطراز الرفيع، حيث يدخل باستمرار في منافسات وتحديات مع كيريكو غوبانتشو، حفيدة مالك المطعم، وهي بدورها طاهية بارعة وموهوبة. وبينما تؤمن كيريكو بأن إعداد الطعام يجب أن يكون من أجل إسعاد الزبون وتلبية احتياجاته، يؤمن جان بأن الطهي ينبغي أن يُستخدم كساحة للتنافس وإثبات المهارة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-n58bl4eqdsza.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/n58bl4eqdsza.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ge84n8qrktw6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bzmy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/z3dgsij4t88d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/BA6D69784E62662",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?eo3jokka21vkjxzg8v1k",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b6d387a13371cbb1bcfa27f6e3c4e69e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjM",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2S07g",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:15.342Z"
+    },
+    {
+      "id": "245484",
+      "title": "انمي Sekai Saikyou no Kouei الحلقة 11 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-sekai-saikyou-no-kouei-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245484",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNWFjMWI4OTctOWNmMS00MzZhLWEzZjAtMTczNjQwOTdkZGE0XkEyXkFqcGc@-444x650.jpg",
+      "imdbRating": null,
+      "story": "بعد وفاة الموظف المرهق من حياة الشركات، أريهيتو أتوبه، في حادث حافلة غريب، تبدأ له حياة جديدة تمامًا كـ”مستكشف” في عالم خيالي. يُعاد إحياؤه في هذا العالم الجديد ويجد نفسه ضمن فئة عمل غير معروفة تُسمّى “الحارس الخلفي” (Rearguard)، وهي وظيفة تتيح له دعم فريقه—المكوّن بالكامل من فتيات—بشكل حاسم من خلال تعزيز الهجوم والدفاع والتعافي. والأمر المثير أن هذه المهنة تحمل ميزة إضافية غير متوقعة: مجرد بقائه في الصف الخلفي من الفريق يزيد من مشاعر الإعجاب والمودة لدى رفيقاته تجاهه! بعد تحرره من قيود حياة العمل المكتبي القاسية، ينطلق أريهيتو بحماس لبدء حياة جديدة تمامًا كمستكشف مبتدئ في هذا العالم الجديد.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-sekai-saikyou-no-kouei-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ikn8yv1kwx34.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ikn8yv1kwx34.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ro04ehrz3yry",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bzmw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/5x45bvesq817",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/805C48B4CAE335C",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?g7z2395ewamzthvd1z8o",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/16537de9f2318ba71c0c76d47d45bb2b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjL",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w5ct",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:17.916Z"
+    },
+    {
+      "id": "245481",
+      "title": "انمي Seihantai na Kimi to Boku الموسم الثاني الحلقة 11 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-seihantai-na-kimi-to-boku-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245481",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BYzU2YmZlNjAtMGZjMC00ZmY3LTliYmEtMzI4MzdmNWYwMzE5XkEyXkFqcGc@._V1_-463x650.jpg",
+      "imdbRating": "8.1",
+      "story": "سوزوكي هي فتاة في المدرسة الثانوية وقعت في حب زميل لها، لكن الشاب الذي أُعجبت به يختلف عنها تمامًا! فهي شخصية مرحة، اجتماعية ومتفتحة، ودائمًا ما تحاول الاندماج مع الآخرين، بينما زميلها في الصف يوسوكي تاني هو شخص هادئ وجاد، ولا يبدو أنه يهتم برأي الآخرين عنه. فهل ستتمكن سوزوكي من التغلب على قلقها والتعبير عن مشاعرها، أم ستكتشف أن الأضداد فعلاً لا تجذب بعضها؟",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "رومانسي",
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-seihantai-na-kimi-to-boku-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-wosyz1u017x0.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/wosyz1u017x0.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/rzmlv9bgynl2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bzmv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/qzoyjmq8w0uy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/28681A433908618",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?3j5jm2adoju9ocwo16jh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fe162eff01e30630aed6e3ac466f1d7b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjK",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w5cm",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:20.108Z"
+    },
+    {
+      "id": "245466",
+      "title": "انمي Azur Lane: Bisoku Zenshin الموسم الثاني الحلقة 11 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-azur-lane-bisoku-zenshin-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245466",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/qKneYIw0HJFOWhLfCzTYG0I9a6n-433x650.jpg",
+      "imdbRating": "6.3",
+      "story": "هذا عالمٌ غريبٌ بعض الشيء، حيث تعيش فتيات السفن. تبدأ حياةٌ مدرسيةٌ نابضةٌ بالحياة وممتعةٌ لفتياتٍ من فصائلَ مختلفةٍ في ميناء أزور لين البحري. تعيش هؤلاء الفتيات حياتهنّ على أكمل وجه، وينخرطن في مغامراتٍ مختلفةٍ - ببطءٍ ولكن بثبات!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "رومانسي",
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-azur-lane-bisoku-zenshin-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-c6n2qkhvrrxs.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/c6n2qkhvrrxs.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/d6sn30wcn9t8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PEsr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/7y4vemuphdje",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E51F82F1CA43D13",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?8p1mxox9yifsreamjooj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/1cd0da2af4a46fc9a6d86e662148375c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjT",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w5ft",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:22.667Z"
+    },
+    {
+      "id": "245460",
+      "title": "انمي Mushoku Tensei الموسم الثالث الحلقة 12 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245460",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/tn2mxPYSSUPHgfcAe5SCga1DO0i-433x650.jpg",
+      "imdbRating": "8.2",
+      "story": "تتحدث عن شخص نيت ذو 34 عاماً يقتل في حادث سير ويجد نفسة في عالم من السحر. ويتم إعادة بعثة كطفل رضيع، محتفظاً بذكرياته السابقة. قبل حتى أن يتمكن من تحريك جسده جيداً، قرر عدم أرتكاب نفس خطأ الذي أرتكبه في حياته الأولى مجدداً وعيش حياة لا يوجد بها أي ندم. ولأنة لديه معرفة رجل في منتصف العمر، بعمر الثانية أصبح بالفعل معجزة ولديه قوة لا يمكن تخيلها بالنسبة لأي شخص في سنة او حتى أكبر منه. وهكذا يبدأ تاريخ روديس جرايرات، إبن السياف بول والمعالجة زاينث، حيث أنه يدخل عالم جديد ليصبح أقوى ساحر عرفته البشرية، مع قوة تنافس الإلهه نفسهم.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-g8e71k8t3wbn.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/g8e71k8t3wbn.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/0i0k4fuc7pb2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vBU6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/qoheg8sap35s",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/388DE2E07A1A3C9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?b7g63c0pqs2kpr9d9f67",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/3e508897df790425672662bd523e6ae1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjG",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2S06g",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:24.844Z"
+    },
+    {
+      "id": "245454",
+      "title": "انمي Mao الحلقة 24 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-mao-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245454",
+      "image": "https://topcinema.io/wp-content/uploads/2026/04/MV5BOGRkZWMwMjEtMjYzNC00ZDA2LThhZGYtYzU4ODA5MGU5ODA5XkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": null,
+      "story": "القصة تتحدث عن نانوكا كيبا فتاة نجت من حادث مأساوي في طفولتها وتجد نفسها تنتقل عبر الزمن إلى عصر تايشو الياباني. تلتقي هناك طارد الأرواح الشريرة ماو الذي يبحث عن وحش تسبب في مآسٍ ماضية.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-mao-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-rzf1mndqr1yk.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/rzf1mndqr1yk.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/zypi9x27k9jc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vBU5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/1ch3kvcf0y0i",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/65251919250AF1C",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?7edprx7llt7ojywpxq8v",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/12e43d33dfda63abdbd6b3da350e3c1f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjF",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w5bt",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:27.397Z"
+    },
+    {
+      "id": "245452",
+      "title": "انمي Let’s Go Kaiki-gumi الحلقة 11 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-lets-go-kaiki-gumi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245452",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BY2Y0YTFlM2ItZTkwYy00NWQ5LTg5NjMtMDcwYTkzYjI0NmJlXkEyXkFqcGc@-457x650.jpg",
+      "imdbRating": "7.8",
+      "story": "بطلٍ مجهول الاسم يتمتع بحساسية تجاه الظواهر الروحية تفوق الإنسان العادي بست مرات، مما يجعله عرضة باستمرار لمواجهة الأشباح والكائنات الخارقة. في أحد الأيام، يلتقي بفتاة غامضة تُدعى ميتشاكو، وهي قائدة منظمة تُعرف باسم “كايكي-غومي”، وهي جهة تسعى إلى مراقبة الأشباح والوحوش التي تهدد البشر والحفاظ على النظام بينها. وبشكل غير متوقع، يجد نفسه منخرطًا في مساعدة المنظمة على استعادة نشاطها ومكانتها من جديد، لتنطلق بعدها سلسلة من الأحداث الغريبة والمواقف المرعبة والمغامرات الخارقة التي تقلب حياته رأسًا على عقب.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "رعب",
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-lets-go-kaiki-gumi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-7s49bo744ue1.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/7s49bo744ue1.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/5wttfdsihv66",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bzmu",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/5zbd8jy7d03o",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/797DCCD260C77E6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?wvndjru9wkh5u9yghbqf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/c8e430cc1575d725a49c1d61d4db6174",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjJ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w5cb",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:29.583Z"
+    },
+    {
+      "id": "245450",
+      "title": "انمي Kuroneko to Majo no Kyoushitsu الحلقة 23 مترجمة",
+      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-kuroneko-to-majo-no-kyoushitsu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245450",
+      "image": "https://topcinema.io/wp-content/uploads/2026/04/MV5BNmE3NDYyNjAtZDZjMi00MTlhLTk0YTItZDQzNmMzNWIwNGEwXkEyXkFqcGc@-442x650.jpg",
+      "imdbRating": null,
+      "story": "سبـيكا فيرغو هي ساحرة مبتدئة، لكنها غير قادرة على استخدام السحر. وللانضمام إلى أكاديمية أحلامها، تحتاج إلى معلم، لكنها تفتقر إلى المال والمعارف. فجأة، يظهر أمامها قط أسود غامض قادر على استخدام السحر! سبـيكا ترغب في تعلم السحر، والقط الأسود يسعى لكسر لعنته هدفان يسيران في طريقٍ واحد. وهكذا وُلدت علاقة سرية بين المعلم والمتدرّبة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-kuroneko-to-majo-no-kyoushitsu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-g4hzlmrjq6ax.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/g4hzlmrjq6ax.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/sugbbqphvkec",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bzmt",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/voxhh43rahw4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/F08A31524D90FA0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?t7xrral83duop3c6ebqm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/64c7e4fae89fdef66fcf4f1ee0de934f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjI",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2S06z",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:32.317Z"
+    },
+    {
+      "id": "245442",
+      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo الموسم الثالث الحلقة 11 مترجمة",
+      "url": "https://topcinema.io/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245442",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BM2NiOWUzM2EtYTlmOC00Y2ZhLWIwM2QtYzY3NDYwZDgyNTg0XkEyXkFqcGc@._V1_-463x650.jpg",
+      "imdbRating": "6.9",
+      "story": "عند تخرُّجِهِ من المدرسة الإعدادية، تمكن “أيجو رينتارو” من الاعتراف للفتاة التي يحبها. لسوء الحظ، تم رفضه، مما يجعله الرفض رَقْم 100 على التوالي. بعد أن كسر قلبه عدة مرات، ذهب إلى الضريح ويصلي على أمل الحصول على حبيبة في المدرسة الثانوية. فجأة، يظهر إله الضريح، واعدًا “رينتارو” بأنه سيلتقي بمئة شريكة في الثانوية. بالرغم من عدم يقينه في البداية، سرعان ما يُصَدِّق “رينتارو” بالحقيقة وراء كلمات الإله عندما اعترفت له فتاتان بحبهما، “هانازونو هاكاري” و”إندا كاران“، في نفس اليوم الذي قابلوه فيه. ومع ذلك، كان هناك توضيح واحد نسي الإله إخبار “رينتارو” به، إذا فشلت أي من شريكاته في الدخول في عَلاقة به، فسوف يموتون. الآن محاصر في مسألة حياة أو موت، ليقرر “رينتارو” مواعدة جميع شريكاته. بقلب كبير جدًا بحيث يمكن حب مئة صديقة، يستفيد “رينتارو” إلى أقصى حد من حياته في الثانوية الغير متوقعة، كما تنمو عائلة “رينتارو” بشكل أكبر!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "رومانسي",
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-un1h48ophw9q.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/un1h48ophw9q.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/bav7ut45a4ae",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vBU7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/7gd6f07zk4fd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/7A43B180B8E8E98",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?1jumb55c3rlvaxhfk2ub",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fe4d8fc1206a08b6794a21cb78d1dd80",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjH",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2c2E8",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:34.917Z"
+    },
+    {
+      "id": "245438",
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru الموسم الثاني الحلقة 11 مترجمة",
+      "url": "https://topcinema.io/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=245438",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/dRBV8LaKwLrIOpa8Ud3ShxWKRnn-433x650.jpg",
+      "imdbRating": "7",
+      "story": "‘ترقية حتى وأنت غير متصل بالإنترنت’؟! هذه ليست لعبة على ‘وضع سهل’—إنها مجرد لعبة AFK (بعيد عن لوحة المفاتيح)!” اللعبة الإلكترونية التي كان يامادا كينيتشي يلعبها بشغف ستغلق خوادمها، تاركة إياه في حالة من الفراغ العاطفي. يبحث عن لعبة جديدة لملء هذا الفراغ، لكن كل الألعاب التي يجدها تبدو سهلة جدًا. اللعبة التي يحبها— تلك التي تتطلب ساعات طويلة من الجهد والتحدي لدفع اللاعبين وقضاء آلاف الساعات عليها، لم تعد موجودة. “ما هذا؟ ‘تم دعوتك إلى لعبة لا تنتهي أبداً’.” يصادف كينيتشي لعبة بلا اسم، تعده بتحدٍ لا مثيل له مع إمكانيات غير محدودة. دون تردد، يختار درجة صعوبة “وضع الجحيم”. فجأة، يجد نفسه مُعادًا إلى الحياة في عالم آخر كخادم! ومع تغير اسمه إلى آلين، يبدأ في كشف أسرار فئة “المستدعي” المليئة بالغموض؛ وعلى الرغم من غياب الأدلة أو الإرشادات في المنتديات الإلكترونية، عليه أن يجد طريقه إلى قمة هذا العالم الجديد!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-2qdbndr6aowa.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/2qdbndr6aowa.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/56hjf4m89mve",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vBU4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/br7hympetq7f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/D494F786728EA6D",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?xz85pi9rdpye8e19gg6c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/602748482d6424f286ddfa6765eab28d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/arjD",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1w5bj",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-14T05:18:37.461Z"
+    },
     {
       "id": "245290",
       "title": "انمي Ibitte Konai Gibo to Gishi الحلقة 8 مترجمة",
@@ -100,7 +1220,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:20.823Z"
+      "scrapedAt": "2026-09-14T05:18:40.032Z"
     },
     {
       "id": "245218",
@@ -198,7 +1318,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:22.793Z"
+      "scrapedAt": "2026-09-14T05:18:42.484Z"
     },
     {
       "id": "245217",
@@ -296,7 +1416,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:25.033Z"
+      "scrapedAt": "2026-09-14T05:18:45.100Z"
     },
     {
       "id": "245213",
@@ -394,7 +1514,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:26.963Z"
+      "scrapedAt": "2026-09-14T05:18:47.315Z"
     },
     {
       "id": "245215",
@@ -491,7 +1611,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:29.324Z"
+      "scrapedAt": "2026-09-14T05:18:49.773Z"
     },
     {
       "id": "245209",
@@ -589,7 +1709,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:31.747Z"
+      "scrapedAt": "2026-09-14T05:18:51.973Z"
     },
     {
       "id": "245211",
@@ -686,7 +1806,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:33.669Z"
+      "scrapedAt": "2026-09-14T05:18:54.148Z"
     },
     {
       "id": "245214",
@@ -779,7 +1899,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:35.574Z"
+      "scrapedAt": "2026-09-14T05:18:56.852Z"
     },
     {
       "id": "245216",
@@ -877,7 +1997,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:37.622Z"
+      "scrapedAt": "2026-09-14T05:18:59.280Z"
     },
     {
       "id": "245212",
@@ -973,7 +2093,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:40.061Z"
+      "scrapedAt": "2026-09-14T05:19:01.885Z"
     },
     {
       "id": "245207",
@@ -1070,7 +2190,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:42.261Z"
+      "scrapedAt": "2026-09-14T05:19:04.078Z"
     },
     {
       "id": "245201",
@@ -1168,7 +2288,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:44.164Z"
+      "scrapedAt": "2026-09-14T05:19:06.279Z"
     },
     {
       "id": "245203",
@@ -1264,7 +2384,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:46.087Z"
+      "scrapedAt": "2026-09-14T05:19:08.668Z"
     },
     {
       "id": "245199",
@@ -1362,7 +2482,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:48.390Z"
+      "scrapedAt": "2026-09-14T05:19:11.375Z"
     },
     {
       "id": "245202",
@@ -1459,7 +2579,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:50.331Z"
+      "scrapedAt": "2026-09-14T05:19:13.581Z"
     },
     {
       "id": "245054",
@@ -1555,7 +2675,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:52.274Z"
+      "scrapedAt": "2026-09-14T05:19:16.101Z"
     },
     {
       "id": "245053",
@@ -1653,7 +2773,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:54.478Z"
+      "scrapedAt": "2026-09-14T05:19:18.311Z"
     },
     {
       "id": "245052",
@@ -1751,7 +2871,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:56.910Z"
+      "scrapedAt": "2026-09-14T05:19:21.052Z"
     },
     {
       "id": "245045",
@@ -1848,7 +2968,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:03:59.441Z"
+      "scrapedAt": "2026-09-14T05:19:23.915Z"
     },
     {
       "id": "245040",
@@ -1946,7 +3066,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:01.365Z"
+      "scrapedAt": "2026-09-14T05:19:26.660Z"
     },
     {
       "id": "244956",
@@ -2043,7 +3163,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:03.601Z"
+      "scrapedAt": "2026-09-14T05:19:28.898Z"
     },
     {
       "id": "244955",
@@ -2140,7 +3260,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:05.561Z"
+      "scrapedAt": "2026-09-14T05:19:31.078Z"
     },
     {
       "id": "244902",
@@ -2238,7 +3358,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:07.819Z"
+      "scrapedAt": "2026-09-14T05:19:33.250Z"
     },
     {
       "id": "244900",
@@ -2334,7 +3454,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:10.232Z"
+      "scrapedAt": "2026-09-14T05:19:35.873Z"
     },
     {
       "id": "244891",
@@ -2431,7 +3551,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:12.132Z"
+      "scrapedAt": "2026-09-14T05:19:38.383Z"
     },
     {
       "id": "244848",
@@ -2529,7 +3649,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:14.584Z"
+      "scrapedAt": "2026-09-14T05:19:41.104Z"
     },
     {
       "id": "244840",
@@ -2626,7 +3746,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:16.759Z"
+      "scrapedAt": "2026-09-14T05:19:43.668Z"
     },
     {
       "id": "244825",
@@ -2724,7 +3844,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:18.671Z"
+      "scrapedAt": "2026-09-14T05:19:45.880Z"
     },
     {
       "id": "244782",
@@ -2822,7 +3942,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:20.575Z"
+      "scrapedAt": "2026-09-14T05:19:48.608Z"
     },
     {
       "id": "244780",
@@ -2918,7 +4038,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:23.372Z"
+      "scrapedAt": "2026-09-14T05:19:51.445Z"
     },
     {
       "id": "244778",
@@ -3016,7 +4136,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:25.990Z"
+      "scrapedAt": "2026-09-14T05:19:54.019Z"
     },
     {
       "id": "243372",
@@ -3113,7 +4233,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:31.028Z"
+      "scrapedAt": "2026-09-14T05:19:56.858Z"
     },
     {
       "id": "244317",
@@ -3211,7 +4331,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:37.196Z"
+      "scrapedAt": "2026-09-14T05:19:59.610Z"
     },
     {
       "id": "243160",
@@ -3309,7 +4429,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:42.409Z"
+      "scrapedAt": "2026-09-14T05:20:02.630Z"
     },
     {
       "id": "241462",
@@ -3407,7 +4527,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:46.621Z"
+      "scrapedAt": "2026-09-14T05:20:05.078Z"
     },
     {
       "id": "244638",
@@ -3503,7 +4623,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:51.888Z"
+      "scrapedAt": "2026-09-14T05:20:07.861Z"
     },
     {
       "id": "244637",
@@ -3601,7 +4721,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:54.684Z"
+      "scrapedAt": "2026-09-14T05:20:10.687Z"
     },
     {
       "id": "244563",
@@ -3699,7 +4819,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:57.906Z"
+      "scrapedAt": "2026-09-14T05:20:13.232Z"
     },
     {
       "id": "243188",
@@ -3791,7 +4911,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:04:59.840Z"
+      "scrapedAt": "2026-09-14T05:20:15.586Z"
     },
     {
       "id": "241989",
@@ -3883,7 +5003,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:05:01.758Z"
+      "scrapedAt": "2026-09-14T05:20:18.252Z"
     },
     {
       "id": "240737",
@@ -3969,7 +5089,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:05:04.376Z"
+      "scrapedAt": "2026-09-14T05:20:20.935Z"
     },
     {
       "id": "239536",
@@ -4061,7 +5181,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:05:06.944Z"
+      "scrapedAt": "2026-09-14T05:20:23.477Z"
     },
     {
       "id": "237947",
@@ -4153,977 +5273,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-13T21:05:10.943Z"
-    },
-    {
-      "id": "237051",
-      "title": "انمي Youjo Senki الموسم الثاني الحلقة 4 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=237051",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BODY1NjI0ZTgtNTVlNy00Zjk0LWEzYjUtNTIxZGJmNDY1YTA3XkEyXkFqcGc@._V1_-460x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-dvf7vv342hv5.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/dvf7vv342hv5.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/r8sne95422kk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/tsupep570m0x",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/7DE0662C956CAC6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/a735918b8b0644756370be16f5e3e742",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/r7uR",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dBpj",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:15.764Z"
-    },
-    {
-      "id": "235552",
-      "title": "انمي Youjo Senki الموسم الثاني الحلقة 3 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=235552",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BODY1NjI0ZTgtNTVlNy00Zjk0LWEzYjUtNTIxZGJmNDY1YTA3XkEyXkFqcGc@._V1_-460x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-fv4is4q4tbiu.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/fv4is4q4tbiu.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/r96qx7n5x853",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/qdblafxcudw3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/5CB375C8EF0A562",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/4b5d8a466f72a42896547a09819810a2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ak3n",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dyz4",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:18.168Z"
-    },
-    {
-      "id": "234038",
-      "title": "انمي Youjo Senki الموسم الثاني الحلقة 2 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=234038",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BODY1NjI0ZTgtNTVlNy00Zjk0LWEzYjUtNTIxZGJmNDY1YTA3XkEyXkFqcGc@._V1_-460x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-y26dog2zzd0d.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/y26dog2zzd0d.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/73ntwbrohgre",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/yjyuq1fx47pl",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/696zt2zu1vld",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/1A6F8E542BE4483",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?sfatr91njlhb2aivteby",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/220e735b1bf108149c60e20d6c91d41c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ajcO",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4dvsf",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:20.539Z"
-    },
-    {
-      "id": "232343",
-      "title": "انمي Youjo Senki الموسم الثاني الحلقة 1 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=232343",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BODY1NjI0ZTgtNTVlNy00Zjk0LWEzYjUtNTIxZGJmNDY1YTA3XkEyXkFqcGc@._V1_-460x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-cp1ua5ed24rs.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/cp1ua5ed24rs.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/lsgr8pw07b1s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/p9iqq31kfz9g",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/f56gmmu9id8x",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/0CC3C930AFE237F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?55be1mgeegy30kemm9y4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/12c0d20cd14232c53f648a7c6fd85bd2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aisJ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3xve4",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:22.971Z"
-    },
-    {
-      "id": "244662",
-      "title": "انمي Youjo Senki الموسم الاول الحلقة 12 والاخيرة مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244662",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNjQyNDAyZTgtNzkzMS00ZTAwLWFjYjYtMWRlZmQwYzMyYjdkXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-rtskxhxyutna.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/rtskxhxyutna.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/uerxfkempm8y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/washkz9hdz87",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/A08B4CFAC700C93",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/240824f65652b4fa4d3949d8a0ad4622",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aoJ8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q12s",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:24.853Z"
-    },
-    {
-      "id": "244664",
-      "title": "انمي Youjo Senki الموسم الاول الحلقة 11 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244664",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNjQyNDAyZTgtNzkzMS00ZTAwLWFjYjYtMWRlZmQwYzMyYjdkXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-2vbyw3dalekz.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/2vbyw3dalekz.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/jkmm845zy4ah",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/26e3u79dq7eo",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/384AD9443856672",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/22981eb02c0edecbc26cd55a3d513a18",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aoJ7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q12r",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:28.982Z"
-    },
-    {
-      "id": "244663",
-      "title": "انمي Youjo Senki الموسم الاول الحلقة 10 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244663",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNjQyNDAyZTgtNzkzMS00ZTAwLWFjYjYtMWRlZmQwYzMyYjdkXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-43lveypnn2sw.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/43lveypnn2sw.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9twt96eo1y3h",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/m0luim2qjlym",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/617A20585721022",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/1febf15b23fb4668039395df25fed9be",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aoJ6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q12q",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:34.678Z"
-    },
-    {
-      "id": "244661",
-      "title": "انمي Youjo Senki الموسم الاول الحلقة 9 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244661",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNjQyNDAyZTgtNzkzMS00ZTAwLWFjYjYtMWRlZmQwYzMyYjdkXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-b8seo3w83ufj.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/b8seo3w83ufj.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9ptoerceqmqd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/okr9x88bibiw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9AB6C104B5774AF",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/fd8f1bb8e4cd645b0143c54aed2f5693",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aoJ5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q12p",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:42.111Z"
-    },
-    {
-      "id": "244660",
-      "title": "انمي Youjo Senki الموسم الاول الحلقة 8 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244660",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNjQyNDAyZTgtNzkzMS00ZTAwLWFjYjYtMWRlZmQwYzMyYjdkXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-likvl7tov5c8.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/likvl7tov5c8.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/b25g9wppq254",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/jralvnd2qm11",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/72460EF81964A58",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/a051ee2f315c825f7f99a804408c1bb6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aoJ3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q12n",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:45.833Z"
-    },
-    {
-      "id": "244652",
-      "title": "انمي Youjo Senki الموسم الاول الحلقة 7 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244652",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNjQyNDAyZTgtNzkzMS00ZTAwLWFjYjYtMWRlZmQwYzMyYjdkXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-scevp8tsdbpk.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/scevp8tsdbpk.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/xm1jvo3vxhjm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/ygqsg69bb8z9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9CA969808A5ED02",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/794a0a8134a213e6b945919a10438866",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aoJ2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q12l",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:47.968Z"
-    },
-    {
-      "id": "244651",
-      "title": "انمي Youjo Senki الموسم الاول الحلقة 6.5 مترجمة",
-      "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244651",
-      "image": "https://topcinema.io/wp-content/uploads/2026/07/MV5BNjQyNDAyZTgtNzkzMS00ZTAwLWFjYjYtMWRlZmQwYzMyYjdkXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": "7.6",
-      "story": "في يونيو من العام 1923 م، فتاة صغيرة شقراء وزرقاء العينين، تانيا ديغريتشاف قد دخلت المنهج النهائي للأكاديمية العسكرية الإمبراطورية وتتدرب في خط الدورية الثالث في المنطقة العسكرية الشمالية، الساحة الشمالية كجزء من خدمتها العسكرية. تدريبها، خطوتها الأولى نحو حياة مهنية رائعة كساحرة طائرة كان يجب أن يسير دون أي عوائق… لكن الأمور قد أخذت منحى غير متوقع.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2017"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d8%a7%d9%86%d9%85%d9%8a-youjo-senki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-3tbu4rlv995n.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/3tbu4rlv995n.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/nquxm8fscow0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/xbtddp0jbstv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E21B172EF7F51D6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/0aa2322f0f986a5333a61033f8b008fc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/mZa5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q12j",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-13T21:05:50.001Z"
+      "scrapedAt": "2026-09-14T05:20:25.659Z"
     }
   ]
 }
