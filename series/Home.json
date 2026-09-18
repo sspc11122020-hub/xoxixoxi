@@ -2,8 +2,2185 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-09-18T10:29:32.099Z",
+  "lastUpdated": "2026-09-18T15:45:05.619Z",
   "series": [
+    {
+      "id": "218310",
+      "title": "مسلسل Citadel الموسم الثاني الحلقة 7 والاخيرة مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=218310",
+      "image": "https://topcinema.io/wp-content/uploads/2026/05/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "6.2",
+      "story": "في الموسم الثاني، يستكمل العمل قصة العميلين (ماسون كين) و(ناديا سين) وهما يحاولان التعامل مع تبعات تدمير وكالتهما، والمؤامرات التي تحاك للتخلص منهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-17a47j7qju8k.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/17a47j7qju8k.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/9g2j11riedj1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/i9lujznu4p5v",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/fs3i5f802lhb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/D04A2321DC8E9EC",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?ibiu2ro80iut23bvmg7l",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/717205f05a76deb991e1aab4b65f14c4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/u20vrq21x1sb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/en7n",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pf9c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/1jpcebwub127",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/zzup5j14il7s",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/yl1f6coxi66z",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/8ED7CE7DF2910C0",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?qffysn1ynvc9pynp54iz",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/e5a925163329db9a0133280c6abf093e",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://frdl.io/zxrf7qymlw53",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/en7y",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2ba4p",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:19.917Z"
+    },
+    {
+      "id": "218308",
+      "title": "مسلسل Citadel الموسم الثاني الحلقة 6 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=218308",
+      "image": "https://topcinema.io/wp-content/uploads/2026/05/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "6.2",
+      "story": "في الموسم الثاني، يستكمل العمل قصة العميلين (ماسون كين) و(ناديا سين) وهما يحاولان التعامل مع تبعات تدمير وكالتهما، والمؤامرات التي تحاك للتخلص منهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-7r2k3wzyf7op.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/7r2k3wzyf7op.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/fy6upb4hlhat",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/anhbcpnv45zq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/2rw802e3uvtk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9FB9FB63FA83B44",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?6ukrtz5hropojm0jd7nr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6830e4706d673ba3d61b674f8b83bdd5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/7t96q78o5c47",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/en70",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vczY",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/ys1t7i3e1wah",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/6gr4mkfazfp9",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/pfgfwtp5s0n6",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/CCC8A2EEA092CEF",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?tr41drl3sy0jtu3etbtu",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/a9c075baa818095fc68fccb2050fbdb7",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://frdl.io/8b0m6lh7fc12",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/en7x",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2ba4o",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:21.851Z"
+    },
+    {
+      "id": "218307",
+      "title": "مسلسل Citadel الموسم الثاني الحلقة 5 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=218307",
+      "image": "https://topcinema.io/wp-content/uploads/2026/05/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "6.2",
+      "story": "في الموسم الثاني، يستكمل العمل قصة العميلين (ماسون كين) و(ناديا سين) وهما يحاولان التعامل مع تبعات تدمير وكالتهما، والمؤامرات التي تحاك للتخلص منهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-hstisn49v7cp.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/hstisn49v7cp.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/mb56wx4832vy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/vstei8p8elh0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/n34sf51z0a1u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/32751BA3F41C5D9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?eicxoe5tq7wciepamj2p",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/c5a2c61b5a1b3ba62e4acff4cbaddad2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/tncvf8skfd6q",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/izg1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pf7t",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/a2pkncc2odvu",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/z4udfr8eykva",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/s9f5sgf9dsfr",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/1C7FB8E11528478",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?5l41b0nw1gjtk7lme4bm",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/705426bf03e3f1e39daed3e3361bf748",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://frdl.io/zknhm0wwxdxw",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/en7w",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2ba4n",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:23.752Z"
+    },
+    {
+      "id": "218309",
+      "title": "مسلسل Citadel الموسم الثاني الحلقة 4 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=218309",
+      "image": "https://topcinema.io/wp-content/uploads/2026/05/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "6.2",
+      "story": "في الموسم الثاني، يستكمل العمل قصة العميلين (ماسون كين) و(ناديا سين) وهما يحاولان التعامل مع تبعات تدمير وكالتهما، والمؤامرات التي تحاك للتخلص منهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-8ij32wngcmcc.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/8ij32wngcmcc.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/s8kzdrzlbneq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/b37yqp3c2a5g",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/lw2c46h1x0yq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/D8BC9417E69BEEA",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?jhj71126kcwxyrfe6b23",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/06fb29031eff0f749afd968aa0f34385",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/7x6c0vw41ji6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/izfZ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Pf7b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/gc7fbaxyynbd",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/v02x2u112blm",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/45z3xqefahcq",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/40D45196B8ED3B3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?2bztv3k9nva6xzegs7uq",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/551940e0dcbd3045208b82b0f4809ab3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://frdl.io/i0iax1nrndq0",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/en7v",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2ba4m",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:25.639Z"
+    },
+    {
+      "id": "218306",
+      "title": "مسلسل Citadel الموسم الثاني الحلقة 3 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=218306",
+      "image": "https://topcinema.io/wp-content/uploads/2026/05/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "6.2",
+      "story": "في الموسم الثاني، يستكمل العمل قصة العميلين (ماسون كين) و(ناديا سين) وهما يحاولان التعامل مع تبعات تدمير وكالتهما، والمؤامرات التي تحاك للتخلص منهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-hz3n3hokmnuk.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/hz3n3hokmnuk.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/59lywbvvykj3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/pwr61g422aqq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/xbpu36x9h10j",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/23566EF458945CA",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?grshjm49pkh9fb8i1cpf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/aec6940ad0ec3d5c0d985c0a894971dc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/i6fykbuxo8gj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/izfY",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vczi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/yewetg3iwh6c",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/2xvto59wrmgo",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/t3vzt5rk4psf",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/37707294E5BB538",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?f2glfq3sb7woq4gtn5ke",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/35914bf23101fce026e7223596eeb30b",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://frdl.io/aus4botlfx2h",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/en7s",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2ba4j",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:27.550Z"
+    },
+    {
+      "id": "218305",
+      "title": "مسلسل Citadel الموسم الثاني الحلقة 2 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=218305",
+      "image": "https://topcinema.io/wp-content/uploads/2026/05/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "6.2",
+      "story": "في الموسم الثاني، يستكمل العمل قصة العميلين (ماسون كين) و(ناديا سين) وهما يحاولان التعامل مع تبعات تدمير وكالتهما، والمؤامرات التي تحاك للتخلص منهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ve404vkodgnw.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ve404vkodgnw.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/c6vfcpgo995c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/52hshwxuu7ke",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/afmz7o8oaonl",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/334CED3783EE6ED",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?fe05xrmqxs6t9a2q43vq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/81933d95ecf639a25f7928ba0cc78ff9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/vzl6xziaugyp",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/izfX",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vczh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/js1edulwi1jq",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/uixa9b2yvbzc",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/sfpqfbwflqoc",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/A38FCAC5F742747",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?06hhk3rqc41ac3dhjih9",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/543513bbf97f77c0d19c02af84856bac",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://frdl.io/xixmt4i5hly3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/en7r",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2ba4i",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:29.479Z"
+    },
+    {
+      "id": "218302",
+      "title": "مسلسل Citadel الموسم الثاني الحلقة 1 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=218302",
+      "image": "https://topcinema.io/wp-content/uploads/2026/05/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "6.2",
+      "story": "في الموسم الثاني، يستكمل العمل قصة العميلين (ماسون كين) و(ناديا سين) وهما يحاولان التعامل مع تبعات تدمير وكالتهما، والمؤامرات التي تحاك للتخلص منهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-wusf5j9mr2g1.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/wusf5j9mr2g1.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/6mhglh30vt1l",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/dcez1xp6xu1p",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/wsnbc0g7ome1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4CD7647657156E2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?v6foboq7s4h5fx1jzbxs",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/74b2462a7f3706dea89182984937d23f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/5uuo180nayvo",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/izfR",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1vcz8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/49xrebcrp86e",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/1cg1mji9uahj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://ddownload.com/vkj9hiqjzw3i",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/A777F9E8FCDEE6E",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?4083ty8w9ws3ubieuqgg",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/f8838ac6a673af8e212f33694b43e0b2",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://frdl.io/ud0288a593ha",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/en7q",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2ba4h",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:31.371Z"
+    },
+    {
+      "id": "460",
+      "title": "مسلسل Citadel الموسم الاول الحلقة 6 والاخيرة مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-1/",
+      "shortLink": "https://topcinema.io/?p=460",
+      "image": "https://topcinema.io/wp-content/uploads/2023/05/citadel_xlg-439x650.jpg",
+      "imdbRating": "6.1",
+      "story": "في إطار من الدراما، تنهار وكالة مختصة في تجنيد الجواسيس ويتعرض كافة أعضائها لمحو ذاكرتهم بالكامل، وبمرور الوقت يجدوا أنفسهم في معركة مع أعدائهم، ويصبح عليهم تذكر الماضي حتى يتمكنوا من النجاة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2023"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-1/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-r7lyy7bkr5j3.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/r7lyy7bkr5j3.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/fr4pz1onicql",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bw4w",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ftk7fchj3xft",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/400E5BA6574C6DB",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?vjuqcq1e5ij7zflwangw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/054f964e3aaf446f2e72d248f0e5cf4e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/apY4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q4kh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/svne4qcgufl7",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vCjs",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/x1l8wdjbvowe",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/C8C0E0E196B6EE9",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?un2z7xqzi2n0jsf5z9vq",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/0e7c57fa1a94bfffe5d6df840422b8b6",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6fvv",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w60d",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:33.300Z"
+    },
+    {
+      "id": "461",
+      "title": "مسلسل Citadel الموسم الاول الحلقة 5 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/",
+      "shortLink": "https://topcinema.io/?p=461",
+      "image": "https://topcinema.io/wp-content/uploads/2023/05/citadel_xlg-439x650.jpg",
+      "imdbRating": "6.1",
+      "story": "في إطار من الدراما، تنهار وكالة مختصة في تجنيد الجواسيس ويتعرض كافة أعضائها لمحو ذاكرتهم بالكامل، وبمرور الوقت يجدوا أنفسهم في معركة مع أعدائهم، ويصبح عليهم تذكر الماضي حتى يتمكنوا من النجاة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2023"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-nu5i1u6syk8r.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/nu5i1u6syk8r.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/zti1nhse1rfu",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bw4q",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/o5rplboiir30",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/8BC9C55B3717095",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?r20uj5iia5teh2u3kao6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/4af6faa8f3d70d3e6d6f4997528c3cd5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/apY3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q4kg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/365u820cjjx0",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vCjr",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/j6b1c8vhamcr",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/BBA9E47CE739E75",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?urfd3ktqc9zkkk17ysai",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/c84cc5c4a74efd4a9e7914a164af703f",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6fvu",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w60b",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:35.215Z"
+    },
+    {
+      "id": "462",
+      "title": "مسلسل Citadel الموسم الاول الحلقة 4 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/",
+      "shortLink": "https://topcinema.io/?p=462",
+      "image": "https://topcinema.io/wp-content/uploads/2023/05/citadel_xlg-439x650.jpg",
+      "imdbRating": "6.1",
+      "story": "في إطار من الدراما، تنهار وكالة مختصة في تجنيد الجواسيس ويتعرض كافة أعضائها لمحو ذاكرتهم بالكامل، وبمرور الوقت يجدوا أنفسهم في معركة مع أعدائهم، ويصبح عليهم تذكر الماضي حتى يتمكنوا من النجاة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2023"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-0l3jsc91gjzx.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/0l3jsc91gjzx.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/9bfs5p8m2o66",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bw4n",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/8sekbx4tc91e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/1F023744D992758",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?a8zy8g5lv5hp0qyxjqh6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/3d96e48743f636782b742b016a6410ab",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/iOg5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q4kb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/esiwhemvr9mi",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vCjq",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/ela40q12w9is",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/62D2E8477021473",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?d3botbxveiozr9spqbrb",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/041a7bac29156b8757173f71d72236f1",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6fvt",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w60a",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:37.127Z"
+    },
+    {
+      "id": "463",
+      "title": "مسلسل Citadel الموسم الاول الحلقة 3 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/",
+      "shortLink": "https://topcinema.io/?p=463",
+      "image": "https://topcinema.io/wp-content/uploads/2023/05/citadel_xlg-439x650.jpg",
+      "imdbRating": "6.1",
+      "story": "في إطار من الدراما، تنهار وكالة مختصة في تجنيد الجواسيس ويتعرض كافة أعضائها لمحو ذاكرتهم بالكامل، وبمرور الوقت يجدوا أنفسهم في معركة مع أعدائهم، ويصبح عليهم تذكر الماضي حتى يتمكنوا من النجاة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2023"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-doqdydrs3fhq.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/doqdydrs3fhq.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/2m9t5nu5bgms",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bw4i",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/u13y3vbh1lux",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/8324A13545B28F1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?n8sepx884namdke92d2u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/8bc2bbab4cafe65d54de7336cbbfd07a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/apY2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q4ka",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/3x1mu52fuqsw",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vCjp",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/qc6mesoh1wl6",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/13F3DFE4A8D521B",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?0lnixfpyrc6o6g2z47n0",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/ea3c6a9301eda84c461aece162e530c2",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6fvs",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w609",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:39.031Z"
+    },
+    {
+      "id": "464",
+      "title": "مسلسل Citadel الموسم الاول الحلقة 2 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/",
+      "shortLink": "https://topcinema.io/?p=464",
+      "image": "https://topcinema.io/wp-content/uploads/2023/05/citadel_xlg-439x650.jpg",
+      "imdbRating": "6.1",
+      "story": "في إطار من الدراما، تنهار وكالة مختصة في تجنيد الجواسيس ويتعرض كافة أعضائها لمحو ذاكرتهم بالكامل، وبمرور الوقت يجدوا أنفسهم في معركة مع أعدائهم، ويصبح عليهم تذكر الماضي حتى يتمكنوا من النجاة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2023"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-pe2f14499ktg.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/pe2f14499ktg.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/rboy6kob5qw7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bw4e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/n6h41q8x8amd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/EBC8E1B2E8A6DBC",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?o2jbfp6ovznzalvfl50t",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/9b5eda527dc0b5887f998f1f46f011d8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/iOg4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q4k9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/agt9dzyghsji",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vCjo",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/ph62u2qzlckj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/6C29D9D055F2623",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?jk3fw08egu21toev8am3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/efc083ecf045d5140c276abf5e8dbb2b",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6fvr",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w607",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:40.966Z"
+    },
+    {
+      "id": "457",
+      "title": "مسلسل Citadel الموسم الاول الحلقة 1 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/",
+      "shortLink": "https://topcinema.io/?p=457",
+      "image": "https://topcinema.io/wp-content/uploads/2023/05/citadel_xlg-439x650.jpg",
+      "imdbRating": "6.1",
+      "story": "في إطار من الدراما، تنهار وكالة مختصة في تجنيد الجواسيس ويتعرض كافة أعضائها لمحو ذاكرتهم بالكامل، وبمرور الوقت يجدوا أنفسهم في معركة مع أعدائهم، ويصبح عليهم تذكر الماضي حتى يتمكنوا من النجاة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2023"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Jessica Yu",
+          "Joe Russo",
+          "Newton Thomas Sigel"
+        ],
+        "بطولة": [
+          "Ashleigh Cummings",
+          "Caoilinn Springall",
+          "Grinne Good",
+          "Kineta Kunutu"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-citadel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-2/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-6s16j62vqoc0.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/6s16j62vqoc0.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/y23ymkog6o7f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bw4c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/63osamkxqpb7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/0AA665171DD932B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?sgah4og6pkyl70oi98if",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ebd9b6a8ebfcc0534a665561aba4612f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/iOg3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Q4k6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/ayvjuwm50kar",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vCjn",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/07gmzbso1l5a",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/3622D4D0ABADB13",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?4akdhhjblkya71p4zu6a",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/a686be41f29e90585c4dc3901dd3398b",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6fvq",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w606",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T15:43:42.884Z"
+    },
     {
       "id": "246552",
       "title": "مسلسل Dark Matter الموسم الثاني الحلقة 4 مترجمة",
@@ -114,7 +2291,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:40.607Z"
+      "scrapedAt": "2026-09-18T15:43:44.794Z"
     },
     {
       "id": "246272",
@@ -226,7 +2403,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:42.794Z"
+      "scrapedAt": "2026-09-18T15:43:46.701Z"
     },
     {
       "id": "246271",
@@ -338,7 +2515,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:44.953Z"
+      "scrapedAt": "2026-09-18T15:43:48.642Z"
     },
     {
       "id": "246554",
@@ -445,7 +2622,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:47.095Z"
+      "scrapedAt": "2026-09-18T15:43:50.518Z"
     },
     {
       "id": "246383",
@@ -552,7 +2729,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:49.888Z"
+      "scrapedAt": "2026-09-18T15:43:53.063Z"
     },
     {
       "id": "246382",
@@ -659,7 +2836,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:52.132Z"
+      "scrapedAt": "2026-09-18T15:43:54.965Z"
     },
     {
       "id": "246379",
@@ -766,7 +2943,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:54.343Z"
+      "scrapedAt": "2026-09-18T15:43:56.959Z"
     },
     {
       "id": "246380",
@@ -873,7 +3050,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:56.571Z"
+      "scrapedAt": "2026-09-18T15:43:58.886Z"
     },
     {
       "id": "246381",
@@ -980,7 +3157,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:27:58.726Z"
+      "scrapedAt": "2026-09-18T15:44:00.771Z"
     },
     {
       "id": "246378",
@@ -1087,7 +3264,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:00.779Z"
+      "scrapedAt": "2026-09-18T15:44:02.703Z"
     },
     {
       "id": "246377",
@@ -1194,7 +3371,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:02.922Z"
+      "scrapedAt": "2026-09-18T15:44:04.608Z"
     },
     {
       "id": "246282",
@@ -1301,7 +3478,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:05.013Z"
+      "scrapedAt": "2026-09-18T15:44:06.525Z"
     },
     {
       "id": "246371",
@@ -1457,7 +3634,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:06.970Z"
+      "scrapedAt": "2026-09-18T15:44:08.468Z"
     },
     {
       "id": "246370",
@@ -1613,7 +3790,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:08.889Z"
+      "scrapedAt": "2026-09-18T15:44:10.407Z"
     },
     {
       "id": "246369",
@@ -1769,7 +3946,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:10.928Z"
+      "scrapedAt": "2026-09-18T15:44:12.303Z"
     },
     {
       "id": "246368",
@@ -1925,7 +4102,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:12.851Z"
+      "scrapedAt": "2026-09-18T15:44:14.237Z"
     },
     {
       "id": "246365",
@@ -2081,7 +4258,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:14.900Z"
+      "scrapedAt": "2026-09-18T15:44:16.146Z"
     },
     {
       "id": "246364",
@@ -2237,7 +4414,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:16.825Z"
+      "scrapedAt": "2026-09-18T15:44:18.095Z"
     },
     {
       "id": "246362",
@@ -2393,7 +4570,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:18.741Z"
+      "scrapedAt": "2026-09-18T15:44:19.984Z"
     },
     {
       "id": "246275",
@@ -2549,7 +4726,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:20.664Z"
+      "scrapedAt": "2026-09-18T15:44:21.925Z"
     },
     {
       "id": "246312",
@@ -2656,7 +4833,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:23.050Z"
+      "scrapedAt": "2026-09-18T15:44:24.259Z"
     },
     {
       "id": "246311",
@@ -2763,7 +4940,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:25.086Z"
+      "scrapedAt": "2026-09-18T15:44:26.293Z"
     },
     {
       "id": "246310",
@@ -2870,7 +5047,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:27.109Z"
+      "scrapedAt": "2026-09-18T15:44:28.311Z"
     },
     {
       "id": "246309",
@@ -2977,7 +5154,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:29.373Z"
+      "scrapedAt": "2026-09-18T15:44:30.231Z"
     },
     {
       "id": "246308",
@@ -3084,7 +5261,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:31.532Z"
+      "scrapedAt": "2026-09-18T15:44:32.233Z"
     },
     {
       "id": "246307",
@@ -3191,7 +5368,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:33.678Z"
+      "scrapedAt": "2026-09-18T15:44:34.266Z"
     },
     {
       "id": "246304",
@@ -3298,7 +5475,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:35.896Z"
+      "scrapedAt": "2026-09-18T15:44:36.276Z"
     },
     {
       "id": "246303",
@@ -3405,7 +5582,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:37.932Z"
+      "scrapedAt": "2026-09-18T15:44:38.308Z"
     },
     {
       "id": "246305",
@@ -3512,7 +5689,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:39.980Z"
+      "scrapedAt": "2026-09-18T15:44:40.367Z"
     },
     {
       "id": "246306",
@@ -3619,7 +5796,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:42.031Z"
+      "scrapedAt": "2026-09-18T15:44:42.393Z"
     },
     {
       "id": "246302",
@@ -3726,7 +5903,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:44.275Z"
+      "scrapedAt": "2026-09-18T15:44:44.451Z"
     },
     {
       "id": "246300",
@@ -3833,7 +6010,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:46.415Z"
+      "scrapedAt": "2026-09-18T15:44:46.469Z"
     },
     {
       "id": "246299",
@@ -3940,7 +6117,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:48.552Z"
+      "scrapedAt": "2026-09-18T15:44:48.504Z"
     },
     {
       "id": "246298",
@@ -4047,7 +6224,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:50.587Z"
+      "scrapedAt": "2026-09-18T15:44:50.503Z"
     },
     {
       "id": "246297",
@@ -4154,7 +6331,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:52.598Z"
+      "scrapedAt": "2026-09-18T15:44:52.502Z"
     },
     {
       "id": "246296",
@@ -4261,7 +6438,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:54.725Z"
+      "scrapedAt": "2026-09-18T15:44:54.496Z"
     },
     {
       "id": "246295",
@@ -4368,7 +6545,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:56.731Z"
+      "scrapedAt": "2026-09-18T15:44:56.553Z"
     },
     {
       "id": "246292",
@@ -4475,7 +6652,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:28:58.754Z"
+      "scrapedAt": "2026-09-18T15:44:58.559Z"
     },
     {
       "id": "246294",
@@ -4582,7 +6759,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:29:01.673Z"
+      "scrapedAt": "2026-09-18T15:45:00.582Z"
     },
     {
       "id": "246293",
@@ -4689,7 +6866,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:29:03.824Z"
+      "scrapedAt": "2026-09-18T15:45:02.574Z"
     },
     {
       "id": "246291",
@@ -4796,1386 +6973,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-18T10:29:06.059Z"
-    },
-    {
-      "id": "244707",
-      "title": "مسلسل Hawaii Five-0 الموسم العاشر الحلقة 1 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-hawaii-five-0-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=244707",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/sIdCKlmM2nU4akIvFQaAIiU8YES-scaled-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "يحاول فريق من النخبة برئاسة المحقق (ستيف ماكجاريت) بشرطة ولاية (هاواي) التصدي لعدد من الجرائم. حيث يتنكر عضوٌ بجماعة إرهابية في زي رجل دين؛ من أجل القيام بعمل إجرامي بالولاية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "كوميدي",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2019"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alex O'Loughlin",
-          "Chi McBride",
-          "Daniel Dae Kim",
-          "Dennis Chun"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-hawaii-five-0-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-1hm504rdnfok.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/1hm504rdnfok.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/qcjnd1dxji2o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4Rtgj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/mvlcli0kegqw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2C45DCD00AB119F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?pyuku79ykopn0xspyb5q",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d7e5f32dd14a69de04ffe1117cc92e2d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/apSa",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1w1x7",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:08.183Z"
-    },
-    {
-      "id": "245946",
-      "title": "مسلسل RJ Decker الموسم الثاني الحلقة 1 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-rj-decker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=245946",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/8xx3R5GrXFG3kfEn9CYEERSzjKl-433x650.jpg",
-      "imdbRating": "7.1",
-      "story": "تدور الأحداث حول (آر. جيه. ديكر)، مصور سابق ومُدان سابق، يبدأ حياة جديدة محقق خاص في جنوب فلوريدا، حيث يتولى حل قضايا غامضة وغير تقليدية. بمساعدة زوجته السابقة الصحفية وزوجتها الشرطية، إلى جانب امرأة غامضة من ماضيه قد تكون سبب نجاته أو سقوطه.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "بطولة": [
-          "Aaron Marketto",
-          "Adelaide Clemens",
-          "Alexis Baca",
-          "Anthony B Jenkins"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-rj-decker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-6twlrf02qb5f.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/6twlrf02qb5f.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/3w5y72fmp8u0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vD86",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/uefgdrt4v4ol",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/FCB3C9C083E6E6D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?dclgsassuy19zeoias8s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/bd83d5c1e9422564ecdf04dfab92217f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/n2nG",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q9i7",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:10.114Z"
-    },
-    {
-      "id": "245944",
-      "title": "مسلسل The Drop: A Snowfall Saga الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-drop-a-snowfall-saga-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=245944",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BN2U5YjQ1ZGEtOTAyMS00YTcxLWJkYzEtYzM0ZjI2NDU0Y2RkXkEyXkFqcGc@-scaled-520x650.jpg",
-      "imdbRating": null,
-      "story": "في لوس أنجلوس خلال تسعينات القرن الماضي، يتراجع انتشار موسيقى الكراك مع صعود موسيقى الراب، بينما تتحول المناطق التي تسيطر عليها عصابتا (بلودز) و(كريبس) في جنوب وسط المدينة إلى نقطة انطلاق لمشهد موسيقي جديد.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "Music",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "بطولة": [
-          "Andre Ozim",
-          "Andrew Etzel",
-          "Asante Blackk",
-          "Brandon Mychal Smith"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-drop-a-snowfall-saga-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-2uthvjqcg127.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/2uthvjqcg127.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/0t9hjtrpq2hs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bAy4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/fmm17l7v8os7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/FAB08087628C0B8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?ibmyuszzobm3ovvqdn0p",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/cde612d0f7376790f967e8285bb23829",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/iQcB",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c48y",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:12.038Z"
-    },
-    {
-      "id": "246232",
-      "title": "مسلسل The Doll الموسم الاول الحلقة 6 والاخيرة مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246232",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BNDA3ZDljYWEtZjBmOS00NmM1LWI3YWMtODJmZGM5YzhjODNjXkEyXkFqcGc@._V1_FMjpg_UX718_-456x650.jpg",
-      "imdbRating": null,
-      "story": "إعادة سرد عصرية لرواية بولندية كلاسيكية من تأليف \"بوليسلاف بروس\" تتناول قصة تاجر عصامي تحرقه نار رغبته المشتعلة تجاه فتاة أرستقراطية قوية الإرادة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "بطولة": [
-          "Andrzej Walden",
-          "Dariusz Chojnacki",
-          "Jacek Braciak",
-          "Juliusz Chrzastowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-yo1mujmqe5it.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/yo1mujmqe5it.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/xzl63jx0mst9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bAwO",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/x5pwbijinmiy",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/648F8AAC68B63C7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?zu9egb1sfzoe5wxmzwtt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/e4ac37a98983a48026462e76c17834e1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retR",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c45f",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:13.977Z"
-    },
-    {
-      "id": "246231",
-      "title": "مسلسل The Doll الموسم الاول الحلقة 5 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246231",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BNDA3ZDljYWEtZjBmOS00NmM1LWI3YWMtODJmZGM5YzhjODNjXkEyXkFqcGc@._V1_FMjpg_UX718_-456x650.jpg",
-      "imdbRating": null,
-      "story": "إعادة سرد عصرية لرواية بولندية كلاسيكية من تأليف \"بوليسلاف بروس\" تتناول قصة تاجر عصامي تحرقه نار رغبته المشتعلة تجاه فتاة أرستقراطية قوية الإرادة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "بطولة": [
-          "Andrzej Walden",
-          "Dariusz Chojnacki",
-          "Jacek Braciak",
-          "Juliusz Chrzastowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-2mdxrp5j926a.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/2mdxrp5j926a.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/bq7opxwft4zl",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vD4s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/klyruza8cif3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/4962F5D4EA46777",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?sne4jm4p7zsmsgky0tw3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d3fcabf12167f2879aa02ea2bf58746e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retP",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q9ay",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:15.867Z"
-    },
-    {
-      "id": "246230",
-      "title": "مسلسل The Doll الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246230",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BNDA3ZDljYWEtZjBmOS00NmM1LWI3YWMtODJmZGM5YzhjODNjXkEyXkFqcGc@._V1_FMjpg_UX718_-456x650.jpg",
-      "imdbRating": null,
-      "story": "إعادة سرد عصرية لرواية بولندية كلاسيكية من تأليف \"بوليسلاف بروس\" تتناول قصة تاجر عصامي تحرقه نار رغبته المشتعلة تجاه فتاة أرستقراطية قوية الإرادة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "بطولة": [
-          "Andrzej Walden",
-          "Dariusz Chojnacki",
-          "Jacek Braciak",
-          "Juliusz Chrzastowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-0gt5adu0clbd.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/0gt5adu0clbd.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/4k2hybagrt44",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vD4q",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/fx11x9a9hezb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/874D2816A860F3D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?vakslud5ejd18dsxv8ei",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/53bf016741ea8ea47ec9de7bc5b329aa",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retO",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q9aw",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:17.787Z"
-    },
-    {
-      "id": "246229",
-      "title": "مسلسل The Doll الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246229",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BNDA3ZDljYWEtZjBmOS00NmM1LWI3YWMtODJmZGM5YzhjODNjXkEyXkFqcGc@._V1_FMjpg_UX718_-456x650.jpg",
-      "imdbRating": null,
-      "story": "إعادة سرد عصرية لرواية بولندية كلاسيكية من تأليف \"بوليسلاف بروس\" تتناول قصة تاجر عصامي تحرقه نار رغبته المشتعلة تجاه فتاة أرستقراطية قوية الإرادة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "بطولة": [
-          "Andrzej Walden",
-          "Dariusz Chojnacki",
-          "Jacek Braciak",
-          "Juliusz Chrzastowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-o8p76m55qjqf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/o8p76m55qjqf.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/tup8r61zhfzr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vD4p",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/5ekka41crmpf",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/6CE2C0D400F568E",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?fda6ems61m2z6w6x612l",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d91ceaf1c8f659bab10c3ff38d6e83b4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retN",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q9au",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:19.591Z"
-    },
-    {
-      "id": "246228",
-      "title": "مسلسل The Doll الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246228",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BNDA3ZDljYWEtZjBmOS00NmM1LWI3YWMtODJmZGM5YzhjODNjXkEyXkFqcGc@._V1_FMjpg_UX718_-456x650.jpg",
-      "imdbRating": null,
-      "story": "إعادة سرد عصرية لرواية بولندية كلاسيكية من تأليف \"بوليسلاف بروس\" تتناول قصة تاجر عصامي تحرقه نار رغبته المشتعلة تجاه فتاة أرستقراطية قوية الإرادة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "بطولة": [
-          "Andrzej Walden",
-          "Dariusz Chojnacki",
-          "Jacek Braciak",
-          "Juliusz Chrzastowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-1bujksfdwasf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/1bujksfdwasf.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ietp0wfak6zk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vD4o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/9kdopkw1hrhq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/5D67A6DA1B87861",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?27iflvz2fl8x859mrgzv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/1e2ce655439362a9b3f2325408cf4382",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retM",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q9at",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:21.520Z"
-    },
-    {
-      "id": "245978",
-      "title": "مسلسل The Doll الموسم الاول الحلقة 1 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=245978",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BNDA3ZDljYWEtZjBmOS00NmM1LWI3YWMtODJmZGM5YzhjODNjXkEyXkFqcGc@._V1_FMjpg_UX718_-456x650.jpg",
-      "imdbRating": null,
-      "story": "إعادة سرد عصرية لرواية بولندية كلاسيكية من تأليف \"بوليسلاف بروس\" تتناول قصة تاجر عصامي تحرقه نار رغبته المشتعلة تجاه فتاة أرستقراطية قوية الإرادة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "بطولة": [
-          "Andrzej Walden",
-          "Dariusz Chojnacki",
-          "Jacek Braciak",
-          "Juliusz Chrzastowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-doll-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-mnxdbkazzqs0.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/mnxdbkazzqs0.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/4ng3tehqhotn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vD4n",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/op2vo7b574g3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/27B99E779265C14",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?hncm21ybhohoy4f6zfzk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/e00ed9fae910cc36d84a50b22b3f7019",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retK",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q9ar",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:23.428Z"
-    },
-    {
-      "id": "246197",
-      "title": "مسلسل Neagley الموسم الاول الحلقة 8 والاخيرة مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246197",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@-520x650.jpg",
-      "imdbRating": null,
-      "story": "تنطلق (نيجلي)، مستندة إلى خبرتها السابقة مع (جاك ريتشر) ووحدة المحققين الخاصة رقم 110، في مهمة محفوفة بالمخاطر لكشف تهديد غامض وخطير، فتخاطر بحياتها لكشف ملابسات المؤامرة وحل اللغز المحيط بها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adeline Rudolph",
-          "Alex Spencer",
-          "Ari Cohen",
-          "Brian Hamman"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-yxw2u4l83hhb.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/yxw2u4l83hhb.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/sncz5a76r1xw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bAxf",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/5a2r4qnrjwk8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/D55D19185491AF9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?vksifgniek9rchx47mud",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/872b1a8a4301514fc23c541062733212",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/arU4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q9b4",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:25.353Z"
-    },
-    {
-      "id": "246199",
-      "title": "مسلسل Neagley الموسم الاول الحلقة 7 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246199",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@-520x650.jpg",
-      "imdbRating": null,
-      "story": "تنطلق (نيجلي)، مستندة إلى خبرتها السابقة مع (جاك ريتشر) ووحدة المحققين الخاصة رقم 110، في مهمة محفوفة بالمخاطر لكشف تهديد غامض وخطير، فتخاطر بحياتها لكشف ملابسات المؤامرة وحل اللغز المحيط بها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adeline Rudolph",
-          "Alex Spencer",
-          "Ari Cohen",
-          "Brian Hamman"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-17l9d84ge6zb.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/17l9d84ge6zb.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/luvxjzlxd9f3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bAxd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/j1kmtyq2poai",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/F22298B983C2CBD",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?me2o7zdepmstxn37vjmw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/c407caa5610dee4dd063279ef31276ff",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/arU3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Q9b3",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:27.255Z"
-    },
-    {
-      "id": "246200",
-      "title": "مسلسل Neagley الموسم الاول الحلقة 6 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246200",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@-520x650.jpg",
-      "imdbRating": null,
-      "story": "تنطلق (نيجلي)، مستندة إلى خبرتها السابقة مع (جاك ريتشر) ووحدة المحققين الخاصة رقم 110، في مهمة محفوفة بالمخاطر لكشف تهديد غامض وخطير، فتخاطر بحياتها لكشف ملابسات المؤامرة وحل اللغز المحيط بها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adeline Rudolph",
-          "Alex Spencer",
-          "Ari Cohen",
-          "Brian Hamman"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-8y4y3xmv49nd.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/8y4y3xmv49nd.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/snn7s0mehror",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bAx1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/z422bu9bztav",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/F7B1C32AB92F445",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?x71tticylvnok2pyd0k0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ec9a93a0b9212d69f544232da8fccc39",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retX",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c45q",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:29.171Z"
-    },
-    {
-      "id": "246196",
-      "title": "مسلسل Neagley الموسم الاول الحلقة 5 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246196",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@-520x650.jpg",
-      "imdbRating": null,
-      "story": "تنطلق (نيجلي)، مستندة إلى خبرتها السابقة مع (جاك ريتشر) ووحدة المحققين الخاصة رقم 110، في مهمة محفوفة بالمخاطر لكشف تهديد غامض وخطير، فتخاطر بحياتها لكشف ملابسات المؤامرة وحل اللغز المحيط بها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adeline Rudolph",
-          "Alex Spencer",
-          "Ari Cohen",
-          "Brian Hamman"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-vwg4djapltyh.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/vwg4djapltyh.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/rklfesthcqe2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bAx0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/lealbmxw0khs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B5F2A1057F63F12",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?7uhvqd45f1cmsmme46gn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/fae0b35bb4599767fa949d1ef87fa880",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retW",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c45o",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-18T10:29:31.099Z"
+      "scrapedAt": "2026-09-18T15:45:04.619Z"
     }
   ]
 }
