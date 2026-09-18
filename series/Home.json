@@ -2,8 +2,339 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-09-17T20:56:17.533Z",
+  "lastUpdated": "2026-09-18T02:57:18.414Z",
   "series": [
+    {
+      "id": "246272",
+      "title": "مسلسل Star Trek: Strange New Worlds الموسم الرابع الحلقة 9 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=246272",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/fW8uT1hiZPpd5k8tryEyOclkW1p-scaled-433x650.jpg",
+      "imdbRating": "8.2",
+      "story": "ينطلق الكابتن (بايك)، برفقة الضابط (سبوك)، والضابطة (تشين رايلي) الملقبة بالرقم واحد، في رحلة استكشافية ملحمية عبر أرجاء المجرة الشاسعة على متن سفينة الفضاء الأمريكية (إنتربرايز).",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "خيال علمي",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Akiva Goldsman",
+          "Amanda Row",
+          "Andi Armaganian"
+        ],
+        "بطولة": [
+          "Adrian Holmes",
+          "Alex Kapp",
+          "Andr Dae Kim",
+          "Anson Mount"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-trek-strange-new-worlds-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-prvstngvw8t8.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/prvstngvw8t8.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/o6mg7ckxdxlq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PG03",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/e4huw1tvrayx",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/843560468E2D7AA",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?fedk5xpl0ud2neci8m2w",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/dedace0a223bfc3e11a384d93a42d58f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/as48",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qa2h",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T02:55:25.900Z"
+    },
+    {
+      "id": "246271",
+      "title": "مسلسل The Ark الموسم الثالث الحلقة 8 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=246271",
+      "image": "https://topcinema.io/wp-content/uploads/2026/07/xKciDV7Kbn5U7uoTVvwnz1OioCq-462x650.jpg",
+      "imdbRating": "5.8",
+      "story": "يتابع المسلسل قصة الطاقم المتبقي لمركبة فضائية تُعرف باسم \"آرك وان\"، والذين يجب أن يصبحوا أفضل نسخة من أنفسهم للبقاء على المسار الصحيح والنجاة بعد تعرضهم لحدث كارثي تسبب في دمار هائل وخسائر في الأرواح.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "خيال علمي",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Dean Devlin",
+          "Jonathan Glassner",
+          "Marc Roskin"
+        ],
+        "بطولة": [
+          "Christie Burke",
+          "Christina Wolfe",
+          "Cosmo Kay",
+          "Jelena Moore"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-66wpghvcjq0d.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/66wpghvcjq0d.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/52glld1e51dx",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PG04",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/m7d8x4oep0gi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E6F428087FCDCCE",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?7wlzi33hhal7bwy882my",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ef41a3727101fa151805dda2f2778721",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/as49",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qa2m",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T02:55:28.274Z"
+    },
+    {
+      "id": "246554",
+      "title": "مسلسل MobLand الموسم الثاني الحلقة 1 مترجمة",
+      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mobland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.io/?p=246554",
+      "image": "https://topcinema.io/wp-content/uploads/2026/09/_640x_e223b00435116a5c0dde45e5b35e7310fb6f3d692e5d76b4c472b8271d21d864-436x650.jpg",
+      "imdbRating": "8.3",
+      "story": "يتبع الموسم الثاني (هاري دا سوزا)، الذي يجد نفسه وسط حرب مفتوحة بين عصابات متنافسة عقب الصراع مع عائلة ستيفنسون، ويخوض صراعات جديدة على النفوذ، وحربًا داخلية على قيادة العائلة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "المملكة المتحدة"
+        ],
+        "بطولة": [
+          "Alex Fine",
+          "Anson Boon",
+          "Antonio Gonzlez Guerrero",
+          "Arnold Oceng"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mobland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-s0esqrviwdux.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/s0esqrviwdux.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/lry7423dn1fm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PG01",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/szbz7ee1wj7z",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/8D3BF6F1F128B0A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?u51juo8edsnd1k6g0cvh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/5049f7403c065c1f43abeef38c344e2f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/as47",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qa2f",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-09-18T02:55:30.339Z"
+    },
     {
       "id": "246383",
       "title": "مسلسل Stranger Things: Tales from ’85 الموسم الثاني الحلقة 8 والاخيرة مترجمة",
@@ -109,7 +440,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:08.435Z"
+      "scrapedAt": "2026-09-18T02:55:33.244Z"
     },
     {
       "id": "246382",
@@ -216,7 +547,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:10.893Z"
+      "scrapedAt": "2026-09-18T02:55:35.327Z"
     },
     {
       "id": "246379",
@@ -323,7 +654,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:13.335Z"
+      "scrapedAt": "2026-09-18T02:55:37.719Z"
     },
     {
       "id": "246380",
@@ -430,7 +761,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:15.748Z"
+      "scrapedAt": "2026-09-18T02:55:39.789Z"
     },
     {
       "id": "246381",
@@ -537,7 +868,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:18.142Z"
+      "scrapedAt": "2026-09-18T02:55:41.866Z"
     },
     {
       "id": "246378",
@@ -644,7 +975,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:20.541Z"
+      "scrapedAt": "2026-09-18T02:55:43.965Z"
     },
     {
       "id": "246377",
@@ -751,7 +1082,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:22.953Z"
+      "scrapedAt": "2026-09-18T02:55:46.022Z"
     },
     {
       "id": "246282",
@@ -858,7 +1189,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:25.346Z"
+      "scrapedAt": "2026-09-18T02:55:48.062Z"
     },
     {
       "id": "246371",
@@ -964,9 +1295,57 @@
           "url": "https://1cloudfile.com/1w7gr",
           "quality": "1080p",
           "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/b79pgzq846sj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vDsj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/fxjatapgd7kd",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/55211F2CA52D108",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?p9bkg4qvnr5zagcgqhi5",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/75d0742faee1ef2d31bb499e55076299",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/as40",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w7u8",
+          "quality": "720p",
+          "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:27.783Z"
+      "scrapedAt": "2026-09-18T02:55:50.079Z"
     },
     {
       "id": "246370",
@@ -1072,9 +1451,57 @@
           "url": "https://1cloudfile.com/1w7gk",
           "quality": "1080p",
           "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/trjspdneoll7",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vDsi",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/fn0oj9brhdxw",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/B439CBBC95F0788",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?tk2t2jny7yno5yx3lpix",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/6d329c678ca87840e028ae952ed46035",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/n2v5",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w7u6",
+          "quality": "720p",
+          "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:30.252Z"
+      "scrapedAt": "2026-09-18T02:55:52.153Z"
     },
     {
       "id": "246369",
@@ -1180,9 +1607,57 @@
           "url": "https://1cloudfile.com/2S2ae",
           "quality": "1080p",
           "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/6e49ngzuq7s4",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vDsh",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/z6e386r81m5w",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/FA8F59B363EB115",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?jbhsxnonhpbhpsviae2t",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/f9f29008d42742872e2ab2f3c56feb9f",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/n2v4",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w7u4",
+          "quality": "720p",
+          "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:32.689Z"
+      "scrapedAt": "2026-09-18T02:55:54.226Z"
     },
     {
       "id": "246368",
@@ -1288,9 +1763,57 @@
           "url": "https://1cloudfile.com/1w7fy",
           "quality": "1080p",
           "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/qtome1hhs1wx",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vDsg",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/xjlfz6pvrhp2",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/4C97A5892E96763",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?txgwi5z54e2ur4mnbvyt",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/d99ee2b34429fadc48bf3129d1c4c753",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/n2v3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w7u3",
+          "quality": "720p",
+          "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:35.124Z"
+      "scrapedAt": "2026-09-18T02:55:56.284Z"
     },
     {
       "id": "246365",
@@ -1396,9 +1919,57 @@
           "url": "https://1cloudfile.com/1w7fn",
           "quality": "1080p",
           "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/oebtbpmfdmdx",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vDsf",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/7femil2s9dxw",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/4476B65E5EA2BD9",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?jo63adv55p3fbw83lc2l",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/04b3fd2495ac4af9082cea774d9b3b3a",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/n2v2",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w7u0",
+          "quality": "720p",
+          "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:37.522Z"
+      "scrapedAt": "2026-09-18T02:55:58.374Z"
     },
     {
       "id": "246364",
@@ -1504,9 +2075,57 @@
           "url": "https://1cloudfile.com/1w7fo",
           "quality": "1080p",
           "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/oxl4nlbmgzjj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vDse",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/h5yq1i6c5pr7",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/388F9BF88A47A4C",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?tgnz7tvms4236zy6alxy",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/7ec9abb7143377e9fefdc305fc7219f4",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/n2v1",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1w7tX",
+          "quality": "720p",
+          "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:39.924Z"
+      "scrapedAt": "2026-09-18T02:56:00.422Z"
     },
     {
       "id": "246362",
@@ -1612,9 +2231,57 @@
           "url": "https://1cloudfile.com/1w7ff",
           "quality": "1080p",
           "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/kiodox7rtttf",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vDsc",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/hukkmekbcxgj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/7B01D2033B9CD2D",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?617ytiiz8ga844y3kq2n",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/a409ae02c447da89184bec9f0e48e0e4",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/n2v0",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qa1y",
+          "quality": "720p",
+          "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:42.432Z"
+      "scrapedAt": "2026-09-18T02:56:02.654Z"
     },
     {
       "id": "246275",
@@ -1720,9 +2387,57 @@
           "url": "https://1cloudfile.com/1w7fc",
           "quality": "1080p",
           "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/las2e66yltg1",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/3vDsd",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/7f27z5nycrmi",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/57F8666AD27CE78",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?r33mgpwx6xwu1vc3pp52",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/5924bedfdf0473af7522cf736cd2fa62",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/n2uZ",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qa1w",
+          "quality": "720p",
+          "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:44.866Z"
+      "scrapedAt": "2026-09-18T02:56:04.743Z"
     },
     {
       "id": "246312",
@@ -1829,7 +2544,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:47.264Z"
+      "scrapedAt": "2026-09-18T02:56:06.794Z"
     },
     {
       "id": "246311",
@@ -1936,7 +2651,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:49.653Z"
+      "scrapedAt": "2026-09-18T02:56:08.862Z"
     },
     {
       "id": "246310",
@@ -2043,7 +2758,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:52.089Z"
+      "scrapedAt": "2026-09-18T02:56:10.921Z"
     },
     {
       "id": "246309",
@@ -2150,7 +2865,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:54.478Z"
+      "scrapedAt": "2026-09-18T02:56:12.961Z"
     },
     {
       "id": "246308",
@@ -2257,7 +2972,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:56.895Z"
+      "scrapedAt": "2026-09-18T02:56:15.298Z"
     },
     {
       "id": "246307",
@@ -2364,7 +3079,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:54:59.300Z"
+      "scrapedAt": "2026-09-18T02:56:17.399Z"
     },
     {
       "id": "246304",
@@ -2471,7 +3186,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:01.749Z"
+      "scrapedAt": "2026-09-18T02:56:19.504Z"
     },
     {
       "id": "246303",
@@ -2578,7 +3293,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:04.206Z"
+      "scrapedAt": "2026-09-18T02:56:21.558Z"
     },
     {
       "id": "246305",
@@ -2685,7 +3400,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:06.639Z"
+      "scrapedAt": "2026-09-18T02:56:23.910Z"
     },
     {
       "id": "246306",
@@ -2792,7 +3507,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:09.049Z"
+      "scrapedAt": "2026-09-18T02:56:25.967Z"
     },
     {
       "id": "246302",
@@ -2899,7 +3614,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:11.455Z"
+      "scrapedAt": "2026-09-18T02:56:28.020Z"
     },
     {
       "id": "246300",
@@ -3006,7 +3721,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:13.882Z"
+      "scrapedAt": "2026-09-18T02:56:30.154Z"
     },
     {
       "id": "246299",
@@ -3113,7 +3828,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:16.297Z"
+      "scrapedAt": "2026-09-18T02:56:32.242Z"
     },
     {
       "id": "246298",
@@ -3220,7 +3935,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:18.698Z"
+      "scrapedAt": "2026-09-18T02:56:34.349Z"
     },
     {
       "id": "246297",
@@ -3327,7 +4042,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:21.156Z"
+      "scrapedAt": "2026-09-18T02:56:36.673Z"
     },
     {
       "id": "246296",
@@ -3434,7 +4149,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:23.564Z"
+      "scrapedAt": "2026-09-18T02:56:38.601Z"
     },
     {
       "id": "246295",
@@ -3541,7 +4256,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:25.964Z"
+      "scrapedAt": "2026-09-18T02:56:40.628Z"
     },
     {
       "id": "246292",
@@ -3648,7 +4363,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:28.380Z"
+      "scrapedAt": "2026-09-18T02:56:42.667Z"
     },
     {
       "id": "246294",
@@ -3755,7 +4470,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:30.823Z"
+      "scrapedAt": "2026-09-18T02:56:44.783Z"
     },
     {
       "id": "246293",
@@ -3862,7 +4577,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:33.211Z"
+      "scrapedAt": "2026-09-18T02:56:46.881Z"
     },
     {
       "id": "246291",
@@ -3969,7 +4684,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:35.613Z"
+      "scrapedAt": "2026-09-18T02:56:48.975Z"
     },
     {
       "id": "244707",
@@ -4076,7 +4791,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:38.022Z"
+      "scrapedAt": "2026-09-18T02:56:51.037Z"
     },
     {
       "id": "245946",
@@ -4180,7 +4895,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:40.429Z"
+      "scrapedAt": "2026-09-18T02:56:53.101Z"
     },
     {
       "id": "245944",
@@ -4284,7 +4999,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:42.793Z"
+      "scrapedAt": "2026-09-18T02:56:55.007Z"
     },
     {
       "id": "246232",
@@ -4390,7 +5105,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:45.185Z"
+      "scrapedAt": "2026-09-18T02:56:56.919Z"
     },
     {
       "id": "246231",
@@ -4496,7 +5211,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:47.589Z"
+      "scrapedAt": "2026-09-18T02:56:58.998Z"
     },
     {
       "id": "246230",
@@ -4602,7 +5317,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:50.007Z"
+      "scrapedAt": "2026-09-18T02:57:01.067Z"
     },
     {
       "id": "246229",
@@ -4708,7 +5423,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:52.414Z"
+      "scrapedAt": "2026-09-18T02:57:03.187Z"
     },
     {
       "id": "246228",
@@ -4814,7 +5529,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:54.810Z"
+      "scrapedAt": "2026-09-18T02:57:05.238Z"
     },
     {
       "id": "245978",
@@ -4920,7 +5635,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:57.216Z"
+      "scrapedAt": "2026-09-18T02:57:07.323Z"
     },
     {
       "id": "246197",
@@ -5027,7 +5742,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:55:59.642Z"
+      "scrapedAt": "2026-09-18T02:57:09.373Z"
     },
     {
       "id": "246199",
@@ -5134,7 +5849,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:56:02.059Z"
+      "scrapedAt": "2026-09-18T02:57:11.409Z"
     },
     {
       "id": "246200",
@@ -5241,7 +5956,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:56:04.477Z"
+      "scrapedAt": "2026-09-18T02:57:13.437Z"
     },
     {
       "id": "246196",
@@ -5348,7 +6063,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:56:06.884Z"
+      "scrapedAt": "2026-09-18T02:57:15.356Z"
     },
     {
       "id": "246198",
@@ -5455,328 +6170,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-09-17T20:56:09.275Z"
-    },
-    {
-      "id": "246195",
-      "title": "مسلسل Neagley الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246195",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@-520x650.jpg",
-      "imdbRating": null,
-      "story": "تنطلق (نيجلي)، مستندة إلى خبرتها السابقة مع (جاك ريتشر) ووحدة المحققين الخاصة رقم 110، في مهمة محفوفة بالمخاطر لكشف تهديد غامض وخطير، فتخاطر بحياتها لكشف ملابسات المؤامرة وحل اللغز المحيط بها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adeline Rudolph",
-          "Alex Spencer",
-          "Ari Cohen",
-          "Brian Hamman"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-nn04qnz4guk9.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/nn04qnz4guk9.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/hfkos5m3gsz7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/5xvrC",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/f2szd57ygw5z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/A43FCC4382AB143",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?q6hg0xeytg11x4jdog6b",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6d7420295d80f4706c59406bc75751ff",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retU",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c45m",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-17T20:56:11.681Z"
-    },
-    {
-      "id": "246194",
-      "title": "مسلسل Neagley الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=246194",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@-520x650.jpg",
-      "imdbRating": null,
-      "story": "تنطلق (نيجلي)، مستندة إلى خبرتها السابقة مع (جاك ريتشر) ووحدة المحققين الخاصة رقم 110، في مهمة محفوفة بالمخاطر لكشف تهديد غامض وخطير، فتخاطر بحياتها لكشف ملابسات المؤامرة وحل اللغز المحيط بها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adeline Rudolph",
-          "Alex Spencer",
-          "Ari Cohen",
-          "Brian Hamman"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ua4c4ruswbgi.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ua4c4ruswbgi.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/2niszaj5jtid",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/5xvrB",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/zznqwdkeot5p",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/A9FFBCDEEFB017D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?554gur6xv5ab2hp9t4sk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/4f816aea0fd9537c67761f8c1b1559f0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retT",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c45l",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-17T20:56:14.113Z"
-    },
-    {
-      "id": "245974",
-      "title": "مسلسل Neagley الموسم الاول الحلقة 1 مترجمة",
-      "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.io/?p=245974",
-      "image": "https://topcinema.io/wp-content/uploads/2026/09/MV5BMzg1NzAzMWEtMGY2Ny00YzRkLTg4MmEtMDEyZWI2ZjFiMWU5XkEyXkFqcGc@-520x650.jpg",
-      "imdbRating": null,
-      "story": "تنطلق (نيجلي)، مستندة إلى خبرتها السابقة مع (جاك ريتشر) ووحدة المحققين الخاصة رقم 110، في مهمة محفوفة بالمخاطر لكشف تهديد غامض وخطير، فتخاطر بحياتها لكشف ملابسات المؤامرة وحل اللغز المحيط بها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adeline Rudolph",
-          "Alex Spencer",
-          "Ari Cohen",
-          "Brian Hamman"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-neagley-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-3keki7rs0hpb.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/3keki7rs0hpb.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/efag19bavgsm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/5xvry",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/5wuwpelob9c1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/47C543EA3D28D61",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?61pewkewpxthbdweqg9z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/24a143b2d78b7a4feb061492143a4504",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/retS",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2c45j",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-09-17T20:56:16.533Z"
+      "scrapedAt": "2026-09-18T02:57:17.414Z"
     }
   ]
 }
