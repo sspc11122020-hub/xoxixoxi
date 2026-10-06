@@ -2,8 +2,430 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-10-06T12:41:25.833Z",
+  "lastUpdated": "2026-10-06T22:15:46.819Z",
   "series": [
+    {
+      "id": "250589",
+      "title": "مسلسل Reasonable Doubt الموسم الرابع الحلقة 3 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reasonable-doubt-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=250589",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/4RbqAKKsqpblZpufzRL87B4siDM-433x650.jpg",
+      "imdbRating": "6.7",
+      "story": "تُعرف (جاكس ستيوارت) أنها محامية دفاع الأكثر ذكاءً وشجاعة في لوس أنجلوس، حيث يتم محاكمتها بسبب أخلاقياتها المشكوك فيها وتفسيراتها الجامحة للقانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Anton Cropper",
+          "Carl Seaton",
+          "Darren Grant"
+        ],
+        "بطولة": [
+          "Aderinsola Olabode",
+          "Angela Grovey",
+          "Aries Sanders",
+          "Brooke Lyons"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reasonable-doubt-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ly3wvh9e56lc.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ly3wvh9e56lc.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/y6xy37kb2sl7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vKtV",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E24F0505B10ED2B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?h1um7x8t1aomf6kvh6ic",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/7525fcf3ffec80c4abd88c92b9d8adc0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/av76",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1whqn",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-06T22:13:34.396Z"
+    },
+    {
+      "id": "250588",
+      "title": "مسلسل Reasonable Doubt الموسم الرابع الحلقة 2 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reasonable-doubt-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=250588",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/4RbqAKKsqpblZpufzRL87B4siDM-433x650.jpg",
+      "imdbRating": "6.7",
+      "story": "تُعرف (جاكس ستيوارت) أنها محامية دفاع الأكثر ذكاءً وشجاعة في لوس أنجلوس، حيث يتم محاكمتها بسبب أخلاقياتها المشكوك فيها وتفسيراتها الجامحة للقانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Anton Cropper",
+          "Carl Seaton",
+          "Darren Grant"
+        ],
+        "بطولة": [
+          "Aderinsola Olabode",
+          "Angela Grovey",
+          "Aries Sanders",
+          "Brooke Lyons"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reasonable-doubt-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-uq5njy5q5v90.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/uq5njy5q5v90.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/31eu8twtv0lk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PN1y",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/C48623FBC29D604",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?smnrwh2392sgrjsxttza",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fb91cba0fe0d3bb3206c572ca5842b2c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/av75",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1whql",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-06T22:13:36.885Z"
+    },
+    {
+      "id": "250581",
+      "title": "مسلسل Reasonable Doubt الموسم الرابع الحلقة 1 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reasonable-doubt-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=250581",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/4RbqAKKsqpblZpufzRL87B4siDM-433x650.jpg",
+      "imdbRating": "6.7",
+      "story": "تُعرف (جاكس ستيوارت) أنها محامية دفاع الأكثر ذكاءً وشجاعة في لوس أنجلوس، حيث يتم محاكمتها بسبب أخلاقياتها المشكوك فيها وتفسيراتها الجامحة للقانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Anton Cropper",
+          "Carl Seaton",
+          "Darren Grant"
+        ],
+        "بطولة": [
+          "Aderinsola Olabode",
+          "Angela Grovey",
+          "Aries Sanders",
+          "Brooke Lyons"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reasonable-doubt-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-g4me6cak5y9z.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/g4me6cak5y9z.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/sydl371n3jel",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PN1w",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/16EF9109E0B9FB1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?ejf8nawyimf9ybtrm1em",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/cec1d942202f6ab2e72e2a090ab4aaee",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/av74",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1whqj",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-06T22:13:39.357Z"
+    },
+    {
+      "id": "250491",
+      "title": "مسلسل It’s Always Sunny in Philadelphia الموسم 18 الحلقة 9 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-its-always-sunny-in-philadelphia-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-18-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=250491",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/08/MV5BZjkxZWUzNGEtNWFjZi00MDJmLWI2ODctMDRiZTdhY2RiNmZkXkEyXkFqcGc@._V1_-scaled-520x650.jpg",
+      "imdbRating": "8.8",
+      "story": "في الموسم الثامن عشر، يستعد (فرانك) للزواج من (سام)، لكن أصدقاءه يحاولون مساعدته في التغلب على تردده، بينما تسعى (دي) لإفساد الزفاف عبر تخويف العروس بشهادات من معارفها. وفي الوقت نفسه، يكتشف (دينيس) و(دي) إصابتهما باضطراب فرط الحركة ونقص الانتباه.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Daniel Attias",
+          "Fred Savage",
+          "Glenn Howerton"
+        ],
+        "بطولة": [
+          "Andrew Friedman",
+          "Artemis Pebdani",
+          "Catherine Reitman",
+          "Charlie Day"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-its-always-sunny-in-philadelphia-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-18-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-s6sg5pfj30e3.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/s6sg5pfj30e3.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/z1d37cvl4js7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PN1m",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/C166CBA69696B8B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?esuk52buxdfiworx9jeh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6a6bea2894260eea358601e212e2967c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n5y3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2ceS8",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-06T22:13:41.865Z"
+    },
     {
       "id": "250302",
       "title": "مسلسل Marshals الموسم الثاني الحلقة 1 مترجمة",
@@ -101,7 +523,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:34.852Z"
+      "scrapedAt": "2026-10-06T22:13:44.341Z"
     },
     {
       "id": "250309",
@@ -205,7 +627,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:37.156Z"
+      "scrapedAt": "2026-10-06T22:13:46.845Z"
     },
     {
       "id": "250307",
@@ -306,7 +728,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:39.482Z"
+      "scrapedAt": "2026-10-06T22:13:49.316Z"
     },
     {
       "id": "250305",
@@ -410,7 +832,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:41.546Z"
+      "scrapedAt": "2026-10-06T22:13:51.818Z"
     },
     {
       "id": "248554",
@@ -511,7 +933,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:43.559Z"
+      "scrapedAt": "2026-10-06T22:13:54.284Z"
     },
     {
       "id": "247104",
@@ -612,7 +1034,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:45.596Z"
+      "scrapedAt": "2026-10-06T22:13:56.780Z"
     },
     {
       "id": "245510",
@@ -713,7 +1135,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:47.931Z"
+      "scrapedAt": "2026-10-06T22:13:59.213Z"
     },
     {
       "id": "244074",
@@ -814,7 +1236,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:49.967Z"
+      "scrapedAt": "2026-10-06T22:14:01.710Z"
     },
     {
       "id": "250548",
@@ -920,7 +1342,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:51.981Z"
+      "scrapedAt": "2026-10-06T22:14:04.211Z"
     },
     {
       "id": "250547",
@@ -1026,7 +1448,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:54.012Z"
+      "scrapedAt": "2026-10-06T22:14:06.753Z"
     },
     {
       "id": "250546",
@@ -1132,7 +1554,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:56.043Z"
+      "scrapedAt": "2026-10-06T22:14:09.224Z"
     },
     {
       "id": "250526",
@@ -1238,7 +1660,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:39:58.113Z"
+      "scrapedAt": "2026-10-06T22:14:11.712Z"
     },
     {
       "id": "250525",
@@ -1344,7 +1766,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:00.223Z"
+      "scrapedAt": "2026-10-06T22:14:14.242Z"
     },
     {
       "id": "250524",
@@ -1450,7 +1872,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:02.285Z"
+      "scrapedAt": "2026-10-06T22:14:16.696Z"
     },
     {
       "id": "250523",
@@ -1556,7 +1978,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:04.309Z"
+      "scrapedAt": "2026-10-06T22:14:19.178Z"
     },
     {
       "id": "250522",
@@ -1662,7 +2084,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:06.374Z"
+      "scrapedAt": "2026-10-06T22:14:21.640Z"
     },
     {
       "id": "250521",
@@ -1768,7 +2190,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:08.416Z"
+      "scrapedAt": "2026-10-06T22:14:24.130Z"
     },
     {
       "id": "250519",
@@ -1874,7 +2296,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:10.458Z"
+      "scrapedAt": "2026-10-06T22:14:26.636Z"
     },
     {
       "id": "250520",
@@ -1980,7 +2402,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:12.545Z"
+      "scrapedAt": "2026-10-06T22:14:29.135Z"
     },
     {
       "id": "250518",
@@ -2086,7 +2508,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:14.617Z"
+      "scrapedAt": "2026-10-06T22:14:31.617Z"
     },
     {
       "id": "250517",
@@ -2192,7 +2614,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:16.690Z"
+      "scrapedAt": "2026-10-06T22:14:34.113Z"
     },
     {
       "id": "250515",
@@ -2298,7 +2720,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:18.710Z"
+      "scrapedAt": "2026-10-06T22:14:36.612Z"
     },
     {
       "id": "250514",
@@ -2404,7 +2826,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:20.744Z"
+      "scrapedAt": "2026-10-06T22:14:39.085Z"
     },
     {
       "id": "250513",
@@ -2510,7 +2932,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:22.798Z"
+      "scrapedAt": "2026-10-06T22:14:41.544Z"
     },
     {
       "id": "250512",
@@ -2616,7 +3038,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:24.844Z"
+      "scrapedAt": "2026-10-06T22:14:44.015Z"
     },
     {
       "id": "250511",
@@ -2722,7 +3144,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:26.894Z"
+      "scrapedAt": "2026-10-06T22:14:46.474Z"
     },
     {
       "id": "250510",
@@ -2828,7 +3250,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:28.944Z"
+      "scrapedAt": "2026-10-06T22:14:48.940Z"
     },
     {
       "id": "250509",
@@ -2934,7 +3356,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:30.989Z"
+      "scrapedAt": "2026-10-06T22:14:51.422Z"
     },
     {
       "id": "250507",
@@ -3040,7 +3462,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:33.025Z"
+      "scrapedAt": "2026-10-06T22:14:53.914Z"
     },
     {
       "id": "250508",
@@ -3146,7 +3568,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:35.062Z"
+      "scrapedAt": "2026-10-06T22:14:56.378Z"
     },
     {
       "id": "250506",
@@ -3252,7 +3674,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:37.130Z"
+      "scrapedAt": "2026-10-06T22:14:58.841Z"
     },
     {
       "id": "250323",
@@ -3358,7 +3780,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:39.543Z"
+      "scrapedAt": "2026-10-06T22:15:01.329Z"
     },
     {
       "id": "222834",
@@ -3467,7 +3889,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:41.608Z"
+      "scrapedAt": "2026-10-06T22:15:03.809Z"
     },
     {
       "id": "220911",
@@ -3576,7 +3998,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:43.640Z"
+      "scrapedAt": "2026-10-06T22:15:06.275Z"
     },
     {
       "id": "218961",
@@ -3685,7 +4107,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:45.669Z"
+      "scrapedAt": "2026-10-06T22:15:08.779Z"
     },
     {
       "id": "217989",
@@ -3794,7 +4216,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:47.973Z"
+      "scrapedAt": "2026-10-06T22:15:11.268Z"
     },
     {
       "id": "216925",
@@ -3903,7 +4325,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:49.978Z"
+      "scrapedAt": "2026-10-06T22:15:13.742Z"
     },
     {
       "id": "215586",
@@ -4012,7 +4434,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:52.021Z"
+      "scrapedAt": "2026-10-06T22:15:16.225Z"
     },
     {
       "id": "213924",
@@ -4121,7 +4543,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:54.065Z"
+      "scrapedAt": "2026-10-06T22:15:18.562Z"
     },
     {
       "id": "212433",
@@ -4230,7 +4652,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:56.104Z"
+      "scrapedAt": "2026-10-06T22:15:21.039Z"
     },
     {
       "id": "210699",
@@ -4339,7 +4761,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:40:58.148Z"
+      "scrapedAt": "2026-10-06T22:15:23.537Z"
     },
     {
       "id": "209538",
@@ -4448,7 +4870,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:00.162Z"
+      "scrapedAt": "2026-10-06T22:15:25.979Z"
     },
     {
       "id": "207970",
@@ -4557,7 +4979,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:02.171Z"
+      "scrapedAt": "2026-10-06T22:15:28.459Z"
     },
     {
       "id": "207044",
@@ -4666,7 +5088,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:04.476Z"
+      "scrapedAt": "2026-10-06T22:15:30.946Z"
     },
     {
       "id": "189917",
@@ -4775,7 +5197,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:06.497Z"
+      "scrapedAt": "2026-10-06T22:15:33.428Z"
     },
     {
       "id": "188187",
@@ -4884,7 +5306,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:08.527Z"
+      "scrapedAt": "2026-10-06T22:15:35.935Z"
     },
     {
       "id": "185832",
@@ -4993,7 +5415,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:10.569Z"
+      "scrapedAt": "2026-10-06T22:15:38.406Z"
     },
     {
       "id": "184812",
@@ -5102,7 +5524,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:12.600Z"
+      "scrapedAt": "2026-10-06T22:15:40.875Z"
     },
     {
       "id": "183134",
@@ -5211,7 +5633,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:14.627Z"
+      "scrapedAt": "2026-10-06T22:15:43.328Z"
     },
     {
       "id": "182130",
@@ -5320,443 +5742,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-06T12:41:16.707Z"
-    },
-    {
-      "id": "181335",
-      "title": "مسلسل Tracker الموسم الثالث الحلقة 4 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=181335",
-      "image": "https://web.topcinema.io/wp-content/uploads/2025/10/vpsodoLj7b6A4qqfBlUBStatvmN-433x650.jpg",
-      "imdbRating": null,
-      "story": "يسافر (كولتر شو) عبر البلاد بسيّارته القديمة، لمساعدة الشرطة والمواطنين في حلّ الجرائم والعثور على الأشخاص المفقودين، إلا أن قضيّته الأخيرة تتسبّب في الكثير من التغيّرات في حياته.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Ken Olin"
-        ],
-        "بطولة": [
-          "Abby McEnany",
-          "Aggie Bell",
-          "Anja Savcic",
-          "Chris Casson"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-5fn4s94jfbg0.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/5fn4s94jfbg0.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/1q5lv14u5s5b",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vJSt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/v0xthbd6egja",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/7A8FEDD8C5DDD72",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?hixhfw8aig8ybj1dwpxp",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/20797ee945dc2c01a9929d108897598e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/n5kw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qjfr",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-06T12:41:18.736Z"
-    },
-    {
-      "id": "180339",
-      "title": "مسلسل Tracker الموسم الثالث الحلقة 3 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=180339",
-      "image": "https://web.topcinema.io/wp-content/uploads/2025/10/vpsodoLj7b6A4qqfBlUBStatvmN-433x650.jpg",
-      "imdbRating": null,
-      "story": "يسافر (كولتر شو) عبر البلاد بسيّارته القديمة، لمساعدة الشرطة والمواطنين في حلّ الجرائم والعثور على الأشخاص المفقودين، إلا أن قضيّته الأخيرة تتسبّب في الكثير من التغيّرات في حياته.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Ken Olin"
-        ],
-        "بطولة": [
-          "Abby McEnany",
-          "Aggie Bell",
-          "Anja Savcic",
-          "Chris Casson"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ko3ex3309qh7.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ko3ex3309qh7.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/oqt486f93wxo",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vJSs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/i0lu82b8ynfm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/BCD66CC19CBD74C",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?gf5sqeho0ecll0vjvn69",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/5efb48d7040b9b45ed8bd48ce4c7e998",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/n5kv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qjfq",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-06T12:41:20.758Z"
-    },
-    {
-      "id": "179239",
-      "title": "مسلسل Tracker الموسم الثالث الحلقة 2 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=179239",
-      "image": "https://web.topcinema.io/wp-content/uploads/2025/10/vpsodoLj7b6A4qqfBlUBStatvmN-433x650.jpg",
-      "imdbRating": null,
-      "story": "يسافر (كولتر شو) عبر البلاد بسيّارته القديمة، لمساعدة الشرطة والمواطنين في حلّ الجرائم والعثور على الأشخاص المفقودين، إلا أن قضيّته الأخيرة تتسبّب في الكثير من التغيّرات في حياته.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Ken Olin"
-        ],
-        "بطولة": [
-          "Abby McEnany",
-          "Aggie Bell",
-          "Anja Savcic",
-          "Chris Casson"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-5aggyzqopt07.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/5aggyzqopt07.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/7x5go2kiauz9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2PMq7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/jkbdwww3eyl6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/28023A082F4F564",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?rdiv0gucyljgead82f99",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/70be4c384342260f2dcf23a896b4168c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/n5ku",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cea3",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-06T12:41:22.786Z"
-    },
-    {
-      "id": "177981",
-      "title": "مسلسل Tracker الموسم الثالث الحلقة 1 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=177981",
-      "image": "https://web.topcinema.io/wp-content/uploads/2025/10/vpsodoLj7b6A4qqfBlUBStatvmN-433x650.jpg",
-      "imdbRating": null,
-      "story": "يسافر (كولتر شو) عبر البلاد بسيّارته القديمة، لمساعدة الشرطة والمواطنين في حلّ الجرائم والعثور على الأشخاص المفقودين، إلا أن قضيّته الأخيرة تتسبّب في الكثير من التغيّرات في حياته.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Ken Olin"
-        ],
-        "بطولة": [
-          "Abby McEnany",
-          "Aggie Bell",
-          "Anja Savcic",
-          "Chris Casson"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-g02bpvboyc16.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/g02bpvboyc16.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/xhhnp3dmlru0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2PMq6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/u8872cduq76v",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/F93A4EDCE1E74C0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?0mezxrs46og8ltge1qba",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/53f5494dcac72e2821a3f87ef27282e8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/n5kt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cea2",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-06T12:41:24.832Z"
+      "scrapedAt": "2026-10-06T22:15:45.820Z"
     }
   ]
 }
