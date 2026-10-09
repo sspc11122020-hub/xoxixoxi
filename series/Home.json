@@ -2,8 +2,545 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-10-08T22:49:29.321Z",
+  "lastUpdated": "2026-10-09T04:20:11.392Z",
   "series": [
+    {
+      "id": "251079",
+      "title": "مسلسل The Ark الموسم الثالث الحلقة 11 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=251079",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/07/xKciDV7Kbn5U7uoTVvwnz1OioCq-462x650.jpg",
+      "imdbRating": "5.8",
+      "story": "يتابع المسلسل قصة الطاقم المتبقي لمركبة فضائية تُعرف باسم \"آرك وان\"، والذين يجب أن يصبحوا أفضل نسخة من أنفسهم للبقاء على المسار الصحيح والنجاة بعد تعرضهم لحدث كارثي تسبب في دمار هائل وخسائر في الأرواح.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "خيال علمي",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Dean Devlin",
+          "Jonathan Glassner",
+          "Marc Roskin"
+        ],
+        "بطولة": [
+          "Christie Burke",
+          "Christina Wolfe",
+          "Cosmo Kay",
+          "Jelena Moore"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-ark-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-brd8nd3rlcaw.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/brd8nd3rlcaw.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/l9bak5g58tq6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4RGeQ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/pajonti1zlzi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E0EA324EAEF4B9C",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?4ri18e06xowx3wvplgag",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/e4dea2abff9e2fd9b29418c8f1194d88",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6ji5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wjdh",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-09T04:18:26.070Z"
+    },
+    {
+      "id": "251363",
+      "title": "مسلسل Pionek الموسم الاول الحلقة 6 والاخيرة مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pionek-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=251363",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/09/iirTKNlAVdacYHo3fXBGIzhglQU-433x650.jpg",
+      "imdbRating": "5.5",
+      "story": "أثناء قيامها بأبحاث في منطقة \"بودخالي\"، تعثر عالمة الأنثروبولوجيا \"أنكا\" على جثة، وتجد نفسها منخرطة في حل لغز جريمة قتل إلى جانب الصحفي الجريء \"سيباستيان\" والشرطي \"يدريك\".",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "بولندا"
+        ],
+        "بطولة": [
+          "Maciej Musial",
+          "Maria Debska",
+          "Piotr Adamczyk"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pionek-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-xiwt5hnl5qac.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/xiwt5hnl5qac.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/5xr7ptvvykc3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4RGem",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/zsz0ltridf1p",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/80ACE9A8C297D21",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?l69clzq1tew9frck9i88",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/21113e12978afca04a90970103d9f20b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6ji2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2Se7v",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-09T04:18:28.060Z"
+    },
+    {
+      "id": "251364",
+      "title": "مسلسل Pionek الموسم الاول الحلقة 5 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pionek-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=251364",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/09/iirTKNlAVdacYHo3fXBGIzhglQU-433x650.jpg",
+      "imdbRating": "5.5",
+      "story": "أثناء قيامها بأبحاث في منطقة \"بودخالي\"، تعثر عالمة الأنثروبولوجيا \"أنكا\" على جثة، وتجد نفسها منخرطة في حل لغز جريمة قتل إلى جانب الصحفي الجريء \"سيباستيان\" والشرطي \"يدريك\".",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "بولندا"
+        ],
+        "بطولة": [
+          "Maciej Musial",
+          "Maria Debska",
+          "Piotr Adamczyk"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pionek-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-cm5rntjn27fa.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/cm5rntjn27fa.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/2q1vke60x3mp",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4RGel",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/joofxz1a1avk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/64CAD483999AA85",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?j9mvusicd67psoevaset",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/95dc5d2d890e0c3f401c73634206380e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6ji0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cgF9",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-09T04:18:30.050Z"
+    },
+    {
+      "id": "251362",
+      "title": "مسلسل Pionek الموسم الاول الحلقة 4 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pionek-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=251362",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/09/iirTKNlAVdacYHo3fXBGIzhglQU-433x650.jpg",
+      "imdbRating": "5.5",
+      "story": "أثناء قيامها بأبحاث في منطقة \"بودخالي\"، تعثر عالمة الأنثروبولوجيا \"أنكا\" على جثة، وتجد نفسها منخرطة في حل لغز جريمة قتل إلى جانب الصحفي الجريء \"سيباستيان\" والشرطي \"يدريك\".",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "بولندا"
+        ],
+        "بطولة": [
+          "Maciej Musial",
+          "Maria Debska",
+          "Piotr Adamczyk"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pionek-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-e6v1hujou9ym.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/e6v1hujou9ym.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/4lmq6khsv5j1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4RGek",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/3pr7v7rgha0b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/8A7C59E836F6EB3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?1n1yr7wku0ak69g04yle",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/e04b35759afee9a89c442abfd9952977",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/avr0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cgF6",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-09T04:18:32.024Z"
+    },
+    {
+      "id": "251076",
+      "title": "مسلسل Abbott Elementary الموسم السادس الحلقة 1 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-abbott-elementary-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=251076",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/tcHL9PndhR1GKgwZLdkBCUwsOvC-433x650.jpg",
+      "imdbRating": "8.2",
+      "story": "في إطار كوميدي، تجتمع مجموعة من المعلمين المتفانين والمتحمسين في مدرسة عامة في (فيلادلفيا)، على الرغم من الصعوبات التي تواجههم، فإنهم مصممون على مساعدة طلابهم على النجاح في الحياة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Claire Scanlon",
+          "Dime Davis",
+          "Geeta Malik"
+        ],
+        "بطولة": [
+          "Aayden William",
+          "Chris Perfetti",
+          "Courtney Taylor",
+          "Janelle James"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-abbott-elementary-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-jh8cz9s0tbxu.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/jh8cz9s0tbxu.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/srp9ewqolkzv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vLj7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/qudrs7u87xp7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/D6D2BE83E25A370",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?78azombl4co7kudus0op",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/091a559070399e0f09744d880e6bcd89",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6jhr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wjag",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-09T04:18:34.003Z"
+    },
     {
       "id": "251221",
       "title": "مسلسل Blue Lights الموسم الرابع الحلقة 6 والاخيرة مترجمة",
@@ -114,7 +651,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:29.903Z"
+      "scrapedAt": "2026-10-09T04:18:35.982Z"
     },
     {
       "id": "251220",
@@ -226,7 +763,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:32.403Z"
+      "scrapedAt": "2026-10-09T04:18:38.000Z"
     },
     {
       "id": "251222",
@@ -338,7 +875,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:34.645Z"
+      "scrapedAt": "2026-10-09T04:18:39.978Z"
     },
     {
       "id": "251219",
@@ -450,7 +987,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:37.094Z"
+      "scrapedAt": "2026-10-09T04:18:41.941Z"
     },
     {
       "id": "251218",
@@ -562,7 +1099,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:39.253Z"
+      "scrapedAt": "2026-10-09T04:18:43.927Z"
     },
     {
       "id": "251215",
@@ -674,7 +1211,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:41.417Z"
+      "scrapedAt": "2026-10-09T04:18:45.925Z"
     },
     {
       "id": "251213",
@@ -781,7 +1318,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:43.579Z"
+      "scrapedAt": "2026-10-09T04:18:47.882Z"
     },
     {
       "id": "251197",
@@ -884,7 +1421,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:45.732Z"
+      "scrapedAt": "2026-10-09T04:18:49.842Z"
     },
     {
       "id": "251196",
@@ -987,7 +1524,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:47.896Z"
+      "scrapedAt": "2026-10-09T04:18:51.811Z"
     },
     {
       "id": "251194",
@@ -1090,7 +1627,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:50.093Z"
+      "scrapedAt": "2026-10-09T04:18:53.777Z"
     },
     {
       "id": "251192",
@@ -1193,7 +1730,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:52.279Z"
+      "scrapedAt": "2026-10-09T04:18:55.774Z"
     },
     {
       "id": "251195",
@@ -1296,7 +1833,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:54.725Z"
+      "scrapedAt": "2026-10-09T04:18:57.763Z"
     },
     {
       "id": "251193",
@@ -1399,7 +1936,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:56.903Z"
+      "scrapedAt": "2026-10-09T04:18:59.765Z"
     },
     {
       "id": "251191",
@@ -1502,7 +2039,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:47:59.058Z"
+      "scrapedAt": "2026-10-09T04:19:01.727Z"
     },
     {
       "id": "251187",
@@ -1605,7 +2142,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:01.199Z"
+      "scrapedAt": "2026-10-09T04:19:03.695Z"
     },
     {
       "id": "250603",
@@ -1709,7 +2246,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:03.336Z"
+      "scrapedAt": "2026-10-09T04:19:05.630Z"
     },
     {
       "id": "251161",
@@ -1821,7 +2358,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:05.530Z"
+      "scrapedAt": "2026-10-09T04:19:07.558Z"
     },
     {
       "id": "251128",
@@ -1933,7 +2470,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:07.708Z"
+      "scrapedAt": "2026-10-09T04:19:09.544Z"
     },
     {
       "id": "251135",
@@ -2045,7 +2582,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:10.212Z"
+      "scrapedAt": "2026-10-09T04:19:11.517Z"
     },
     {
       "id": "251134",
@@ -2157,7 +2694,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:12.367Z"
+      "scrapedAt": "2026-10-09T04:19:13.604Z"
     },
     {
       "id": "251129",
@@ -2269,7 +2806,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:14.837Z"
+      "scrapedAt": "2026-10-09T04:19:15.556Z"
     },
     {
       "id": "251131",
@@ -2381,7 +2918,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:16.998Z"
+      "scrapedAt": "2026-10-09T04:19:17.508Z"
     },
     {
       "id": "251132",
@@ -2493,7 +3030,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:19.177Z"
+      "scrapedAt": "2026-10-09T04:19:19.489Z"
     },
     {
       "id": "251127",
@@ -2605,7 +3142,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:21.845Z"
+      "scrapedAt": "2026-10-09T04:19:21.470Z"
     },
     {
       "id": "251130",
@@ -2717,7 +3254,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:23.975Z"
+      "scrapedAt": "2026-10-09T04:19:23.436Z"
     },
     {
       "id": "251133",
@@ -2829,7 +3366,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:26.124Z"
+      "scrapedAt": "2026-10-09T04:19:25.443Z"
     },
     {
       "id": "251126",
@@ -2941,7 +3478,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:28.489Z"
+      "scrapedAt": "2026-10-09T04:19:27.328Z"
     },
     {
       "id": "251125",
@@ -3053,7 +3590,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:30.645Z"
+      "scrapedAt": "2026-10-09T04:19:29.329Z"
     },
     {
       "id": "251117",
@@ -3165,7 +3702,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:32.778Z"
+      "scrapedAt": "2026-10-09T04:19:31.319Z"
     },
     {
       "id": "251122",
@@ -3277,7 +3814,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:35.221Z"
+      "scrapedAt": "2026-10-09T04:19:33.301Z"
     },
     {
       "id": "251118",
@@ -3389,7 +3926,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:37.437Z"
+      "scrapedAt": "2026-10-09T04:19:35.281Z"
     },
     {
       "id": "251120",
@@ -3501,7 +4038,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:39.600Z"
+      "scrapedAt": "2026-10-09T04:19:37.258Z"
     },
     {
       "id": "251119",
@@ -3613,7 +4150,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:41.752Z"
+      "scrapedAt": "2026-10-09T04:19:39.097Z"
     },
     {
       "id": "251121",
@@ -3725,7 +4262,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:43.942Z"
+      "scrapedAt": "2026-10-09T04:19:41.109Z"
     },
     {
       "id": "251114",
@@ -3837,7 +4374,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:46.473Z"
+      "scrapedAt": "2026-10-09T04:19:43.058Z"
     },
     {
       "id": "251115",
@@ -3949,7 +4486,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:48.639Z"
+      "scrapedAt": "2026-10-09T04:19:45.020Z"
     },
     {
       "id": "251116",
@@ -4061,7 +4598,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:50.778Z"
+      "scrapedAt": "2026-10-09T04:19:46.995Z"
     },
     {
       "id": "251113",
@@ -4173,7 +4710,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:52.950Z"
+      "scrapedAt": "2026-10-09T04:19:48.959Z"
     },
     {
       "id": "250877",
@@ -4285,7 +4822,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:55.131Z"
+      "scrapedAt": "2026-10-09T04:19:50.922Z"
     },
     {
       "id": "251110",
@@ -4392,7 +4929,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:57.244Z"
+      "scrapedAt": "2026-10-09T04:19:52.875Z"
     },
     {
       "id": "251109",
@@ -4499,7 +5036,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:48:59.388Z"
+      "scrapedAt": "2026-10-09T04:19:54.846Z"
     },
     {
       "id": "251108",
@@ -4606,7 +5143,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:49:01.582Z"
+      "scrapedAt": "2026-10-09T04:19:56.702Z"
     },
     {
       "id": "251100",
@@ -4718,7 +5255,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:49:03.727Z"
+      "scrapedAt": "2026-10-09T04:19:58.662Z"
     },
     {
       "id": "251101",
@@ -4830,7 +5367,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:49:05.889Z"
+      "scrapedAt": "2026-10-09T04:20:00.682Z"
     },
     {
       "id": "251102",
@@ -4942,7 +5479,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:49:08.027Z"
+      "scrapedAt": "2026-10-09T04:20:02.634Z"
     },
     {
       "id": "251099",
@@ -5054,7 +5591,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:49:10.190Z"
+      "scrapedAt": "2026-10-09T04:20:04.481Z"
     },
     {
       "id": "251098",
@@ -5166,7 +5703,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:49:12.357Z"
+      "scrapedAt": "2026-10-09T04:20:06.456Z"
     },
     {
       "id": "251095",
@@ -5278,7 +5815,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:49:14.977Z"
+      "scrapedAt": "2026-10-09T04:20:08.437Z"
     },
     {
       "id": "251093",
@@ -5385,544 +5922,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-08T22:49:17.152Z"
-    },
-    {
-      "id": "251088",
-      "title": "مسلسل The Kardashians الموسم الثامن الحلقة 1 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-kardashians-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=251088",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/MV5BMTFmZGIzNzUtZWJlYi00NWJjLWI3YTAtNTAzOWRlMzAwNzM2XkEyXkFqcGc@._V1_-520x650.jpg",
-      "imdbRating": "4.5",
-      "story": "يتبع عائلة كارداشيان وهم يحتفلون بمشاريع جديدة ويتنقلون عبر وضعهم الطبيعي الجديد ؛ الأمومة والعلاقات والأهداف المهنية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "Reality-TV"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "المملكة المتحدة"
-        ],
-        "بطولة": [
-          "Corey Gamble",
-          "Kendall Jenner",
-          "Khlo Kardashian",
-          "Kim Kardashian"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-kardashians-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-yt15pbzvni1m.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/yt15pbzvni1m.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/mbqfa2fqdud9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vLds",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/nuqc4hgslzdh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/BF456325A4AB66B",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?cfz0vdnhu0p6ttu2sfxx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/86c97495b7736d91b404d699de1bc6be",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6jey",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wj42",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-08T22:49:19.307Z"
-    },
-    {
-      "id": "251086",
-      "title": "مسلسل Below الموسم الاول الحلقة 2 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-below-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=251086",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/MV5BYzRjZjU3NTktOTY5My00YTEzLTliYjAtMDNjYjhiN2MyYjllXkEyXkFqcGc@-522x650.jpg",
-      "imdbRating": "6.6",
-      "story": "عندما يبث مخلوق بحري غامض الرعب داخل بلدة صغيرة، يناضل صياد لحماية أسرته ونمط حياة مجتمعه المهدد بالزوال.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رعب",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "كندا"
-        ],
-        "بطولة": [
-          "Charlie Heaton",
-          "Dana Puddicombe",
-          "Darrin Baker",
-          "Devon Bryan"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-below-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-c8x9u4d8vxk2.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/c8x9u4d8vxk2.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/66w4vtc9y1u5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vLdq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/xz4dux0mljc9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B7BBD9EB12AB548",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?s1jv8t5bez2dyzvynw25",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/dbacbd6b8cd76a20da1ceeaf7b9bb281",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6jew",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cgwi",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-08T22:49:21.429Z"
-    },
-    {
-      "id": "251074",
-      "title": "مسلسل Scrubs 2026 الموسم الثاني الحلقة 3 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-scrubs-2026-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=251074",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/09/1DAYawXp4tqbdsQZRmhNL3Uzh2p-433x650.jpg",
-      "imdbRating": "8.2",
-      "story": "في مستشفى القلب المقدس في كاليفورنيا، يشق جون دوريان طريقه في عالم الطب، حيث يتلقى العون من أصدقائه وزملائه المبتدئين، بجانب طبيب متعجرف يعتبره مثله الأعلى.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Aloma Wright",
-          "Amanda Morrow",
-          "Ava Bunn",
-          "David Gridley"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-scrubs-2026-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-h1zv16wrqg2f.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/h1zv16wrqg2f.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/v31kr8je43qe",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vLdn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/vocmjyh51jq6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/4F497C354A41BEF",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?0rpgxuks2yxq92x9vw6d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d58f747f4ec863f086ebd648ec33c077",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6jer",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cgwb",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-08T22:49:24.010Z"
-    },
-    {
-      "id": "251081",
-      "title": "مسلسل Below الموسم الاول الحلقة 1 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-below-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=251081",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/MV5BYzRjZjU3NTktOTY5My00YTEzLTliYjAtMDNjYjhiN2MyYjllXkEyXkFqcGc@-522x650.jpg",
-      "imdbRating": "6.6",
-      "story": "عندما يبث مخلوق بحري غامض الرعب داخل بلدة صغيرة، يناضل صياد لحماية أسرته ونمط حياة مجتمعه المهدد بالزوال.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رعب",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "كندا"
-        ],
-        "بطولة": [
-          "Charlie Heaton",
-          "Dana Puddicombe",
-          "Darrin Baker",
-          "Devon Bryan"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-below-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-khnxfywqrstm.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/khnxfywqrstm.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/39eyqam2bler",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vLdp",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/odz6n7nl09n6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E13282AB5517DE4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?18vgliba2a7tz0dghi0j",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/63ff482eee357b719ff70b399c0c7125",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6jet",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cgwd",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-08T22:49:26.148Z"
-    },
-    {
-      "id": "251051",
-      "title": "مسلسل NCIS الموسم الاول الحلقة 23 والاخيرة مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=251051",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/dzESVxZneQ7w72ylHOS5LWWsS0p-442x650.jpg",
-      "imdbRating": "7.8",
-      "story": "تتناول حلقات المسلسل قصة العديد من المخاطر التي يتعرض لها العملاء السريين التابعين لمكتب العمليات الخاصة، والذي يتوجب عليهم التخفي الدائم في عملهم عن طريق استخدام هويات مزيفة للإيقاع بالخارجين عن القانون والذين يمثلون خطرا وتهديدا كبيرا على الأمن القومي.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2003"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ffxroiteq7oz.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ffxroiteq7oz.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/rg0b8thraabr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bI4d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/muqfage4cy6v",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/ACE277EA614A012",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?0mkdl38hlm9mtc9emsg3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/35bd7ce93b713e3f36157590c0f43511",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/avaJ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qkbk",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-08T22:49:28.321Z"
+      "scrapedAt": "2026-10-09T04:20:10.391Z"
     }
   ]
 }
