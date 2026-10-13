@@ -2,8 +2,575 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-10-13T13:27:57.901Z",
+  "lastUpdated": "2026-10-13T22:15:57.730Z",
   "series": [
+    {
+      "id": "252434",
+      "title": "مسلسل Tyson الموسم الاول الحلقة 4 والاخيرة مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tyson-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=252434",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/MV5BZjk2OTZmOTgtY2E0NC00MDViLTg3NWYtNGQwMjZhNDJhNTNiXkEyXkFqcGc@-443x650.jpg",
+      "imdbRating": null,
+      "story": "مسلسل وثائقي من أربعة حلقات يتتبع مسيرة (مايك تايسون) من نشأته في بروكلين إلى أن أصبح أصغر بطل للعالم في الوزن الثقيل، وما تبع ذلك من شهرة وجدال ومراجعة لمسيرته وحياته الشخصية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "سيرة ذاتية",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tyson-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-6oftyaaz273c.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/6oftyaaz273c.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/x4ttx9bdw155",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bKrd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/0s894vcd6ek6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/FD096EB37E3482F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/e4045b650b7a480e8808d545b8968ce1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6k57",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wl7k",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-13T22:14:08.432Z"
+    },
+    {
+      "id": "252435",
+      "title": "مسلسل Tyson الموسم الاول الحلقة 3 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tyson-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=252435",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/MV5BZjk2OTZmOTgtY2E0NC00MDViLTg3NWYtNGQwMjZhNDJhNTNiXkEyXkFqcGc@-443x650.jpg",
+      "imdbRating": null,
+      "story": "مسلسل وثائقي من أربعة حلقات يتتبع مسيرة (مايك تايسون) من نشأته في بروكلين إلى أن أصبح أصغر بطل للعالم في الوزن الثقيل، وما تبع ذلك من شهرة وجدال ومراجعة لمسيرته وحياته الشخصية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "سيرة ذاتية",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tyson-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-sq4rb5jbyf99.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/sq4rb5jbyf99.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/yq1ezdim29ku",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vN1a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/uurofzsja1ai",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9DC61C49ED63875",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6e1154fada16e8447704352e7d697b96",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aweC",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2ciF3",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-13T22:14:10.462Z"
+    },
+    {
+      "id": "252433",
+      "title": "مسلسل Tyson الموسم الاول الحلقة 2 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tyson-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=252433",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/MV5BZjk2OTZmOTgtY2E0NC00MDViLTg3NWYtNGQwMjZhNDJhNTNiXkEyXkFqcGc@-443x650.jpg",
+      "imdbRating": null,
+      "story": "مسلسل وثائقي من أربعة حلقات يتتبع مسيرة (مايك تايسون) من نشأته في بروكلين إلى أن أصبح أصغر بطل للعالم في الوزن الثقيل، وما تبع ذلك من شهرة وجدال ومراجعة لمسيرته وحياته الشخصية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "سيرة ذاتية",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tyson-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-wn8rcpho6zab.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/wn8rcpho6zab.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/u8vlk35dv0kz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bKr8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/1g2cqve8e2ab",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E01C0E83CD1EBCA",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b554f8ef64d3498dd1fabb7a9d3af074",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6k54",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wl7d",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-13T22:14:12.503Z"
+    },
+    {
+      "id": "252429",
+      "title": "مسلسل Tyson الموسم الاول الحلقة 1 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tyson-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=252429",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/MV5BZjk2OTZmOTgtY2E0NC00MDViLTg3NWYtNGQwMjZhNDJhNTNiXkEyXkFqcGc@-443x650.jpg",
+      "imdbRating": null,
+      "story": "مسلسل وثائقي من أربعة حلقات يتتبع مسيرة (مايك تايسون) من نشأته في بروكلين إلى أن أصبح أصغر بطل للعالم في الوزن الثقيل، وما تبع ذلك من شهرة وجدال ومراجعة لمسيرته وحياته الشخصية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "سيرة ذاتية",
+          "وثائقي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tyson-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-txdkbnhs0ba9.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/txdkbnhs0ba9.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/5tc9sapxeh1i",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PPwq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/odb8l0xbugl6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/233AC4336AE2433",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2eaf27b82db32c1e6d8c9a8a9aec0392",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6k51",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wl79",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-13T22:14:14.469Z"
+    },
+    {
+      "id": "252015",
+      "title": "مسلسل Tracker الموسم الرابع الحلقة 2 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=252015",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/6CbUD6eAcMlGcIZOHulnb8PCCPl-434x650.jpg",
+      "imdbRating": "7.2",
+      "story": "يسافر (كولتر شو) عبر البلاد بسيّارته القديمة، لمساعدة الشرطة والمواطنين في حلّ الجرائم والعثور على الأشخاص المفقودين، إلا أن قضيّته الأخيرة تتسبّب في الكثير من التغيّرات في حياته.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Ken Olin"
+        ],
+        "بطولة": [
+          "Abby McEnany",
+          "Aggie Bell",
+          "Alison Thornton",
+          "Anja Savcic"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-9x57cmdnrnwt.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/9x57cmdnrnwt.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/nmoppse3gknn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PPwb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/n5lnts5s5dlp",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A8E5FD83E315DC2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/1e6b5be17614b78ade398ab625e6c03f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/awdP",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wl6d",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-13T22:14:16.399Z"
+    },
+    {
+      "id": "252014",
+      "title": "مسلسل Marshals الموسم الثاني الحلقة 2 مترجمة",
+      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-marshals-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://web.topcinema.io/?p=252014",
+      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/ou64XEy4H9eoBz97j5j2OpN0Jv1-433x650.jpg",
+      "imdbRating": "6.1",
+      "story": "يتبع العمل قصة (كايسي داتون)، الجندي السابق في القوات الخاصة، الذي يغادر مزرعة عائلته لينضمّ إلى جهاز الشرطة الفيدرالية، فيوظّف خبرته العسكرية ومهاراته في هيئة راعي بقر في مواجهة الجريمة في مونتانا.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما",
+          "ويسترن"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Arielle Kebbel",
+          "Ash Santos",
+          "Brecken Merrill",
+          "Brett Cullen"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-marshals-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-8l6y1nmrbpch.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/8l6y1nmrbpch.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/uixl7k38fu0g",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PPw9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/3l3lmzrbkvo0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/52E2509485F49AE",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/9f4a207efbc3ec0fdddfad22b6b02d99",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/awdN",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wl69",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-13T22:14:18.367Z"
+    },
     {
       "id": "252417",
       "title": "مسلسل The Trap الموسم الاول الحلقة 6 والاخيرة مترجمة",
@@ -102,7 +669,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:25:56.376Z"
+      "scrapedAt": "2026-10-13T22:14:20.341Z"
     },
     {
       "id": "252416",
@@ -202,7 +769,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:25:59.007Z"
+      "scrapedAt": "2026-10-13T22:14:22.301Z"
     },
     {
       "id": "252415",
@@ -302,7 +869,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:01.238Z"
+      "scrapedAt": "2026-10-13T22:14:24.263Z"
     },
     {
       "id": "251335",
@@ -409,7 +976,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:03.380Z"
+      "scrapedAt": "2026-10-13T22:14:26.227Z"
     },
     {
       "id": "252232",
@@ -515,7 +1082,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:05.590Z"
+      "scrapedAt": "2026-10-13T22:14:28.197Z"
     },
     {
       "id": "252235",
@@ -613,7 +1180,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:07.552Z"
+      "scrapedAt": "2026-10-13T22:14:30.209Z"
     },
     {
       "id": "252410",
@@ -713,7 +1280,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:09.754Z"
+      "scrapedAt": "2026-10-13T22:14:32.170Z"
     },
     {
       "id": "252409",
@@ -813,7 +1380,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:11.765Z"
+      "scrapedAt": "2026-10-13T22:14:34.139Z"
     },
     {
       "id": "252242",
@@ -913,7 +1480,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:14.306Z"
+      "scrapedAt": "2026-10-13T22:14:36.084Z"
     },
     {
       "id": "252407",
@@ -1019,7 +1586,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:16.611Z"
+      "scrapedAt": "2026-10-13T22:14:38.049Z"
     },
     {
       "id": "252234",
@@ -1123,7 +1690,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:19.133Z"
+      "scrapedAt": "2026-10-13T22:14:40.028Z"
     },
     {
       "id": "252330",
@@ -1235,7 +1802,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:21.696Z"
+      "scrapedAt": "2026-10-13T22:14:42.237Z"
     },
     {
       "id": "252329",
@@ -1347,7 +1914,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:23.965Z"
+      "scrapedAt": "2026-10-13T22:14:44.326Z"
     },
     {
       "id": "252328",
@@ -1459,7 +2026,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:26.302Z"
+      "scrapedAt": "2026-10-13T22:14:46.397Z"
     },
     {
       "id": "252321",
@@ -1571,7 +2138,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:28.775Z"
+      "scrapedAt": "2026-10-13T22:14:48.477Z"
     },
     {
       "id": "252322",
@@ -1683,7 +2250,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:30.867Z"
+      "scrapedAt": "2026-10-13T22:14:50.658Z"
     },
     {
       "id": "252323",
@@ -1795,7 +2362,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:33.162Z"
+      "scrapedAt": "2026-10-13T22:14:52.761Z"
     },
     {
       "id": "252326",
@@ -1907,7 +2474,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:35.463Z"
+      "scrapedAt": "2026-10-13T22:14:54.756Z"
     },
     {
       "id": "252320",
@@ -2019,7 +2586,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:37.705Z"
+      "scrapedAt": "2026-10-13T22:14:56.850Z"
     },
     {
       "id": "252319",
@@ -2131,7 +2698,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:39.990Z"
+      "scrapedAt": "2026-10-13T22:14:58.916Z"
     },
     {
       "id": "252318",
@@ -2243,7 +2810,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:42.295Z"
+      "scrapedAt": "2026-10-13T22:15:00.991Z"
     },
     {
       "id": "252325",
@@ -2355,7 +2922,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:44.542Z"
+      "scrapedAt": "2026-10-13T22:15:03.065Z"
     },
     {
       "id": "252324",
@@ -2467,7 +3034,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:47.081Z"
+      "scrapedAt": "2026-10-13T22:15:05.121Z"
     },
     {
       "id": "252317",
@@ -2579,7 +3146,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:49.204Z"
+      "scrapedAt": "2026-10-13T22:15:07.200Z"
     },
     {
       "id": "252313",
@@ -2691,7 +3258,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:51.432Z"
+      "scrapedAt": "2026-10-13T22:15:09.729Z"
     },
     {
       "id": "252314",
@@ -2803,7 +3370,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:53.716Z"
+      "scrapedAt": "2026-10-13T22:15:11.823Z"
     },
     {
       "id": "252315",
@@ -2915,7 +3482,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:56.155Z"
+      "scrapedAt": "2026-10-13T22:15:13.923Z"
     },
     {
       "id": "252308",
@@ -3027,7 +3594,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:26:58.433Z"
+      "scrapedAt": "2026-10-13T22:15:15.922Z"
     },
     {
       "id": "252312",
@@ -3139,7 +3706,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:00.737Z"
+      "scrapedAt": "2026-10-13T22:15:17.874Z"
     },
     {
       "id": "252309",
@@ -3251,7 +3818,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:02.802Z"
+      "scrapedAt": "2026-10-13T22:15:20.024Z"
     },
     {
       "id": "252307",
@@ -3363,7 +3930,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:05.210Z"
+      "scrapedAt": "2026-10-13T22:15:21.977Z"
     },
     {
       "id": "252310",
@@ -3475,7 +4042,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:07.518Z"
+      "scrapedAt": "2026-10-13T22:15:23.971Z"
     },
     {
       "id": "252311",
@@ -3587,7 +4154,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:09.806Z"
+      "scrapedAt": "2026-10-13T22:15:25.987Z"
     },
     {
       "id": "252306",
@@ -3699,7 +4266,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:12.241Z"
+      "scrapedAt": "2026-10-13T22:15:27.957Z"
     },
     {
       "id": "251660",
@@ -3811,7 +4378,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:14.508Z"
+      "scrapedAt": "2026-10-13T22:15:30.364Z"
     },
     {
       "id": "252269",
@@ -3923,7 +4490,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:16.703Z"
+      "scrapedAt": "2026-10-13T22:15:32.371Z"
     },
     {
       "id": "252270",
@@ -4035,7 +4602,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:19.146Z"
+      "scrapedAt": "2026-10-13T22:15:34.336Z"
     },
     {
       "id": "252268",
@@ -4147,7 +4714,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:21.291Z"
+      "scrapedAt": "2026-10-13T22:15:36.298Z"
     },
     {
       "id": "252259",
@@ -4259,7 +4826,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:23.728Z"
+      "scrapedAt": "2026-10-13T22:15:38.272Z"
     },
     {
       "id": "252265",
@@ -4371,7 +4938,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:25.851Z"
+      "scrapedAt": "2026-10-13T22:15:40.573Z"
     },
     {
       "id": "252260",
@@ -4483,7 +5050,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:27.890Z"
+      "scrapedAt": "2026-10-13T22:15:42.566Z"
     },
     {
       "id": "252262",
@@ -4595,7 +5162,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:30.068Z"
+      "scrapedAt": "2026-10-13T22:15:44.599Z"
     },
     {
       "id": "252263",
@@ -4707,7 +5274,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:32.063Z"
+      "scrapedAt": "2026-10-13T22:15:46.603Z"
     },
     {
       "id": "252258",
@@ -4819,7 +5386,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:34.053Z"
+      "scrapedAt": "2026-10-13T22:15:48.589Z"
     },
     {
       "id": "252266",
@@ -4931,7 +5498,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:36.286Z"
+      "scrapedAt": "2026-10-13T22:15:50.594Z"
     },
     {
       "id": "252264",
@@ -5043,7 +5610,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:38.437Z"
+      "scrapedAt": "2026-10-13T22:15:52.802Z"
     },
     {
       "id": "252261",
@@ -5155,7 +5722,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:40.959Z"
+      "scrapedAt": "2026-10-13T22:15:54.765Z"
     },
     {
       "id": "252257",
@@ -5267,679 +5834,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-13T13:27:43.164Z"
-    },
-    {
-      "id": "252255",
-      "title": "مسلسل NCIS الموسم الثامن الحلقة 11 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=252255",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/an61rOKh5Udo6Gj7wyJ5zIokVuU-442x650.jpg",
-      "imdbRating": "7.8",
-      "story": "يعد هذا الجزء تكملة لسلسلة القضايا الجنائية، التي يحلها فريق التحقيقات الجنائية في البحرية بعبقرية، حيث يتولون العديد من القضايا العويصة ويعلمون على حلها بكفاءة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2010"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-gp3ndpxvjhsg.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/gp3ndpxvjhsg.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/mgc9swz5jbld",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vMd3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/tbqufqw2im8q",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2B3C5A56B1406A3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?6zov0795txe0syq7ol1d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/4a8e646964cb6932e8c1f8ab408636df",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ripU",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2chzW",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-13T13:27:45.282Z"
-    },
-    {
-      "id": "252247",
-      "title": "مسلسل NCIS الموسم الثامن الحلقة 10 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=252247",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/an61rOKh5Udo6Gj7wyJ5zIokVuU-442x650.jpg",
-      "imdbRating": "7.8",
-      "story": "يعد هذا الجزء تكملة لسلسلة القضايا الجنائية، التي يحلها فريق التحقيقات الجنائية في البحرية بعبقرية، حيث يتولون العديد من القضايا العويصة ويعلمون على حلها بكفاءة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2010"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-mcjhzp4crhgq.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/mcjhzp4crhgq.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/iurzou677ggk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vMd2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/asnorfqel1lc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/1006F043E2D313A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?zeupmtsve3egx9utzbev",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/e1780353531ed1449511bd4238035bcb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ripT",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2chzU",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-13T13:27:47.728Z"
-    },
-    {
-      "id": "252254",
-      "title": "مسلسل NCIS الموسم الثامن الحلقة 9 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=252254",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/an61rOKh5Udo6Gj7wyJ5zIokVuU-442x650.jpg",
-      "imdbRating": "7.8",
-      "story": "يعد هذا الجزء تكملة لسلسلة القضايا الجنائية، التي يحلها فريق التحقيقات الجنائية في البحرية بعبقرية، حيث يتولون العديد من القضايا العويصة ويعلمون على حلها بكفاءة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2010"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-nzyy6lfd6j20.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/nzyy6lfd6j20.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/z7rgzojxa7ce",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vMd1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/mesdbtk5hcwx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/11C028A7789C36A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?pkxd7l5s7feas274kttw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/fb07e283c8ac1dde83fff0830a878aed",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ripS",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wk7x",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-13T13:27:50.089Z"
-    },
-    {
-      "id": "252252",
-      "title": "مسلسل NCIS الموسم الثامن الحلقة 8 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=252252",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/an61rOKh5Udo6Gj7wyJ5zIokVuU-442x650.jpg",
-      "imdbRating": "7.8",
-      "story": "يعد هذا الجزء تكملة لسلسلة القضايا الجنائية، التي يحلها فريق التحقيقات الجنائية في البحرية بعبقرية، حيث يتولون العديد من القضايا العويصة ويعلمون على حلها بكفاءة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2010"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-9m0zzqhkqhkr.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/9m0zzqhkqhkr.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/0zjxmawrse6y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vMd0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/5i02qri38u9q",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/AB9599FB5098F8E",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?p0uprgapkm57t3ondewz",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/1689d938db6e5a2f502faedc9b4f5716",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ripR",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wk7w",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-13T13:27:52.569Z"
-    },
-    {
-      "id": "252253",
-      "title": "مسلسل NCIS الموسم الثامن الحلقة 7 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=252253",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/an61rOKh5Udo6Gj7wyJ5zIokVuU-442x650.jpg",
-      "imdbRating": "7.8",
-      "story": "يعد هذا الجزء تكملة لسلسلة القضايا الجنائية، التي يحلها فريق التحقيقات الجنائية في البحرية بعبقرية، حيث يتولون العديد من القضايا العويصة ويعلمون على حلها بكفاءة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2010"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-dulg7psi689d.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/dulg7psi689d.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ojxh7k4zxh5o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/5xEzX",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/mmhfoxldk6q6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/3739444CA3779E4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?mvl2zvnnykeew7qhsk72",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/81f0cccb35c2cf733e7cdf05dabb5a7a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ripQ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wk7u",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-13T13:27:54.783Z"
-    },
-    {
-      "id": "252248",
-      "title": "مسلسل NCIS الموسم الثامن الحلقة 6 مترجمة",
-      "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://web.topcinema.io/?p=252248",
-      "image": "https://web.topcinema.io/wp-content/uploads/2026/10/an61rOKh5Udo6Gj7wyJ5zIokVuU-442x650.jpg",
-      "imdbRating": "7.8",
-      "story": "يعد هذا الجزء تكملة لسلسلة القضايا الجنائية، التي يحلها فريق التحقيقات الجنائية في البحرية بعبقرية، حيث يتولون العديد من القضايا العويصة ويعلمون على حلها بكفاءة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2010"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://web.topcinema.io/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-mfnnywnqn6mf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/mfnnywnqn6mf.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/p09e95mo27vl",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/5xEzV",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/50mvanz76o7j",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2444DF45CB2D99E",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?1bp8zrx6rx30t639frvw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/fe38c5031d5d045b2984d5d53dd66f4a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ripP",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wk7r",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-13T13:27:56.900Z"
+      "scrapedAt": "2026-10-13T22:15:56.729Z"
     }
   ]
 }
