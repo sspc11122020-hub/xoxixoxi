@@ -2,8 +2,192 @@
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-10-19T22:35:36.833Z",
+  "lastUpdated": "2026-10-20T05:09:32.599Z",
   "series": [
+    {
+      "id": "253771",
+      "title": "انمي Aoki Denshou Welsh & Shedar الحلقة 2 مترجمة",
+      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-aoki-denshou-welsh-shedar-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=253771",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BOTc0NjcxODctMjFiMC00ZmRlLTgyZGQtOTkxY2MzYjlmYzhmXkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": "8.2",
+      "story": "\"ويلش\" فتى مراهق من الريف يعشق الطهي، و\"شيدار\"، وهو أمير شاب مقدّر له أن يعتلي العرش يوماً ما. وحين يجمعهما لقاء عابر رغم اختلاف حياتهما تماماً، تبدأ عجلة القدر في الدوران؛ ليجدا نفسيهما مضطرين للعمل معاً من أجل بناء مستقبل يسوده السلام، وذلك عبر التصدي لطاغيةٍ قاسٍ يسعى لغزو العالم.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-aoki-denshou-welsh-shedar-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-7l724vlmnedk.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/7l724vlmnedk.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/3cu11tshagfy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bNb9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/b8dah6o9z3r1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/F2D78E1CB594D39",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b9b6ed6e8290d845583f9351cd4cb9f7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6l01",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qrxv",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-20T05:07:42.519Z"
+    },
+    {
+      "id": "253635",
+      "title": "انمي Psyren الحلقة 3 مترجمة",
+      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-psyren-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=253635",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BOTVlYzMzNmQtNTY1Yi00ZDZiLTgwOGYtN2Q0OWI4ZTBhOTIzXkEyXkFqcGc@._V1_-scaled-433x650.jpg",
+      "imdbRating": null,
+      "story": "“أغيها يوشينا”، طالب ثانوي واثق من نفسه يساعد الآخرين مقابل المال. في أحد الأيام، يعثر على بطاقة غامضة تحمل كلمة “Psyren”، ثم يكتشف أن زميلته “ساكوراكو أماميا” تمتلك بطاقة مماثلة وتطلب منه إنقاذها قبل أن تختفي فجأة. في محاولة لمعرفة ما حدث لها، يتصل أغيها بالرقم الموجود على البطاقة، ليجد نفسه منجذبًا إلى عالم غريب وخطير يُعرف باسم “Psyren”، تسكنه مخلوقات مرعبة تُسمى “Taboo”. هناك، يدخل أغيها وساكوراكو في لعبة حياة أو موت، ويكتسبان قدرات نفسية تُعرف باسم “PSI”، ليبدآ القتال من أجل النجاة والعثور على طريق يعيدهما إلى موطنهما.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-psyren-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-wq6yxqo3757g.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/wq6yxqo3757g.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/tcf7n7224wt0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4RKC8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/mkx3qh5m5il0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/AA2699B4EFEC8B9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6c055fdf6f0e2ab2bc4dff34ac02233e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ax83",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cmls",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-20T05:07:44.517Z"
+    },
     {
       "id": "253563",
       "title": "انمي Tensei Goblin dakedo Shitsumon Aru الحلقة 4 مترجمة",
@@ -93,7 +277,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:35.292Z"
+      "scrapedAt": "2026-10-20T05:07:46.503Z"
     },
     {
       "id": "253542",
@@ -185,7 +369,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:37.574Z"
+      "scrapedAt": "2026-10-20T05:07:48.491Z"
     },
     {
       "id": "253508",
@@ -276,7 +460,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:39.784Z"
+      "scrapedAt": "2026-10-20T05:07:50.454Z"
     },
     {
       "id": "253497",
@@ -367,7 +551,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:42.014Z"
+      "scrapedAt": "2026-10-20T05:07:52.459Z"
     },
     {
       "id": "253461",
@@ -459,7 +643,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:44.550Z"
+      "scrapedAt": "2026-10-20T05:07:54.581Z"
     },
     {
       "id": "253467",
@@ -557,7 +741,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:46.725Z"
+      "scrapedAt": "2026-10-20T05:07:56.563Z"
     },
     {
       "id": "253459",
@@ -655,7 +839,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:49.198Z"
+      "scrapedAt": "2026-10-20T05:07:58.536Z"
     },
     {
       "id": "253465",
@@ -751,7 +935,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:51.401Z"
+      "scrapedAt": "2026-10-20T05:08:00.489Z"
     },
     {
       "id": "253463",
@@ -849,7 +1033,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:53.771Z"
+      "scrapedAt": "2026-10-20T05:08:02.440Z"
     },
     {
       "id": "253399",
@@ -948,7 +1132,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:55.946Z"
+      "scrapedAt": "2026-10-20T05:08:04.423Z"
     },
     {
       "id": "253457",
@@ -1046,7 +1230,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:33:58.108Z"
+      "scrapedAt": "2026-10-20T05:08:06.374Z"
     },
     {
       "id": "253455",
@@ -1144,7 +1328,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:00.264Z"
+      "scrapedAt": "2026-10-20T05:08:08.324Z"
     },
     {
       "id": "253453",
@@ -1241,7 +1425,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:02.456Z"
+      "scrapedAt": "2026-10-20T05:08:10.318Z"
     },
     {
       "id": "253451",
@@ -1338,7 +1522,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:04.632Z"
+      "scrapedAt": "2026-10-20T05:08:12.514Z"
     },
     {
       "id": "253449",
@@ -1435,7 +1619,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:07.032Z"
+      "scrapedAt": "2026-10-20T05:08:15.164Z"
     },
     {
       "id": "253444",
@@ -1531,7 +1715,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:09.226Z"
+      "scrapedAt": "2026-10-20T05:08:17.102Z"
     },
     {
       "id": "253420",
@@ -1629,7 +1813,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:11.401Z"
+      "scrapedAt": "2026-10-20T05:08:19.066Z"
     },
     {
       "id": "253398",
@@ -1727,7 +1911,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:13.733Z"
+      "scrapedAt": "2026-10-20T05:08:21.128Z"
     },
     {
       "id": "253410",
@@ -1825,7 +2009,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:15.912Z"
+      "scrapedAt": "2026-10-20T05:08:23.125Z"
     },
     {
       "id": "253366",
@@ -1916,7 +2100,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:18.044Z"
+      "scrapedAt": "2026-10-20T05:08:25.304Z"
     },
     {
       "id": "253365",
@@ -2007,7 +2191,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:20.198Z"
+      "scrapedAt": "2026-10-20T05:08:27.357Z"
     },
     {
       "id": "253240",
@@ -2097,7 +2281,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:22.386Z"
+      "scrapedAt": "2026-10-20T05:08:29.337Z"
     },
     {
       "id": "253238",
@@ -2189,7 +2373,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:24.577Z"
+      "scrapedAt": "2026-10-20T05:08:31.283Z"
     },
     {
       "id": "253239",
@@ -2281,7 +2465,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:26.945Z"
+      "scrapedAt": "2026-10-20T05:08:33.274Z"
     },
     {
       "id": "253235",
@@ -2373,7 +2557,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:29.370Z"
+      "scrapedAt": "2026-10-20T05:08:35.426Z"
     },
     {
       "id": "253226",
@@ -2463,7 +2647,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:31.804Z"
+      "scrapedAt": "2026-10-20T05:08:37.603Z"
     },
     {
       "id": "253237",
@@ -2553,7 +2737,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:33.970Z"
+      "scrapedAt": "2026-10-20T05:08:39.608Z"
     },
     {
       "id": "253227",
@@ -2644,7 +2828,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:36.187Z"
+      "scrapedAt": "2026-10-20T05:08:41.813Z"
     },
     {
       "id": "253228",
@@ -2779,7 +2963,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:38.387Z"
+      "scrapedAt": "2026-10-20T05:08:43.784Z"
     },
     {
       "id": "253225",
@@ -2871,7 +3055,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:40.574Z"
+      "scrapedAt": "2026-10-20T05:08:45.737Z"
     },
     {
       "id": "253282",
@@ -2962,7 +3146,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:42.748Z"
+      "scrapedAt": "2026-10-20T05:08:47.706Z"
     },
     {
       "id": "253223",
@@ -3052,7 +3236,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:44.922Z"
+      "scrapedAt": "2026-10-20T05:08:49.666Z"
     },
     {
       "id": "253224",
@@ -3143,7 +3327,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:47.263Z"
+      "scrapedAt": "2026-10-20T05:08:51.621Z"
     },
     {
       "id": "253221",
@@ -3235,7 +3419,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:49.677Z"
+      "scrapedAt": "2026-10-20T05:08:53.892Z"
     },
     {
       "id": "253062",
@@ -3331,7 +3515,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:52.086Z"
+      "scrapedAt": "2026-10-20T05:08:56.067Z"
     },
     {
       "id": "253061",
@@ -3429,7 +3613,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:54.237Z"
+      "scrapedAt": "2026-10-20T05:08:58.018Z"
     },
     {
       "id": "253060",
@@ -3525,7 +3709,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:56.426Z"
+      "scrapedAt": "2026-10-20T05:09:00.356Z"
     },
     {
       "id": "253059",
@@ -3622,7 +3806,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:34:58.596Z"
+      "scrapedAt": "2026-10-20T05:09:02.321Z"
     },
     {
       "id": "251565",
@@ -3720,7 +3904,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:00.789Z"
+      "scrapedAt": "2026-10-20T05:09:04.298Z"
     },
     {
       "id": "253045",
@@ -3819,7 +4003,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:03.020Z"
+      "scrapedAt": "2026-10-20T05:09:06.151Z"
     },
     {
       "id": "253044",
@@ -3918,7 +4102,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:05.169Z"
+      "scrapedAt": "2026-10-20T05:09:08.109Z"
     },
     {
       "id": "253043",
@@ -4017,7 +4201,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:07.307Z"
+      "scrapedAt": "2026-10-20T05:09:10.081Z"
     },
     {
       "id": "252957",
@@ -4113,7 +4297,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:10.118Z"
+      "scrapedAt": "2026-10-20T05:09:12.612Z"
     },
     {
       "id": "252992",
@@ -4211,7 +4395,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:12.309Z"
+      "scrapedAt": "2026-10-20T05:09:14.532Z"
     },
     {
       "id": "252993",
@@ -4309,7 +4493,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:14.839Z"
+      "scrapedAt": "2026-10-20T05:09:16.678Z"
     },
     {
       "id": "252990",
@@ -4407,7 +4591,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:17.211Z"
+      "scrapedAt": "2026-10-20T05:09:18.665Z"
     },
     {
       "id": "251304",
@@ -4499,7 +4683,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:19.371Z"
+      "scrapedAt": "2026-10-20T05:09:20.650Z"
     },
     {
       "id": "252902",
@@ -4591,7 +4775,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:21.528Z"
+      "scrapedAt": "2026-10-20T05:09:22.792Z"
     },
     {
       "id": "252831",
@@ -4684,7 +4868,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:23.975Z"
+      "scrapedAt": "2026-10-20T05:09:24.759Z"
     },
     {
       "id": "252790",
@@ -4774,7 +4958,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:26.466Z"
+      "scrapedAt": "2026-10-20T05:09:27.305Z"
     },
     {
       "id": "252787",
@@ -4867,7 +5051,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:28.637Z"
+      "scrapedAt": "2026-10-20T05:09:29.244Z"
     },
     {
       "id": "252786",
@@ -4960,192 +5144,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-19T22:35:30.821Z"
-    },
-    {
-      "id": "252782",
-      "title": "مسلسل Helluva Boss الموسم الثالث الحلقة 1 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-helluva-boss-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=252782",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_-434x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث، يتبع العمل قصة (بليتز) وموظفيه وهم يحاولون إنجاز أول مهمة لهم وسط الفوضى وقلة الخبرة، وتزداد الأمور تعقيدًا مع وقوع حوادث ومواقف تهدد بتوريطهم في دعاوى قضائية.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات اجنبي",
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-helluva-boss-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-jur39hbw4tuy.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/jur39hbw4tuy.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/6xvluz0b0v8g",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bLee",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/dr6ltfadcd3c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C9997267C5822D3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/67b2aec1b3105f87e3ed624827bdbd0a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6kl5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wmcd",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-19T22:35:33.026Z"
-    },
-    {
-      "id": "252733",
-      "title": "Shin Tennis no Oujisama: U-17 World Cup الموسم الثالث الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/shin-tennis-no-oujisama-u-17-world-cup-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=252733",
-      "image": "https://topcinema.film/wp-content/uploads/2026/09/159518l.jpg",
-      "imdbRating": null,
-      "story": "تستمر منافسات بطولة كأس العالم تحت 17 عامًا وما تحمله من مواجهات جديدة وحاسمة.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "دراما",
-          "رياضي",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/shin-tennis-no-oujisama-u-17-world-cup-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ladyrpj2rsey.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ladyrpj2rsey.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/regs275ws75f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vNp8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/h2055d086nzt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/CBFDB2BB8C183B7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/b67303bc3ba02362e3c72d38b7d0ed95",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/awnP",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qom9",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-19T22:35:35.834Z"
+      "scrapedAt": "2026-10-20T05:09:31.599Z"
     }
   ]
 }
