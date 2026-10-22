@@ -1,9 +1,1441 @@
 {
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
-  "totalSeries": 54,
-  "lastUpdated": "2026-10-22T11:04:58.138Z",
+  "totalSeries": 53,
+  "lastUpdated": "2026-10-22T16:33:28.381Z",
   "series": [
+    {
+      "id": "254173",
+      "title": "مسلسل MobLand الموسم الثاني الحلقة 6 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mobland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254173",
+      "image": "https://topcinema.film/wp-content/uploads/2026/09/_640x_e223b00435116a5c0dde45e5b35e7310fb6f3d692e5d76b4c472b8271d21d864-436x650.jpg",
+      "imdbRating": "8.3",
+      "story": "يتبع الموسم الثاني (هاري دا سوزا)، الذي يجد نفسه وسط حرب مفتوحة بين عصابات متنافسة عقب الصراع مع عائلة ستيفنسون، ويخوض صراعات جديدة على النفوذ، وحربًا داخلية على قيادة العائلة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "المملكة المتحدة"
+        ],
+        "بطولة": [
+          "Alex Fine",
+          "Anson Boon",
+          "Antonio Gonzlez Guerrero",
+          "Arnold Oceng"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-mobland-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-30b4eajobp5m.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/30b4eajobp5m.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/kj0n10q62tcz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOgw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/di1b9x5r73kr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/5A190593E0E30E2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?7yz5yxjoxvqvcwrk3n4u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/1d926e2718c680e772af4f4829a063ed",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2corB",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:27.717Z"
+    },
+    {
+      "id": "254163",
+      "title": "مسلسل The Kardashians الموسم الثامن الحلقة 3 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-kardashians-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254163",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BMTFmZGIzNzUtZWJlYi00NWJjLWI3YTAtNTAzOWRlMzAwNzM2XkEyXkFqcGc@._V1_-520x650.jpg",
+      "imdbRating": "4.5",
+      "story": "يتبع عائلة كارداشيان وهم يحتفلون بمشاريع جديدة ويتنقلون عبر وضعهم الطبيعي الجديد ؛ الأمومة والعلاقات والأهداف المهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "Reality-TV"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "المملكة المتحدة"
+        ],
+        "بطولة": [
+          "Corey Gamble",
+          "Kendall Jenner",
+          "Khlo Kardashian",
+          "Kim Kardashian"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-kardashians-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ycbgntk7h1b2.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ycbgntk7h1b2.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/o7v4ez3su2pk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vQO1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/mblkfjotqe1p",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/2FC33026FD3EBDB",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?utt6aethdxlrqknfkduf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fd3c4c7fafac3b2d6e67aeb794b58a8b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88Y",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2coq2",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:30.186Z"
+    },
+    {
+      "id": "254100",
+      "title": "مسلسل Scrubs 2026 الموسم الثاني الحلقة 5 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-scrubs-2026-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254100",
+      "image": "https://topcinema.film/wp-content/uploads/2026/09/1DAYawXp4tqbdsQZRmhNL3Uzh2p-433x650.jpg",
+      "imdbRating": "8.2",
+      "story": "في مستشفى القلب المقدس في كاليفورنيا، يشق جون دوريان طريقه في عالم الطب، حيث يتلقى العون من أصدقائه وزملائه المبتدئين، بجانب طبيب متعجرف يعتبره مثله الأعلى.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Aloma Wright",
+          "Amanda Morrow",
+          "Ava Bunn",
+          "David Gridley"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-scrubs-2026-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-mt7p0hidu8co.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/mt7p0hidu8co.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/xivkof4dd7kn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vQO2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/8tfjki5am221",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/AA5D0500F228959",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?xn9vw515sjjrguklhqcy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/28d33fe6b8537f30f6c0025a0b0ee037",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88Z",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qtvq",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:32.364Z"
+    },
+    {
+      "id": "254151",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 10 والاخيرة مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254151",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-vuf4pjmyq0v5.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/vuf4pjmyq0v5.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/1hr7iqbizs3x",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vQO0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/wsgr053d9kjq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/B4F20E0CF7F6BEC",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?pa7v1wh1u3mt01bbw3s3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/adb8fb56740b81c9b59c0aa5b3378840",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88X",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qtvg",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:34.489Z"
+    },
+    {
+      "id": "254147",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 9 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254147",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-hab1ztbh1nph.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/hab1ztbh1nph.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/z03ru88svon6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOgj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/47gzu9qb7ii7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A9A63722EEFD84F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?c7fd033i6cv13nswr2ll",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/334575a3cb1ea77645a78fa21a0e8277",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88W",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qtvc",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:36.595Z"
+    },
+    {
+      "id": "254150",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 8 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254150",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-osjlkddju6zi.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/osjlkddju6zi.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/hpkafjm8ahse",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOgi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/yr4mry19ubaf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4E471AF2B57EEF8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?vxq45svdcniuc0fy4wqt",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/7b519f08d00b212e57bea35e12745208",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88V",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qtv8",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:38.711Z"
+    },
+    {
+      "id": "254146",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 7 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254146",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-g1vh0yzjhqxd.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/g1vh0yzjhqxd.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/asmu1hfnyk7n",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOgh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/qcmz6d187tka",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/001CEFA82543016",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?eyvv8mlv3kkifscmdx9m",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a15bc8763a9e90a9ac9b75249c42a094",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88U",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qtv6",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:40.842Z"
+    },
+    {
+      "id": "254152",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 6 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254152",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-z5qclh1du5a9.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/z5qclh1du5a9.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/zwdxe38l7ctz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOgg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/3cfz5d5zhqja",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/1555B014EC577FB",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?b5uql1uxz9eh7xdlusg5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fb35295de566a34796568c961143c23c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88T",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2copD",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:42.963Z"
+    },
+    {
+      "id": "254149",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 5 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254149",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-zip2x6a71ykj.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/zip2x6a71ykj.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ouwn5xs0lzj2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOgf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/mnayui8kot2a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/6B16F7C282899B2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?01mazadq3bqmswmiopdv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/568df1194b1260945188e46682156eee",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88S",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2copz",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:45.113Z"
+    },
+    {
+      "id": "254148",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 4 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254148",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-axq93ba4z0jc.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/axq93ba4z0jc.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/d4uasu50dmoz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOgd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/yfg9eloz3cc7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9C025FB492068EF",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?ceptgb529grskj46kacw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ef3d05fd0d8a1ce27382e1dd99fe354c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88R",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2copw",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:47.246Z"
+    },
+    {
+      "id": "254145",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 3 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254145",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-x2x06ln1squd.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/x2x06ln1squd.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/9saix8oaiugy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOgb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/jtmx18j0ls58",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/5A2CB1585627668",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?botc3ewsd1s9j6arpgvy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/bfbb5742069cc2439efedb115a1366e8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88P",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cops",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:49.353Z"
+    },
+    {
+      "id": "254144",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 2 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254144",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-c6rlij4x3eyz.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/c6rlij4x3eyz.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/28a2ljzjkhph",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOga",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/n5x6bo9rcvy0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/C5E79B71472DE6A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?x5uxh10hq94k8ywxozh0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/56dccc96ce06188d4c1c9829a777ce90",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88N",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2copp",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:51.497Z"
+    },
+    {
+      "id": "254109",
+      "title": "مسلسل Nobody Wants This الموسم الثالث الحلقة 1 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254109",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/_640x_fb7f387c781fceb26a07c65647033ecd5d5eaf38fbfec171328910aedcb09a9e-439x650.jpg",
+      "imdbRating": "7.7",
+      "story": "في الموسم الثالث، يتابع العمل قصة (جوان) و(نواه) بعد انتقالهما للعيش معًا، بينما يحاولان الحفاظ على علاقتهما المستقرة، والتعامل مع اعتناق اليهودية، والتغيرات الجديدة في حياتهما العائلية والمهنية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Greg Mottola",
+          "Hannah Fidell",
+          "Karen Maine"
+        ],
+        "بطولة": [
+          "Adam Brody",
+          "Beth Triffon",
+          "DArcy Carden",
+          "Emily Arlook"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-nobody-wants-this-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-r9qf1pdcu448.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/r9qf1pdcu448.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/2x4c1h5p9c27",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOg9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/wgxxnahqr97x",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/D138AAA9A4072EA",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?62d2zf286hbsgzwx2ege",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/28ba37f3bddca925a0f70dc6a2f2d3de",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n88M",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2copn",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-22T16:31:53.645Z"
+    },
     {
       "id": "254096",
       "title": "مسلسل NCIS الموسم 15 الحلقة 24 والاخيرة مترجمة",
@@ -108,7 +1540,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:00.582Z"
+      "scrapedAt": "2026-10-22T16:31:55.786Z"
     },
     {
       "id": "254097",
@@ -214,7 +1646,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:02.886Z"
+      "scrapedAt": "2026-10-22T16:31:57.912Z"
     },
     {
       "id": "254095",
@@ -320,7 +1752,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:05.192Z"
+      "scrapedAt": "2026-10-22T16:32:00.035Z"
     },
     {
       "id": "254090",
@@ -426,7 +1858,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:07.493Z"
+      "scrapedAt": "2026-10-22T16:32:02.515Z"
     },
     {
       "id": "254088",
@@ -532,7 +1964,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:09.748Z"
+      "scrapedAt": "2026-10-22T16:32:04.640Z"
     },
     {
       "id": "254092",
@@ -638,7 +2070,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:12.046Z"
+      "scrapedAt": "2026-10-22T16:32:06.793Z"
     },
     {
       "id": "254086",
@@ -744,7 +2176,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:14.354Z"
+      "scrapedAt": "2026-10-22T16:32:08.916Z"
     },
     {
       "id": "254091",
@@ -850,7 +2282,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:16.612Z"
+      "scrapedAt": "2026-10-22T16:32:11.055Z"
     },
     {
       "id": "254093",
@@ -956,7 +2388,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:18.886Z"
+      "scrapedAt": "2026-10-22T16:32:13.164Z"
     },
     {
       "id": "254089",
@@ -1062,7 +2494,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:21.195Z"
+      "scrapedAt": "2026-10-22T16:32:15.427Z"
     },
     {
       "id": "254087",
@@ -1168,7 +2600,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:23.445Z"
+      "scrapedAt": "2026-10-22T16:32:17.746Z"
     },
     {
       "id": "254085",
@@ -1274,7 +2706,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:25.747Z"
+      "scrapedAt": "2026-10-22T16:32:20.014Z"
     },
     {
       "id": "254084",
@@ -1380,7 +2812,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:28.041Z"
+      "scrapedAt": "2026-10-22T16:32:22.133Z"
     },
     {
       "id": "254082",
@@ -1486,7 +2918,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:30.360Z"
+      "scrapedAt": "2026-10-22T16:32:24.458Z"
     },
     {
       "id": "254077",
@@ -1592,7 +3024,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:32.611Z"
+      "scrapedAt": "2026-10-22T16:32:26.869Z"
     },
     {
       "id": "254080",
@@ -1698,7 +3130,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:34.859Z"
+      "scrapedAt": "2026-10-22T16:32:29.273Z"
     },
     {
       "id": "254076",
@@ -1804,7 +3236,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:37.071Z"
+      "scrapedAt": "2026-10-22T16:32:31.675Z"
     },
     {
       "id": "254081",
@@ -1910,7 +3342,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:39.358Z"
+      "scrapedAt": "2026-10-22T16:32:34.044Z"
     },
     {
       "id": "254078",
@@ -2016,7 +3448,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:41.622Z"
+      "scrapedAt": "2026-10-22T16:32:36.469Z"
     },
     {
       "id": "254075",
@@ -2122,7 +3554,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:43.870Z"
+      "scrapedAt": "2026-10-22T16:32:38.856Z"
     },
     {
       "id": "254079",
@@ -2228,7 +3660,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:46.141Z"
+      "scrapedAt": "2026-10-22T16:32:41.240Z"
     },
     {
       "id": "254074",
@@ -2334,7 +3766,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:48.415Z"
+      "scrapedAt": "2026-10-22T16:32:43.625Z"
     },
     {
       "id": "254073",
@@ -2440,7 +3872,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:50.670Z"
+      "scrapedAt": "2026-10-22T16:32:45.990Z"
     },
     {
       "id": "253567",
@@ -2546,7 +3978,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:52.920Z"
+      "scrapedAt": "2026-10-22T16:32:48.372Z"
     },
     {
       "id": "253936",
@@ -2650,7 +4082,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:55.058Z"
+      "scrapedAt": "2026-10-22T16:32:50.752Z"
     },
     {
       "id": "253933",
@@ -2754,7 +4186,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:57.200Z"
+      "scrapedAt": "2026-10-22T16:32:53.126Z"
     },
     {
       "id": "254050",
@@ -2859,7 +4291,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:03:59.350Z"
+      "scrapedAt": "2026-10-22T16:32:55.843Z"
     },
     {
       "id": "254051",
@@ -2964,7 +4396,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:01.484Z"
+      "scrapedAt": "2026-10-22T16:32:58.222Z"
     },
     {
       "id": "254052",
@@ -3069,112 +4501,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:03.628Z"
-    },
-    {
-      "id": "254049",
-      "title": "مسلسل Paradis City الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-paradis-city-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254049",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BMWEzMzAwNTctMDYwZC00MThlLWEyMGMtMDNjZjYwYjNlMzlkXkEyXkFqcGc@-524x650.jpg",
-      "imdbRating": "5.1",
-      "story": "تختفي الوزيرة هنريكسون في \"يارفا\"؛ أكبر منطقة محظورة وخطيرة في السويد، وهي منطقة محاطة بالأسوار. يُعرض على المقاتل المسجون \"أمير\" نيلُ حريته مقابل العثور عليها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة المسلسل": [
-          "السويد"
-        ],
-        "بطولة": [
-          "Alexander Abdallah",
-          "Ali Sivandi",
-          "Amin Smida",
-          "Anna Azcárate"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-paradis-city-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-xxg6m1w1orj3.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/xxg6m1w1orj3.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/dpylc7hz2b3k",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vQhQ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/72all8g8nonk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/56A3F01ACA3A68C",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?yaqlmhtl9qng5iefac5t",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3b583ac2ef67b50d9dbee7bdba82983a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axx0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wqjw",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:05.796Z"
+      "scrapedAt": "2026-10-22T16:33:00.917Z"
     },
     {
       "id": "254048",
@@ -3279,7 +4606,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:07.932Z"
+      "scrapedAt": "2026-10-22T16:33:04.434Z"
     },
     {
       "id": "254018",
@@ -3384,7 +4711,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:10.064Z"
+      "scrapedAt": "2026-10-22T16:33:06.817Z"
     },
     {
       "id": "253934",
@@ -3495,7 +4822,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:12.207Z"
+      "scrapedAt": "2026-10-22T16:33:09.105Z"
     },
     {
       "id": "254031",
@@ -3599,7 +4926,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:14.354Z"
+      "scrapedAt": "2026-10-22T16:33:11.541Z"
     },
     {
       "id": "254036",
@@ -3703,7 +5030,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:16.516Z"
+      "scrapedAt": "2026-10-22T16:33:13.836Z"
     },
     {
       "id": "254035",
@@ -3807,7 +5134,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:18.636Z"
+      "scrapedAt": "2026-10-22T16:33:15.992Z"
     },
     {
       "id": "254033",
@@ -3911,7 +5238,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:20.767Z"
+      "scrapedAt": "2026-10-22T16:33:18.107Z"
     },
     {
       "id": "254034",
@@ -4015,7 +5342,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:22.921Z"
+      "scrapedAt": "2026-10-22T16:33:20.558Z"
     },
     {
       "id": "254032",
@@ -4119,7 +5446,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:25.047Z"
+      "scrapedAt": "2026-10-22T16:33:22.855Z"
     },
     {
       "id": "254030",
@@ -4223,7 +5550,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:27.151Z"
+      "scrapedAt": "2026-10-22T16:33:25.123Z"
     },
     {
       "id": "254022",
@@ -4327,1426 +5654,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-22T11:04:29.259Z"
-    },
-    {
-      "id": "253935",
-      "title": "مسلسل NCIS: New York الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-new-york-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253935",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BMWViNTI4OTctNmMwMC00Yzg4LWEwNTYtMGJiNGUyMzMwNWY3XkEyXkFqcGc@-433x650.jpg",
-      "imdbRating": null,
-      "story": "يعود العميل الأسطوري في جهاز NCIS، سام هانا، إلى مكتبه الميداني في مسقط رأسه بمدينة نيويورك، حيث يتعاون مع عميل متمرد لقيادة فريق جديد في مهام بالغة الأهمية تهدف إلى حماية واحدة من أكثر مدن وموانئ العالم حيوية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cameron Moir",
-          "Devin Druid",
-          "Jacqueline Byers"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-new-york-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-nrq0059ktyfj.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/nrq0059ktyfj.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/pyh1csd0f3o0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vQhL",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/pm502zth2p3o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/BE57AB9F79CF42D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?qxij2v6g0cgcm3tj6816",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/c145d70357ed6de1f38b50d7b4a4be55",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axwW",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wqjl",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:31.388Z"
-    },
-    {
-      "id": "253937",
-      "title": "مسلسل Doc الموسم الثالث الحلقة 5 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-doc-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253937",
-      "image": "https://topcinema.film/wp-content/uploads/2026/09/b8Vrkq5tHqgaqOIsqtN5ZSfh2XE-433x650.jpg",
-      "imdbRating": "7.3",
-      "story": "تتعرض الدكتورة (إيمي لارسن) رئيسة قسم الطب الباطني لحادث سيارة مأساوي، وينتج عنه إصابة خطيرة في الدماغ تفقد على إثرها ذاكرتها، مما يسبب لها عواقب وخيمة على حياتها، لكنها تثابر وتستمر في ممارسة مهنتها وتحاول إعادة بناء حياتها.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Allan Dobrescu",
-          "Amirah Vann",
-          "Anya Banerjee",
-          "Charlotte Fountain-Jardim"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-doc-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-6stxriphwgzw.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/6stxriphwgzw.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/hk0pkyf78s1b",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vQhK",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/a5ktsa3h4j00",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/D6FFCC05DC301B5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?mkrhtrx4bd7y44pervmk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/1ac9d51ac53a332eb3b0c89e6959d66a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axwU",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wqjh",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:33.557Z"
-    },
-    {
-      "id": "253982",
-      "title": "مسلسل Small Prophets الموسم الاول الحلقة 4 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-small-prophets-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253982",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BYmVhMjQzNzYtNzc5ZC00NTA1LWI2OWQtNjNjZDU5MjUwOWIxXkEyXkFqcGc@-462x650.jpg",
-      "imdbRating": "8.1",
-      "story": "يتبع العمل قصة (مايكل سليب)، الرجل غريب الأطوار الذي اختفت شريكته العزيزة (كليا) قبل سبع سنوات، فيبدأ في صناعة مخلوقات سحرية تُعرف باسم (هومنكولوس)، تمتلك القدرة على التنبؤ بالمستقبل.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "فانتازيا",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "بطولة": [
-          "Adam Wright",
-          "Arnold Baksi",
-          "Charlotte Mills",
-          "Ed Kear"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-small-prophets-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-o1i51t6xui8s.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/o1i51t6xui8s.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/gqaeq0wuqtkm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vQgT",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/nflfj3a7wqqj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C51DAA2EE23C9AA",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?7hnjjntwmnyrvtplf2u8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/07bc73a4586a9e77d552ea12bf2e1764",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axw0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Slbx",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:35.708Z"
-    },
-    {
-      "id": "254001",
-      "title": "مسلسل NCIS الموسم 24 الحلقة 2 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-24-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254001",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/bPRU4y9fg6wBqoNdO8jAWLrW8yW-434x650.jpg",
-      "imdbRating": "7.8",
-      "story": "تتناول حلقات المسلسل قصة العديد من المخاطر التي يتعرض لها العملاء السريين التابعين لمكتب العمليات الخاصة، والذي يتوجب عليهم التخفي الدائم في عملهم عن طريق استخدام هويات مزيفة للإيقاع بالخارجين عن القانون والذين يمثلون خطرا وتهديدا كبيرا على الأمن القومي.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-24-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-pvztovcskqz6.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/pvztovcskqz6.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/u8m7ciyjlogb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O0rz",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/q4xc96fpg28a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/3F272D09D0B65AF",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?shp53jx2dttuph0b2clg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/57b9f9248912b177b95b119da7aa7885",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axvY",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Slbu",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:37.880Z"
-    },
-    {
-      "id": "250594",
-      "title": "مسلسل NCIS الموسم 24 الحلقة 1 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-24-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=250594",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/bPRU4y9fg6wBqoNdO8jAWLrW8yW-434x650.jpg",
-      "imdbRating": "7.8",
-      "story": "تتناول حلقات المسلسل قصة العديد من المخاطر التي يتعرض لها العملاء السريين التابعين لمكتب العمليات الخاصة، والذي يتوجب عليهم التخفي الدائم في عملهم عن طريق استخدام هويات مزيفة للإيقاع بالخارجين عن القانون والذين يمثلون خطرا وتهديدا كبيرا على الأمن القومي.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Aaron Lipstadt",
-          "Alan J Levi",
-          "Allan Arkush"
-        ],
-        "بطولة": [
-          "Brian Dietzen",
-          "Cote de Pablo",
-          "David McCallum",
-          "Diona Reasonover"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-24-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-t4c3futbkf5m.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/t4c3futbkf5m.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9dbjd2w426vk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O0rx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/g7kifl0m0ddb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/EDDC5F83AE082B6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?9xesk645fypcve5r3e9f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/b090e8384842d7deec50fa3bc31b1e57",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axvW",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Slbr",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:40.024Z"
-    },
-    {
-      "id": "253984",
-      "title": "مسلسل Helluva Boss الموسم الثالث الحلقة 5 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-helluva-boss-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253984",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_-434x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث، يتبع العمل قصة (بليتز) وموظفيه وهم يحاولون إنجاز أول مهمة لهم وسط الفوضى وقلة الخبرة، وتزداد الأمور تعقيدًا مع وقوع حوادث ومواقف تهدد بتوريطهم في دعاوى قضائية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي",
-          "مسلسلات انمي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Brandon Rogers",
-          "Bryce Pinkham",
-          "Don Darryl Rivera",
-          "Edward Bosco"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-helluva-boss-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-4o4caj0shg6p.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/4o4caj0shg6p.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/t82bf9k1dc67",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RLaj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/sdyqc5j6aps8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9B192BA0CFF76D2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?g9r87d369deb8i9v3d4a",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/4ac33d2f8558e2fc810d03621867fb03",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axvL",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wqdg",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:42.154Z"
-    },
-    {
-      "id": "253983",
-      "title": "مسلسل Helluva Boss الموسم الثالث الحلقة 4 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-helluva-boss-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253983",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNmMwMWRmNTgtMDkzYy00ZmNhLTlhYzctYjQyODBmZmRhMjBmXkEyXkFqcGc@._V1_-434x650.jpg",
-      "imdbRating": "7.9",
-      "story": "في الموسم الثالث، يتبع العمل قصة (بليتز) وموظفيه وهم يحاولون إنجاز أول مهمة لهم وسط الفوضى وقلة الخبرة، وتزداد الأمور تعقيدًا مع وقوع حوادث ومواقف تهدد بتوريطهم في دعاوى قضائية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي",
-          "مسلسلات انمي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Brandon Rogers",
-          "Bryce Pinkham",
-          "Don Darryl Rivera",
-          "Edward Bosco"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-helluva-boss-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-nm63f92b8aqf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/nm63f92b8aqf.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ucdipdz4a8k7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RLai",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/pkbkgeyx3cr8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/EDCD5BE6D4F68C1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?h2owue9v6sr4l88x1b03",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/eba44c1c33003eb4bc7e007293dcb18e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axvK",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wqde",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:44.281Z"
-    },
-    {
-      "id": "253994",
-      "title": "مسلسل The Mothers of Penguins الموسم الثاني الحلقة 6 والاخيرة مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253994",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/03224708_poster_w780-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "تحاول لاعبة فنون قتالية تحقيق التوازن بين الحلبة ورعايتها لابنها، إلا أن مشكلة دراسية تضطرها لنقل الطفل لملاذ آخر ذي أشخاص غريبي الأطوار، قبل أن تتحول شكوكها إلى تقبل لواقع لا يخلو من التحديات.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رياضي",
-          "عائلي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "المخرجين": [
-          "Jagoda Szelc",
-          "Klara Kochanska"
-        ],
-        "بطولة": [
-          "Amelia Sarzynska",
-          "Barbara Wypych",
-          "Jan Lubas",
-          "Maciej Makowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-nllzql5ilbis.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/nllzql5ilbis.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/6rlqyajuuhch",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bNHR",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/v3jd7dnoyzr0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/57DFB37C28AD4D8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?cnntm4ufbputafx3hdla",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/5ac11b4246452f2e0b78e358eeafabfc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axvG",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sl7D",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:46.473Z"
-    },
-    {
-      "id": "253993",
-      "title": "مسلسل The Mothers of Penguins الموسم الثاني الحلقة 5 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253993",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/03224708_poster_w780-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "تحاول لاعبة فنون قتالية تحقيق التوازن بين الحلبة ورعايتها لابنها، إلا أن مشكلة دراسية تضطرها لنقل الطفل لملاذ آخر ذي أشخاص غريبي الأطوار، قبل أن تتحول شكوكها إلى تقبل لواقع لا يخلو من التحديات.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رياضي",
-          "عائلي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "المخرجين": [
-          "Jagoda Szelc",
-          "Klara Kochanska"
-        ],
-        "بطولة": [
-          "Amelia Sarzynska",
-          "Barbara Wypych",
-          "Jan Lubas",
-          "Maciej Makowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-u51wtjppeofj.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/u51wtjppeofj.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9f24ya53eina",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O0qd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/t1psbtrkp5an",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/CA2BBCE780A4DDE",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?17fkrfvdhvoe9p8j9ry8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6eea1f8f9ba408b53b2ff16d07c5c286",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axvE",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sl7x",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:48.615Z"
-    },
-    {
-      "id": "253992",
-      "title": "مسلسل The Mothers of Penguins الموسم الثاني الحلقة 4 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253992",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/03224708_poster_w780-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "تحاول لاعبة فنون قتالية تحقيق التوازن بين الحلبة ورعايتها لابنها، إلا أن مشكلة دراسية تضطرها لنقل الطفل لملاذ آخر ذي أشخاص غريبي الأطوار، قبل أن تتحول شكوكها إلى تقبل لواقع لا يخلو من التحديات.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رياضي",
-          "عائلي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "المخرجين": [
-          "Jagoda Szelc",
-          "Klara Kochanska"
-        ],
-        "بطولة": [
-          "Amelia Sarzynska",
-          "Barbara Wypych",
-          "Jan Lubas",
-          "Maciej Makowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-zxo2115vzhy6.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/zxo2115vzhy6.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/hjs8pucr25je",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O0q8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/raagiz3fumtd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/8D990EC1C09FEBE",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?5xncvvrvjhwlbmmqbwan",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/db6371148c8575606e2f295108f5f076",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axvD",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sl7q",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:50.748Z"
-    },
-    {
-      "id": "253989",
-      "title": "مسلسل The Mothers of Penguins الموسم الثاني الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253989",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/03224708_poster_w780-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "تحاول لاعبة فنون قتالية تحقيق التوازن بين الحلبة ورعايتها لابنها، إلا أن مشكلة دراسية تضطرها لنقل الطفل لملاذ آخر ذي أشخاص غريبي الأطوار، قبل أن تتحول شكوكها إلى تقبل لواقع لا يخلو من التحديات.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رياضي",
-          "عائلي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "المخرجين": [
-          "Jagoda Szelc",
-          "Klara Kochanska"
-        ],
-        "بطولة": [
-          "Amelia Sarzynska",
-          "Barbara Wypych",
-          "Jan Lubas",
-          "Maciej Makowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-y002rou83tu5.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/y002rou83tu5.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/urquexqhqog1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/5xICg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/jwcmpdkh8pk1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/F24B89438D97736",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?r1bz6o6aih7knsh0qben",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6006cf3ee21619120a4f76b4ba1ec78f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/axvC",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wqca",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:52.872Z"
-    },
-    {
-      "id": "253988",
-      "title": "مسلسل The Mothers of Penguins الموسم الثاني الحلقة 2 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253988",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/03224708_poster_w780-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "تحاول لاعبة فنون قتالية تحقيق التوازن بين الحلبة ورعايتها لابنها، إلا أن مشكلة دراسية تضطرها لنقل الطفل لملاذ آخر ذي أشخاص غريبي الأطوار، قبل أن تتحول شكوكها إلى تقبل لواقع لا يخلو من التحديات.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رياضي",
-          "عائلي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "المخرجين": [
-          "Jagoda Szelc",
-          "Klara Kochanska"
-        ],
-        "بطولة": [
-          "Amelia Sarzynska",
-          "Barbara Wypych",
-          "Jan Lubas",
-          "Maciej Makowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-7rrgw8n90853.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/7rrgw8n90853.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/nhxi4mmb6rg8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RL9V",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/gw2gquzshvc2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B8AAE8D0A113443",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?eif19s8ul2nc813v1v2g",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/0a9d2d60e68aac38221cc5414ad66ba0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6lmz",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wqc4",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:55.014Z"
-    },
-    {
-      "id": "253945",
-      "title": "مسلسل The Mothers of Penguins الموسم الثاني الحلقة 1 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253945",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/03224708_poster_w780-433x650.jpg",
-      "imdbRating": "7.4",
-      "story": "تحاول لاعبة فنون قتالية تحقيق التوازن بين الحلبة ورعايتها لابنها، إلا أن مشكلة دراسية تضطرها لنقل الطفل لملاذ آخر ذي أشخاص غريبي الأطوار، قبل أن تتحول شكوكها إلى تقبل لواقع لا يخلو من التحديات.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رياضي",
-          "عائلي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "بولندا"
-        ],
-        "المخرجين": [
-          "Jagoda Szelc",
-          "Klara Kochanska"
-        ],
-        "بطولة": [
-          "Amelia Sarzynska",
-          "Barbara Wypych",
-          "Jan Lubas",
-          "Maciej Makowski"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-mothers-of-penguins-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-hzov58zzw8gg.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/hzov58zzw8gg.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/w2veiaqj5d46",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RL9S",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/8mll5mlbk2dk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/276AF8EB585D0D6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?ny5jvtymdq3u5n4puzas",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3daff8af85d9c4cddf6c28e7c4a9c425",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6lmw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1wqc0",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-22T11:04:57.138Z"
+      "scrapedAt": "2026-10-22T16:33:27.382Z"
     }
   ]
 }
