@@ -1,9 +1,398 @@
 {
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
-  "totalSeries": 53,
-  "lastUpdated": "2026-10-23T21:36:41.125Z",
+  "totalSeries": 54,
+  "lastUpdated": "2026-10-24T04:56:04.766Z",
   "series": [
+    {
+      "id": "254518",
+      "title": "انمي Hotaru no Yomeiri الحلقة 3 مترجمة",
+      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-hotaru-no-yomeiri-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254518",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BYzQ0ODJjYTQtZGY0Mi00MGQ5LTljZDQtZDQxZmFmMzdmNjY1XkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": null,
+      "story": "القصة تتحدث عن ساتوكو والتي ظاهريًا، تمتلك كل شيء فهي جميلة، وابنة نبيل، وفي سن مثالي للزواج. لكن للأسف، تعاني من مرض شديد ولديها وقت قصير للعيش. قبل أن تتمكن من تأمين زواج يعيد لها مكانتها أمام عائلتها، تجد نفسها هدفًا للقاتل الغامض شينبي، وتصبح خططها في خطر. لإنقاذ نفسها عرضت الزواج على الفتى الذي كان يهم بإنهاء حياتها، فإذا به -على غير المتوقع- يقبل عرضها ويصير حاميًا لها بعد أن أوشك على قتلها.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "تاريخي",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-hotaru-no-yomeiri-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-bw0bpkb0d8zb.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/bw0bpkb0d8zb.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/96lsqtv13rp0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOU9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/3hyih4pv4vzs",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/2AEE734EB700982",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?clxiovuhgjt1uykiovsi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/4e7c3a009ac3715d014ba2cf21e3803d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/iWg3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cpbf",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-24T04:54:19.160Z"
+    },
+    {
+      "id": "254516",
+      "title": "انمي Kusuriya no Hitorigoto الموسم الثالث الحلقة 4 مترجمة",
+      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-kusuriya-no-hitorigoto-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254516",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/159521l.jpg",
+      "imdbRating": null,
+      "story": "في محكمة إمبراطورية في الصين القديمة، مرت بضعة أشهر منذ اختطاف فتاة تبلغ من العمر 17 عامًا تُعرف باسم “ماوماو” وإجبارها على العمل كخادمة منخفضة المستوى في قصر الإمبراطور. ومع ذلك، تمكنت من الاحتفاظ بروحها الفضولية والعملية، وتخطط أن تشتغل حتى تنتهي سنوات العبودية. في أحد الأيام، اكتشفت حقيقة أن رضيعي الإمبراطور أصيبا بمرض خطير. لتقرر اتخاذ إجراء سراً، بالاعتماد على تجربتها كصيدلانية نشأت في منطقة الضوء الأحمر الفقيرة. لكن على الرغم من محاولات “ماوماو” لعدم الكشف عن هويتها، سرعان ما لفتت انتباه “جينشي“، وهو صاحب النفوذ والذي يعترف بمواهبها. “ماوماو” تجد نفسها في البلاط الداخلي للإمبراطور، حيث تصنع اسمًا لنفسها تدريجيًا من خلال استخدام معرفتها وشخصيتها الغريبة لحل الألغاز الطبية المختلفة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "دراما",
+          "غموض",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-kusuriya-no-hitorigoto-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-pv290snvzbfx.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/pv290snvzbfx.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/j77v83y8azvj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vRoz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ygwnnfmo9anm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/CA727511059FEC0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?jyjjkypgv5tjuycwn8po",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2f9a8a22990f1d5a0b5b579e21fa31f3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/rkxN",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cpal",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-24T04:54:21.145Z"
+    },
+    {
+      "id": "254517",
+      "title": "انمي Toaru Anbu no Item الحلقة 3 مترجمة",
+      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-toaru-anbu-no-item-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254517",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNmMxZWUxZmMtNmViOC00ZWZmLTljYmUtNjg0MWRkMzg0NDhkXkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
+      "imdbRating": null,
+      "story": "تقع الأحداث في مدينة الأكاديمية، وهي حواضر متطورة تعتمد على العلم المتقدم في حياتها اليومية. لكن خلف هذا القناع العلمي البراق، يوجد الجانب المظلم للمدينة؛ وهو عالم سري مليء بالمؤامرات السياسية والعمليات الاستخباراتية التي تُدار في الخفاء بعيدًا عن أعين الإعلام والشرطة العادية. ولحفظ التوازن والسيطرة على الأزمات التي لا يمكن للشرطة العادية يتم تشكيل وحدة ITEM للتعامل معها، تم إنشاء وحدات نخبة سرية تعمل في الظل مكونة من 5 عضوات.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-toaru-anbu-no-item-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-qa72edqwj7ar.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/qa72edqwj7ar.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/zk3zlge4jc4r",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bOR3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/8v7xzimo1sir",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/0C9D7ACE2548BC8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?cq04syo27efgzum2uyw3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/30aa0b92764c6fbb0cca316e425e931c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/rkxS",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cpap",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-24T04:54:23.255Z"
+    },
+    {
+      "id": "254519",
+      "title": "انمي Tougen Anki الموسم الثاني الحلقة 4 مترجمة",
+      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-tougen-anki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254519",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/wkp5nALg2JP8qlseacdmDL8h2BC-433x650.jpg",
+      "imdbRating": "6.5",
+      "story": "تم توريث دم الأوني (الشيطان) تم تمريره بين سلالات الدم الخاصة بـ الأوني و موموتارو عبر الأجيال بين بعض البشر في قديم الزمان كان الأوني يعيشون في عزلة وعلى علم بوحشيتهم ومع ذلك تمزق سلامهم بعد غزو قاده الموموتارو على مر الآلاف من السنين تشكلت هاتين الجماعتين وكالة موموتارو و وكالة الأوني على التوالي وظلتا مشتبكتين في الصراع منذ ذلك الحين البطل شيكي إيتشينوسي يكتشف فجأة أصله كأحد الأوني بعد هجوم مفاجئ وغير متوقع من الموموتارو تضع هذه الحادثة شيكي على مسار لاكتشاف المصير الذي يكمن في دمه لقاء مع الأوني الساكن داخله.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "فانتازيا",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-tougen-anki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-agrjfco1z770.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/agrjfco1z770.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/srbast8yz9cf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vRrw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/7a2e6rb0yr1n",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A3B9D8AF069C0FE",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?vjydmbx3ykx86lksz709",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6c8ca996b368f4c128111347f3adaaa0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/iWg2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qugh",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-24T04:54:25.367Z"
+    },
     {
       "id": "254348",
       "title": "مسلسل Avatar: Seven Havens الموسم الاول الحلقة 9 مترجمة",
@@ -101,7 +490,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:37.578Z"
+      "scrapedAt": "2026-10-24T04:54:27.327Z"
     },
     {
       "id": "254349",
@@ -200,7 +589,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:39.742Z"
+      "scrapedAt": "2026-10-24T04:54:29.284Z"
     },
     {
       "id": "254347",
@@ -299,7 +688,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:41.918Z"
+      "scrapedAt": "2026-10-24T04:54:31.240Z"
     },
     {
       "id": "254407",
@@ -397,7 +786,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:44.513Z"
+      "scrapedAt": "2026-10-24T04:54:33.202Z"
     },
     {
       "id": "254405",
@@ -495,7 +884,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:46.679Z"
+      "scrapedAt": "2026-10-24T04:54:35.166Z"
     },
     {
       "id": "254133",
@@ -588,7 +977,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:48.864Z"
+      "scrapedAt": "2026-10-24T04:54:37.271Z"
     },
     {
       "id": "254134",
@@ -680,7 +1069,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:50.994Z"
+      "scrapedAt": "2026-10-24T04:54:39.116Z"
     },
     {
       "id": "254135",
@@ -772,7 +1161,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:53.177Z"
+      "scrapedAt": "2026-10-24T04:54:41.048Z"
     },
     {
       "id": "254132",
@@ -868,7 +1257,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:55.369Z"
+      "scrapedAt": "2026-10-24T04:54:43.015Z"
     },
     {
       "id": "253914",
@@ -966,7 +1355,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:57.557Z"
+      "scrapedAt": "2026-10-24T04:54:44.978Z"
     },
     {
       "id": "253913",
@@ -1064,7 +1453,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:34:59.962Z"
+      "scrapedAt": "2026-10-24T04:54:46.952Z"
     },
     {
       "id": "253909",
@@ -1162,7 +1551,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:02.357Z"
+      "scrapedAt": "2026-10-24T04:54:48.903Z"
     },
     {
       "id": "253910",
@@ -1260,7 +1649,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:04.491Z"
+      "scrapedAt": "2026-10-24T04:54:50.852Z"
     },
     {
       "id": "253912",
@@ -1358,7 +1747,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:06.951Z"
+      "scrapedAt": "2026-10-24T04:54:53.741Z"
     },
     {
       "id": "253908",
@@ -1455,7 +1844,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:09.318Z"
+      "scrapedAt": "2026-10-24T04:54:55.696Z"
     },
     {
       "id": "253907",
@@ -1553,7 +1942,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:11.829Z"
+      "scrapedAt": "2026-10-24T04:54:57.663Z"
     },
     {
       "id": "253911",
@@ -1651,7 +2040,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:14.177Z"
+      "scrapedAt": "2026-10-24T04:54:59.591Z"
     },
     {
       "id": "253793",
@@ -1743,7 +2132,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:16.318Z"
+      "scrapedAt": "2026-10-24T04:55:01.532Z"
     },
     {
       "id": "253792",
@@ -1835,7 +2224,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:18.484Z"
+      "scrapedAt": "2026-10-24T04:55:03.488Z"
     },
     {
       "id": "253789",
@@ -1927,7 +2316,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:20.742Z"
+      "scrapedAt": "2026-10-24T04:55:05.439Z"
     },
     {
       "id": "253788",
@@ -2019,7 +2408,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:22.909Z"
+      "scrapedAt": "2026-10-24T04:55:07.382Z"
     },
     {
       "id": "253787",
@@ -2111,7 +2500,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:25.082Z"
+      "scrapedAt": "2026-10-24T04:55:09.311Z"
     },
     {
       "id": "253790",
@@ -2203,7 +2592,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:27.108Z"
+      "scrapedAt": "2026-10-24T04:55:11.249Z"
     },
     {
       "id": "253791",
@@ -2295,7 +2684,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:29.265Z"
+      "scrapedAt": "2026-10-24T04:55:13.203Z"
     },
     {
       "id": "253786",
@@ -2387,7 +2776,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:31.461Z"
+      "scrapedAt": "2026-10-24T04:55:15.175Z"
     },
     {
       "id": "253785",
@@ -2479,7 +2868,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:33.639Z"
+      "scrapedAt": "2026-10-24T04:55:17.121Z"
     },
     {
       "id": "253761",
@@ -2571,7 +2960,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:35.782Z"
+      "scrapedAt": "2026-10-24T04:55:19.050Z"
     },
     {
       "id": "46607",
@@ -2669,7 +3058,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:37.931Z"
+      "scrapedAt": "2026-10-24T04:55:21.000Z"
     },
     {
       "id": "46606",
@@ -2767,7 +3156,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:40.146Z"
+      "scrapedAt": "2026-10-24T04:55:22.922Z"
     },
     {
       "id": "46605",
@@ -2865,7 +3254,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:42.323Z"
+      "scrapedAt": "2026-10-24T04:55:24.845Z"
     },
     {
       "id": "46604",
@@ -2963,7 +3352,105 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:44.468Z"
+      "scrapedAt": "2026-10-24T04:55:26.793Z"
+    },
+    {
+      "id": "46603",
+      "title": "انمي Cyberpunk: Edgerunners الحلقة 6 مترجمة",
+      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-cyberpunk-edgerunners-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=46603",
+      "image": "https://topcinema.film/wp-content/uploads/2023/10/MV5BMTQ0MGI4NTgtZTlkNy00YTU5LThjM2ItNDczMGFlZWY2ZWM3XkEyXkFqcGdeQXVyMTM3NDc1OTM2._V1_SX700-439x650.jpg",
+      "imdbRating": "8.3",
+      "story": "يتناول العمل قصة صبي في عالم شديد التقدم، يختار بإرادته التحول لمرتزق وخارج عن القانون، فتصبح حياته مليئة بالمتاعب ويعيش حياة مجرم هارب يُعرف باسم إيدجرانر.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2022"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-cyberpunk-edgerunners-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-6hjhzmh42xw0.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/6hjhzmh42xw0.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/xlcz9ttld3f2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3vQiQ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/7j967f0mgios",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/2DF7A0025D65434",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?wgckbdmjsrdj0q28oc9e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ce2cf57327a02d8d5b997be11fd53165",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6lov",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cnO0",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-24T04:55:28.731Z"
     },
     {
       "id": "46602",
@@ -3061,7 +3548,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:48.030Z"
+      "scrapedAt": "2026-10-24T04:55:30.701Z"
     },
     {
       "id": "46601",
@@ -3159,7 +3646,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:50.122Z"
+      "scrapedAt": "2026-10-24T04:55:32.653Z"
     },
     {
       "id": "46600",
@@ -3257,7 +3744,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:52.215Z"
+      "scrapedAt": "2026-10-24T04:55:34.614Z"
     },
     {
       "id": "46599",
@@ -3355,7 +3842,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:54.297Z"
+      "scrapedAt": "2026-10-24T04:55:36.569Z"
     },
     {
       "id": "46473",
@@ -3453,7 +3940,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:35:56.361Z"
+      "scrapedAt": "2026-10-24T04:55:38.525Z"
     },
     {
       "id": "253999",
@@ -3551,7 +4038,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:00.997Z"
+      "scrapedAt": "2026-10-24T04:55:40.477Z"
     },
     {
       "id": "253984",
@@ -3650,7 +4137,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:03.032Z"
+      "scrapedAt": "2026-10-24T04:55:42.392Z"
     },
     {
       "id": "253983",
@@ -3749,7 +4236,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:05.070Z"
+      "scrapedAt": "2026-10-24T04:55:44.325Z"
     },
     {
       "id": "253952",
@@ -3847,7 +4334,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:07.935Z"
+      "scrapedAt": "2026-10-24T04:55:46.338Z"
     },
     {
       "id": "253954",
@@ -3944,7 +4431,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:10.391Z"
+      "scrapedAt": "2026-10-24T04:55:48.233Z"
     },
     {
       "id": "253897",
@@ -4036,7 +4523,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:12.946Z"
+      "scrapedAt": "2026-10-24T04:55:50.159Z"
     },
     {
       "id": "253894",
@@ -4128,7 +4615,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:15.405Z"
+      "scrapedAt": "2026-10-24T04:55:52.099Z"
     },
     {
       "id": "253815",
@@ -4220,7 +4707,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:17.462Z"
+      "scrapedAt": "2026-10-24T04:55:54.035Z"
     },
     {
       "id": "253892",
@@ -4311,7 +4798,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:19.979Z"
+      "scrapedAt": "2026-10-24T04:55:55.984Z"
     },
     {
       "id": "253890",
@@ -4403,7 +4890,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:22.652Z"
+      "scrapedAt": "2026-10-24T04:55:57.938Z"
     },
     {
       "id": "253886",
@@ -4494,7 +4981,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:25.250Z"
+      "scrapedAt": "2026-10-24T04:55:59.911Z"
     },
     {
       "id": "253771",
@@ -4586,7 +5073,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:27.824Z"
+      "scrapedAt": "2026-10-24T04:56:01.838Z"
     },
     {
       "id": "253635",
@@ -4678,372 +5165,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-23T21:36:30.449Z"
-    },
-    {
-      "id": "253563",
-      "title": "انمي Tensei Goblin dakedo Shitsumon Aru الحلقة 4 مترجمة",
-      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-tensei-goblin-dakedo-shitsumon-aru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253563",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BN2EyNDM4YTMtNWZhZS00MDFlLTlhZjgtNTQ3NTFiZDcyODg5XkEyXkFqcGc@._V1_-scaled-461x650.jpg",
-      "imdbRating": null,
-      "story": "“أكيرا ياغامي”، موظف طيب القلب اعتاد مساعدة الآخرين حتى على حساب نفسه. وبعد أن يموت أثناء إنقاذ طفل من حادث سير، يجد نفسه وقد أُعيد تجسيده في عالم آخر على هيئة غوبلن. ورغم أن الغوبلن لا يعيشون عادة سوى سبعة أيام، يكتشف أكيرا أن قدراته الجديدة تسمح له بتجاوز هذا العمر القصير، لتبدأ رحلته نحو أن يصبح أقوى غوبلن في العالم.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "فانتازيا",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-tensei-goblin-dakedo-shitsumon-aru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-toi0uijazdrv.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/toi0uijazdrv.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/bu4dhy1aziu0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bN8p",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/z5etycf1tkir",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E79541C1B595754",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6c15e5a942d93f200dd9b48cb20df006",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/n7z2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SjNj",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-23T21:36:32.537Z"
-    },
-    {
-      "id": "253542",
-      "title": "انمي Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253542",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BMmIwNDY4NWEtZmFjMC00ZGI5LThiZDctOWFiNzQzYTFhZmRlXkEyXkFqcGc@._V1_FMjpg_UX848_-460x650.jpg",
-      "imdbRating": null,
-      "story": "في عمق الغابة، وعلى ضفة البحيرة، يقع كوخٌ دافئٌ تعمّه الفوضى وتعيش فيه ساحرةٌ غامضةٌ يخشاها الجميع. لكنّ حقيقتها هي أنها شابةٌ جميلةٌ تُدعى \"روز\"، تعلمت فنّ إعداد الجرعات السحرية على يد جدتها الحكيمة. ورغم أنها تعتز بحياتها المنعزلة والهادئة، إلا أن قلبهَا يضجّ بشوقٍ دفينٍ لفارسٍ وسيمٍ رأته ذات مرة، يُدعى السير \"هاريج عزم\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "رومانسي",
-          "فانتازيا",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ftvsm037zc3i.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ftvsm037zc3i.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/1dxqtmaojtue",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bN6q",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/avybz5dlrpei",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/DA0F1B819CF8B67",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/8b0bfa497eb0cf64a3476fe7ba52ced6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ax7s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3yhdi",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-23T21:36:34.597Z"
-    },
-    {
-      "id": "253508",
-      "title": "مسلسل The Simpsons الموسم 38 الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-simpsons-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-38-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253508",
-      "image": "https://topcinema.film/wp-content/uploads/2026/09/dl0hTYMUi6R843M8etyrzsynxPz-scaled-433x650.jpg",
-      "imdbRating": "8.6",
-      "story": "تدور أحداث المسلسل في قالب كوميدي حول المغامرات الساخرة والغريبة لعائلة سبمسون وكافة سكان مدينة سبرينجفيلد .",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-simpsons-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-38-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ncgteyy1fmnn.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ncgteyy1fmnn.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9tmepkhiwu8s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RKxh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/sl1nn88tahzc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/04C711F23FA84EA",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/998edacf12c2b648570f78a2db0c2bde",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/n7xV",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cmgo",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-23T21:36:37.346Z"
-    },
-    {
-      "id": "253497",
-      "title": "انمي Tank Chair الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-tank-chair-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=253497",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/d4aAFoLt57BvnRUgdVqj9QDgp7X-scaled-433x650.jpg",
-      "imdbRating": null,
-      "story": "تتولى شيزوكا أخطر مهام الاغتيال، لكنها ليست الشخص الذي ينفذ القتل. بل يتولى ذلك شقيقها ناجي؛ وهو قاتل محترف قوي تلقى رصاصة لحماية أخته، مما تركه في حالة غيبوبة ومجبرًا على استخدام كرسي متحرك. ومع ذلك، اكتشفت شيزوكا المفتاح الذهبي لإيقاظ شقيقها: وهو أن يواجه نية قتل موجهة نحوه! ومن هنا، تبدأ رحلة تعافٍ عنيفة، يخوضان فيها معارك ضارية ضد أخطر الأعداء!",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d8%a7%d9%86%d9%85%d9%8a-tank-chair-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-l0zs961at30g.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/l0zs961at30g.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/4uddl13l27a7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bN6r",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/dmip4npfov5y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/27884737EFEC2EB",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ad82745cbf8024add5f67d6da33819c5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ax7u",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SjL1",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-23T21:36:40.124Z"
+      "scrapedAt": "2026-10-24T04:56:03.766Z"
     }
   ]
 }
