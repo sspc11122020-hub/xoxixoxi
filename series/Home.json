@@ -2,8 +2,337 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-10-27T11:32:54.523Z",
+  "lastUpdated": "2026-10-27T17:23:20.855Z",
   "series": [
+    {
+      "id": "255083",
+      "title": "مسلسل Reasonable Doubt الموسم الرابع الحلقة 6 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reasonable-doubt-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255083",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/4RbqAKKsqpblZpufzRL87B4siDM-433x650.jpg",
+      "imdbRating": "6.7",
+      "story": "تُعرف (جاكس ستيوارت) أنها محامية دفاع الأكثر ذكاءً وشجاعة في لوس أنجلوس، حيث يتم محاكمتها بسبب أخلاقياتها المشكوك فيها وتفسيراتها الجامحة للقانون.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Anton Cropper",
+          "Carl Seaton",
+          "Darren Grant"
+        ],
+        "بطولة": [
+          "Aderinsola Olabode",
+          "Angela Grovey",
+          "Aries Sanders",
+          "Brooke Lyons"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-reasonable-doubt-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-6awezr3fzp9n.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/6awezr3fzp9n.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/vzxkhjovlq29",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/5xLya",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/r1m4wxgt8vve",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/BE1E2600E8A0B9A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?wv1wujplc5t52hvessxm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/4e43e7640069770f9c5214d3bc4e3f77",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6mj5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wurk",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-27T17:20:50.819Z"
+    },
+    {
+      "id": "255064",
+      "title": "مسلسل Phony الموسم الاول الحلقة 3 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-phony-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255064",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNzgxNWM4M2ItZDA2OC00OWQ5LTgzMDctMmMwYzg1MWVkM2Q2XkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": null,
+      "story": "في إطار من الكوميديا والغموض، بعد استيقاظه إثر حادث سيارة غريب، يكتشف (سوني) أن والدته استُبدلت بشخص ينتحل شخصيتها بعد ملاحظته تغيرًا كبيرًا في الملامح، فيسعى بشتى الطرق لكشف الأمر واستعادة حياته قبل الحادث.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "غموض",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adam Beauchesne",
+          "Angie Nolan",
+          "Callum Orchison",
+          "Carolyn Adair"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-phony-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-wr8dplx9l8cb.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/wr8dplx9l8cb.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ndykjcy3rgi9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/5xLy6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/2xnkhkwommjy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/B7F159513AB5D6C",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?7cymbsjcfewhg6czychr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6bbff789c3ba7c6b176219596d5d9ac7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ayrO",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wuqb",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-27T17:20:53.389Z"
+    },
+    {
+      "id": "254992",
+      "title": "مسلسل Paris Has Fallen الموسم الثاني الحلقة 8 والاخيرة مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-paris-has-fallen-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254992",
+      "image": "https://topcinema.film/wp-content/uploads/2026/09/mmt1N7kI4ctbWQF2Vk059z3GUTv-scaled-439x650.jpg",
+      "imdbRating": "6.6",
+      "story": "يتعاون ضابط حماية مع جهاز الاستخبارات البريطاني بعد وقوع حادث إرهابي صادم، ويقودهم البحث إلى شبكة من المؤامرات والمخاطر التي تهدد أمن واستقرار مدينة باريس.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "المملكة المتحدة"
+        ],
+        "المخرجين": [
+          "Hans Herbots",
+          "Oded Ruskin"
+        ],
+        "بطولة": [
+          "Amal Affani",
+          "Ana Ularu",
+          "Cameron Cook",
+          "Camille Rutherford"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-paris-has-fallen-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-nm1hwvnrhbkm.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/nm1hwvnrhbkm.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/g0fr8wq4pnni",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bQDr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ubquqkyk74n7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/6E95E02C1CAEC47",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?xqxqlsactz8sq9oc5qqh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2251a77457f4ef46fa8192a6c4abdd5a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ayrM",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wuq7",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-27T17:20:55.965Z"
+    },
     {
       "id": "254959",
       "title": "مسلسل Animal Control الموسم الخامس الحلقة 4 مترجمة",
@@ -112,7 +441,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:30:44.318Z"
+      "scrapedAt": "2026-10-27T17:20:58.473Z"
     },
     {
       "id": "254960",
@@ -216,7 +545,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:30:46.387Z"
+      "scrapedAt": "2026-10-27T17:21:00.881Z"
     },
     {
       "id": "255008",
@@ -318,7 +647,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:30:48.486Z"
+      "scrapedAt": "2026-10-27T17:21:03.489Z"
     },
     {
       "id": "255007",
@@ -420,7 +749,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:30:50.601Z"
+      "scrapedAt": "2026-10-27T17:21:06.001Z"
     },
     {
       "id": "255006",
@@ -522,7 +851,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:30:52.655Z"
+      "scrapedAt": "2026-10-27T17:21:08.736Z"
     },
     {
       "id": "255004",
@@ -624,7 +953,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:30:54.692Z"
+      "scrapedAt": "2026-10-27T17:21:11.367Z"
     },
     {
       "id": "255003",
@@ -726,7 +1055,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:30:56.836Z"
+      "scrapedAt": "2026-10-27T17:21:14.073Z"
     },
     {
       "id": "255002",
@@ -828,7 +1157,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:30:59.014Z"
+      "scrapedAt": "2026-10-27T17:21:16.765Z"
     },
     {
       "id": "255001",
@@ -930,7 +1259,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:01.155Z"
+      "scrapedAt": "2026-10-27T17:21:19.407Z"
     },
     {
       "id": "255000",
@@ -1032,7 +1361,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:03.204Z"
+      "scrapedAt": "2026-10-27T17:21:22.174Z"
     },
     {
       "id": "254996",
@@ -1134,7 +1463,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:05.272Z"
+      "scrapedAt": "2026-10-27T17:21:24.878Z"
     },
     {
       "id": "254999",
@@ -1236,7 +1565,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:07.576Z"
+      "scrapedAt": "2026-10-27T17:21:27.501Z"
     },
     {
       "id": "254998",
@@ -1338,7 +1667,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:09.759Z"
+      "scrapedAt": "2026-10-27T17:21:30.134Z"
     },
     {
       "id": "254997",
@@ -1440,7 +1769,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:11.803Z"
+      "scrapedAt": "2026-10-27T17:21:32.753Z"
     },
     {
       "id": "254995",
@@ -1542,7 +1871,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:13.813Z"
+      "scrapedAt": "2026-10-27T17:21:35.279Z"
     },
     {
       "id": "254883",
@@ -1644,7 +1973,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:15.847Z"
+      "scrapedAt": "2026-10-27T17:21:37.801Z"
     },
     {
       "id": "254991",
@@ -1754,7 +2083,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:17.881Z"
+      "scrapedAt": "2026-10-27T17:21:40.301Z"
     },
     {
       "id": "254969",
@@ -1860,7 +2189,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:20.154Z"
+      "scrapedAt": "2026-10-27T17:21:42.909Z"
     },
     {
       "id": "254956",
@@ -1965,7 +2294,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:22.189Z"
+      "scrapedAt": "2026-10-27T17:21:45.408Z"
     },
     {
       "id": "254779",
@@ -2074,7 +2403,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:24.694Z"
+      "scrapedAt": "2026-10-27T17:21:48.193Z"
     },
     {
       "id": "254782",
@@ -2180,7 +2509,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:26.742Z"
+      "scrapedAt": "2026-10-27T17:21:50.738Z"
     },
     {
       "id": "254783",
@@ -2290,7 +2619,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:28.791Z"
+      "scrapedAt": "2026-10-27T17:21:53.617Z"
     },
     {
       "id": "254784",
@@ -2396,7 +2725,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:30.809Z"
+      "scrapedAt": "2026-10-27T17:21:56.122Z"
     },
     {
       "id": "254938",
@@ -2508,7 +2837,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:35.152Z"
+      "scrapedAt": "2026-10-27T17:21:59.136Z"
     },
     {
       "id": "254936",
@@ -2620,7 +2949,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:37.808Z"
+      "scrapedAt": "2026-10-27T17:22:01.993Z"
     },
     {
       "id": "254935",
@@ -2660,22 +2989,7 @@
           "Diona Reasonover"
         ]
       },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ncis-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-18-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-qgbigcyen48x.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
+      "watchServers": [],
       "downloadServers": [
         {
           "name": "1080p - 720p - 480p - 240p",
@@ -2732,7 +3046,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:40.673Z"
+      "scrapedAt": "2026-10-27T17:22:06.259Z"
     },
     {
       "id": "254934",
@@ -2844,7 +3158,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:43.423Z"
+      "scrapedAt": "2026-10-27T17:22:09.163Z"
     },
     {
       "id": "254933",
@@ -2956,7 +3270,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:46.153Z"
+      "scrapedAt": "2026-10-27T17:22:11.979Z"
     },
     {
       "id": "254930",
@@ -3068,7 +3382,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:48.899Z"
+      "scrapedAt": "2026-10-27T17:22:16.632Z"
     },
     {
       "id": "254931",
@@ -3180,7 +3494,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:51.704Z"
+      "scrapedAt": "2026-10-27T17:22:19.640Z"
     },
     {
       "id": "254929",
@@ -3292,7 +3606,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:54.473Z"
+      "scrapedAt": "2026-10-27T17:22:22.645Z"
     },
     {
       "id": "254928",
@@ -3404,7 +3718,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:57.180Z"
+      "scrapedAt": "2026-10-27T17:22:25.654Z"
     },
     {
       "id": "254926",
@@ -3516,7 +3830,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:31:59.864Z"
+      "scrapedAt": "2026-10-27T17:22:28.671Z"
     },
     {
       "id": "254925",
@@ -3628,7 +3942,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:02.454Z"
+      "scrapedAt": "2026-10-27T17:22:31.606Z"
     },
     {
       "id": "254927",
@@ -3740,7 +4054,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:05.434Z"
+      "scrapedAt": "2026-10-27T17:22:36.825Z"
     },
     {
       "id": "254924",
@@ -3852,7 +4166,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:08.401Z"
+      "scrapedAt": "2026-10-27T17:22:39.902Z"
     },
     {
       "id": "254923",
@@ -3964,7 +4278,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:11.276Z"
+      "scrapedAt": "2026-10-27T17:22:43.335Z"
     },
     {
       "id": "254922",
@@ -4076,7 +4390,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:14.729Z"
+      "scrapedAt": "2026-10-27T17:22:46.168Z"
     },
     {
       "id": "253571",
@@ -4188,7 +4502,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:17.427Z"
+      "scrapedAt": "2026-10-27T17:22:49.086Z"
     },
     {
       "id": "254878",
@@ -4294,7 +4608,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:19.755Z"
+      "scrapedAt": "2026-10-27T17:22:51.621Z"
     },
     {
       "id": "254870",
@@ -4401,7 +4715,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:22.085Z"
+      "scrapedAt": "2026-10-27T17:22:54.210Z"
     },
     {
       "id": "254845",
@@ -4508,7 +4822,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:24.418Z"
+      "scrapedAt": "2026-10-27T17:22:56.812Z"
     },
     {
       "id": "254838",
@@ -4611,7 +4925,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:26.794Z"
+      "scrapedAt": "2026-10-27T17:22:59.378Z"
     },
     {
       "id": "254836",
@@ -4714,7 +5028,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:29.305Z"
+      "scrapedAt": "2026-10-27T17:23:02.019Z"
     },
     {
       "id": "254839",
@@ -4817,7 +5131,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:31.627Z"
+      "scrapedAt": "2026-10-27T17:23:04.652Z"
     },
     {
       "id": "254837",
@@ -4920,7 +5234,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:34.013Z"
+      "scrapedAt": "2026-10-27T17:23:07.216Z"
     },
     {
       "id": "254835",
@@ -5023,7 +5337,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:36.358Z"
+      "scrapedAt": "2026-10-27T17:23:09.764Z"
     },
     {
       "id": "254810",
@@ -5126,7 +5440,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:38.668Z"
+      "scrapedAt": "2026-10-27T17:23:12.398Z"
     },
     {
       "id": "254724",
@@ -5233,7 +5547,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:40.972Z"
+      "scrapedAt": "2026-10-27T17:23:14.685Z"
     },
     {
       "id": "254719",
@@ -5340,7 +5654,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:43.273Z"
+      "scrapedAt": "2026-10-27T17:23:17.267Z"
     },
     {
       "id": "254360",
@@ -5447,337 +5761,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T11:32:45.623Z"
-    },
-    {
-      "id": "254344",
-      "title": "مسلسل Law & Order Toronto: Criminal Intent الموسم الرابع الحلقة 5 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-law-order-toronto-criminal-intent-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254344",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/hZ23aFezga9SlsOsZlKGbq0xP8w-scaled-433x650.jpg",
-      "imdbRating": "7.3",
-      "story": "يتبع فرقة من نخبة المحققين الذين يحققون في الفساد والجرائم عالية المستوى في منطقة تورونتو الكبرى.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "جريمة",
-          "دراما",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "كندا"
-        ],
-        "المخرجين": [
-          "David Wellington",
-          "Holly Dale",
-          "Peter Stebbings"
-        ],
-        "بطولة": [
-          "Aden Young",
-          "Ali Kazmi",
-          "Amber Goldfarb",
-          "Araya Mengesha"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-law-order-toronto-criminal-intent-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-7ymc0z3a1plk.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/7ymc0z3a1plk.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ljnt3mhrk7yq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4bPdb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/zp60i29zq6ja",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/6A80CD69FF5EBAE",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?gp7grj7avss8n38tf7r8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/1a7d8d8d1c3301a97ef5d34da89eb626",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/ay4q",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Snbu",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T11:32:48.362Z"
-    },
-    {
-      "id": "254333",
-      "title": "مسلسل Grey’s Anatomy الموسم 23 الحلقة 2 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-greys-anatomy-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-23-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254333",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/vItYXk2xU7zCeMSwOHk1VX74pQ9-442x650.jpg",
-      "imdbRating": "7.6",
-      "story": "تبدأ ميريديث جراي العمل في إحدى المستشفيات جنبًا إلى جنب مع طبيب الأعصاب ديريك شبيرد والذي تقع في حبه في الفور، لكنها تكتشف أنه متزوج بالفعل من امرأة أخرى، وبالتوازي مع الخط الدرامي الخاص بجراي، تختلط حياة جراي اليومية في العمل على المستوى المهني والشخصي بعدد كبير من الأطباء والمتدربين.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Adam Arkin",
-          "Adam Davidson",
-          "Allison Liddi-Brown"
-        ],
-        "بطولة": [
-          "Bokhee An",
-          "Camilla Luddington",
-          "Caterina Scorsone",
-          "Chandra Wilson"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-greys-anatomy-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-23-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-j8cw1m13fof5.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/j8cw1m13fof5.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/h41uzy90mudo",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vRdt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/fykt8xvns5x7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/EC9CD7C02E7A7A3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?tlum7986ozdueyrvq7dn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/c11fbc3668b0793c1430d0af29afdf60",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/rktT",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cp2v",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T11:32:50.951Z"
-    },
-    {
-      "id": "254334",
-      "title": "مسلسل Eternally Yours الموسم الاول الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-eternally-yours-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254334",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BYTFiMTliMjEtNzAxYi00ZWQxLTg0NTMtM2Q0MzNkZTYxYTE3XkEyXkFqcGc@-433x650.jpg",
-      "imdbRating": "6.5",
-      "story": "زوجان من مصاصي الدماء، ارتبطا معاً منذ 500 عام، يجدان صعوبة في تقبُّل حبيب ابنتهما البشري.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "فانتازيا",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Allegra Edwards",
-          "Ed Weeks",
-          "Helen J Shen",
-          "Jaren Lewison"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-eternally-yours-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-todpz5mta9dm.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/todpz5mta9dm.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/vxkl8cgd48xc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O1o4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/e2mt2o0v1t5s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/D61E8059F84539E",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?vvujzwkwte3f66rkg5un",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d155572898f7ab74cce45b8c59db3831",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/rktL",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cp2t",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T11:32:53.522Z"
+      "scrapedAt": "2026-10-27T17:23:19.854Z"
     }
   ]
 }
