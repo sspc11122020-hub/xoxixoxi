@@ -2,8 +2,222 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-10-26T22:15:15.725Z",
+  "lastUpdated": "2026-10-27T03:30:46.514Z",
   "series": [
+    {
+      "id": "254959",
+      "title": "مسلسل Animal Control الموسم الخامس الحلقة 4 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-animal-control-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254959",
+      "image": "https://topcinema.film/wp-content/uploads/2026/09/r5F0TxlQjbCZCyCIlYN3QZ5c1gi-scaled-433x650.jpg",
+      "imdbRating": "6.9",
+      "story": "تبدأ حياة مجموعة من العاملين في مجال السيطرة على الحيوانات في التعقّد بسبب البشر، وليس بسبب الحيوانات بالقدر نفسه.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Bob Fisher",
+          "Chris Koch",
+          "Jay Chandrasekhar"
+        ],
+        "بطولة": [
+          "Alvina August",
+          "Amy Goodmurphy",
+          "Chris Williams",
+          "Dayah Brar"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-animal-control-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-rj2v71franj2.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/rj2v71franj2.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/g2hmyyquyv6z",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PVtm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/b53uaexopq74",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A8194379A966C6F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?72gukgi9ktoij5h05hgq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b05aaef7a24543252a7f90069822b8d8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6mcn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qwph",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-27T03:28:50.089Z"
+    },
+    {
+      "id": "254960",
+      "title": "مسلسل Tracker الموسم الرابع الحلقة 4 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254960",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/6CbUD6eAcMlGcIZOHulnb8PCCPl-434x650.jpg",
+      "imdbRating": "7.2",
+      "story": "يسافر (كولتر شو) عبر البلاد بسيّارته القديمة، لمساعدة الشرطة والمواطنين في حلّ الجرائم والعثور على الأشخاص المفقودين، إلا أن قضيّته الأخيرة تتسبّب في الكثير من التغيّرات في حياته.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "المخرجين": [
+          "Ken Olin"
+        ],
+        "بطولة": [
+          "Abby McEnany",
+          "Aggie Bell",
+          "Alison Thornton",
+          "Anja Savcic"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-tracker-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-yp938vqyc9t3.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/yp938vqyc9t3.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/jq5qv3pfkfn8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2PVtn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ca5doqybef9r",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/1C98BE4398B6A38",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?wckxmtc3etg4ug89h2l6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b9fb08bd2440ddade5be4042494af612",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2crk0",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-27T03:28:52.176Z"
+    },
     {
       "id": "255008",
       "title": "مسلسل Minimum Wage الموسم الاول الحلقة 14 والاخيرة مترجمة",
@@ -104,7 +318,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:27.435Z"
+      "scrapedAt": "2026-10-27T03:28:54.127Z"
     },
     {
       "id": "255007",
@@ -206,7 +420,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:29.347Z"
+      "scrapedAt": "2026-10-27T03:28:56.046Z"
     },
     {
       "id": "255006",
@@ -308,7 +522,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:31.496Z"
+      "scrapedAt": "2026-10-27T03:28:57.982Z"
     },
     {
       "id": "255004",
@@ -410,7 +624,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:33.433Z"
+      "scrapedAt": "2026-10-27T03:28:59.892Z"
     },
     {
       "id": "255003",
@@ -512,7 +726,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:35.472Z"
+      "scrapedAt": "2026-10-27T03:29:01.883Z"
     },
     {
       "id": "255002",
@@ -614,7 +828,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:37.376Z"
+      "scrapedAt": "2026-10-27T03:29:03.787Z"
     },
     {
       "id": "255001",
@@ -716,7 +930,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:39.294Z"
+      "scrapedAt": "2026-10-27T03:29:05.956Z"
     },
     {
       "id": "255000",
@@ -818,7 +1032,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:41.194Z"
+      "scrapedAt": "2026-10-27T03:29:07.955Z"
     },
     {
       "id": "254996",
@@ -920,7 +1134,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:43.020Z"
+      "scrapedAt": "2026-10-27T03:29:10.048Z"
     },
     {
       "id": "254999",
@@ -1022,7 +1236,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:44.886Z"
+      "scrapedAt": "2026-10-27T03:29:12.111Z"
     },
     {
       "id": "254998",
@@ -1124,7 +1338,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:46.771Z"
+      "scrapedAt": "2026-10-27T03:29:14.197Z"
     },
     {
       "id": "254997",
@@ -1226,7 +1440,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:48.733Z"
+      "scrapedAt": "2026-10-27T03:29:16.331Z"
     },
     {
       "id": "254995",
@@ -1328,7 +1542,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:50.781Z"
+      "scrapedAt": "2026-10-27T03:29:18.242Z"
     },
     {
       "id": "254883",
@@ -1430,7 +1644,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:52.654Z"
+      "scrapedAt": "2026-10-27T03:29:20.155Z"
     },
     {
       "id": "254991",
@@ -1540,7 +1754,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:54.507Z"
+      "scrapedAt": "2026-10-27T03:29:22.054Z"
     },
     {
       "id": "254969",
@@ -1646,7 +1860,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:56.417Z"
+      "scrapedAt": "2026-10-27T03:29:23.972Z"
     },
     {
       "id": "254956",
@@ -1751,7 +1965,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:13:58.424Z"
+      "scrapedAt": "2026-10-27T03:29:25.993Z"
     },
     {
       "id": "254779",
@@ -1860,7 +2074,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:00.421Z"
+      "scrapedAt": "2026-10-27T03:29:27.883Z"
     },
     {
       "id": "254782",
@@ -1966,7 +2180,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:02.424Z"
+      "scrapedAt": "2026-10-27T03:29:29.793Z"
     },
     {
       "id": "254783",
@@ -2076,7 +2290,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:04.468Z"
+      "scrapedAt": "2026-10-27T03:29:32.038Z"
     },
     {
       "id": "254784",
@@ -2182,7 +2396,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:06.360Z"
+      "scrapedAt": "2026-10-27T03:29:34.341Z"
     },
     {
       "id": "254938",
@@ -2294,7 +2508,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:08.263Z"
+      "scrapedAt": "2026-10-27T03:29:36.823Z"
     },
     {
       "id": "254936",
@@ -2406,7 +2620,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:12.368Z"
+      "scrapedAt": "2026-10-27T03:29:40.671Z"
     },
     {
       "id": "254935",
@@ -2518,7 +2732,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:14.422Z"
+      "scrapedAt": "2026-10-27T03:29:43.080Z"
     },
     {
       "id": "254934",
@@ -2630,7 +2844,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:16.684Z"
+      "scrapedAt": "2026-10-27T03:29:45.637Z"
     },
     {
       "id": "254933",
@@ -2742,7 +2956,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:18.775Z"
+      "scrapedAt": "2026-10-27T03:29:48.011Z"
     },
     {
       "id": "254930",
@@ -2854,7 +3068,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:20.793Z"
+      "scrapedAt": "2026-10-27T03:29:50.218Z"
     },
     {
       "id": "254931",
@@ -2966,7 +3180,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:22.946Z"
+      "scrapedAt": "2026-10-27T03:29:52.663Z"
     },
     {
       "id": "254929",
@@ -3078,7 +3292,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:24.961Z"
+      "scrapedAt": "2026-10-27T03:29:55.003Z"
     },
     {
       "id": "254928",
@@ -3190,7 +3404,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:27.033Z"
+      "scrapedAt": "2026-10-27T03:29:57.432Z"
     },
     {
       "id": "254926",
@@ -3302,7 +3516,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:29.035Z"
+      "scrapedAt": "2026-10-27T03:29:59.889Z"
     },
     {
       "id": "254925",
@@ -3414,7 +3628,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:31.308Z"
+      "scrapedAt": "2026-10-27T03:30:02.363Z"
     },
     {
       "id": "254927",
@@ -3526,7 +3740,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:33.218Z"
+      "scrapedAt": "2026-10-27T03:30:04.703Z"
     },
     {
       "id": "254924",
@@ -3638,7 +3852,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:35.238Z"
+      "scrapedAt": "2026-10-27T03:30:07.184Z"
     },
     {
       "id": "254923",
@@ -3750,7 +3964,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:37.256Z"
+      "scrapedAt": "2026-10-27T03:30:09.657Z"
     },
     {
       "id": "254922",
@@ -3862,7 +4076,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:39.163Z"
+      "scrapedAt": "2026-10-27T03:30:12.139Z"
     },
     {
       "id": "253571",
@@ -3974,7 +4188,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:41.159Z"
+      "scrapedAt": "2026-10-27T03:30:14.403Z"
     },
     {
       "id": "254878",
@@ -4080,7 +4294,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:43.052Z"
+      "scrapedAt": "2026-10-27T03:30:16.372Z"
     },
     {
       "id": "254870",
@@ -4187,7 +4401,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:44.940Z"
+      "scrapedAt": "2026-10-27T03:30:18.521Z"
     },
     {
       "id": "254845",
@@ -4294,7 +4508,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:46.960Z"
+      "scrapedAt": "2026-10-27T03:30:20.442Z"
     },
     {
       "id": "254838",
@@ -4397,7 +4611,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:48.999Z"
+      "scrapedAt": "2026-10-27T03:30:22.235Z"
     },
     {
       "id": "254836",
@@ -4500,7 +4714,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:50.900Z"
+      "scrapedAt": "2026-10-27T03:30:24.346Z"
     },
     {
       "id": "254839",
@@ -4603,7 +4817,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:52.772Z"
+      "scrapedAt": "2026-10-27T03:30:26.326Z"
     },
     {
       "id": "254837",
@@ -4706,7 +4920,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:54.642Z"
+      "scrapedAt": "2026-10-27T03:30:28.219Z"
     },
     {
       "id": "254835",
@@ -4809,7 +5023,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:56.498Z"
+      "scrapedAt": "2026-10-27T03:30:30.120Z"
     },
     {
       "id": "254810",
@@ -4912,7 +5126,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:14:58.383Z"
+      "scrapedAt": "2026-10-27T03:30:32.158Z"
     },
     {
       "id": "254724",
@@ -5019,7 +5233,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:15:00.395Z"
+      "scrapedAt": "2026-10-27T03:30:34.376Z"
     },
     {
       "id": "254719",
@@ -5126,7 +5340,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:15:02.290Z"
+      "scrapedAt": "2026-10-27T03:30:36.483Z"
     },
     {
       "id": "254360",
@@ -5233,7 +5447,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:15:04.314Z"
+      "scrapedAt": "2026-10-27T03:30:38.391Z"
     },
     {
       "id": "254344",
@@ -5346,7 +5560,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:15:06.201Z"
+      "scrapedAt": "2026-10-27T03:30:41.010Z"
     },
     {
       "id": "254333",
@@ -5457,7 +5671,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:15:08.492Z"
+      "scrapedAt": "2026-10-27T03:30:43.302Z"
     },
     {
       "id": "254334",
@@ -5563,227 +5777,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-26T22:15:10.689Z"
-    },
-    {
-      "id": "254341",
-      "title": "مسلسل Elsbeth الموسم الرابع الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-elsbeth-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254341",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/xdPxjf1Nw0N0A9U3Ii2z2wgVvKM-433x650.jpg",
-      "imdbRating": "7.5",
-      "story": "الزبيث، محامية غير تقليدية، تقدم وجهة نظرها الفريدة لإبداء ملاحظات للقبض على المجرمين جنبًا إلى جنب مع شرطة نيويورك.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "المخرجين": [
-          "Robert King",
-          "Ron Underwood",
-          "Rosemary Rodriguez"
-        ],
-        "بطولة": [
-          "Ajay Naidu",
-          "Alan Ruck",
-          "Alex Costello",
-          "Arthur Langlie"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-elsbeth-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-5k34klaqob7u.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/5k34klaqob7u.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/gfxs8x6nayuj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RM9x",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/f0ehen31oh0l",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C37EBEC3BD7DD42",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?5sre9ksfl7sx4rrdt4l7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ab5cd05ccf9067b8a0831fd960a54c83",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/rktP",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cp2q",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-26T22:15:12.726Z"
-    },
-    {
-      "id": "254348",
-      "title": "مسلسل Avatar: Seven Havens الموسم الاول الحلقة 9 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-avatar-seven-havens-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254348",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BZTBlZDhmYWYtN2FjNS00NTg2LWIwODctNGMxZWFmMDJmNmIxXkEyXkFqcGc@-421x650.jpg",
-      "imdbRating": null,
-      "story": "في أعقاب كارثة مدمرة هزت أركان العالم، تكتشف شابة من مُتحكّمي الأرض أنها \"الأفاتار\" الذي سيخلف \"كورا\". وبينما يُنظر إليها الآن كنذير شؤم، تسابق الزمن هي وتوأمها لإنقاذ \"الملاذات السبع\"، وسط ملاحقة حثيثة تطاردهما من قِبَل البشر والأرواح على حد سواء.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي",
-          "مسلسلات انمي"
-        ],
-        "نوع المسلسل": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Aishu Devan",
-          "Akshay Khanna",
-          "Darren Barnet",
-          "Dee Bradley Baker"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-avatar-seven-havens-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-k0kajo4b10qg.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/k0kajo4b10qg.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/wwh7gvmirvmh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/3vRd3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/12gs7dmkgvg1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E098817A2CB9141",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?oniwzpm5etdgjwjclcyy",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ef3b2f04b485b6dae29f32994629219f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/n8kG",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cp2n",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-26T22:15:14.725Z"
+      "scrapedAt": "2026-10-27T03:30:45.513Z"
     }
   ]
 }
