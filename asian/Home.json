@@ -1,9 +1,2333 @@
 {
   "fileName": "Home.json",
   "description": "مسلسلات آسيوية الصفحة الأولى حية من الشبكة",
-  "totalSeries": 53,
-  "lastUpdated": "2026-10-27T22:37:42.065Z",
+  "totalSeries": 54,
+  "lastUpdated": "2026-10-28T06:18:03.931Z",
   "series": [
+    {
+      "id": "255234",
+      "title": "مسلسل النمور تشم الورد Tigers Sniff the Rose الحلقة 12 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%85%d9%88%d8%b1-%d8%aa%d8%b4%d9%85-%d8%a7%d9%84%d9%88%d8%b1%d8%af-tigers-sniff-the-rose-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255234",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/5OuUPWLwr5JKLZBhzF7antNWdvY-433x650.jpg",
+      "imdbRating": null,
+      "story": "تروي القصة قصة «مو وانياو»، ابنة أحد النبلاء التي ترفض القبول بمصيرها، و«يان شانغ»، الشاب اللامع الذي ينحدر من أصل متواضع. ويكافحان معًا من أجل بناء عالم يسوده السلام. فهل ستتحقق أحلامهما وسط فوضى عصر مضطرب؟",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%85%d9%88%d8%b1-%d8%aa%d8%b4%d9%85-%d8%a7%d9%84%d9%88%d8%b1%d8%af-tigers-sniff-the-rose-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-a43n9js2dw3p.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/a43n9js2dw3p.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/0hedxhwavgwu",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4ROdi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/snv1bw734j67",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/BCEA08BA2BE31D3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?8ta87hk26fbxbkmlutd6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/05514edfc44d694d21aec9ceb5a84a2f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aytP",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cs2v",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:08.494Z"
+    },
+    {
+      "id": "255233",
+      "title": "مسلسل النمور تشم الورد Tigers Sniff the Rose الحلقة 11 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%85%d9%88%d8%b1-%d8%aa%d8%b4%d9%85-%d8%a7%d9%84%d9%88%d8%b1%d8%af-tigers-sniff-the-rose-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255233",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/5OuUPWLwr5JKLZBhzF7antNWdvY-433x650.jpg",
+      "imdbRating": null,
+      "story": "تروي القصة قصة «مو وانياو»، ابنة أحد النبلاء التي ترفض القبول بمصيرها، و«يان شانغ»، الشاب اللامع الذي ينحدر من أصل متواضع. ويكافحان معًا من أجل بناء عالم يسوده السلام. فهل ستتحقق أحلامهما وسط فوضى عصر مضطرب؟",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%85%d9%88%d8%b1-%d8%aa%d8%b4%d9%85-%d8%a7%d9%84%d9%88%d8%b1%d8%af-tigers-sniff-the-rose-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-5sqbvx8uztrt.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/5sqbvx8uztrt.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/3k3fremftc3m",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4ROdn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/wkb1dg6cn7o4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4F4A15A51155E09",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?jog506oikuv4jkf72iez",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/38c0236ae098b060043df5cf3645761d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aytU",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qx81",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:10.561Z"
+    },
+    {
+      "id": "255231",
+      "title": "مسلسل حين يسقط القناع Where the Mask Ends الحلقة 20 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d9%86-%d9%8a%d8%b3%d9%82%d8%b7-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%b9-where-the-mask-ends-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255231",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNjU2YjkwZjktYmY0Mi00MjVmLWJmYzAtZWM4MjIxZDgzNmNiXkEyXkFqcGc@-488x650.jpg",
+      "imdbRating": null,
+      "story": "شبه عجيب بين \"آ شو\" المتواضعة ووريثة ثرية يقودها للزواج من نبيل مريض مكانها، لكن الحفاظ على حياتها الجديدة محفوف بالمخاطر.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d9%86-%d9%8a%d8%b3%d9%82%d8%b7-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%b9-where-the-mask-ends-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-qdj1r7oqsu0i.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/qdj1r7oqsu0i.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/mycby3rvorep",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4ROdj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/nyoflhztuf6v",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/F234CEBCF5B5762",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?vxpk5fxkwwubkxh9vkp7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/6596422d569d5e119084b79a51af1e65",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aytS",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cs2y",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:12.609Z"
+    },
+    {
+      "id": "255228",
+      "title": "مسلسل رثاء الخريف The Lament of Autumn الحلقة 28 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ab%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-the-lament-of-autumn-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-28-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255228",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNjczNTYxN2MtMTk2My00N2YxLWI3NGItNmRlNTQ4Njk5MjlmXkEyXkFqcGc@._V1_-scaled-433x650.jpg",
+      "imdbRating": null,
+      "story": "تُتهم طالبة زوراً بمحاولة قتل ابن عائلة ذات نفوذ – لكن التحقيق الذي يُجرى لتبرئة سمعتها يؤدي إلى نشوء علاقة رومانسية بينهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ab%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-the-lament-of-autumn-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-28-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-yy2ppmcalghl.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/yy2ppmcalghl.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/u01cz5ia3ea6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4ROdh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/h0gdjqs9fr76",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/68546545CAC5CC6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?o6rvy0z0rlp0g94naald",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/43c25677244221e08c730353ca6c4dae",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aytN",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cs2r",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:14.802Z"
+    },
+    {
+      "id": "255227",
+      "title": "مسلسل رثاء الخريف The Lament of Autumn الحلقة 27 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ab%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-the-lament-of-autumn-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-27-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255227",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNjczNTYxN2MtMTk2My00N2YxLWI3NGItNmRlNTQ4Njk5MjlmXkEyXkFqcGc@._V1_-scaled-433x650.jpg",
+      "imdbRating": null,
+      "story": "تُتهم طالبة زوراً بمحاولة قتل ابن عائلة ذات نفوذ – لكن التحقيق الذي يُجرى لتبرئة سمعتها يؤدي إلى نشوء علاقة رومانسية بينهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ab%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-the-lament-of-autumn-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-27-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-51sazfqooelc.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/51sazfqooelc.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/fye79kiojog5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4ROdg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/1moyrbxj9ea8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/B7820BB50CDD6CB",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?jays0lpckxao2vlhjd1w",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fea3f5de7481d69bed95d0b2c4e07d3f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aytL",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cs2n",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:16.855Z"
+    },
+    {
+      "id": "255225",
+      "title": "مسلسل اجازة صيفية Summer Vacation الحلقة 2 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%ac%d8%a7%d8%b2%d8%a9-%d8%b5%d9%8a%d9%81%d9%8a%d8%a9-summer-vacation-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255225",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/s2zaOYysTP8UWt8vCZ3HfNudh0m-scaled-433x650.jpg",
+      "imdbRating": null,
+      "story": "فتاة مراهقة عادية تتوق إلى تجربة جديدة – فهل سيغير لقاءها بفتى وسيم في قرية ريفية مسار حياتها؟",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي",
+          "فانتازيا"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%ac%d8%a7%d8%b2%d8%a9-%d8%b5%d9%8a%d9%81%d9%8a%d8%a9-summer-vacation-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-5f37bt9qvnt7.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/5f37bt9qvnt7.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ubcuogx1n4me",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4ROdc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/7z05z0cd8f2w",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/AE79280F768C1FD",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?lbcni76g2q5g80blencw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/bdb66134a9fd89419c46a881e78af280",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aytM",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wuzW",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:19.203Z"
+    },
+    {
+      "id": "255223",
+      "title": "مسلسل شخص ما، يوما ما Someone, Someday الحلقة 70 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%ae%d8%b5-%d9%85%d8%a7%d8%8c-%d9%8a%d9%88%d9%85%d8%a7-%d9%85%d8%a7-someone-someday-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-70-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255223",
+      "image": "https://topcinema.film/wp-content/uploads/2026/07/MV5BZWNjMTQ5YzYtZTNiOS00OGI5LWIzYmItYTU4ZmVjM2ExZmEyXkEyXkFqcGc@._V1_-440x650.jpg",
+      "imdbRating": null,
+      "story": "عندما تصبح الرئيسة التنفيذية لتطبيق مواعدة، دون أن تدري، صديقة لشخص يسعى للانتقام، تعود الجروح القديمة إلى الظهور — مما يهدد شركتها وعائلتها وصداقاتها وحياتها العاطفية، بل وحتى حلمها في العثور على «شخص ما، يوماً ما».",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "غموض",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%ae%d8%b5-%d9%85%d8%a7%d8%8c-%d9%8a%d9%88%d9%85%d8%a7-%d9%85%d8%a7-someone-someday-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-70-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-96qfzwnz0ppx.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/96qfzwnz0ppx.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/lnz0igl8upe1",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/O3t9",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/yk1xvwxb5m2y",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/FABB1ACAC5A6AFC",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?85ly08f3zvnhnxubp17m",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/e9d782d7b4aaa58a0a8478fe3eda70bb",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/aytI",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qx7y",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:21.263Z"
+    },
+    {
+      "id": "255220",
+      "title": "مسلسل علاج البلدة الصغيرة Small Town Remedy الحلقة 16 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-small-town-remedy-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255220",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/yXlDXC1dPDoVAGWOk0Pb25zggqE-433x650.jpg",
+      "imdbRating": null,
+      "story": "بعد أن فقد ليو تشنغليانغ وظيفته في مستشفى رفيع المستوى جراء حادثة غير متوقعة، يعود إلى مسقط رأسه ويبدأ العمل في قسم الطوارئ بمستشفى مجتمعي محلي. وبينما يعالج المرضى واحدًا تلو الآخر، يجد نفسه يستمد الشفاء باستمرار من صمودهم وإنسانيتهم، مما يخلق رحلة متبادلة من التعافي والنمو بين مقدم الرعاية ومن يحتاجون إلى الرعاية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-small-town-remedy-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-x43vnzcyympu.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/x43vnzcyympu.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/5nqiplw338su",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/O3t6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/s52pjfjomllh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/DED92C22001D81E",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?yfj4bzp2jeg0t1xmatch",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/4cbbf06cedf8507e0f6668023301cf4b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aytK",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qx7t",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:23.317Z"
+    },
+    {
+      "id": "255219",
+      "title": "مسلسل علاج البلدة الصغيرة Small Town Remedy الحلقة 15 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-small-town-remedy-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255219",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/yXlDXC1dPDoVAGWOk0Pb25zggqE-433x650.jpg",
+      "imdbRating": null,
+      "story": "بعد أن فقد ليو تشنغليانغ وظيفته في مستشفى رفيع المستوى جراء حادثة غير متوقعة، يعود إلى مسقط رأسه ويبدأ العمل في قسم الطوارئ بمستشفى مجتمعي محلي. وبينما يعالج المرضى واحدًا تلو الآخر، يجد نفسه يستمد الشفاء باستمرار من صمودهم وإنسانيتهم، مما يخلق رحلة متبادلة من التعافي والنمو بين مقدم الرعاية ومن يحتاجون إلى الرعاية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-small-town-remedy-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-da8l9t5irgpv.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/da8l9t5irgpv.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/36jv3v42digj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/5xLFj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/uhq36z9eiiud",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E4E78ECF60D6D93",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?zkagyatugdzmuwtkttgo",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b70a200317736471080d7ceb7135fb2b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aytJ",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qx7r",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:25.335Z"
+    },
+    {
+      "id": "255216",
+      "title": "مسلسل النوم بين الذئاب Slumbering with Wolves الحلقة 14 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%88%d9%85-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8-slumbering-with-wolves-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255216",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/v8T1iaYFAxTPLY5ABkeWOOhGqx8-433x650.jpg",
+      "imdbRating": null,
+      "story": "يعمل خبير علم النفس الجنائي غو يان وشريكته شين يو معًا لحل القضايا الغامضة وكشف الحقيقة، في الوقت الذي يواجهان فيه تساؤلات تتعلق بالأخلاق والعدالة والدفاع عن النفس.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%88%d9%85-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8-slumbering-with-wolves-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ei19lhcnpl2o.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ei19lhcnpl2o.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/8m3hh0zvkoq3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/5xLFg",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/kfutb57bevwb",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/CFE9727A8F3A0C7",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?2vot1qmzimqfrx5ksskw",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/94ed5fdb0dd6edecb5e5cc8ca22b4622",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/aytG",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/2cs23",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:27.590Z"
+    },
+    {
+      "id": "255215",
+      "title": "مسلسل النوم بين الذئاب Slumbering with Wolves الحلقة 13 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%88%d9%85-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8-slumbering-with-wolves-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255215",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/v8T1iaYFAxTPLY5ABkeWOOhGqx8-433x650.jpg",
+      "imdbRating": null,
+      "story": "يعمل خبير علم النفس الجنائي غو يان وشريكته شين يو معًا لحل القضايا الغامضة وكشف الحقيقة، في الوقت الذي يواجهان فيه تساؤلات تتعلق بالأخلاق والعدالة والدفاع عن النفس.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%88%d9%85-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8-slumbering-with-wolves-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-zc0wimtfuri3.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/zc0wimtfuri3.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/84z15u4xb4rj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/5xLFf",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/it0975snrkjo",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/A843D90F17F5AAF",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?up6dzcn5bokm5pi1mrby",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/a144c4cfebd5293d5d3461475a137d1d",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/aytE",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qx7o",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:29.628Z"
+    },
+    {
+      "id": "255213",
+      "title": "مسلسل الفتاة المثالية Quite the Girl الحلقة 26 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%84%d9%8a%d8%a9-quite-the-girl-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-26-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255213",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/kUTbVIxcxdKCZH0ClTAg7eATSFS-768x1152-1-433x650.webp",
+      "imdbRating": null,
+      "story": "تتحد لو مينغيو، الوريثة التي تبدو محميةً من صعاب الحياة، والتي صقلتها سنوات من الإذلال، مع دوان شيومينغ، الذي يصبح سلاحها للانتقام، في مواجهة أعدائهما وسعيهما نحو الحرية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%84%d9%8a%d8%a9-quite-the-girl-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-26-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-olpozyvuhed1.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/olpozyvuhed1.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/aksnbplk8kkl",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/4ROcT",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/d9gwqbmctpvc",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/B72E223A762B33D",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?oqbu0es7uuoj30x711r8",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/4f4c02b323b62aa2f1a1069fcadf7633",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/aytD",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qx7n",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:32.034Z"
+    },
+    {
+      "id": "255210",
+      "title": "مسلسل حارس امن في الخارج Overseas Security Guard الحلقة 18 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac-overseas-security-guard-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255210",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/ykn6UIwS14EGd7na3UXuOvNU5WS-433x650.jpg",
+      "imdbRating": null,
+      "story": "بعد أن فقد زوجته وابنته في هجوم إرهابي، يختبئ حارس شخصي من النخبة ويشكل فريقًا أمنيًا خاصًا في الخارج لحماية المواطنين الصينيين المقيمين في الخارج.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac-overseas-security-guard-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-xpvtqw0rs1h3.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/xpvtqw0rs1h3.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/rafote0ldeeo",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/4ROcS",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/8rfnerbxs220",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/1F955AAFF9DE259",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?nanai00m5cqbeqad2ub7",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/86dd28a878db901b83568287d8631ffa",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/aytF",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qx7f",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:34.071Z"
+    },
+    {
+      "id": "255209",
+      "title": "مسلسل حارس امن في الخارج Overseas Security Guard الحلقة 17 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac-overseas-security-guard-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255209",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/ykn6UIwS14EGd7na3UXuOvNU5WS-433x650.jpg",
+      "imdbRating": null,
+      "story": "بعد أن فقد زوجته وابنته في هجوم إرهابي، يختبئ حارس شخصي من النخبة ويشكل فريقًا أمنيًا خاصًا في الخارج لحماية المواطنين الصينيين المقيمين في الخارج.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac-overseas-security-guard-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-x9z65c0hvq3q.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/x9z65c0hvq3q.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/tkg4vnsvctu0",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/5xLF9",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/rgo91xvovo8l",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/7F6862EDEB03339",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?3p0dbdcyp03t6am6bxfu",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/2db04ec9cbfbae686a30dc0190ed64cd",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/aytC",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qx74",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:36.099Z"
+    },
+    {
+      "id": "255207",
+      "title": "مسلسل لوونغ لي وحدي My Loong الحلقة 14 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%84%d9%88%d9%88%d9%86%d8%ba-%d9%84%d9%8a-%d9%88%d8%ad%d8%af%d9%8a-my-loong-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255207",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/jfM4j2hQozZeeSikl96AMBgnFSg-433x650.jpg",
+      "imdbRating": null,
+      "story": "بعد أن أطلقت سراح «سيد التنانين» عن غير قصد من «هاوية التنانين»، تتحالف ابنة جنرال تم التضحية به معه لمحاربة المؤامرات السياسية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%84%d9%88%d9%88%d9%86%d8%ba-%d9%84%d9%8a-%d9%88%d8%ad%d8%af%d9%8a-my-loong-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-9w7qyomsarbx.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/9w7qyomsarbx.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/3aojrnzogx3k",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/4bQKs",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/fsbttthktk3i",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/1F3EB4407FA2D52",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?96bpa3ax6dnwe2t6mlpf",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/2b6c96e61bacb2bb6837e1cfbd7b90c5",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6mku",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1wuzh",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:38.416Z"
+    },
+    {
+      "id": "253832",
+      "title": "مسلسل لعبة الاختطاف Kidnap Game الحلقة 4 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%84%d8%b9%d8%a8%d8%a9-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%b7%d8%a7%d9%81-kidnap-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=253832",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BY2Q3Mjg4N2EtNTBlOS00OThiLThmZDYtNzE3MjNkNzc1ZmY2XkEyXkFqcGc@._V1_-scaled-433x650.jpg",
+      "imdbRating": null,
+      "story": "في سبع مدن آسيوية، يُجبر غرباء على خوض لعبة مميتة لا يمكن لأحد منهم إنقاذ أحبائه إلا بالفوز على الآخرين.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%84%d8%b9%d8%a8%d8%a9-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%b7%d8%a7%d9%81-kidnap-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-k1xhtg8h3qfy.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/k1xhtg8h3qfy.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/dc5k4p4ciq7t",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bQKq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/erldhimjxf5q",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/CD9BFFA5D24333B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?5gngxgwpxrdicz6syyct",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/1549ffc06475a2988f0c2e6753cc1a09",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6mkw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wuz3",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:40.459Z"
+    },
+    {
+      "id": "255205",
+      "title": "مسلسل حب ايروها يمتد عبر العصور Iroha’s Love Runs across Eras الحلقة 2 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d8%a7%d9%8a%d8%b1%d9%88%d9%87%d8%a7-%d9%8a%d9%85%d8%aa%d8%af-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%b9%d8%b5%d9%88%d8%b1-irohas-love-runs-across-eras-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255205",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/oz6jdE3OXVUJI7OD4tXZs9Jno5j-433x650.jpg",
+      "imdbRating": null,
+      "story": "تتبادل شابة من عصر إيدو أرواحها بشكل غامض مع معلمة في مدرسة ابتدائية تعيش في العصر الحديث.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "رومانسي",
+          "فانتازيا",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d8%a7%d9%8a%d8%b1%d9%88%d9%87%d8%a7-%d9%8a%d9%85%d8%aa%d8%af-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%b9%d8%b5%d9%88%d8%b1-irohas-love-runs-across-eras-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-k6acsgtegvzz.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/k6acsgtegvzz.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ayzni515xpuv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bQKn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/g6juvl364ofd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/189311B01B498BA",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?0k3qq2lae8ju48z93e6y",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/4656f291dd40085fc30a81e2886c06f1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6mks",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wuyX",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:43.259Z"
+    },
+    {
+      "id": "255203",
+      "title": "مسلسل حلم Dream الحلقة 15 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%84%d9%85-dream-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255203",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/60VJNlmyDUtpZlv2cdAKlNrXu7T-433x650.jpg",
+      "imdbRating": null,
+      "story": "قبل سنوات، وثقت الصحفية شين ليشوي حياة العمال في مصنع الجعة القديم بمدينة لا سيتي. والآن تعود إلى لا سيتي، وتلتقط كاميرتها من جديد، وتستكشف الزوايا التي نسيها الزمن. تساو جون، وتو تشونيان، وتشيان ييتشوان، وتشنغ يوتيان... هؤلاء الأشخاص، الذين كانوا ذات يوم موضوعات عدستها، يمرون بتقلبات القدر في سيل الزمن. قصصهم أشبه بألغاز طواها الزمن. تتنقل شين ليشوي بين الماضي والحاضر، لتكشف عن فصول الماضي هذه التي دفنها الزمن.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "جريمة",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%84%d9%85-dream-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-2x1offcin33q.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/2x1offcin33q.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/7jkyjaybt2i6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/5xLEW",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/clpnscstim28",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/85864A1DA99AD58",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?sayuormxm4tu25s44t7q",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b58d794830e9a975a93c8fbf75aba6e9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6mkr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qx6z",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:45.253Z"
+    },
+    {
+      "id": "255201",
+      "title": "مسلسل عزيزي سونغ Dear Song الحلقة 17 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a-%d8%b3%d9%88%d9%86%d8%ba-dear-song-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255201",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/kr0SJXmnSKprGos6mL3v8HIwHOt-433x650.jpg",
+      "imdbRating": null,
+      "story": "تنضم يو سونغ إلى عائلة سونغ بصفتها مساعدة، سعياً وراء تحقيق العدالة لوالدها. وبفضل ثقة سونغ تشنغ ومساعدة السائق، تجمع الأدلة لفضح جرائم العائلة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a-%d8%b3%d9%88%d9%86%d8%ba-dear-song-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-7uoae2mwfqcg.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/7uoae2mwfqcg.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/a0wpkhgbtdyd",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/4ROcx",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/eqwgjplnln0a",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/C7EEAA7241C0AB0",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?gju6ti4awtxveougb5sa",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/f65f1edae860b9772c877f13595bb29a",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6mko",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qx6y",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:47.293Z"
+    },
+    {
+      "id": "255198",
+      "title": "مسلسل الاثر الالي Bionic Trace الحلقة 12 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a7%d8%ab%d8%b1-%d8%a7%d9%84%d8%a7%d9%84%d9%8a-bionic-trace-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255198",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/ed8E5zsjxZYuBp0eVctYtVaDOdX-433x650.jpg",
+      "imdbRating": null,
+      "story": "في عام 2035، يتعاون طالب في مجال الذكاء الاصطناعي، تم توريطه في جريمة قتل، مع روبوت بشري الشكل يتمتع بالوعي الذاتي، لحل قضايا غامضة وكشف أسرار شركة قوية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a7%d8%ab%d8%b1-%d8%a7%d9%84%d8%a7%d9%84%d9%8a-bionic-trace-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-9kb434wczbw6.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/9kb434wczbw6.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/254cs3589h86",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/4ROcv",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/q48tv5g4lh0g",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/AC050F0188D1252",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?29pf7rehm5s92n8fzyjb",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/a506664bddc7f48c7f3abeff6b4861bc",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6mkn",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qx6x",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:49.332Z"
+    },
+    {
+      "id": "255197",
+      "title": "مسلسل الاثر الالي Bionic Trace الحلقة 11 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a7%d8%ab%d8%b1-%d8%a7%d9%84%d8%a7%d9%84%d9%8a-bionic-trace-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255197",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/ed8E5zsjxZYuBp0eVctYtVaDOdX-433x650.jpg",
+      "imdbRating": null,
+      "story": "في عام 2035، يتعاون طالب في مجال الذكاء الاصطناعي، تم توريطه في جريمة قتل، مع روبوت بشري الشكل يتمتع بالوعي الذاتي، لحل قضايا غامضة وكشف أسرار شركة قوية.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%a7%d8%ab%d8%b1-%d8%a7%d9%84%d8%a7%d9%84%d9%8a-bionic-trace-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-hihoanpswovx.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/hihoanpswovx.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/3dk29eofgxgf",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/4ROcu",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/ogmmu9zsqbbw",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/86C6A6DBAA75987",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?7ze2nd6ok059paxmgmfj",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/866cdc5535716f94a422b1795b8f45b3",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6mkm",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1wuyQ",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:51.392Z"
+    },
+    {
+      "id": "255195",
+      "title": "مسلسل مستقبل بيستيز المشرق Besties’ Coming Fortune الحلقة 20 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a8%d9%8a%d8%b3%d8%aa%d9%8a%d8%b2-%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%82-besties-coming-fortune-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255195",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/yLlJDH8CqXrkjG1iX0j8nxiXLEY-433x650.jpg",
+      "imdbRating": null,
+      "story": "تجد صديقتان مقربتان من العصر الحديث نفسيهما داخل رواية مليئة بالمؤامرات العائلية، حيث تلعبان دور شقيقتي الزوج اللتين ينتظرهما مصير مأساوي. وبينما تتفوقان بذكائهما على المكائد القاتلة وتجدان الحب مع شقيقين من عائلة «شين»، تكشفان عن ظلم قديم ومؤامرة ملكية قد تحدد مصير عائلتيهما.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a8%d9%8a%d8%b3%d8%aa%d9%8a%d8%b2-%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%82-besties-coming-fortune-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-45wnjtksy558.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/45wnjtksy558.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/ms6a5dawdjle",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/4ROcr",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/hvutmlimvsek",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/99BD7437FD29A1C",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?2f0yb43xthkdz4yii4d9",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/2d6bed1f34e63e8d00765798d0a3ef27",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/6mkl",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/Qx6v",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:53.437Z"
+    },
+    {
+      "id": "255058",
+      "title": "مسلسل بين الخطوات Between Steps الحلقة 8 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%a7%d8%aa-between-steps-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255058",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BOTNiMzAwMTEtN2Q5ZS00ODBkLWFhYjYtMjQ4NzYxYzNmOTAzXkEyXkFqcGc@._V1_FMjpg_UX1222_-520x650.jpg",
+      "imdbRating": null,
+      "story": "مينجاي، السباح السابق، فقد ساقه بسبب المرض. وهو الآن طالب دكتوراه، وقد بنى لنفسه حياة هادئة ومنظمة، إلى أن جاءت يوجين — طالبة الماجستير التي بدأت حياة جديدة بعد أن ضلت طريقها — لتخل بتوازن حياته. وفي مختبر الروبوتات، تتحول قصة حبهما إلى علاقة ملتهبة، حلوة ومرّة، وحنونة.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "دراما",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%a7%d8%aa-between-steps-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-57b6mx3a2ch9.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/57b6mx3a2ch9.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/d1qgk913k16z",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4bQJm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/o831b7jicdkq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/16B3B76BE5E59C2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?6l068conhurs09dmcmb6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/21bca51b6b83e680146118478978424f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6mkj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qx6b",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:56.065Z"
+    },
+    {
+      "id": "254987",
+      "title": "مسلسل حب متنكر Love in Disguise الحلقة 4 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d9%85%d8%aa%d9%86%d9%83%d8%b1-love-in-disguise-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=254987",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNWY3ZjliZTUtYjc5Yy00YTEzLWE2NDQtMWUxNGU1NDgyMjRiXkEyXkFqcGc@-scaled-459x650.jpg",
+      "imdbRating": null,
+      "story": "\"يي جون يون\"، وريث مجموعة \"تايكانغ\" هو المشتبه به الرئيسي في جريمة قتل صادمة. ولكشف الحقيقة، تتخفّى المحققة \"جاي هي كانغ\" بهوية سكرتير لمراقبة \"يي جون\". وكلما اقتربا من كشف الحقيقة، ازداد تقاربهما. فهل ستتمكن \"جاي هي\" التي تخفي هويتها و\"يي جون\" الذي يخفي سراً من أن يفصح أحدهما للآخر عن مشاعره الحقيقية؟",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "رومانسي",
+          "غموض",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d9%85%d8%aa%d9%86%d9%83%d8%b1-love-in-disguise-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-rtil7n4cse6f.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/rtil7n4cse6f.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/u0tkochehy7y",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4RO8i",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/etz35iyhfq59",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/071F1CDDDD75806",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?vrummldp6t58m59btiq0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/5e8b8cc599a32099d45a01978d449eb2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6mk0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wux1",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:16:58.077Z"
+    },
     {
       "id": "255175",
       "title": "مسلسل النمور تشم الورد Tigers Sniff the Rose الحلقة 10 مترجمة",
@@ -99,7 +2423,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:39.658Z"
+      "scrapedAt": "2026-10-28T06:17:00.131Z"
     },
     {
       "id": "255172",
@@ -197,7 +2521,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:41.757Z"
+      "scrapedAt": "2026-10-28T06:17:02.540Z"
     },
     {
       "id": "255169",
@@ -293,7 +2617,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:43.863Z"
+      "scrapedAt": "2026-10-28T06:17:04.583Z"
     },
     {
       "id": "254913",
@@ -389,7 +2713,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:45.950Z"
+      "scrapedAt": "2026-10-28T06:17:06.593Z"
     },
     {
       "id": "255167",
@@ -485,7 +2809,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:48.054Z"
+      "scrapedAt": "2026-10-28T06:17:08.631Z"
     },
     {
       "id": "255164",
@@ -582,7 +2906,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:50.119Z"
+      "scrapedAt": "2026-10-28T06:17:10.659Z"
     },
     {
       "id": "255163",
@@ -679,7 +3003,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:52.192Z"
+      "scrapedAt": "2026-10-28T06:17:12.690Z"
     },
     {
       "id": "255161",
@@ -776,7 +3100,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:54.293Z"
+      "scrapedAt": "2026-10-28T06:17:14.706Z"
     },
     {
       "id": "255153",
@@ -874,7 +3198,105 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:56.340Z"
+      "scrapedAt": "2026-10-28T06:17:16.742Z"
+    },
+    {
+      "id": "255152",
+      "title": "مسلسل الغابة الغامضة Mystery Forest الحلقة 7 مترجمة",
+      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ba%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d9%85%d8%b6%d8%a9-mystery-forest-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinema.film/?p=255152",
+      "image": "https://topcinema.film/wp-content/uploads/2026/10/bPrwPDVoJOoLB02Tp8U8qZeKjaC-433x650.jpg",
+      "imdbRating": null,
+      "story": "يعود \"تشاو لونغ\" -وهو يتيمٌ يتميز باختلاف لون عينيه، ويحمل على كاهله ثأرًا دمويًا إثر مذبحةٍ أودت بعائلته- إلى بلدة \"شين تشون\" بعد ستة عشر عامًا، متخفيًا تحت اسم \"وانغ هونغ\". ومع توالي حوادث تهريب الأخشاب وجرائم القتل، تبدأ الحقيقة التي طواها النسيان في الانكشاف تدريجيًا. تتشابك الأسباب والنتائج، وتتلاعب الأقدار بمصائر البشر بقسوة؛ فتبدو الحقيقة كضبابٍ يلفُّ الغابة، حيث تصبح كل خطوةٍ مجهولة العواقب.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اسيوية"
+        ],
+        "نوع المسلسل": [
+          "اثارة",
+          "دراما",
+          "غموض"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%ba%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%ba%d8%a7%d9%85%d8%b6%d8%a9-mystery-forest-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-8kup0ga8dq3u.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/8kup0ga8dq3u.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/qa2h14cwpjxe",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/4RO6u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/628jr7emhulq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9169DAA1C932B5A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?770f5aw9wlgqkj30e2gv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/eda64e37bfdfbc1a8f2a91caca445846",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/aysM",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/Qx2d",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-10-28T06:17:19.174Z"
     },
     {
       "id": "255151",
@@ -972,7 +3394,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:35:59.855Z"
+      "scrapedAt": "2026-10-28T06:17:21.308Z"
     },
     {
       "id": "255150",
@@ -1070,7 +3492,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:01.922Z"
+      "scrapedAt": "2026-10-28T06:17:23.337Z"
     },
     {
       "id": "255148",
@@ -1168,7 +3590,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:03.970Z"
+      "scrapedAt": "2026-10-28T06:17:25.393Z"
     },
     {
       "id": "255149",
@@ -1266,7 +3688,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:06.029Z"
+      "scrapedAt": "2026-10-28T06:17:27.400Z"
     },
     {
       "id": "255147",
@@ -1364,7 +3786,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:08.065Z"
+      "scrapedAt": "2026-10-28T06:17:29.423Z"
     },
     {
       "id": "255143",
@@ -1462,7 +3884,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:10.153Z"
+      "scrapedAt": "2026-10-28T06:17:31.452Z"
     },
     {
       "id": "255138",
@@ -1558,7 +3980,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:12.216Z"
+      "scrapedAt": "2026-10-28T06:17:33.472Z"
     },
     {
       "id": "255137",
@@ -1654,7 +4076,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:14.296Z"
+      "scrapedAt": "2026-10-28T06:17:35.518Z"
     },
     {
       "id": "255136",
@@ -1750,7 +4172,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:16.356Z"
+      "scrapedAt": "2026-10-28T06:17:37.551Z"
     },
     {
       "id": "255133",
@@ -1846,7 +4268,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:18.385Z"
+      "scrapedAt": "2026-10-28T06:17:39.581Z"
     },
     {
       "id": "255131",
@@ -1942,7 +4364,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:20.426Z"
+      "scrapedAt": "2026-10-28T06:17:41.615Z"
     },
     {
       "id": "255129",
@@ -2038,7 +4460,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:22.974Z"
+      "scrapedAt": "2026-10-28T06:17:43.648Z"
     },
     {
       "id": "255126",
@@ -2134,7 +4556,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:26.038Z"
+      "scrapedAt": "2026-10-28T06:17:46.757Z"
     },
     {
       "id": "255125",
@@ -2230,7 +4652,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:28.666Z"
+      "scrapedAt": "2026-10-28T06:17:49.458Z"
     },
     {
       "id": "255118",
@@ -2326,7 +4748,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:31.355Z"
+      "scrapedAt": "2026-10-28T06:17:52.120Z"
     },
     {
       "id": "255117",
@@ -2422,7 +4844,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:34.032Z"
+      "scrapedAt": "2026-10-28T06:17:54.755Z"
     },
     {
       "id": "255120",
@@ -2518,7 +4940,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:36.091Z"
+      "scrapedAt": "2026-10-28T06:17:56.785Z"
     },
     {
       "id": "255119",
@@ -2614,7 +5036,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:38.145Z"
+      "scrapedAt": "2026-10-28T06:17:58.827Z"
     },
     {
       "id": "255115",
@@ -2710,7 +5132,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:40.173Z"
+      "scrapedAt": "2026-10-28T06:18:00.886Z"
     },
     {
       "id": "255113",
@@ -2807,2327 +5229,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-10-27T22:36:42.236Z"
-    },
-    {
-      "id": "255108",
-      "title": "مسلسل المسيرة الطويلة الكبري The Great Long March الحلقة 31 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a-the-great-long-march-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-31-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255108",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/YAY8AA_4f-430x650.jpg",
-      "imdbRating": null,
-      "story": "في عام 1934، صعدت الإمبريالية اليابانية عدوانها على الصين. ورغم المصير المحتوم الذي كان يهدد البلاد، أطلق شيانغ كاي شيك - متمسكاً بسياسة \"تهدئة الأوضاع الداخلية قبل التصدي للعدوان الخارجي\" - أضخم \"حملة تطويق وقمع\" شُنّت على الإطلاق. وأمام وضعٍ كان فيه الأمر مسألة حياة أو موت، اضطرت القوات الرئيسية للجيش الأحمر للعمال والفلاحين الصينيين إلى إجراء تحول استراتيجي وإخلاء المناطق السوفيتية الواقعة شمال وجنوب نهر يانغتسي.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "حربي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a-the-great-long-march-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-31-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-5x23uossm5w8.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/5x23uossm5w8.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/dhj1ku3trw20",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O3m5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/psse8p4sjhj8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/640FB6C2340B0F4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?6jwj5fx7t1829hzxved9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/9b2593924ea9bf394bdd05f55673ed79",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mjc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crUe",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:36:44.979Z"
-    },
-    {
-      "id": "255107",
-      "title": "مسلسل المسيرة الطويلة الكبري The Great Long March الحلقة 30 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a-the-great-long-march-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-30-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255107",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/YAY8AA_4f-430x650.jpg",
-      "imdbRating": null,
-      "story": "في عام 1934، صعدت الإمبريالية اليابانية عدوانها على الصين. ورغم المصير المحتوم الذي كان يهدد البلاد، أطلق شيانغ كاي شيك - متمسكاً بسياسة \"تهدئة الأوضاع الداخلية قبل التصدي للعدوان الخارجي\" - أضخم \"حملة تطويق وقمع\" شُنّت على الإطلاق. وأمام وضعٍ كان فيه الأمر مسألة حياة أو موت، اضطرت القوات الرئيسية للجيش الأحمر للعمال والفلاحين الصينيين إلى إجراء تحول استراتيجي وإخلاء المناطق السوفيتية الواقعة شمال وجنوب نهر يانغتسي.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "حربي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a-the-great-long-march-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-30-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-fv4xrlkaago7.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/fv4xrlkaago7.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/2q8lkmeoomj6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O3m4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/r768c8jxxhft",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/3DFC29041E35B4F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?r2lzvf6ygxsvycx4ytlm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/7954e6c84c34d9a94ba9167f5653cbbe",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mj9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crUa",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:36:47.581Z"
-    },
-    {
-      "id": "254986",
-      "title": "مسلسل حب متنكر Love in Disguise الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d9%85%d8%aa%d9%86%d9%83%d8%b1-love-in-disguise-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254986",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNWY3ZjliZTUtYjc5Yy00YTEzLWE2NDQtMWUxNGU1NDgyMjRiXkEyXkFqcGc@-scaled-459x650.jpg",
-      "imdbRating": null,
-      "story": "\"يي جون يون\"، وريث مجموعة \"تايكانغ\" هو المشتبه به الرئيسي في جريمة قتل صادمة. ولكشف الحقيقة، تتخفّى المحققة \"جاي هي كانغ\" بهوية سكرتير لمراقبة \"يي جون\". وكلما اقتربا من كشف الحقيقة، ازداد تقاربهما. فهل ستتمكن \"جاي هي\" التي تخفي هويتها و\"يي جون\" الذي يخفي سراً من أن يفصح أحدهما للآخر عن مشاعره الحقيقية؟",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "رومانسي",
-          "غموض",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8-%d9%85%d8%aa%d9%86%d9%83%d8%b1-love-in-disguise-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-qnmxu56h72ao.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/qnmxu56h72ao.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/5mqfoplltcu8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O368",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/5rf5whch51os",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/DC670DBA1CC6D68",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?g3t2rh90hajz0v4fadjq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/0dc711ab9de1f04ac9ae9456dbe6bc16",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mce",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crih",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:36:49.636Z"
-    },
-    {
-      "id": "255057",
-      "title": "مسلسل بين الخطوات Between Steps الحلقة 7 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%a7%d8%aa-between-steps-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255057",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BOTNiMzAwMTEtN2Q5ZS00ODBkLWFhYjYtMjQ4NzYxYzNmOTAzXkEyXkFqcGc@._V1_FMjpg_UX1222_-520x650.jpg",
-      "imdbRating": null,
-      "story": "مينجاي، السباح السابق، فقد ساقه بسبب المرض. وهو الآن طالب دكتوراه، وقد بنى لنفسه حياة هادئة ومنظمة، إلى أن جاءت يوجين — طالبة الماجستير التي بدأت حياة جديدة بعد أن ضلت طريقها — لتخل بتوازن حياته. وفي مختبر الروبوتات، تتحول قصة حبهما إلى علاقة ملتهبة، حلوة ومرّة، وحنونة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%a7%d8%aa-between-steps-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-vda782vu574y.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/vda782vu574y.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/953zvahqn3rf",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O367",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/sl5a3t42dgoh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/353E86AF35F7AB3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?2h7ulf60x99zp7elin7u",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/1d85d7622a0424f81cabf7c5e41c169e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mcc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crid",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:36:51.753Z"
-    },
-    {
-      "id": "255061",
-      "title": "مسلسل المحامية الاستثنائية مينامي Extraordinary Attorney Minami الحلقة 2 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%a9-%d9%85%d9%8a%d9%86%d8%a7%d9%85%d9%8a-extraordinary-attorney-minami-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255061",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/xnNu56T04JDZRBIDxclpr83s7K-433x650.jpg",
-      "imdbRating": null,
-      "story": "تروي القصة حكاية محامية مبتدئة مصابة باضطراب طيف التوحد (ASD) تخطو خطواتها الأولى في عالم المهنة القانونية الواسع والمليء بالتحديات؛ ورغم مواجهتها لعقبات عديدة، فإنها تتغلب على صعوبات لا حصر لها بفضل منظورها الفريد ولحظات البصيرة التي تراودها. ومن خلال علاقاتها بزملائها وأصدقائها وعائلتها، تصور المسلسل بحنان رحلتها نحو النمو والتحول — سواء كمحامية أو كفرد.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%a9-%d9%85%d9%8a%d9%86%d8%a7%d9%85%d9%8a-extraordinary-attorney-minami-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-je01039t15g3.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/je01039t15g3.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/6qdvkzpvbgg0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0w3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/o8yo42bpl5pt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/41E01B560535357",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?hxjbuogytualhmrk7pf4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/2c864425052ab575d30ce59c62cd9648",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mc4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2creh",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:36:54.449Z"
-    },
-    {
-      "id": "255049",
-      "title": "مسلسل حين يسقط القناع Where the Mask Ends الحلقة 19 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d9%86-%d9%8a%d8%b3%d9%82%d8%b7-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%b9-where-the-mask-ends-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255049",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNjU2YjkwZjktYmY0Mi00MjVmLWJmYzAtZWM4MjIxZDgzNmNiXkEyXkFqcGc@-488x650.jpg",
-      "imdbRating": null,
-      "story": "شبه عجيب بين \"آ شو\" المتواضعة ووريثة ثرية يقودها للزواج من نبيل مريض مكانها، لكن الحفاظ على حياتها الجديدة محفوف بالمخاطر.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%8a%d9%86-%d9%8a%d8%b3%d9%82%d8%b7-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%b9-where-the-mask-ends-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-vzpgarbe9msu.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/vzpgarbe9msu.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/uuzc9b0nw79h",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0rb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/xjlnozoee5k7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9C282FB6DF0160C",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?molvem121qn1o6a6933h",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/cf1d209b5fc47170eb62a55e9e0a9020",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mb7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crah",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:36:56.527Z"
-    },
-    {
-      "id": "255047",
-      "title": "مسلسل النمور تشم الورد Tigers Sniff the Rose الحلقة 9 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%85%d9%88%d8%b1-%d8%aa%d8%b4%d9%85-%d8%a7%d9%84%d9%88%d8%b1%d8%af-tigers-sniff-the-rose-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255047",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/5OuUPWLwr5JKLZBhzF7antNWdvY-433x650.jpg",
-      "imdbRating": null,
-      "story": "تروي القصة قصة «مو وانياو»، ابنة أحد النبلاء التي ترفض القبول بمصيرها، و«يان شانغ»، الشاب اللامع الذي ينحدر من أصل متواضع. ويكافحان معًا من أجل بناء عالم يسوده السلام. فهل ستتحقق أحلامهما وسط فوضى عصر مضطرب؟",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%86%d9%85%d9%88%d8%b1-%d8%aa%d8%b4%d9%85-%d8%a7%d9%84%d9%88%d8%b1%d8%af-tigers-sniff-the-rose-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-g8mgsmxc7vhi.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/g8mgsmxc7vhi.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/qdsiilwrqxp4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0r4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/98r0c45ce8nu",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/7555ABC3F832A8D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?mxsbvdlfy3n0ft9f3jx4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/b5b384a1fc4457b4801fe14ee0f548a6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mb5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qwfv",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:36:58.596Z"
-    },
-    {
-      "id": "255044",
-      "title": "مسلسل رثاء الخريف The Lament of Autumn الحلقة 26 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ab%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-the-lament-of-autumn-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-26-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255044",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNjczNTYxN2MtMTk2My00N2YxLWI3NGItNmRlNTQ4Njk5MjlmXkEyXkFqcGc@._V1_-scaled-433x650.jpg",
-      "imdbRating": null,
-      "story": "تُتهم طالبة زوراً بمحاولة قتل ابن عائلة ذات نفوذ – لكن التحقيق الذي يُجرى لتبرئة سمعتها يؤدي إلى نشوء علاقة رومانسية بينهما.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ab%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-the-lament-of-autumn-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-26-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-d0vxioqyxi8w.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/d0vxioqyxi8w.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/lab05yss5uo7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0r1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/d78ql648i7nn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/1B431D398247CB8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?4h401w4p5cwcqawcc18k",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ba0ba09484aa00dd20e111825e505c49",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mb4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qwfo",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:00.627Z"
-    },
-    {
-      "id": "255043",
-      "title": "مسلسل رثاء الخريف The Lament of Autumn الحلقة 25 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ab%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-the-lament-of-autumn-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255043",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/MV5BNjczNTYxN2MtMTk2My00N2YxLWI3NGItNmRlNTQ4Njk5MjlmXkEyXkFqcGc@._V1_-scaled-433x650.jpg",
-      "imdbRating": null,
-      "story": "تُتهم طالبة زوراً بمحاولة قتل ابن عائلة ذات نفوذ – لكن التحقيق الذي يُجرى لتبرئة سمعتها يؤدي إلى نشوء علاقة رومانسية بينهما.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "رومانسي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b1%d8%ab%d8%a7%d8%a1-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d9%81-the-lament-of-autumn-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-25-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-s88s61osjg5y.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/s88s61osjg5y.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9i4mf0de51dn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RNIB",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/ufww4vosjxet",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/787E267D2982E6F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?tfxyvgp16jtgy3uf5u43",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3066807025e253504fbe2c9e0ce4d492",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mbh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3ym4C",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:02.661Z"
-    },
-    {
-      "id": "255040",
-      "title": "مسلسل المسيرة الطويلة الكبري The Great Long March الحلقة 29 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a-the-great-long-march-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-29-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255040",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/YAY8AA_4f-430x650.jpg",
-      "imdbRating": null,
-      "story": "في عام 1934، صعدت الإمبريالية اليابانية عدوانها على الصين. ورغم المصير المحتوم الذي كان يهدد البلاد، أطلق شيانغ كاي شيك - متمسكاً بسياسة \"تهدئة الأوضاع الداخلية قبل التصدي للعدوان الخارجي\" - أضخم \"حملة تطويق وقمع\" شُنّت على الإطلاق. وأمام وضعٍ كان فيه الأمر مسألة حياة أو موت، اضطرت القوات الرئيسية للجيش الأحمر للعمال والفلاحين الصينيين إلى إجراء تحول استراتيجي وإخلاء المناطق السوفيتية الواقعة شمال وجنوب نهر يانغتسي.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "حربي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a-the-great-long-march-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-29-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-0kldql16j2nz.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/0kldql16j2nz.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/onzbpn67jew8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0rj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/kqrk48gzqavg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2BBF5C6E480BE34",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?zesau0e6jtjbh4brhl0m",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/a07331be0ad3c199ae77f54cb7fcea30",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mba",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qwg1",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:05.390Z"
-    },
-    {
-      "id": "255039",
-      "title": "مسلسل المسيرة الطويلة الكبري The Great Long March الحلقة 28 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a-the-great-long-march-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-28-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255039",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/YAY8AA_4f-430x650.jpg",
-      "imdbRating": null,
-      "story": "في عام 1934، صعدت الإمبريالية اليابانية عدوانها على الصين. ورغم المصير المحتوم الذي كان يهدد البلاد، أطلق شيانغ كاي شيك - متمسكاً بسياسة \"تهدئة الأوضاع الداخلية قبل التصدي للعدوان الخارجي\" - أضخم \"حملة تطويق وقمع\" شُنّت على الإطلاق. وأمام وضعٍ كان فيه الأمر مسألة حياة أو موت، اضطرت القوات الرئيسية للجيش الأحمر للعمال والفلاحين الصينيين إلى إجراء تحول استراتيجي وإخلاء المناطق السوفيتية الواقعة شمال وجنوب نهر يانغتسي.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "حربي",
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a-the-great-long-march-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-28-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-lzis4rafx1m2.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/lzis4rafx1m2.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/tefpmcq8tvco",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0rg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/491wzlc832b0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B73731742D18CB8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?midam38lqr2lwnn28oqb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/702d1cee7b7181280a5c5a14238c05c7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mb8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2craz",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:07.971Z"
-    },
-    {
-      "id": "254985",
-      "title": "مسلسل شخص ما، يوما ما Someone, Someday الحلقة 69 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%ae%d8%b5-%d9%85%d8%a7%d8%8c-%d9%8a%d9%88%d9%85%d8%a7-%d9%85%d8%a7-someone-someday-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-69-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254985",
-      "image": "https://topcinema.film/wp-content/uploads/2026/07/MV5BZWNjMTQ5YzYtZTNiOS00OGI5LWIzYmItYTU4ZmVjM2ExZmEyXkEyXkFqcGc@._V1_-440x650.jpg",
-      "imdbRating": null,
-      "story": "عندما تصبح الرئيسة التنفيذية لتطبيق مواعدة، دون أن تدري، صديقة لشخص يسعى للانتقام، تعود الجروح القديمة إلى الظهور — مما يهدد شركتها وعائلتها وصداقاتها وحياتها العاطفية، بل وحتى حلمها في العثور على «شخص ما، يوماً ما».",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "غموض",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%ae%d8%b5-%d9%85%d8%a7%d8%8c-%d9%8a%d9%88%d9%85%d8%a7-%d9%85%d8%a7-someone-someday-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-69-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-7wfk4wt6pv7w.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/7wfk4wt6pv7w.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/3wpym6a1hfdv",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://bowfile.com/1u0va",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/fkmhljuzpct1",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/4BEE93AACE8FAB1",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1fichier.com/?1gog7ht8r4onqvv01l4m",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/b9385e0ce3c20da212e48ad30547ede1",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/6mc0",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/2crdA",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:10.025Z"
-    },
-    {
-      "id": "255032",
-      "title": "مسلسل السعي المحموم وراء الذهب Scrambling for Gold الحلقة 8 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255032",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yzLSHOwXxP7YpGuwRzAYBWYqAvw-433x650.jpg",
-      "imdbRating": null,
-      "story": "خلال فترة الاحتلال الياباني لمقاطعة لينغباو، تنحى كل من زعيم شيوعي، وقائد قومي، وزعيم عصابة عن خلافاتهم جانبًا؛ وذلك لحماية منجم للذهب وتهريب ما يُستخرج منه لدعم حركة المقاومة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-umt8tu5etda7.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/umt8tu5etda7.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/j2t37e0qscjk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0tZ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/n94lgprpy9ld",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/A7AAB04D92B16C4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?7d4acrugpcwystx52c7g",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d75faaf10595f0c4a22236f11b67b8aa",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mc1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qwid",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:12.866Z"
-    },
-    {
-      "id": "255031",
-      "title": "مسلسل السعي المحموم وراء الذهب Scrambling for Gold الحلقة 7 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255031",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yzLSHOwXxP7YpGuwRzAYBWYqAvw-433x650.jpg",
-      "imdbRating": null,
-      "story": "خلال فترة الاحتلال الياباني لمقاطعة لينغباو، تنحى كل من زعيم شيوعي، وقائد قومي، وزعيم عصابة عن خلافاتهم جانبًا؛ وذلك لحماية منجم للذهب وتهريب ما يُستخرج منه لدعم حركة المقاومة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-4b6faca3jmg5.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/4b6faca3jmg5.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/dkuqml0x8u35",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0u0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/gdur1wq17g36",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/540F9AC33F86A67",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?jrsvh20unyahd7fg7in2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/705527094513d6909e78ac4028501a84",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aykY",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qwie",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:15.578Z"
-    },
-    {
-      "id": "255025",
-      "title": "مسلسل السعي المحموم وراء الذهب Scrambling for Gold الحلقة 6 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255025",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yzLSHOwXxP7YpGuwRzAYBWYqAvw-433x650.jpg",
-      "imdbRating": null,
-      "story": "خلال فترة الاحتلال الياباني لمقاطعة لينغباو، تنحى كل من زعيم شيوعي، وقائد قومي، وزعيم عصابة عن خلافاتهم جانبًا؛ وذلك لحماية منجم للذهب وتهريب ما يُستخرج منه لدعم حركة المقاومة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-5yi05xmifrtz.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/5yi05xmifrtz.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/nzfd2zjfwfkd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0tY",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/t5q1gcsq8oiy",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/0F2C818A16BEB82",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?lgxybe8lryody9xy1qs9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/59262c995fe75761b3df8e8e295e8f69",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/aykX",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3ym7g",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:18.242Z"
-    },
-    {
-      "id": "255024",
-      "title": "مسلسل السعي المحموم وراء الذهب Scrambling for Gold الحلقة 5 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255024",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yzLSHOwXxP7YpGuwRzAYBWYqAvw-433x650.jpg",
-      "imdbRating": null,
-      "story": "خلال فترة الاحتلال الياباني لمقاطعة لينغباو، تنحى كل من زعيم شيوعي، وقائد قومي، وزعيم عصابة عن خلافاتهم جانبًا؛ وذلك لحماية منجم للذهب وتهريب ما يُستخرج منه لدعم حركة المقاومة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-aj74eao8ok0x.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/aj74eao8ok0x.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/6slgyvnpvicj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O314",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/67zd6qh4gl31",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/8EF5B0268D8E7A7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?s4ohz7o4sv4dv53d2sk3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d998c8c396510ff896d448f8009e6bf2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mbs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crcv",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:20.848Z"
-    },
-    {
-      "id": "255023",
-      "title": "مسلسل السعي المحموم وراء الذهب Scrambling for Gold الحلقة 4 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255023",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yzLSHOwXxP7YpGuwRzAYBWYqAvw-433x650.jpg",
-      "imdbRating": null,
-      "story": "خلال فترة الاحتلال الياباني لمقاطعة لينغباو، تنحى كل من زعيم شيوعي، وقائد قومي، وزعيم عصابة عن خلافاتهم جانبًا؛ وذلك لحماية منجم للذهب وتهريب ما يُستخرج منه لدعم حركة المقاومة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-zbrp41zxwk0o.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/zbrp41zxwk0o.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/0vczqjq7jga4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0tb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/p5o0p8unm0w7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/CD974230247C677",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?w4rro45vdhfw2cmuj92c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ac3bbdf08cb94fe890ad3aaa149e8ed5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mbp",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crcp",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:23.544Z"
-    },
-    {
-      "id": "255022",
-      "title": "مسلسل السعي المحموم وراء الذهب Scrambling for Gold الحلقة 3 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255022",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yzLSHOwXxP7YpGuwRzAYBWYqAvw-433x650.jpg",
-      "imdbRating": null,
-      "story": "خلال فترة الاحتلال الياباني لمقاطعة لينغباو، تنحى كل من زعيم شيوعي، وقائد قومي، وزعيم عصابة عن خلافاتهم جانبًا؛ وذلك لحماية منجم للذهب وتهريب ما يُستخرج منه لدعم حركة المقاومة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-sc4r5end1my0.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/sc4r5end1my0.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/eiaxomrikw5j",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0sY",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/63dwsmvxmkra",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/704C160798D6346",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?49zcare7juy3qyo28mz2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/584230521f4796aa6a4e371e8c4cb1a4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mbo",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crcj",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:26.209Z"
-    },
-    {
-      "id": "255021",
-      "title": "مسلسل السعي المحموم وراء الذهب Scrambling for Gold الحلقة 2 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=255021",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yzLSHOwXxP7YpGuwRzAYBWYqAvw-433x650.jpg",
-      "imdbRating": null,
-      "story": "خلال فترة الاحتلال الياباني لمقاطعة لينغباو، تنحى كل من زعيم شيوعي، وقائد قومي، وزعيم عصابة عن خلافاتهم جانبًا؛ وذلك لحماية منجم للذهب وتهريب ما يُستخرج منه لدعم حركة المقاومة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-pecwqcoyz2ly.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/pecwqcoyz2ly.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/2kog7yuaclxm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O30w",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/iebb2abizfd8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C57C8670806D5E9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?hamjj3787z0l9aa88282",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/b05d0e53ade2ec7082b15dfc74db5fdf",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mbn",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crcg",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:28.899Z"
-    },
-    {
-      "id": "254981",
-      "title": "مسلسل السعي المحموم وراء الذهب Scrambling for Gold الحلقة 1 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254981",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yzLSHOwXxP7YpGuwRzAYBWYqAvw-433x650.jpg",
-      "imdbRating": null,
-      "story": "خلال فترة الاحتلال الياباني لمقاطعة لينغباو، تنحى كل من زعيم شيوعي، وقائد قومي، وزعيم عصابة عن خلافاتهم جانبًا؛ وذلك لحماية منجم للذهب وتهريب ما يُستخرج منه لدعم حركة المقاومة.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b3%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%85-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-scrambling-for-gold-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-brbgptwsf1rf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/brbgptwsf1rf.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ztw8731mfp69",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O30n",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/wfnvcis64qm7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/33B665494E9C4B7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?wat6ur2818pkct2jq0mx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/f0da980ea0686b153c3d7153dcfe69b3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mbm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crcc",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:31.545Z"
-    },
-    {
-      "id": "254978",
-      "title": "مسلسل علاج البلدة الصغيرة Small Town Remedy الحلقة 14 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-small-town-remedy-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254978",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yXlDXC1dPDoVAGWOk0Pb25zggqE-433x650.jpg",
-      "imdbRating": null,
-      "story": "بعد أن فقد ليو تشنغليانغ وظيفته في مستشفى رفيع المستوى جراء حادثة غير متوقعة، يعود إلى مسقط رأسه ويبدأ العمل في قسم الطوارئ بمستشفى مجتمعي محلي. وبينما يعالج المرضى واحدًا تلو الآخر، يجد نفسه يستمد الشفاء باستمرار من صمودهم وإنسانيتهم، مما يخلق رحلة متبادلة من التعافي والنمو بين مقدم الرعاية ومن يحتاجون إلى الرعاية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-small-town-remedy-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-fl5kw6y668mk.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/fl5kw6y668mk.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/5kuy3juyeqe2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1u0s0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/f2y2jynw9708",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/328E704A423743F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?unk0j8yldbjeebr7l8uk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/027883d261109bd10eec9537b8cda561",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mbj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qwhj",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:33.579Z"
-    },
-    {
-      "id": "254977",
-      "title": "مسلسل علاج البلدة الصغيرة Small Town Remedy الحلقة 13 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-small-town-remedy-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254977",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/yXlDXC1dPDoVAGWOk0Pb25zggqE-433x650.jpg",
-      "imdbRating": null,
-      "story": "بعد أن فقد ليو تشنغليانغ وظيفته في مستشفى رفيع المستوى جراء حادثة غير متوقعة، يعود إلى مسقط رأسه ويبدأ العمل في قسم الطوارئ بمستشفى مجتمعي محلي. وبينما يعالج المرضى واحدًا تلو الآخر، يجد نفسه يستمد الشفاء باستمرار من صمودهم وإنسانيتهم، مما يخلق رحلة متبادلة من التعافي والنمو بين مقدم الرعاية ومن يحتاجون إلى الرعاية.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b9%d9%84%d8%a7%d8%ac-%d8%a7%d9%84%d8%a8%d9%84%d8%af%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-small-town-remedy-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-erdr5fei1zmk.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/erdr5fei1zmk.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/6sm9xp0s7udl",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RNJA",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/c7875dy8ylel",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/AAF8B1C3A453EC4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?iccuja6fqpyu9kg2il0o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/0ba9142a3ef835ff03e21a9536f87762",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mbi",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2crbp",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:35.613Z"
-    },
-    {
-      "id": "254973",
-      "title": "مسلسل حلم Dream الحلقة 14 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%84%d9%85-dream-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254973",
-      "image": "https://topcinema.film/wp-content/uploads/2026/10/60VJNlmyDUtpZlv2cdAKlNrXu7T-433x650.jpg",
-      "imdbRating": null,
-      "story": "قبل سنوات، وثقت الصحفية شين ليشوي حياة العمال في مصنع الجعة القديم بمدينة لا سيتي. والآن تعود إلى لا سيتي، وتلتقط كاميرتها من جديد، وتستكشف الزوايا التي نسيها الزمن. تساو جون، وتو تشونيان، وتشيان ييتشوان، وتشنغ يوتيان... هؤلاء الأشخاص، الذين كانوا ذات يوم موضوعات عدستها، يمرون بتقلبات القدر في سيل الزمن. قصصهم أشبه بألغاز طواها الزمن. تتنقل شين ليشوي بين الماضي والحاضر، لتكشف عن فصول الماضي هذه التي دفنها الزمن.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%84%d9%85-dream-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-hv13i6x6378i.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/hv13i6x6378i.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ueplnfrw2zt1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/4RNIx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/zpif12z3g0hx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/8A32FE8BDC758A4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?0o9ciblb6p068ztol3nk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/a350485fc25bb75b1c6170f5aee474a0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6mb3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/Qwfh",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:38.390Z"
-    },
-    {
-      "id": "254914",
-      "title": "مسلسل شخص ما، يوما ما Someone, Someday الحلقة 68 مترجمة",
-      "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%ae%d8%b5-%d9%85%d8%a7%d8%8c-%d9%8a%d9%88%d9%85%d8%a7-%d9%85%d8%a7-someone-someday-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-68-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinema.film/?p=254914",
-      "image": "https://topcinema.film/wp-content/uploads/2026/07/MV5BZWNjMTQ5YzYtZTNiOS00OGI5LWIzYmItYTU4ZmVjM2ExZmEyXkEyXkFqcGc@._V1_-440x650.jpg",
-      "imdbRating": null,
-      "story": "عندما تصبح الرئيسة التنفيذية لتطبيق مواعدة، دون أن تدري، صديقة لشخص يسعى للانتقام، تعود الجروح القديمة إلى الظهور — مما يهدد شركتها وعائلتها وصداقاتها وحياتها العاطفية، بل وحتى حلمها في العثور على «شخص ما، يوماً ما».",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اسيوية"
-        ],
-        "نوع المسلسل": [
-          "دراما",
-          "غموض",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.film/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%b4%d8%ae%d8%b5-%d9%85%d8%a7%d8%8c-%d9%8a%d9%88%d9%85%d8%a7-%d9%85%d8%a7-someone-someday-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-68-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-r2ivd4d4xeaj.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/r2ivd4d4xeaj.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/37o2bmi8q9oq",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://bowfile.com/4RNoz",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/4uikffpr0t5h",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/2AD8652D2D20DF0",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1fichier.com/?5j9yhp7l3p0dbj9ixrr8",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/6b0e09d981bfe2c4b568c64521a1df43",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://koramaup.com/6m6g",
-          "quality": "720p",
-          "type": "download_server"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/2So7q",
-          "quality": "720p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-10-27T22:37:41.064Z"
+      "scrapedAt": "2026-10-28T06:18:02.931Z"
     }
   ]
 }
