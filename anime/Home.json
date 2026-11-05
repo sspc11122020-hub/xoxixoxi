@@ -2,8 +2,99 @@
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-11-04T19:59:37.592Z",
+  "lastUpdated": "2026-11-05T07:13:07.249Z",
   "series": [
+    {
+      "id": "256666",
+      "title": "مسلسل The Simpsons الموسم 38 الحلقة 5 مترجمة",
+      "url": "https://topcinemaa.vip/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-simpsons-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-38-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.vip/?p=256666",
+      "image": "https://topcinemaa.vip/wp-content/uploads/2026/09/dl0hTYMUi6R843M8etyrzsynxPz-scaled-433x650.jpg",
+      "imdbRating": "8.6",
+      "story": "تدور أحداث المسلسل في قالب كوميدي حول المغامرات الساخرة والغريبة لعائلة سبمسون وكافة سكان مدينة سبرينجفيلد .",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.vip/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-simpsons-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-38-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-x1debj3cn3x8.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/x1debj3cn3x8.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/jufdneygu11m",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1u4ku",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/q2a2vpesuo1c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E25B5BCF8E85DC2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/5e2ba86e89532ba381d248df20ec6583",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/azxH",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2cxa6",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-05T07:10:51.147Z"
+    },
     {
       "id": "257685",
       "title": "انمي Juuou Mujin Dandivine الحلقة 5 مترجمة",
@@ -94,7 +185,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:57:54.098Z"
+      "scrapedAt": "2026-11-05T07:10:53.562Z"
     },
     {
       "id": "5806",
@@ -192,7 +283,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:57:56.648Z"
+      "scrapedAt": "2026-11-05T07:10:56.575Z"
     },
     {
       "id": "3735",
@@ -290,7 +381,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:57:58.622Z"
+      "scrapedAt": "2026-11-05T07:10:58.957Z"
     },
     {
       "id": "2327",
@@ -388,7 +479,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:00.535Z"
+      "scrapedAt": "2026-11-05T07:11:01.458Z"
     },
     {
       "id": "637",
@@ -486,7 +577,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:02.458Z"
+      "scrapedAt": "2026-11-05T07:11:03.929Z"
     },
     {
       "id": "636",
@@ -584,7 +675,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:04.360Z"
+      "scrapedAt": "2026-11-05T07:11:06.396Z"
     },
     {
       "id": "635",
@@ -682,7 +773,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:06.274Z"
+      "scrapedAt": "2026-11-05T07:11:08.963Z"
     },
     {
       "id": "634",
@@ -780,7 +871,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:08.199Z"
+      "scrapedAt": "2026-11-05T07:11:11.437Z"
     },
     {
       "id": "633",
@@ -878,7 +969,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:10.106Z"
+      "scrapedAt": "2026-11-05T07:11:14.014Z"
     },
     {
       "id": "632",
@@ -976,7 +1067,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:12.048Z"
+      "scrapedAt": "2026-11-05T07:11:16.350Z"
     },
     {
       "id": "631",
@@ -996,7 +1087,7 @@
           "مغامرة"
         ],
         "جودة الحلقة": [
-          "720p HD"
+          "1080p WEB-DL"
         ],
         "موعد الصدور": [
           "2023"
@@ -1074,7 +1165,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:13.858Z"
+      "scrapedAt": "2026-11-05T07:11:18.639Z"
     },
     {
       "id": "630",
@@ -1172,7 +1263,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:15.696Z"
+      "scrapedAt": "2026-11-05T07:11:21.088Z"
     },
     {
       "id": "601",
@@ -1208,7 +1299,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ua7npd371ciq.html",
+          "url": "https://down.vidtube.one/embed-8cu3pz2gay7i.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1270,7 +1361,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:17.670Z"
+      "scrapedAt": "2026-11-05T07:11:23.550Z"
     },
     {
       "id": "613",
@@ -1315,42 +1406,60 @@
       "downloadServers": [
         {
           "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/gd6yqiogdfct.html",
+          "url": "https://down.vidtube.one/d/zgsblzej4cvq.html",
           "quality": "VideoTube",
           "type": "pro_server"
         },
         {
-          "name": "720p",
-          "url": "https://updown.cam/xedqf3x1s8sj",
-          "quality": "720p",
+          "name": "1080p",
+          "url": "https://updown.cam/6el0ls8k4e0z",
+          "quality": "1080p",
           "type": "download_server"
         },
         {
-          "name": "720p",
-          "url": "https://www.salabox.net/a/f/3SI0jeH",
-          "quality": "720p",
+          "name": "1080p",
+          "url": "https://bowfile.com/3vJq8",
+          "quality": "1080p",
           "type": "download_server"
         },
         {
-          "name": "720p",
-          "url": "https://ddownload.com/l36r3gafgzkj",
-          "quality": "720p",
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/axodgd0b27i1",
+          "quality": "1080p",
           "type": "download_server"
         },
         {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/3904622C5678FD0",
-          "quality": "720p",
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E2078F47FE80602",
+          "quality": "1080p",
           "type": "download_server"
         },
         {
-          "name": "720p",
-          "url": "https://1fichier.com/?hducpzm0agqo0mrji5m0",
-          "quality": "720p",
+          "name": "1080p",
+          "url": "https://1fichier.com/?dovlsm3dq8ch730fenu7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/00dc09b3f65d9c3ce3402bd9fcfe2c9e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/n5bH",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1wg6u",
+          "quality": "1080p",
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:19.476Z"
+      "scrapedAt": "2026-11-05T07:11:26.044Z"
     },
     {
       "id": "612",
@@ -1386,7 +1495,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-h6yf7i0y1omo.html",
+          "url": "https://down.vidtube.one/embed-g257r2fjx4qd.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1448,7 +1557,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:21.436Z"
+      "scrapedAt": "2026-11-05T07:11:28.904Z"
     },
     {
       "id": "610",
@@ -1484,7 +1593,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-398pqpumyzuc.html",
+          "url": "https://down.vidtube.one/embed-h19mrca8c23m.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1546,7 +1655,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:23.366Z"
+      "scrapedAt": "2026-11-05T07:11:31.411Z"
     },
     {
       "id": "611",
@@ -1644,7 +1753,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:25.311Z"
+      "scrapedAt": "2026-11-05T07:11:33.906Z"
     },
     {
       "id": "609",
@@ -1742,7 +1851,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:27.271Z"
+      "scrapedAt": "2026-11-05T07:11:36.410Z"
     },
     {
       "id": "608",
@@ -1778,7 +1887,7 @@
         },
         {
           "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-3u2hlbkk6b7u.html",
+          "url": "https://down.vidtube.one/embed-irbux8lviziz.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "m3u8Url": null
@@ -1840,7 +1949,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:29.213Z"
+      "scrapedAt": "2026-11-05T07:11:39.413Z"
     },
     {
       "id": "607",
@@ -1938,7 +2047,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:31.145Z"
+      "scrapedAt": "2026-11-05T07:11:42.024Z"
     },
     {
       "id": "606",
@@ -2036,7 +2145,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:33.096Z"
+      "scrapedAt": "2026-11-05T07:11:45.010Z"
     },
     {
       "id": "605",
@@ -2134,7 +2243,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:34.990Z"
+      "scrapedAt": "2026-11-05T07:11:47.621Z"
     },
     {
       "id": "604",
@@ -2232,7 +2341,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:36.918Z"
+      "scrapedAt": "2026-11-05T07:11:50.581Z"
     },
     {
       "id": "603",
@@ -2330,7 +2439,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:38.845Z"
+      "scrapedAt": "2026-11-05T07:11:53.075Z"
     },
     {
       "id": "597",
@@ -2428,7 +2537,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:40.744Z"
+      "scrapedAt": "2026-11-05T07:11:55.565Z"
     },
     {
       "id": "257838",
@@ -2520,7 +2629,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:42.660Z"
+      "scrapedAt": "2026-11-05T07:11:57.997Z"
     },
     {
       "id": "257836",
@@ -2610,7 +2719,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:44.566Z"
+      "scrapedAt": "2026-11-05T07:12:00.570Z"
     },
     {
       "id": "257686",
@@ -2702,7 +2811,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:46.504Z"
+      "scrapedAt": "2026-11-05T07:12:02.976Z"
     },
     {
       "id": "257684",
@@ -2794,7 +2903,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:48.411Z"
+      "scrapedAt": "2026-11-05T07:12:05.480Z"
     },
     {
       "id": "257678",
@@ -2886,7 +2995,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:50.336Z"
+      "scrapedAt": "2026-11-05T07:12:08.025Z"
     },
     {
       "id": "257674",
@@ -2978,7 +3087,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:52.265Z"
+      "scrapedAt": "2026-11-05T07:12:10.580Z"
     },
     {
       "id": "257671",
@@ -3069,7 +3178,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:54.158Z"
+      "scrapedAt": "2026-11-05T07:12:13.052Z"
     },
     {
       "id": "257670",
@@ -3161,7 +3270,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:56.092Z"
+      "scrapedAt": "2026-11-05T07:12:15.519Z"
     },
     {
       "id": "257615",
@@ -3253,7 +3362,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:58.017Z"
+      "scrapedAt": "2026-11-05T07:12:18.070Z"
     },
     {
       "id": "257137",
@@ -3350,7 +3459,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:58:59.916Z"
+      "scrapedAt": "2026-11-05T07:12:20.665Z"
     },
     {
       "id": "257136",
@@ -3448,7 +3557,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:01.861Z"
+      "scrapedAt": "2026-11-05T07:12:23.241Z"
     },
     {
       "id": "257169",
@@ -3546,7 +3655,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:03.801Z"
+      "scrapedAt": "2026-11-05T07:12:25.594Z"
     },
     {
       "id": "257168",
@@ -3644,7 +3753,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:05.727Z"
+      "scrapedAt": "2026-11-05T07:12:28.079Z"
     },
     {
       "id": "257167",
@@ -3742,7 +3851,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:07.682Z"
+      "scrapedAt": "2026-11-05T07:12:30.556Z"
     },
     {
       "id": "257166",
@@ -3840,7 +3949,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:09.670Z"
+      "scrapedAt": "2026-11-05T07:12:33.023Z"
     },
     {
       "id": "257165",
@@ -3938,7 +4047,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:11.590Z"
+      "scrapedAt": "2026-11-05T07:12:35.484Z"
     },
     {
       "id": "257141",
@@ -4036,7 +4145,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:13.482Z"
+      "scrapedAt": "2026-11-05T07:12:37.940Z"
     },
     {
       "id": "257135",
@@ -4134,7 +4243,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:15.404Z"
+      "scrapedAt": "2026-11-05T07:12:40.543Z"
     },
     {
       "id": "257130",
@@ -4232,7 +4341,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:17.328Z"
+      "scrapedAt": "2026-11-05T07:12:42.917Z"
     },
     {
       "id": "257121",
@@ -4330,7 +4439,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:19.276Z"
+      "scrapedAt": "2026-11-05T07:12:45.533Z"
     },
     {
       "id": "257127",
@@ -4422,7 +4531,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:21.191Z"
+      "scrapedAt": "2026-11-05T07:12:48.124Z"
     },
     {
       "id": "257129",
@@ -4507,7 +4616,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:23.113Z"
+      "scrapedAt": "2026-11-05T07:12:50.653Z"
     },
     {
       "id": "257128",
@@ -4592,7 +4701,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:25.031Z"
+      "scrapedAt": "2026-11-05T07:12:53.226Z"
     },
     {
       "id": "256679",
@@ -4683,7 +4792,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:26.949Z"
+      "scrapedAt": "2026-11-05T07:12:55.856Z"
     },
     {
       "id": "256678",
@@ -4775,7 +4884,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:28.863Z"
+      "scrapedAt": "2026-11-05T07:12:58.354Z"
     },
     {
       "id": "256004",
@@ -4867,7 +4976,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:30.915Z"
+      "scrapedAt": "2026-11-05T07:13:00.964Z"
     },
     {
       "id": "256360",
@@ -4959,7 +5068,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:32.874Z"
+      "scrapedAt": "2026-11-05T07:13:03.582Z"
     },
     {
       "id": "256359",
@@ -5050,99 +5159,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-04T19:59:34.776Z"
-    },
-    {
-      "id": "256362",
-      "title": "انمي Kanata kara الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.vip/%d8%a7%d9%86%d9%85%d9%8a-kanata-kara-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.vip/?p=256362",
-      "image": "https://topcinemaa.vip/wp-content/uploads/2026/10/otOGOSpeP0EDzzhJAUCzSSCM1ba-492x650.jpg",
-      "imdbRating": null,
-      "story": "لطالما حلمت نوريكو تاتشيكي بوجود أرض خيالية ساحرة، رغم أن أصدقاءها يظنون أن ذلك مجرد نتاج لخيالها. وفي أحد الأيام، وبينما كانت في طريق عودتها إلى المنزل، عثرت نوريكو على قنبلة مموهة على هيئة كيس ورقي انفجرت مباشرة أمامها؛ غير أنها -بدلاً من أن تلقى حتفها- انتقلت إلى غابة غامضة تعج بالنباتات والمخلوقات الغريبة.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "رومانسي",
-          "فانتازيا",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.vip/%d8%a7%d9%86%d9%85%d9%8a-kanata-kara-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-5xwoieq2cwdj.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/5xwoieq2cwdj.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/x99x2ubzzmu2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a067",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/yyjsyi36d48l",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/20D1F3ABCBF57DE",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/0b6b386fea84add0621c40efd2a336c3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6n20",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2cveh",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-04T19:59:36.592Z"
+      "scrapedAt": "2026-11-05T07:13:06.249Z"
     }
   ]
 }
