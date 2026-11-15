@@ -2,8 +2,1314 @@
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-11-13T19:58:51.869Z",
+  "lastUpdated": "2026-11-15T07:00:51.090Z",
   "series": [
+    {
+      "id": "260517",
+      "title": "انمي Kashita Maryoku wa “Revo Barai” de Kyousei Choushuu الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260517",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BM2Q1Y2ZkMDQtMjhmNC00ZWU1LTg5MWMtYmY0YTNmY2ZiZDgxXkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
+      "imdbRating": null,
+      "story": "يُعد \"لينت\" عضواً في فرقة المغامرين الصاعدة المعروفة باسم \"سكاي بيرسرز\" (Skypiercers)، وبفضل قدرته الفريدة، يمكنه إعارة كميات هائلة من السحر للآخرين؛ فلا داعي للقلق بشأن نفاد نقاط السحر (MP) بوجوده! لكن، ومع تحول رفاقه إلى أبطال أشداء (بفضل مهارته)، بدأت تثار تساؤلات حول مدى أهميته وفائدته. بعد طرده من المجموعة، استشاط \"لينت\" غضباً... إلى أن اكتشف قوةً خفيةً تكمن في قدرته؛ والآن، وبمساعدة شريكته الجنية الماكرة واللطيفة، عزم على استعادة كل ذرة سحر منحها لفرقته السابقة—بل واستردادها مع الفوائد أيضاً!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ix3w4dmu1ehb.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ix3w4dmu1ehb.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ru7istodi4mx",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//u7fd9wduh57k.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1u8vq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/1xs516pl9ear",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/17BFB358BEC8231",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ee135f9d1248e9e0531eda0b3a5263cf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/nb4J",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4ewfv",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:41.319Z"
+    },
+    {
+      "id": "260511",
+      "title": "انمي Magical Explorer الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-magical-explorer-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260511",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BNDEwNTBjYmItNTA0MS00OGE3LWI5Y2ItYWUxYTFjMzJlZThjXkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
+      "imdbRating": null,
+      "story": "بعد أن تقمّص شخصيةً في اللعبة الأسطورية ذات الطابع الرومانسي الجريء \"Magical Explorer\"، سرعان ما يكتشف بطلنا أنه أُسند إليه دور شخصيةٍ ثانويةٍ سيئة الحظ، بدلاً من دور البطل الجذاب الذي يخطف قلوب الفتيات. لكن لا داعي للقلق؛ فبفضل معرفته الواسعة بتفاصيل اللعبة (وبعض الحيل المساعدة)، سيبذل قصارى جهده لكسب قلوب بطلات اللعبة وليصبح الطالب الأكثر تميزاً وإنجازاً في أكاديمية السحرة!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-magical-explorer-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-j46wxd7ofbln.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/j46wxd7ofbln.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/u06f94zlg33h",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//7um39pqd723t.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1u8v1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/48a29lw6unk3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/FC7ED270397FFD6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b588ca9731af0644124c1915a05f9347",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/nb4I",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3yyN5",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:43.629Z"
+    },
+    {
+      "id": "260512",
+      "title": "انمي Ranma ½ (2024) الموسم الثالث الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-ranma-%c2%bd-2024-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260512",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/156287l.jpg",
+      "imdbRating": "7.9",
+      "story": "تلتقي \"أكاني تيندو\" بخطيبها الجديد \"رانما ساوتومي\"، وهو لاعب فنون قتالية موهوب بمفارقة واحدة… إنه يتحول سحريًّا إلى فتاة عندما يلامس الماء البارد.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-ranma-%c2%bd-2024-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-gcsbyvdob833.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/gcsbyvdob833.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/27usb1px3usj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//c7jninjg1lrx.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q3pl",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/f29wev27w3j2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/D767AA34B2B61D3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/08d9c235a38811cc1cf5c3cbe3e0034a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6ouz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4ewff",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:45.869Z"
+    },
+    {
+      "id": "260516",
+      "title": "انمي Kyoufu Collector الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-kyoufu-collector-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260516",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BMWQ3NGFlZjgtMzJkOC00ZmQ1LTk4NjktNzJkMTZmMDQ3NmE0XkEyXkFqcGc@._V1_FMjpg_UX480_-433x650.jpg",
+      "imdbRating": null,
+      "story": "تدور حول عالم تنتشر فيه على الإنترنت قصص الرعب والأساطير الغامضة وحوادث الاختفاء غير المفسرة، والتي يظن معظم الناس أنها مجرد شائعات وخدع للتسلية. لكن بعض الأشخاص يكتشفون بالطريقة الأصعب أن جزءًا من هذه القصص حقيقي فعلًا. وبينما يواجه الضحايا ظواهر وكيانات مرعبة، قد تتغير فرص نجاتهم إذا صادفوا فتى غامضًا يرتدي غطاءً أحمر، يتنقل من مدينة إلى أخرى ويظهر دائمًا حيث تقع الأحداث الغريبة، وسط تساؤلات حول ما إذا كان منقذًا أم دليلًا حيًا على أن الوحوش موجودة بالفعل.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "رعب",
+          "غموض",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-kyoufu-collector-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-rs77lo87n10o.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/rs77lo87n10o.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/7u7mo07zqwwk",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//kyd9ysvtgoww.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q3pg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/hbct3ks8zmoz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A62424547AA2CCF",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/e2deeec5bf1a9f7e828b10aab7cab801",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6ouy",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2SBkv",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:48.272Z"
+    },
+    {
+      "id": "260448",
+      "title": "انمي Marronnier Oukoku no Shichinin no Kishi الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-marronnier-oukoku-no-shichinin-no-kishi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260448",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/hEiqdcoZFq3RqanHoR75HQFnWyK-scaled-457x650.jpg",
+      "imdbRating": null,
+      "story": "في قلب قارةٍ تتألف من ثماني ممالك، تقع مملكة \"مارونييه\". وتتولى قيادة البلاد الجنرال \"باريبارا\"، التي لديها سبعة أبناء، لكلٍ منهم شخصيته الفريدة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-marronnier-oukoku-no-shichinin-no-kishi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-gjgqlkr14i3a.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/gjgqlkr14i3a.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/wea2am1dtgvl",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//4scngqm1mrn7.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q3ns",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/y2akedqae4jx",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/55F674BEFF0ECEC",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/5cfe9530007056a072cf6ff82d19b15a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6oum",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4eweg",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:50.536Z"
+    },
+    {
+      "id": "260510",
+      "title": "انمي Vertex Force الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-vertex-force-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260510",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BNGQ3ZWEyMjUtM2IyNy00ODc5LTkwZTctNTBmMDQxNDliNWY1XkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": null,
+      "story": "يعيش أكيرا تودو، وهو طالب في المرحلة الثانوية يقيم في شمال أوكيناوا، حياةً هادئةً مع والدته وشقيقته الكبرى هاروكا. ومع ذلك، تخفي حياتهم الهادئة سراً تتوارثه العائلة؛ فقد ورثت هاروكا عن والدها قوةً غامضةً تُعرف باسم \"المحرك\" (Engine)، وظلت طوال حياتها تخفي هذه القوة عن الآخرين. أما أكيرا، فلم يرث أي شيء، وهو يعاني من عقدة نقصٍ بسبب ضعفه.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "خيال علمي",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-vertex-force-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-arjfgny6ijiq.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/arjfgny6ijiq.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/axxa6ur0epo8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//r0365dbmf7qc.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q3mo",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/xccxw82au29n",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/2E325C8ECF5220A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/1d6e1d4f33e23660e0de3f6301e08ddc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6ou9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4UtFU",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:52.620Z"
+    },
+    {
+      "id": "260449",
+      "title": "انمي Black Clover الموسم الثاني الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-black-clover-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260449",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/158830l.jpg",
+      "imdbRating": "8.2",
+      "story": "ينضم (ماجنا) إلى (أستا) وفرسان السحر الآخرين الذين تم اختيارهم للتدرب في مملكة القلب، للاستعداد لمحاربة (ميجيكولا) والثالوث المظلم. ويتم الكشف عن ماضي (يونو) كأمير من مملكة البستوني، ويتعلم (أستا) كيفية العمل مع شيطانه، (ليب).",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-black-clover-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-5f9hawvqg1i6.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/5f9hawvqg1i6.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/l7kntdfqkkcw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//ppys17rjsob5.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2a5Tb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/s7a55woymp9l",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/B164FE47AD0154F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/8062aee1bda3b64525b6b8c50b0f4b8c",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/nb46",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4ewcv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/456qidq7h5t6",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/2a5Ta",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/q01uxnv6nsim",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/CE5A22902E4105E",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/140c8080579b86f0c3a6af5f2cd3ba7f",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/nb44",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/4ewct",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:54.867Z"
+    },
+    {
+      "id": "258559",
+      "title": "انمي Zombie Sagashitemasu الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-zombie-sagashitemasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=258559",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BODE4NTdiNjQtYjFjMC00NDUwLTkxZDYtOTI1Zjk3NGViNzZiXkEyXkFqcGc@._V1_-scaled-460x650.jpg",
+      "imdbRating": null,
+      "story": "تدور الأحداث في عالمٍ أودى فيه مرضٌ فتاك وشديد العدوى بحياة 90% من البشرية، ليعودوا بعدها في هيئة \"زومبي\" متعطشين للهجوم؛ وقد مرّت الآن ثلاثة عشر عاماً على \"اليوم الأحمر\" الذي شهد انهيار المجتمع. يعيش الناجون من البشر بعيداً عن المدن الكبرى، متمسكين بأمل استعادتها يوماً ما، بينما يبرز جيلٌ جديدٌ تماماً لم يعاصر العالم الذي سبق ذلك اليوم.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-zombie-sagashitemasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-klu7ox90k243.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/klu7ox90k243.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/2ln0yfxgnt2g",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//ecao61jix34b.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q3ls",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/x6s6naigel7o",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/34CE9B456F917D2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/0ec4666328074099ba0f811ee69cd0c9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/nb45",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4ewcr",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:57.124Z"
+    },
+    {
+      "id": "260442",
+      "title": "انمي Romelia Senki الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-romelia-senki-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260442",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BMTRiZTE0NzktZjYxNC00M2E5LTkyYzUtNDliMTMzYjRlOWQ1XkEyXkFqcGc@._V1_-scaled-433x650.jpg",
+      "imdbRating": null,
+      "story": "بعد هزيمة ملك الشياطين، تنهار حياة الكونتيسة “روميليا” عندما يفسخ الأمير “هنري” خطوبتهما علنًا ويصفها بأنها عديمة الفائدة، من دون أن يدرك أن لديها قدرة سرية تُدعى “Grace” تمنحها حظًا استثنائيًا. ورغم الإهانة التي تعرضت لها، ترفض روميليا الاستسلام، خاصة أن بلادها ما تزال تعاني من فلول جيش الشياطين وسقوط العديد من شعبها في الأسر. ومن دون جيش قوي أو أموال أو معالجين، تبدأ في بناء قوتها من الصفر مستعينة بذكائها وإصرارها. ومع كل خطوة، تجمع الحلفاء والموارد وتدرب جنودها، لتبدأ رحلة تهدف من خلالها إلى إنقاذ شعبها وإثبات قيمتها للجميع.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-romelia-senki-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-bg5vc3m7k26s.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/bg5vc3m7k26s.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/buf9r8m9em3z",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//7snuiosmnfw1.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q3lo",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/81aw2vhgx5ku",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/F97935076199B9B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fcb3f9278c6dd0df7bcc368e40408920",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/nb41",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4ewcm",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:58:59.180Z"
+    },
+    {
+      "id": "260444",
+      "title": "انمي Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260444",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BMGJkNjE3NzUtOTVhZC00YzkxLTg1NjQtMWNkZWQ3MTM4MzQ3XkEyXkFqcGc@._V1_-463x650.jpg",
+      "imdbRating": "6.6",
+      "story": "لطالما حلمت \"فيا\" بأن تصبح فارسة. ورغم أنها تنتمي إلى عائلة من الفرسان وتُعد الأقل موهبة بينهم، إلا أنها تتمسك بأملها وتتدرب بكل ما أوتيت من قوة. وحين يحين اليوم الموعود لتقتل شيطاناً صغيراً وتثبت جدارتها، تجد نفسها فجأة وجهاً لوجه أمام تنين! تتراءى لها مشاهد حياتها أمام عينيها إثر إصابة مميتة... وفجأة، تستعيد ذكريات حياتها السابقة؛ إذ كانت \"قديسة\" قوية في حقبة غابرة وهزمت \"ملك الشياطين\". لقد انتهت تلك الحياة بالألم بسبب هويتها، مما جعلها تخشى أن تصبح قديسة مرة أخرى. والآن، وقد عادت سحر حياتها السابقة للظهور، قد تغدو فارسة أقوى مما حلمت به يوماً... هذا إن تمكنت من النجاة والبقاء على قيد الحياة!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-1h7xst176ia8.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/1h7xst176ia8.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/djt6f1y1q7ut",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//fjqgf5mrgogj.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q3lp",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/b7beab93q2xj",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9075843D07F4CC6",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b39dcd8e4a20d907928047a776194ef5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/nb42",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4ewcn",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:59:01.423Z"
+    },
+    {
+      "id": "260445",
+      "title": "انمي Yasei no Last Boss ga Arawareta الموسم الثاني الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-yasei-no-last-boss-ga-arawareta-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260445",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/09/MV5BZjY0NTQ2YjYtOGVjZS00ZmQ4LTkyNGYtMGYzODczMDAwMTc3XkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
+      "imdbRating": "7",
+      "story": "تدور حول روفاس مافاهل، الحاكمة ذات الأجنحة السوداء وقائدة “النجوم الاثني عشر السماوية”، التي هُزمت قبل مئتي عام على يد الأبطال السبعة. بعد هذه الحقبة، يستيقظ رجل عادي ليجد نفسه قد تجسد في جسد شخصية “روفاس” من لعبة Exgate، لكنه يكتشف أن هذا العالم لم يعد مجرد لعبة، بل أصبح عالماً حقيقياً يعيش فيه الناس ويفكرون ويشعرون كما يفعل هو. يجد روفاس نفسه بلا وطن أو جيش أو حلفاء، وينطلق في رحلة عبر عالم Exgate للبحث عن “النجوم الاثني عشر السماوية” الذين تفرقوا منذ زمن بعيد. ومع تقدمه في هذه المغامرة، يظل السؤال الغامض معلقاً: ما السبب الحقيقي وراء تجسد رجل عادي في جسد روفاس داخل هذا العالم؟",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-yasei-no-last-boss-ga-arawareta-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-wgtoaupps7ui.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/wgtoaupps7ui.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/vgcij9g20fvr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//rjgbtyduxulx.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q3lq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/dwp2m5ytwbqi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9C7C387BE15F01B",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/9acc4dbb1fb6864c29a7d3b7ade05854",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/nb43",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4ewcq",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:59:03.690Z"
+    },
+    {
+      "id": "260432",
+      "title": "انمي Shuiro no Kamen الحلقة 6 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-shuiro-no-kamen-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260432",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/jIQ8cnTs7sCMzEfBviyyD4eXMiY-scaled-459x650.jpg",
+      "imdbRating": null,
+      "story": "تدور أحداث القصة في عالم مظلم وغموض حيث تمنح الأقنعة طاقة وقوى فريدة لمرتديها، لكنها في كثير من الأحيان تؤدي إلى مآسي مدمرة يقع “بيرو“، تلميذ صانع الأقنعة الأسطوري غاستون رو، يقع تحت سيطرة “قناع إله الحرب”، فيقتل أصدقاءه دون قصد، بل وحتى معلمه. ولمنع تكرار مثل هذه المأساة، يقسم بيرو على تدمير جميع أقنعة غاستون المنتشرة حول العالم. وبينما يواجه خطاياه التي ارتكبها، ينطلق في رحلته، يلتقي بأصدقاء جدد، ويواجه أعداء أقوياء. ويواصل الفتى السير حتى اليوم الذي يستطيع فيه التكفير عن خطاياه تجاه معلمه.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-shuiro-no-kamen-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-hk2f1uz87fv2.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/hk2f1uz87fv2.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/xe89ljnwr6x4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//mtxf3qlppfb0.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1u8po",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/2qormkbdz3a2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/AE588B692993F01",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/8d6146fcbb208d73e43f730b7dba237f",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6ota",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4UtBU",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:59:05.945Z"
+    },
+    {
+      "id": "260430",
+      "title": "انمي Keroro Gunsou الحلقة 7 مترجمة",
+      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-keroro-gunsou-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.one/?p=260430",
+      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BOTU2MWU3NDQtNTMxYy00YWI3LWFjZmEtMjM1YjUyMzQ4MDI5XkEyXkFqcGc@-459x650.jpg",
+      "imdbRating": null,
+      "story": "تدور القصة حول الرقيب كيرورو قائد فرقة من الفضائيين الشبيهين بالضفادع القادمين من كوكب كيرون، والذي يُرسل لاكتشاف واستطلاع كوكب الأرض الذي يسمونه بيكوبون بهدف احتلاله. لكن تنقلب الأمور عندما يتم اكتشاف أمره من قبل عائلة هيناتا العادية فويوكي وشقيقته ناتسومي، ليجبر على العيش مختبئاً في منزلهم والقيام بالأعمال المنزلية وإدمان تركيب مجسمات الجاندام، محولاً خطط الغزو الفضائي إلى مواقف كوميدية ساخرة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "عائلي",
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-keroro-gunsou-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-otns2e84qsi7.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/otns2e84qsi7.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/y7vbxr9y8jva",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://okstream.online/d//jgxl6uvhv6ef.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1u8pn",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/65yagfjxxofz",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4CB11BF66C9DC40",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a635752ac2e8a86fca7d5f1b7c481fe1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/6ot9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4ew9y",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-15T06:59:08.041Z"
+    },
     {
       "id": "260336",
       "title": "انمي Tokyo Revengers الموسم الرابع الحلقة 7 مترجمة",
@@ -65,6 +1371,12 @@
         },
         {
           "name": "1080p",
+          "url": "https://okstream.online/d//rk9emyntjqb6.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
           "url": "https://down.mdiaload.com/hafoa3qp9aus",
           "quality": "1080p",
           "type": "download_server"
@@ -100,7 +1412,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:56:48.566Z"
+      "scrapedAt": "2026-11-15T06:59:10.306Z"
     },
     {
       "id": "260334",
@@ -163,6 +1475,12 @@
         },
         {
           "name": "1080p",
+          "url": "https://okstream.online/d//akkwssabijfk.html",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
           "url": "https://down.mdiaload.com/8pvjslgly09p",
           "quality": "1080p",
           "type": "download_server"
@@ -198,7 +1516,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:56:50.935Z"
+      "scrapedAt": "2026-11-15T06:59:12.776Z"
     },
     {
       "id": "260335",
@@ -300,7 +1618,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:56:53.288Z"
+      "scrapedAt": "2026-11-15T06:59:14.878Z"
     },
     {
       "id": "260332",
@@ -402,7 +1720,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:56:55.651Z"
+      "scrapedAt": "2026-11-15T06:59:17.236Z"
     },
     {
       "id": "260330",
@@ -505,7 +1823,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:56:58.023Z"
+      "scrapedAt": "2026-11-15T06:59:19.481Z"
     },
     {
       "id": "260284",
@@ -609,7 +1927,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:00.388Z"
+      "scrapedAt": "2026-11-15T06:59:21.735Z"
     },
     {
       "id": "260282",
@@ -712,7 +2030,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:02.710Z"
+      "scrapedAt": "2026-11-15T06:59:24.008Z"
     },
     {
       "id": "260161",
@@ -816,7 +2134,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:05.057Z"
+      "scrapedAt": "2026-11-15T06:59:26.274Z"
     },
     {
       "id": "259970",
@@ -909,7 +2227,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:07.575Z"
+      "scrapedAt": "2026-11-15T06:59:28.351Z"
     },
     {
       "id": "259971",
@@ -1001,7 +2319,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:09.884Z"
+      "scrapedAt": "2026-11-15T06:59:30.446Z"
     },
     {
       "id": "259972",
@@ -1093,7 +2411,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:12.228Z"
+      "scrapedAt": "2026-11-15T06:59:32.709Z"
     },
     {
       "id": "259969",
@@ -1189,7 +2507,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:14.601Z"
+      "scrapedAt": "2026-11-15T06:59:35.328Z"
     },
     {
       "id": "259132",
@@ -1292,7 +2610,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:16.922Z"
+      "scrapedAt": "2026-11-15T06:59:37.623Z"
     },
     {
       "id": "259827",
@@ -1396,7 +2714,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:19.265Z"
+      "scrapedAt": "2026-11-15T06:59:39.806Z"
     },
     {
       "id": "259826",
@@ -1500,7 +2818,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:21.590Z"
+      "scrapedAt": "2026-11-15T06:59:42.165Z"
     },
     {
       "id": "259823",
@@ -1604,7 +2922,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:23.900Z"
+      "scrapedAt": "2026-11-15T06:59:44.724Z"
     },
     {
       "id": "257676",
@@ -1708,7 +3026,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:26.210Z"
+      "scrapedAt": "2026-11-15T06:59:47.354Z"
     },
     {
       "id": "259802",
@@ -1812,7 +3130,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:28.541Z"
+      "scrapedAt": "2026-11-15T06:59:49.531Z"
     },
     {
       "id": "259762",
@@ -1916,7 +3234,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:30.831Z"
+      "scrapedAt": "2026-11-15T06:59:52.108Z"
     },
     {
       "id": "259761",
@@ -2019,7 +3337,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:33.258Z"
+      "scrapedAt": "2026-11-15T06:59:54.518Z"
     },
     {
       "id": "259760",
@@ -2123,7 +3441,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:35.524Z"
+      "scrapedAt": "2026-11-15T06:59:56.940Z"
     },
     {
       "id": "259349",
@@ -2221,7 +3539,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:37.722Z"
+      "scrapedAt": "2026-11-15T06:59:59.019Z"
     },
     {
       "id": "259350",
@@ -2319,7 +3637,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:40.047Z"
+      "scrapedAt": "2026-11-15T07:00:01.363Z"
     },
     {
       "id": "259351",
@@ -2416,7 +3734,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:42.377Z"
+      "scrapedAt": "2026-11-15T07:00:03.698Z"
     },
     {
       "id": "259348",
@@ -2508,7 +3826,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:44.704Z"
+      "scrapedAt": "2026-11-15T07:00:06.118Z"
     },
     {
       "id": "259347",
@@ -2599,7 +3917,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:47.053Z"
+      "scrapedAt": "2026-11-15T07:00:08.536Z"
     },
     {
       "id": "259346",
@@ -2690,7 +4008,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:49.359Z"
+      "scrapedAt": "2026-11-15T07:00:11.154Z"
     },
     {
       "id": "259345",
@@ -2782,7 +4100,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:51.405Z"
+      "scrapedAt": "2026-11-15T07:00:13.806Z"
     },
     {
       "id": "259320",
@@ -2886,7 +4204,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:53.796Z"
+      "scrapedAt": "2026-11-15T07:00:18.328Z"
     },
     {
       "id": "256680",
@@ -2990,7 +4308,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:55.845Z"
+      "scrapedAt": "2026-11-15T07:00:20.992Z"
     },
     {
       "id": "256363",
@@ -3094,7 +4412,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:57:58.325Z"
+      "scrapedAt": "2026-11-15T07:00:23.659Z"
     },
     {
       "id": "259231",
@@ -3198,7 +4516,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:00.686Z"
+      "scrapedAt": "2026-11-15T07:00:26.359Z"
     },
     {
       "id": "258952",
@@ -3300,7 +4618,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:02.998Z"
+      "scrapedAt": "2026-11-15T07:00:28.763Z"
     },
     {
       "id": "258953",
@@ -3404,7 +4722,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:05.397Z"
+      "scrapedAt": "2026-11-15T07:00:31.461Z"
     },
     {
       "id": "258948",
@@ -3502,7 +4820,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:07.433Z"
+      "scrapedAt": "2026-11-15T07:00:34.144Z"
     },
     {
       "id": "258947",
@@ -3605,7 +4923,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:09.630Z"
+      "scrapedAt": "2026-11-15T07:00:36.802Z"
     },
     {
       "id": "258951",
@@ -3709,7 +5027,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:11.955Z"
+      "scrapedAt": "2026-11-15T07:00:39.486Z"
     },
     {
       "id": "258942",
@@ -3813,7 +5131,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:14.249Z"
+      "scrapedAt": "2026-11-15T07:00:42.138Z"
     },
     {
       "id": "257613",
@@ -3916,7 +5234,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:16.600Z"
+      "scrapedAt": "2026-11-15T07:00:44.820Z"
     },
     {
       "id": "258941",
@@ -4020,7 +5338,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:18.765Z"
+      "scrapedAt": "2026-11-15T07:00:47.451Z"
     },
     {
       "id": "258939",
@@ -4123,1352 +5441,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-13T19:58:20.944Z"
-    },
-    {
-      "id": "258940",
-      "title": "انمي Ojisan wa Kawaii Mono ga Osuki الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-ojisan-wa-kawaii-mono-ga-osuki-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258940",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BNDg2MGNkOTYtOTc1Ny00NzIyLTgyZmEtZDA3ZDcwMTMwZTNiXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": null,
-      "story": "عمل كوميدي يبعث على الدفء يتمحور حول \"ميتسوتاكا أوجي\" -وهو رجل في منتصف العمر يتسم بالرزانة والكفاءة لكنه يخفي شغفه بالأشياء اللطيفة- ويحتفي بالبالغين الذين يعتزون بحبهم للمقتنيات الظريفة.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-ojisan-wa-kawaii-mono-ga-osuki-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-7uzax0ggbtst.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/7uzax0ggbtst.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/8mzvr0saeser",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//btzmebmp00vv.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a3mt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/m4pgn3yek33z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/FAD4698CFED2360",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?sb7nkseeh4skgreygyvz",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/9c829f99585c2e04fe3e99ee97cfb309",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/azT9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sxec",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:23.361Z"
-    },
-    {
-      "id": "258901",
-      "title": "مسلسل Get Jiro الموسم الاول الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.one/%d9%85%d8%b3%d9%84%d8%b3%d9%84-get-jiro-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258901",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BY2VlM2NkMWMtYWEwZi00NDQ3LWIyZTAtNWMyOGIwNmI5N2RjXkEyXkFqcGc@-433x650.jpg",
-      "imdbRating": "6.7",
-      "story": "في لوس أنجلوس ما بعد نهاية العالم، في مستقبل قريب حيث تسود الثقافة الطهوية، وتعتبر الشخصيات الأكثر نفوذاً في العالم هم الطهاة، ويُعد الطعام عملةً ومؤشراً على الانتماء الطبقي في آن واحد، ينطلق طاهي السوشي الغامض «جيرو» في رحلة بحث عن الانتقام.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات اجنبي",
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d9%85%d8%b3%d9%84%d8%b3%d9%84-get-jiro-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-gbu4ysz5fp79.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/gbu4ysz5fp79.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/q4316jt2lij8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//nq75plapiypf.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a3lr",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/btca46uumxlw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E30C7217FC3C5FD",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?wgresporxsd0s0vdjzat",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/dbf63fca7e997d4d808b21e766c03b75",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/najv",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sxcq",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:25.417Z"
-    },
-    {
-      "id": "258897",
-      "title": "انمي Yozakura-san Chi no Daisakusen Part 2 الموسم الثاني الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-yozakura-san-chi-no-daisakusen-part-2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258897",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BN2E4NDE2MzItZDk1Yi00MGZjLTk4MGMtMzNiYzNjOGU0Y2EwXkEyXkFqcGc@._V1_-463x650.jpg",
-      "imdbRating": "6.9",
-      "story": "كان طالب المدرسة الثانوية “أسانو تايو” غير كفء اجتماعيًا منذ وفاة عائلته في حادث سيارة. الشخص الوحيد الذي يمكنه التفاعل معه بشكل صحيح هي صديقة طفولته، “يوزاكورا موتسومي“، رئيسة أقوى عائلة جواسيس في العالم. كان شقيق “موتسومي” الأكبر “يوزاكورا كيويشيرو” يحميها بشكل مفرط منذ أن أصابها ذات مرة بجروح خطيرة. حبه لـ”موتسومي” قاتل، و”تايو” هو هدفه التالي. للبقاء على قيد الحياة، يجب أن يتزوج “تايو” من “موتسومي” وأن يصبح عضوًا في عائلة “يوزاكورا“. ليبدأ “تايو” رحلته ليصبح جاسوسًا قويًا لحماية زوجته وكشف الأسرار المظلمة لماضيه وعائلة “يوزاكورا“.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "كوميدي",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-yozakura-san-chi-no-daisakusen-part-2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-n8unr0rrphoo.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/n8unr0rrphoo.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/m64v8bfnenug",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//s7nyww8t9a8i.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a3lt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/u72q1sdy8mn9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/02645E6AB91218D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?x34gesbtd9yh6sx7d2xq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/125561fcdb2d2b63dce54d0a092df918",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/najz",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sxcw",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:27.856Z"
-    },
-    {
-      "id": "258895",
-      "title": "انمي Diamond no Ace: Act II Part 2 الموسم الثاني الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-diamond-no-ace-act-ii-part-2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258895",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/159929l.jpg",
-      "imdbRating": "8.3",
-      "story": "بعد فوزها بالبطولة الإقليمية، ظهرت مدرسة سيدو الثانوية بقيادة الكابتن ميوكي في ملعب كوشين في بطولة الربيع مع كل من لاعب البيسبول ساوامورا في عامه الثاني وفورويا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "رياضي",
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-diamond-no-ace-act-ii-part-2-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-lpr4befqtc9a.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/lpr4befqtc9a.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/lzawsnx3e4uw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//qw90e1c05fae.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a3ls",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/h6u463ee33ju",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/A3E7F86F2504D02",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?94uvbloov23m2aq5kan6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/acf552ee7fa4753ba1c9b1b793a5edd7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/najx",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sxcu",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:30.198Z"
-    },
-    {
-      "id": "258893",
-      "title": "انمي Ao Ashi الموسم الثاني الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-ao-ashi-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258893",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/uYihSzoSIxRg1xHT0UGlOc8b3EL-scaled-433x650.jpg",
-      "imdbRating": "8.1",
-      "story": "يمتلك (أشيتو) موهبة مميزة في كرة القدم ويحاول إخفائها، لكن شخصيته الصريحة تتسبب في حدوث كارثة تمثل انتكاسة كبيرة له.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "دراما",
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-ao-ashi-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-4hw4xh8osq37.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/4hw4xh8osq37.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/4o6s2pn9wit8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//z1p16s9jqlg2.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a3ln",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/u5culj6midez",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/65D8B81938D65D0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?5s8e87wo3fcsgkf2sufk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/b9c049587dcfd9ffe2ce6f19ed6390f0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/najt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sxch",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:32.342Z"
-    },
-    {
-      "id": "258870",
-      "title": "انمي Seitokai ni mo Ana wa Aru الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-seitokai-ni-mo-ana-wa-aru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258870",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BODQyYmRlYWItZjc0Yy00YmZiLWE3MjMtOTBmOTlmZmZhOTcxXkEyXkFqcGc@-550x389.jpg",
-      "imdbRating": "8.2",
-      "story": "يتفوق \"أومي ميزونو\"، الطالب في السنة الأولى بأكاديمية \"فوجيناري\" المرموقة، في الأدب الياباني، لكنه يعاني بشدة في مواد العلوم لدرجة تهدد فرص انتقاله إلى السنة الدراسية التالية. وسعياً لتحسين سجله الأكاديمي، ينضم \"أومي\" إلى مجلس الطلبة، ليجد نفسه محاطاً بمجموعة من الشخصيات الفريدة وغريبة الأطوار: رئيس مجلس يتمتع بالكاريزما لكنه يخفي خجلاً دفيناً، وأمين صندوق طيب القلب ولكنه يبعث على الرهبة، وفتى مشاكس وجذاب، وسكرتير ضئيل الحجم يشبه القطط الشاردة.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-seitokai-ni-mo-ana-wa-aru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-wfzocn863xpp.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/wfzocn863xpp.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/bqk9o75zn781",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//m1mtuzfdtu66.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a36i",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/86qj4v6xs61m",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/F012F6CE78FA400",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?w6f1zdxjuoxrmmuxmcqs",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/041e465eb275388f24df0703d2329fe9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/iY92",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sx19",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:34.623Z"
-    },
-    {
-      "id": "258869",
-      "title": "انمي Seitokai ni mo Ana wa Aru الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-seitokai-ni-mo-ana-wa-aru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258869",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BODQyYmRlYWItZjc0Yy00YmZiLWE3MjMtOTBmOTlmZmZhOTcxXkEyXkFqcGc@-550x389.jpg",
-      "imdbRating": "8.2",
-      "story": "يتفوق \"أومي ميزونو\"، الطالب في السنة الأولى بأكاديمية \"فوجيناري\" المرموقة، في الأدب الياباني، لكنه يعاني بشدة في مواد العلوم لدرجة تهدد فرص انتقاله إلى السنة الدراسية التالية. وسعياً لتحسين سجله الأكاديمي، ينضم \"أومي\" إلى مجلس الطلبة، ليجد نفسه محاطاً بمجموعة من الشخصيات الفريدة وغريبة الأطوار: رئيس مجلس يتمتع بالكاريزما لكنه يخفي خجلاً دفيناً، وأمين صندوق طيب القلب ولكنه يبعث على الرهبة، وفتى مشاكس وجذاب، وسكرتير ضئيل الحجم يشبه القطط الشاردة.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون",
-          "كوميدي"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-seitokai-ni-mo-ana-wa-aru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-7y5t6p2mncwe.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/7y5t6p2mncwe.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/t1mt3az5dene",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//v8vmxxnc3278.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a36f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/5ag8hh8a58k8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E877B4396B97D57",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?h44xt14xrnf7cetb3y2f",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/918572f52dec7c95c7d7ea9a4e5e5a23",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/nai3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Sx17",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:36.934Z"
-    },
-    {
-      "id": "258574",
-      "title": "انمي Kashita Maryoku wa “Revo Barai” de Kyousei Choushuu الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258574",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BM2Q1Y2ZkMDQtMjhmNC00ZWU1LTg5MWMtYmY0YTNmY2ZiZDgxXkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
-      "imdbRating": null,
-      "story": "يُعد \"لينت\" عضواً في فرقة المغامرين الصاعدة المعروفة باسم \"سكاي بيرسرز\" (Skypiercers)، وبفضل قدرته الفريدة، يمكنه إعارة كميات هائلة من السحر للآخرين؛ فلا داعي للقلق بشأن نفاد نقاط السحر (MP) بوجوده! لكن، ومع تحول رفاقه إلى أبطال أشداء (بفضل مهارته)، بدأت تثار تساؤلات حول مدى أهميته وفائدته. بعد طرده من المجموعة، استشاط \"لينت\" غضباً... إلى أن اكتشف قوةً خفيةً تكمن في قدرته؛ والآن، وبمساعدة شريكته الجنية الماكرة واللطيفة، عزم على استعادة كل ذرة سحر منحها لفرقته السابقة—بل واستردادها مع الفوائد أيضاً!",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-o6jynejs15ns.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/o6jynejs15ns.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ttmjnkghwxs7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//jzw2fxzblb6e.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q0vW",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/6m8r1zl00esd",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/AE122B38CB6FB58",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?gb039nc1podpkqq3bdbw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/d2335e4a4d1c0f15582f339f3eae791b",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/nago",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2czmy",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:39.268Z"
-    },
-    {
-      "id": "258573",
-      "title": "انمي Kyoufu Collector الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-kyoufu-collector-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258573",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BMWQ3NGFlZjgtMzJkOC00ZmQ1LTk4NjktNzJkMTZmMDQ3NmE0XkEyXkFqcGc@._V1_FMjpg_UX480_-433x650.jpg",
-      "imdbRating": null,
-      "story": "تدور حول عالم تنتشر فيه على الإنترنت قصص الرعب والأساطير الغامضة وحوادث الاختفاء غير المفسرة، والتي يظن معظم الناس أنها مجرد شائعات وخدع للتسلية. لكن بعض الأشخاص يكتشفون بالطريقة الأصعب أن جزءًا من هذه القصص حقيقي فعلًا. وبينما يواجه الضحايا ظواهر وكيانات مرعبة، قد تتغير فرص نجاتهم إذا صادفوا فتى غامضًا يرتدي غطاءً أحمر، يتنقل من مدينة إلى أخرى ويظهر دائمًا حيث تقع الأحداث الغريبة، وسط تساؤلات حول ما إذا كان منقذًا أم دليلًا حيًا على أن الوحوش موجودة بالفعل.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "رعب",
-          "غموض",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-kyoufu-collector-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-qci4qewvszrk.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/qci4qewvszrk.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/yzsjj52f1b8n",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//iqvifstoj5jj.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a330",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/m385i91h97jf",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/7BF735E870E9FE8",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?2xjxvyx0jc0rj5i76bnj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/eea079a1024cc9edf45a8c881a1ef3b7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/rmoY",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3yufe",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:41.606Z"
-    },
-    {
-      "id": "258572",
-      "title": "انمي Ranma ½ (2024) الموسم الثالث الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-ranma-%c2%bd-2024-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258572",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/156287l.jpg",
-      "imdbRating": "7.9",
-      "story": "تلتقي \"أكاني تيندو\" بخطيبها الجديد \"رانما ساوتومي\"، وهو لاعب فنون قتالية موهوب بمفارقة واحدة… إنه يتحول سحريًّا إلى فتاة عندما يلامس الماء البارد.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-ranma-%c2%bd-2024-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-3iu6ug0wvu4y.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/3iu6ug0wvu4y.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/om4i6a564b54",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//pr9o6fxuk5qs.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/O886",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/f3iufw8p40pg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/F3FB6B65B5973FA",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?yqku8nyzysl2h28voeio",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6982a4fb492912503844d6739ea73a03",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/rmoR",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2czjq",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:43.779Z"
-    },
-    {
-      "id": "258569",
-      "title": "انمي Vertex Force الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-vertex-force-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258569",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BNGQ3ZWEyMjUtM2IyNy00ODc5LTkwZTctNTBmMDQxNDliNWY1XkEyXkFqcGc@-460x650.jpg",
-      "imdbRating": null,
-      "story": "يعيش أكيرا تودو، وهو طالب في المرحلة الثانوية يقيم في شمال أوكيناوا، حياةً هادئةً مع والدته وشقيقته الكبرى هاروكا. ومع ذلك، تخفي حياتهم الهادئة سراً تتوارثه العائلة؛ فقد ورثت هاروكا عن والدها قوةً غامضةً تُعرف باسم \"المحرك\" (Engine)، وظلت طوال حياتها تخفي هذه القوة عن الآخرين. أما أكيرا، فلم يرث أي شيء، وهو يعاني من عقدة نقصٍ بسبب ضعفه.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "خيال علمي",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-vertex-force-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-8n31i25c0vri.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/8n31i25c0vri.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/jawuz5eqncfb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//94xurfkyavwj.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a32F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/l2uru4h1iqo1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/CDA031580AB9620",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?q63of4ef71r4o0v6skcm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/54e8668b076d56241693e890b30dd46b",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/rmoQ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2czjd",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:46.240Z"
-    },
-    {
-      "id": "258571",
-      "title": "انمي Magical Explorer الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-magical-explorer-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258571",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/MV5BNDEwNTBjYmItNTA0MS00OGE3LWI5Y2ItYWUxYTFjMzJlZThjXkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
-      "imdbRating": null,
-      "story": "بعد أن تقمّص شخصيةً في اللعبة الأسطورية ذات الطابع الرومانسي الجريء \"Magical Explorer\"، سرعان ما يكتشف بطلنا أنه أُسند إليه دور شخصيةٍ ثانويةٍ سيئة الحظ، بدلاً من دور البطل الجذاب الذي يخطف قلوب الفتيات. لكن لا داعي للقلق؛ فبفضل معرفته الواسعة بتفاصيل اللعبة (وبعض الحيل المساعدة)، سيبذل قصارى جهده لكسب قلوب بطلات اللعبة وليصبح الطالب الأكثر تميزاً وإنجازاً في أكاديمية السحرة!",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-magical-explorer-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-o4vju84x49sk.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/o4vju84x49sk.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9c1nekmm1tfm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//3fm73vefmuto.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a32D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/7w4t7nef87mw",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/73EBE1F3FE0C7E9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?kvcpee6k58mfo7vnnntp",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/632610b19df29699d5636db8d00dfcf9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/rmoP",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2czja",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:48.421Z"
-    },
-    {
-      "id": "258558",
-      "title": "انمي Marronnier Oukoku no Shichinin no Kishi الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-marronnier-oukoku-no-shichinin-no-kishi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.one/?p=258558",
-      "image": "https://topcinemaa.one/wp-content/uploads/2026/10/hEiqdcoZFq3RqanHoR75HQFnWyK-scaled-457x650.jpg",
-      "imdbRating": null,
-      "story": "في قلب قارةٍ تتألف من ثماني ممالك، تقع مملكة \"مارونييه\". وتتولى قيادة البلاد الجنرال \"باريبارا\"، التي لديها سبعة أبناء، لكلٍ منهم شخصيته الفريدة.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.one/%d8%a7%d9%86%d9%85%d9%8a-marronnier-oukoku-no-shichinin-no-kishi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-lxqq2ns3dwgd.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/lxqq2ns3dwgd.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/a190b605q05d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://okstream.online/d//5566v1b43h5c.html",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2a32o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/gvnv2pwmidm1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/8F8D0EC882D3737",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?tuubh1qp4vcs15e2ibxg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/9859060c09ab0a883f426478c9e9ce60",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/nafD",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3yucq",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-13T19:58:50.868Z"
+      "scrapedAt": "2026-11-15T07:00:50.090Z"
     }
   ]
 }
