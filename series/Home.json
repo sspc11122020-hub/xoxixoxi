@@ -2,8 +2,109 @@
   "fileName": "Home.json",
   "description": "مسلسلات الصفحة الأولى مع روابط البث المباشر m3u8 المستخرجة من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-11-28T01:01:34.577Z",
+  "lastUpdated": "2026-11-28T14:59:46.837Z",
   "series": [
+    {
+      "id": "263325",
+      "title": "مسلسل S.W.A.T. Exiles الموسم الاول الحلقة 10 والاخيرة مترجمة",
+      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-s-w-a-t-exiles-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263325",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/09/MV5BZWMzMDczODUtYzJjYy00MDYzLWE1MTgtNzFlYzU3ZDg1MWJkXkEyXkFqcGc@-433x650.jpg",
+      "imdbRating": "7.4",
+      "story": "يُستدعى عنصر مخضرم في فرق التدخل السريع (SWAT) من التقاعد لقيادة وحدة تجريبية تمثل الفرصة الأخيرة، وتتألف من مجندين يفتقرون إلى الخبرة الميدانية ويصعب التنبؤ بتصرفاتهم.",
+      "details": {
+        "قسم المسلسل": [
+          "مسلسلات اجنبي"
+        ],
+        "نوع المسلسل": [
+          "اكشن",
+          "جريمة",
+          "دراما"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة المسلسل": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Adain Bradley",
+          "Alejandro Akara",
+          "Alex Felix",
+          "Allison Gold"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-s-w-a-t-exiles-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-g5bqs3epihfg.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/g5bqs3epihfg.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/1zyxhxgra48o",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/3w7ch",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/t91k4ge6ep7a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/DD4E1D20D049EB0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/072b99ea15d2b3ee6a1f95ed01a804ca",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0nq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3yGnx",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T14:57:45.130Z"
+    },
     {
       "id": "263172",
       "title": "مسلسل Yellowjackets الموسم الرابع الحلقة 2 مترجمة",
@@ -108,7 +209,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:37.711Z"
+      "scrapedAt": "2026-11-28T14:57:47.703Z"
     },
     {
       "id": "262983",
@@ -197,7 +298,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:39.894Z"
+      "scrapedAt": "2026-11-28T14:57:50.331Z"
     },
     {
       "id": "262982",
@@ -298,7 +399,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:42.050Z"
+      "scrapedAt": "2026-11-28T14:57:52.927Z"
     },
     {
       "id": "262980",
@@ -387,7 +488,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:44.176Z"
+      "scrapedAt": "2026-11-28T14:57:55.454Z"
     },
     {
       "id": "262978",
@@ -470,7 +571,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:46.304Z"
+      "scrapedAt": "2026-11-28T14:57:58.090Z"
     },
     {
       "id": "262974",
@@ -559,7 +660,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:48.439Z"
+      "scrapedAt": "2026-11-28T14:58:00.766Z"
     },
     {
       "id": "262973",
@@ -648,7 +749,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:50.543Z"
+      "scrapedAt": "2026-11-28T14:58:03.284Z"
     },
     {
       "id": "262972",
@@ -737,7 +838,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:52.651Z"
+      "scrapedAt": "2026-11-28T14:58:05.722Z"
     },
     {
       "id": "245849",
@@ -826,7 +927,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:54.767Z"
+      "scrapedAt": "2026-11-28T14:58:08.207Z"
     },
     {
       "id": "263154",
@@ -933,7 +1034,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:56.998Z"
+      "scrapedAt": "2026-11-28T14:58:10.781Z"
     },
     {
       "id": "263152",
@@ -1034,7 +1135,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T00:59:59.213Z"
+      "scrapedAt": "2026-11-28T14:58:12.955Z"
     },
     {
       "id": "263153",
@@ -1141,7 +1242,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:01.425Z"
+      "scrapedAt": "2026-11-28T14:58:14.999Z"
     },
     {
       "id": "263149",
@@ -1248,7 +1349,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:03.546Z"
+      "scrapedAt": "2026-11-28T14:58:17.379Z"
     },
     {
       "id": "263151",
@@ -1355,7 +1456,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:05.665Z"
+      "scrapedAt": "2026-11-28T14:58:19.837Z"
     },
     {
       "id": "263150",
@@ -1456,7 +1557,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:07.801Z"
+      "scrapedAt": "2026-11-28T14:58:22.309Z"
     },
     {
       "id": "263157",
@@ -1551,7 +1652,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:09.910Z"
+      "scrapedAt": "2026-11-28T14:58:24.357Z"
     },
     {
       "id": "263156",
@@ -1646,7 +1747,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:12.050Z"
+      "scrapedAt": "2026-11-28T14:58:26.731Z"
     },
     {
       "id": "263148",
@@ -1753,7 +1854,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:14.151Z"
+      "scrapedAt": "2026-11-28T14:58:29.187Z"
     },
     {
       "id": "245845",
@@ -1860,11 +1961,11 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:16.294Z"
+      "scrapedAt": "2026-11-28T14:58:31.536Z"
     },
     {
       "id": "263141",
-      "title": "مسلسل Outlander: Blood of My Blood الموسم الثاني الحلقة 10 مترجمة",
+      "title": "مسلسل Outlander: Blood of My Blood الموسم الثاني الحلقة 10 والاخيرة مترجمة",
       "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-outlander-blood-of-my-blood-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
       "shortLink": "https://topcinemaa.tv/?p=263141",
       "image": "https://topcinemaa.tv/wp-content/uploads/2026/09/MV5BMTI4OWY3MWYtMDdmMi00OWU2LTg2YTctYWY3M2JjNThkZDFmXkEyXkFqcGc@._V1_FMjpg_UX1200_-433x650.jpg",
@@ -1955,7 +2056,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:18.425Z"
+      "scrapedAt": "2026-11-28T14:58:33.579Z"
     },
     {
       "id": "263132",
@@ -2055,7 +2156,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:20.523Z"
+      "scrapedAt": "2026-11-28T14:58:35.634Z"
     },
     {
       "id": "263131",
@@ -2155,7 +2256,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:22.647Z"
+      "scrapedAt": "2026-11-28T14:58:38.028Z"
     },
     {
       "id": "263120",
@@ -2245,7 +2346,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:24.770Z"
+      "scrapedAt": "2026-11-28T14:58:40.037Z"
     },
     {
       "id": "263112",
@@ -2346,7 +2447,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:26.853Z"
+      "scrapedAt": "2026-11-28T14:58:42.024Z"
     },
     {
       "id": "263110",
@@ -2478,7 +2579,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:28.976Z"
+      "scrapedAt": "2026-11-28T14:58:44.029Z"
     },
     {
       "id": "263084",
@@ -2583,7 +2684,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:31.754Z"
+      "scrapedAt": "2026-11-28T14:58:46.880Z"
     },
     {
       "id": "263083",
@@ -2688,7 +2789,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:33.942Z"
+      "scrapedAt": "2026-11-28T14:58:49.005Z"
     },
     {
       "id": "263082",
@@ -2793,7 +2894,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:36.200Z"
+      "scrapedAt": "2026-11-28T14:58:50.894Z"
     },
     {
       "id": "263081",
@@ -2898,7 +2999,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:38.301Z"
+      "scrapedAt": "2026-11-28T14:58:52.832Z"
     },
     {
       "id": "263080",
@@ -3003,7 +3104,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:40.437Z"
+      "scrapedAt": "2026-11-28T14:58:54.779Z"
     },
     {
       "id": "262742",
@@ -3102,7 +3203,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:42.556Z"
+      "scrapedAt": "2026-11-28T14:58:56.964Z"
     },
     {
       "id": "263078",
@@ -3207,7 +3308,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:44.799Z"
+      "scrapedAt": "2026-11-28T14:58:59.303Z"
     },
     {
       "id": "263055",
@@ -3309,7 +3410,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:47.046Z"
+      "scrapedAt": "2026-11-28T14:59:01.615Z"
     },
     {
       "id": "263054",
@@ -3411,7 +3512,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:49.233Z"
+      "scrapedAt": "2026-11-28T14:59:03.623Z"
     },
     {
       "id": "263053",
@@ -3513,7 +3614,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:51.749Z"
+      "scrapedAt": "2026-11-28T14:59:06.284Z"
     },
     {
       "id": "263052",
@@ -3615,7 +3716,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:53.995Z"
+      "scrapedAt": "2026-11-28T14:59:08.702Z"
     },
     {
       "id": "263051",
@@ -3717,7 +3818,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:56.204Z"
+      "scrapedAt": "2026-11-28T14:59:11.274Z"
     },
     {
       "id": "263049",
@@ -3819,7 +3920,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:00:58.328Z"
+      "scrapedAt": "2026-11-28T14:59:13.377Z"
     },
     {
       "id": "262734",
@@ -3921,7 +4022,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:00.541Z"
+      "scrapedAt": "2026-11-28T14:59:15.343Z"
     },
     {
       "id": "263047",
@@ -4022,7 +4123,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:02.971Z"
+      "scrapedAt": "2026-11-28T14:59:17.553Z"
     },
     {
       "id": "262732",
@@ -4125,7 +4226,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:05.195Z"
+      "scrapedAt": "2026-11-28T14:59:19.643Z"
     },
     {
       "id": "262940",
@@ -4232,7 +4333,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:07.320Z"
+      "scrapedAt": "2026-11-28T14:59:22.045Z"
     },
     {
       "id": "262939",
@@ -4339,7 +4440,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:09.422Z"
+      "scrapedAt": "2026-11-28T14:59:24.435Z"
     },
     {
       "id": "262938",
@@ -4446,7 +4547,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:11.514Z"
+      "scrapedAt": "2026-11-28T14:59:26.430Z"
     },
     {
       "id": "262937",
@@ -4553,7 +4654,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:13.644Z"
+      "scrapedAt": "2026-11-28T14:59:28.787Z"
     },
     {
       "id": "262935",
@@ -4660,7 +4761,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:15.773Z"
+      "scrapedAt": "2026-11-28T14:59:31.358Z"
     },
     {
       "id": "262934",
@@ -4767,7 +4868,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:17.979Z"
+      "scrapedAt": "2026-11-28T14:59:33.810Z"
     },
     {
       "id": "262933",
@@ -4874,7 +4975,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:20.121Z"
+      "scrapedAt": "2026-11-28T14:59:35.777Z"
     },
     {
       "id": "262932",
@@ -4981,7 +5082,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:22.247Z"
+      "scrapedAt": "2026-11-28T14:59:37.833Z"
     },
     {
       "id": "262931",
@@ -5088,7 +5189,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:24.739Z"
+      "scrapedAt": "2026-11-28T14:59:39.820Z"
     },
     {
       "id": "262930",
@@ -5195,7 +5296,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:26.836Z"
+      "scrapedAt": "2026-11-28T14:59:41.824Z"
     },
     {
       "id": "262929",
@@ -5302,7 +5403,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:28.960Z"
+      "scrapedAt": "2026-11-28T14:59:43.797Z"
     },
     {
       "id": "262928",
@@ -5409,114 +5510,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-28T01:01:31.478Z"
-    },
-    {
-      "id": "262927",
-      "title": "مسلسل Perception الموسم الثالث الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-perception-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=262927",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2026/11/MV5BOGYzZDQ2ZTktZDU2OS00NzFlLWFhMDgtZDI4NmQzNDMyMTFhXkEyXkFqcGc@._V1_-439x650.jpg",
-      "imdbRating": "7.5",
-      "story": "في بداية الموسم الثالث، يجد الدكتور (بيرس) نفسه أمام مهمة دولية خطيرة برفقة مكتب التحقيقات الفيدرالي، وفي الوقت نفسه، يحيك (ماكس ليويكي) و(دين بول هايلي) خطة لإعادة (بيرس) إلى شيكاغو.",
-      "details": {
-        "قسم المسلسل": [
-          "مسلسلات اجنبي"
-        ],
-        "نوع المسلسل": [
-          "جريمة",
-          "دراما",
-          "غموض"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2014"
-        ],
-        "دولة المسلسل": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Arjay Smith",
-          "Brad Rowe",
-          "Dan Lauria",
-          "DJ Qualls"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-perception-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-llcctnhqttbq.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/llcctnhqttbq.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ksuode0u3k2g",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q7ft",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/okjo4bzusl6k",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/FF786FF5B620062",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?53dljmb2jc9lm7tcs73i",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/53e39b50c19dd6de50f152e0df145bf5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6pqt",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/5Aw3B",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-28T01:01:33.576Z"
+      "scrapedAt": "2026-11-28T14:59:45.837Z"
     }
   ]
 }
