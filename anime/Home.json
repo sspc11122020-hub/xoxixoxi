@@ -2,8 +2,1712 @@
   "fileName": "Home.json",
   "description": "مسلسلات أنمي الصفحة الأولى حية من الشبكة",
   "totalSeries": 54,
-  "lastUpdated": "2026-11-27T08:57:45.364Z",
+  "lastUpdated": "2026-11-28T20:30:22.073Z",
   "series": [
+    {
+      "id": "263424",
+      "title": "انمي Ranma ½ (2024) الموسم الثالث الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-ranma-%c2%bd-2024-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263424",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/156287l.jpg",
+      "imdbRating": "7.9",
+      "story": "تلتقي \"أكاني تيندو\" بخطيبها الجديد \"رانما ساوتومي\"، وهو لاعب فنون قتالية موهوب بمفارقة واحدة… إنه يتحول سحريًّا إلى فتاة عندما يلامس الماء البارد.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-ranma-%c2%bd-2024-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-btbgbe7279i0.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/btbgbe7279i0.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/u0h1xoh7kabt",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/Ohrc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/sup67p9ztfva",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/04CAE9C97A974D3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/f0285e924d779ded3d86370e458402fc",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ncyJ",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:29.207Z"
+    },
+    {
+      "id": "263423",
+      "title": "انمي Magical Explorer الحلقة 10 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-magical-explorer-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263423",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BNDEwNTBjYmItNTA0MS00OGE3LWI5Y2ItYWUxYTFjMzJlZThjXkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
+      "imdbRating": null,
+      "story": "بعد أن تقمّص شخصيةً في اللعبة الأسطورية ذات الطابع الرومانسي الجريء \"Magical Explorer\"، سرعان ما يكتشف بطلنا أنه أُسند إليه دور شخصيةٍ ثانويةٍ سيئة الحظ، بدلاً من دور البطل الجذاب الذي يخطف قلوب الفتيات. لكن لا داعي للقلق؛ فبفضل معرفته الواسعة بتفاصيل اللعبة (وبعض الحيل المساعدة)، سيبذل قصارى جهده لكسب قلوب بطلات اللعبة وليصبح الطالب الأكثر تميزاً وإنجازاً في أكاديمية السحرة!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-magical-explorer-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-a1i0bxplmshx.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/a1i0bxplmshx.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/4a4beiwcab9y",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/Ohrb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/4y2ypmb903u1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/07CAC1A05A692F4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/4355d621a407dc8e328509fdc5af276d",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ncyI",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:31.313Z"
+    },
+    {
+      "id": "263422",
+      "title": "انمي Vertex Force الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-vertex-force-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263422",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BNGQ3ZWEyMjUtM2IyNy00ODc5LTkwZTctNTBmMDQxNDliNWY1XkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": null,
+      "story": "يعيش أكيرا تودو، وهو طالب في المرحلة الثانوية يقيم في شمال أوكيناوا، حياةً هادئةً مع والدته وشقيقته الكبرى هاروكا. ومع ذلك، تخفي حياتهم الهادئة سراً تتوارثه العائلة؛ فقد ورثت هاروكا عن والدها قوةً غامضةً تُعرف باسم \"المحرك\" (Engine)، وظلت طوال حياتها تخفي هذه القوة عن الآخرين. أما أكيرا، فلم يرث أي شيء، وهو يعاني من عقدة نقصٍ بسبب ضعفه.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "خيال علمي",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-vertex-force-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-cjcxia2sf85h.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/cjcxia2sf85h.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/6kpvj91e2evq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2aclh",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/0uqqr9zyusrv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/46EA37FBA25F8E4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/8d5212016c85835b9b1a0b6965fb58a9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0pn",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:33.393Z"
+    },
+    {
+      "id": "263420",
+      "title": "انمي Zombie Sagashitemasu الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-zombie-sagashitemasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263420",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BODE4NTdiNjQtYjFjMC00NDUwLTkxZDYtOTI1Zjk3NGViNzZiXkEyXkFqcGc@._V1_-scaled-460x650.jpg",
+      "imdbRating": null,
+      "story": "تدور الأحداث في عالمٍ أودى فيه مرضٌ فتاك وشديد العدوى بحياة 90% من البشرية، ليعودوا بعدها في هيئة \"زومبي\" متعطشين للهجوم؛ وقد مرّت الآن ثلاثة عشر عاماً على \"اليوم الأحمر\" الذي شهد انهيار المجتمع. يعيش الناجون من البشر بعيداً عن المدن الكبرى، متمسكين بأمل استعادتها يوماً ما، بينما يبرز جيلٌ جديدٌ تماماً لم يعاصر العالم الذي سبق ذلك اليوم.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-zombie-sagashitemasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-dpgmu4e97916.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/dpgmu4e97916.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/3fgv7hfc27dg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/Ohqb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/mslpaz2tbqpi",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/9411364F74069F8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/cfcb07ff74bbf9aa3dfcbd26e09c8328",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ncxT",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3yGrk",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:35.484Z"
+    },
+    {
+      "id": "263418",
+      "title": "انمي Yasei no Last Boss ga Arawareta الموسم الثاني الحلقة 10 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-yasei-no-last-boss-ga-arawareta-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263418",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/09/MV5BZjY0NTQ2YjYtOGVjZS00ZmQ4LTkyNGYtMGYzODczMDAwMTc3XkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
+      "imdbRating": "7",
+      "story": "تدور حول روفاس مافاهل، الحاكمة ذات الأجنحة السوداء وقائدة “النجوم الاثني عشر السماوية”، التي هُزمت قبل مئتي عام على يد الأبطال السبعة. بعد هذه الحقبة، يستيقظ رجل عادي ليجد نفسه قد تجسد في جسد شخصية “روفاس” من لعبة Exgate، لكنه يكتشف أن هذا العالم لم يعد مجرد لعبة، بل أصبح عالماً حقيقياً يعيش فيه الناس ويفكرون ويشعرون كما يفعل هو. يجد روفاس نفسه بلا وطن أو جيش أو حلفاء، وينطلق في رحلة عبر عالم Exgate للبحث عن “النجوم الاثني عشر السماوية” الذين تفرقوا منذ زمن بعيد. ومع تقدمه في هذه المغامرة، يظل السؤال الغامض معلقاً: ما السبب الحقيقي وراء تجسد رجل عادي في جسد روفاس داخل هذا العالم؟",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-yasei-no-last-boss-ga-arawareta-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-3seaxyuepa7y.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/3seaxyuepa7y.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/qgo7007hwy4u",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/Ohpd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/1ihpod6a5dzu",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/C459D8D2DD061A1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/649cf6dab6e7dd844be2114d8f5be442",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0ox",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4eDTa",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:37.541Z"
+    },
+    {
+      "id": "263416",
+      "title": "انمي Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu الحلقة 10 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263416",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BMGJkNjE3NzUtOTVhZC00YzkxLTg1NjQtMWNkZWQ3MTM4MzQ3XkEyXkFqcGc@._V1_-463x650.jpg",
+      "imdbRating": "6.6",
+      "story": "لطالما حلمت \"فيا\" بأن تصبح فارسة. ورغم أنها تنتمي إلى عائلة من الفرسان وتُعد الأقل موهبة بينهم، إلا أنها تتمسك بأملها وتتدرب بكل ما أوتيت من قوة. وحين يحين اليوم الموعود لتقتل شيطاناً صغيراً وتثبت جدارتها، تجد نفسها فجأة وجهاً لوجه أمام تنين! تتراءى لها مشاهد حياتها أمام عينيها إثر إصابة مميتة... وفجأة، تستعيد ذكريات حياتها السابقة؛ إذ كانت \"قديسة\" قوية في حقبة غابرة وهزمت \"ملك الشياطين\". لقد انتهت تلك الحياة بالألم بسبب هويتها، مما جعلها تخشى أن تصبح قديسة مرة أخرى. والآن، وقد عادت سحر حياتها السابقة للظهور، قد تغدو فارسة أقوى مما حلمت به يوماً... هذا إن تمكنت من النجاة والبقاء على قيد الحياة!",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-i57kklhllu2v.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/i57kklhllu2v.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/cvnud4gdm1wd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/Ohpa",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/aehxtrng7tfd",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E2E57EA89908D3F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/0c5a2c1a24d79a6ea719b61cc30bab06",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0ow",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:39.632Z"
+    },
+    {
+      "id": "262067",
+      "title": "انمي Black Clover الموسم الثاني الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-black-clover-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=262067",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/158830l.jpg",
+      "imdbRating": "8.2",
+      "story": "ينضم (ماجنا) إلى (أستا) وفرسان السحر الآخرين الذين تم اختيارهم للتدرب في مملكة القلب، للاستعداد لمحاربة (ميجيكولا) والثالوث المظلم. ويتم الكشف عن ماضي (يونو) كأمير من مملكة البستوني، ويتعلم (أستا) كيفية العمل مع شيطانه، (ليب).",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-black-clover-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-dcs8mocmue9w.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/dcs8mocmue9w.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/q2451aq2b23t",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2ackf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/n9zpev25olpr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/7187C4EE81EFD2A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/51024cb7e4b3b7a99acc264f95342d15",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/ncxI",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/hzujkqw5m3xu",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://bowfile.com/2acl8",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/r2ty70yx6j5z",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/2A4B8D476BF8397",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/0dff5d8bb97b256eb997ec898d0a5c0c",
+          "quality": "720p",
+          "type": "download_server"
+        },
+        {
+          "name": "720p",
+          "url": "https://koramaup.com/eOgb",
+          "quality": "720p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:41.718Z"
+    },
+    {
+      "id": "263405",
+      "title": "انمي Romelia Senki الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-romelia-senki-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263405",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BMTRiZTE0NzktZjYxNC00M2E5LTkyYzUtNDliMTMzYjRlOWQ1XkEyXkFqcGc@._V1_-scaled-433x650.jpg",
+      "imdbRating": null,
+      "story": "بعد هزيمة ملك الشياطين، تنهار حياة الكونتيسة “روميليا” عندما يفسخ الأمير “هنري” خطوبتهما علنًا ويصفها بأنها عديمة الفائدة، من دون أن يدرك أن لديها قدرة سرية تُدعى “Grace” تمنحها حظًا استثنائيًا. ورغم الإهانة التي تعرضت لها، ترفض روميليا الاستسلام، خاصة أن بلادها ما تزال تعاني من فلول جيش الشياطين وسقوط العديد من شعبها في الأسر. ومن دون جيش قوي أو أموال أو معالجين، تبدأ في بناء قوتها من الصفر مستعينة بذكائها وإصرارها. ومع كل خطوة، تجمع الحلفاء والموارد وتدرب جنودها، لتبدأ رحلة تهدف من خلالها إلى إنقاذ شعبها وإثبات قيمتها للجميع.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-romelia-senki-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-z0bwf82sw1eb.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/z0bwf82sw1eb.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/cefmgvk6d5hw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q9M2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/saw5uwagy988",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4F383E88A0324B1",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2b2bbe87fdc3b1900d9f2e353c60a506",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0os",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4eDT6",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:43.801Z"
+    },
+    {
+      "id": "263373",
+      "title": "انمي Marronnier Oukoku no Shichinin no Kishi الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-marronnier-oukoku-no-shichinin-no-kishi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263373",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/hEiqdcoZFq3RqanHoR75HQFnWyK-scaled-457x650.jpg",
+      "imdbRating": null,
+      "story": "في قلب قارةٍ تتألف من ثماني ممالك، تقع مملكة \"مارونييه\". وتتولى قيادة البلاد الجنرال \"باريبارا\"، التي لديها سبعة أبناء، لكلٍ منهم شخصيته الفريدة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-marronnier-oukoku-no-shichinin-no-kishi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-rfcte3fier0e.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/rfcte3fier0e.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/vxq1b2q3kznv",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2aclg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/kuas17oik5fu",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/12CF21A91A425F3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/ce614534ec08cae392f45f766e15ebcf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0pm",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:45.893Z"
+    },
+    {
+      "id": "263368",
+      "title": "انمي Shuiro no Kamen الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-shuiro-no-kamen-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263368",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/jIQ8cnTs7sCMzEfBviyyD4eXMiY-scaled-459x650.jpg",
+      "imdbRating": null,
+      "story": "تدور أحداث القصة في عالم مظلم وغموض حيث تمنح الأقنعة طاقة وقوى فريدة لمرتديها، لكنها في كثير من الأحيان تؤدي إلى مآسي مدمرة يقع “بيرو“، تلميذ صانع الأقنعة الأسطوري غاستون رو، يقع تحت سيطرة “قناع إله الحرب”، فيقتل أصدقاءه دون قصد، بل وحتى معلمه. ولمنع تكرار مثل هذه المأساة، يقسم بيرو على تدمير جميع أقنعة غاستون المنتشرة حول العالم. وبينما يواجه خطاياه التي ارتكبها، ينطلق في رحلته، يلتقي بأصدقاء جدد، ويواجه أعداء أقوياء. ويواصل الفتى السير حتى اليوم الذي يستطيع فيه التكفير عن خطاياه تجاه معلمه.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-shuiro-no-kamen-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-d9tfl6b84ha9.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/d9tfl6b84ha9.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/bzld7ruyroe9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q9M5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/w9rjdiveewl2",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/46B1A99DDDDC5BF",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/0a24f945b25d62133ed2935096113dc9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0ot",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4eDT8",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:47.971Z"
+    },
+    {
+      "id": "263367",
+      "title": "انمي Keroro Gunsou الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-keroro-gunsou-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263367",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BOTU2MWU3NDQtNTMxYy00YWI3LWFjZmEtMjM1YjUyMzQ4MDI5XkEyXkFqcGc@-459x650.jpg",
+      "imdbRating": null,
+      "story": "تدور القصة حول الرقيب كيرورو قائد فرقة من الفضائيين الشبيهين بالضفادع القادمين من كوكب كيرون، والذي يُرسل لاكتشاف واستطلاع كوكب الأرض الذي يسمونه بيكوبون بهدف احتلاله. لكن تنقلب الأمور عندما يتم اكتشاف أمره من قبل عائلة هيناتا العادية فويوكي وشقيقته ناتسومي، ليجبر على العيش مختبئاً في منزلهم والقيام بالأعمال المنزلية وإدمان تركيب مجسمات الجاندام، محولاً خطط الغزو الفضائي إلى مواقف كوميدية ساخرة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "عائلي",
+          "كرتون",
+          "كوميدي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-keroro-gunsou-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-o2rlu48rr4w3.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/o2rlu48rr4w3.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/82kxms2cqb2h",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/2Q9LY",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/e3ai7z6wj65b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A183A500028FD2C",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/f9b9d299314cc1346cbb53343d933146",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0or",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4eDT4",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:50.041Z"
+    },
+    {
+      "id": "263320",
+      "title": "انمي Uchi no Otouto-domo ga Sumimasen الحلقة 21 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-uchi-no-otouto-domo-ga-sumimasen-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263320",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/07/x280gtjgwPxsVFqYmMEKXPjFgBr-433x650.jpg",
+      "imdbRating": null,
+      "story": "خلال عطلة الربيع في نهاية عامها الأول من المرحلة الثانوية، تكتشف إيتو أنها ستنتقل للعيش في منزل جديد بسبب زواج والدتها من جديد. لكن ما لم تكن تتوقعه هو أن تجد نفسها فجأة تعيش تحت سقف واحد مع أربعة إخوة غير أشقاء أصغر منها. ورغبةً منها في التأقلم مع عائلتها الجديدة وبناء علاقة جيدة معهم، تبذل إيتو جهدها للتكيف مع هذا التغيير الكبير في حياتها. إلا أن الأخ الأكبر، غين، يبدو غامضًا وبارد الطباع، ومن الصعب فهم ما يدور في داخله. ومع مرور الوقت وقضائهما مزيدًا من اللحظات معًا، تبدأ إيتو في ملاحظة جانب لطيف ومختلف يختبئ خلف مظهره الهادئ والبعيد.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-uchi-no-otouto-domo-ga-sumimasen-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-dp71jr4te9eq.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/dp71jr4te9eq.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/o6xdloucyw1g",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1ueab",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/irzmx0b6qdm3",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/4A081F9C75DEFE9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a08dfeaf1a6c7d072885718ae8e17468",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0il",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:52.197Z"
+    },
+    {
+      "id": "263318",
+      "title": "انمي Toaru Anbu no Item الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-toaru-anbu-no-item-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263318",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BNmMxZWUxZmMtNmViOC00ZWZmLTljYmUtNjg0MWRkMzg0NDhkXkEyXkFqcGc@._V1_FMjpg_UX1024_-463x650.jpg",
+      "imdbRating": null,
+      "story": "تقع الأحداث في مدينة الأكاديمية، وهي حواضر متطورة تعتمد على العلم المتقدم في حياتها اليومية. لكن خلف هذا القناع العلمي البراق، يوجد الجانب المظلم للمدينة؛ وهو عالم سري مليء بالمؤامرات السياسية والعمليات الاستخباراتية التي تُدار في الخفاء بعيدًا عن أعين الإعلام والشرطة العادية. ولحفظ التوازن والسيطرة على الأزمات التي لا يمكن للشرطة العادية يتم تشكيل وحدة ITEM للتعامل معها، تم إنشاء وحدات نخبة سرية تعمل في الظل مكونة من 5 عضوات.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-toaru-anbu-no-item-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-onza9mkve300.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/onza9mkve300.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/i3s13vofe074",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1uea9",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/hc5yrf5sz1qt",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/787944D9FBE6E9A",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/30497548e8aa746a285204f1b0e8323b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0ik",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:54.347Z"
+    },
+    {
+      "id": "263314",
+      "title": "انمي Hotaru no Yomeiri الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-hotaru-no-yomeiri-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263314",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BYzQ0ODJjYTQtZGY0Mi00MGQ5LTljZDQtZDQxZmFmMzdmNjY1XkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": null,
+      "story": "القصة تتحدث عن ساتوكو والتي ظاهريًا، تمتلك كل شيء فهي جميلة، وابنة نبيل، وفي سن مثالي للزواج. لكن للأسف، تعاني من مرض شديد ولديها وقت قصير للعيش. قبل أن تتمكن من تأمين زواج يعيد لها مكانتها أمام عائلتها، تجد نفسها هدفًا للقاتل الغامض شينبي، وتصبح خططها في خطر. لإنقاذ نفسها عرضت الزواج على الفتى الذي كان يهم بإنهاء حياتها، فإذا به -على غير المتوقع- يقبل عرضها ويصير حاميًا لها بعد أن أوشك على قتلها.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "تاريخي",
+          "رومانسي"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-hotaru-no-yomeiri-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-jzav8lws6nxh.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/jzav8lws6nxh.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/66phxpyjgm9q",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1uea8",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/oja9q16cj32i",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/E8B7167B0DED5E7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/d81652104c4d34cadda7717f6db4db33",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0ij",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4eDvg",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:56.404Z"
+    },
+    {
+      "id": "263312",
+      "title": "انمي Aoki Denshou Welsh & Shedar الحلقة 8 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-aoki-denshou-welsh-shedar-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263312",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/MV5BOTc0NjcxODctMjFiMC00ZmRlLTgyZGQtOTkxY2MzYjlmYzhmXkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": "8.2",
+      "story": "\"ويلش\" فتى مراهق من الريف يعشق الطهي، و\"شيدار\"، وهو أمير شاب مقدّر له أن يعتلي العرش يوماً ما. وحين يجمعهما لقاء عابر رغم اختلاف حياتهما تماماً، تبدأ عجلة القدر في الدوران؛ ليجدا نفسيهما مضطرين للعمل معاً من أجل بناء مستقبل يسوده السلام، وذلك عبر التصدي لطاغيةٍ قاسٍ يسعى لغزو العالم.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "فانتازيا",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-aoki-denshou-welsh-shedar-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ylr663s0kkyy.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ylr663s0kkyy.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/6mu2hevx6njb",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1ueac",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/yiwdbtqze3sr",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/C67C2D37AF1FBD0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/1969257d35f67070f51c4d258b45245b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0im",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:28:58.565Z"
+    },
+    {
+      "id": "263310",
+      "title": "انمي Tokyo Revengers الموسم الرابع الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-tokyo-revengers-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263310",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/143611l.jpg",
+      "imdbRating": "7.7",
+      "story": "تكملة مباشرة لأحداث أنمي “Tokyo Revengers: Tenjiku-hen”، حيث تستمر رحلة “تاكيميتشي هاناغاكي” وصراعات عصابات طوكيو، مع مواجهات جديدة وقرارات مصيرية قد تغير مستقبل الشخصيات بالكامل.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "دراما",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-tokyo-revengers-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-ueajvy4vanv4.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/ueajvy4vanv4.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/gpa5cg3wfoz0",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1ueaf",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/89hjqzoccdht",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/74E88E3028B6B4E",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/27928c2899d218953c5863971ce59314",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0io",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3yG3p",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:29:00.665Z"
+    },
+    {
+      "id": "263221",
+      "title": "انمي Kusuriya no Hitorigoto الموسم الثالث الحلقة 9 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-kusuriya-no-hitorigoto-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263221",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/10/159521l.jpg",
+      "imdbRating": null,
+      "story": "في محكمة إمبراطورية في الصين القديمة، مرت بضعة أشهر منذ اختطاف فتاة تبلغ من العمر 17 عامًا تُعرف باسم “ماوماو” وإجبارها على العمل كخادمة منخفضة المستوى في قصر الإمبراطور. ومع ذلك، تمكنت من الاحتفاظ بروحها الفضولية والعملية، وتخطط أن تشتغل حتى تنتهي سنوات العبودية. في أحد الأيام، اكتشفت حقيقة أن رضيعي الإمبراطور أصيبا بمرض خطير. لتقرر اتخاذ إجراء سراً، بالاعتماد على تجربتها كصيدلانية نشأت في منطقة الضوء الأحمر الفقيرة. لكن على الرغم من محاولات “ماوماو” لعدم الكشف عن هويتها، سرعان ما لفتت انتباه “جينشي“، وهو صاحب النفوذ والذي يعترف بمواهبها. “ماوماو” تجد نفسها في البلاط الداخلي للإمبراطور، حيث تصنع اسمًا لنفسها تدريجيًا من خلال استخدام معرفتها وشخصيتها الغريبة لحل الألغاز الطبية المختلفة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "دراما",
+          "غموض",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-kusuriya-no-hitorigoto-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-tvt4fokdyndf.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/tvt4fokdyndf.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/ac7v0jnsazed",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1ue9e",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/mdjs6j7q1dhw",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/3020C3A6DB0E77F",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/b36f8b3a26dfd7d18e302aa05f19ae57",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0hq",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4eDsi",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:29:02.737Z"
+    },
+    {
+      "id": "263175",
+      "title": "انمي Steel Ball Run: JoJo no Kimyou na Bouken الحلقة 11 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-steel-ball-run-jojo-no-kimyou-na-bouken-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263175",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/03/MV5BZDFmY2JjYmYtNjZhOC00ODJkLTliMjYtM2Y4YzBjMWE0ZGZjXkEyXkFqcGc@-461x650.jpg",
+      "imdbRating": null,
+      "story": "في أمريكا عام 1890، يلاحق الفارس العبقري \"جوني جوستار\"، المصاب بشلل نصفي من خصره إلى أسفل قدميه، الخارج عن القانون \"جايرو زيبلي\"، في سباق خيول شاقّ عبر القارة.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون",
+          "مغامرة"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-steel-ball-run-jojo-no-kimyou-na-bouken-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-tinelfzkf73h.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/tinelfzkf73h.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/99ir5d3j91xg",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1ue9a",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ehjd46nn873j",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/2D3CBEFCCD76E34",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/fae9a6ae841df9b1384aba160b2d775b",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0hm",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:29:04.812Z"
+    },
+    {
+      "id": "263177",
+      "title": "انمي Demons Crest الحلقة 5 مترجمة",
+      "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-demons-crest-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "shortLink": "https://topcinemaa.tv/?p=263177",
+      "image": "https://topcinemaa.tv/wp-content/uploads/2026/11/MV5BZDhhZjRiNDEtZGNmNy00ZTFhLThmMmQtODJhNDljYmIzMzUzXkEyXkFqcGc@-461x650.jpg",
+      "imdbRating": null,
+      "story": "في السادس من يونيو عام 2031، ينطلق يوما أشيهارا، طالب الصف السادس الابتدائي، رفقة شقيقته التوأم ساوا وأصدقائه المقربين، لتجربة اللعبة الثورية الجديدة من نوع الواقع الافتراضي الجماعي (VRMMORPG) والتي تحمل اسم Actual Magic. لكن الإثارة والمتعة تتحولان سريعاً إلى كابوس مرعب؛ فعندما يقرر الأطفال تسجيل الخروج والعودة إلى حياتهم الطبيعية، يستيقظ يوما ليجد نفسه وسط واقع مشوه. لقد اندمج عالم اللعبة الرقمي بالكامل مع العالم الحقيقي، وتحولت مدينتهم الهادئة إلى ساحة معركة مدمرة تعج بالوحوش الضارية. وسط هذه الفوضى العارمة، يكتشف يوما الصدمة الأكبر: زملائه في المدرسة، وحتى شقيقته الحبيبة ساوا، قد تحولوا إلى مسوخ ووحوش تابعة لنظام اللعبة. والآن، يتوجب على يوما استخدام المهارات والأسلحة التي اكتسبها داخل اللعبة لخوض معركة قاسية من أجل النجاة، والبحث عن طريقة لإعادة شقيقته إلى طبيعتها، وكشف الغموض المحيط بهذا الاندماج الكارثي.",
+      "details": {
+        "قسم الانمي": [
+          "مسلسلات انمي"
+        ],
+        "نوع الانمي": [
+          "اكشن",
+          "كرتون"
+        ],
+        "جودة الحلقة": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ]
+      },
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinemaa.tv/%d8%a7%d9%86%d9%85%d9%8a-demons-crest-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "m3u8Url": null
+        },
+        {
+          "name": "سيرفر مشاهدة 1",
+          "url": "https://down.vidtube.one/embed-e1rzbygmkhuy.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "m3u8Url": null
+        }
+      ],
+      "downloadServers": [
+        {
+          "name": "1080p - 720p - 480p - 240p",
+          "url": "https://down.vidtube.one/d/e1rzbygmkhuy.html",
+          "quality": "VideoTube",
+          "type": "pro_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/sb74bvfcrdq5",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://bowfile.com/1ue98",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/gr111sxmlnvm",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/90A72BACB02CEA4",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/3a9bd3b6a94319b482d36913521bacd7",
+          "quality": "1080p",
+          "type": "download_server"
+        },
+        {
+          "name": "1080p",
+          "url": "https://koramaup.com/j0hl",
+          "quality": "1080p",
+          "type": "download_server"
+        }
+      ],
+      "scrapedAt": "2026-11-28T20:29:06.963Z"
+    },
     {
       "id": "262987",
       "title": "انمي Hyouken no Majutsushi ga Sekai wo Suberu الموسم الثاني الحلقة 8 مترجمة",
@@ -94,7 +1798,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:55:55.518Z"
+      "scrapedAt": "2026-11-28T20:29:09.011Z"
     },
     {
       "id": "262986",
@@ -186,7 +1890,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:55:57.502Z"
+      "scrapedAt": "2026-11-28T20:29:11.204Z"
     },
     {
       "id": "262985",
@@ -285,7 +1989,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:55:59.471Z"
+      "scrapedAt": "2026-11-28T20:29:13.259Z"
     },
     {
       "id": "262984",
@@ -375,7 +2079,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:01.439Z"
+      "scrapedAt": "2026-11-28T20:29:15.410Z"
     },
     {
       "id": "263029",
@@ -467,7 +2171,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:03.429Z"
+      "scrapedAt": "2026-11-28T20:29:17.499Z"
     },
     {
       "id": "263028",
@@ -565,7 +2269,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:05.385Z"
+      "scrapedAt": "2026-11-28T20:29:19.573Z"
     },
     {
       "id": "263027",
@@ -657,7 +2361,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:07.304Z"
+      "scrapedAt": "2026-11-28T20:29:21.663Z"
     },
     {
       "id": "263026",
@@ -749,7 +2453,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:09.162Z"
+      "scrapedAt": "2026-11-28T20:29:23.727Z"
     },
     {
       "id": "263025",
@@ -847,7 +2551,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:11.138Z"
+      "scrapedAt": "2026-11-28T20:29:25.814Z"
     },
     {
       "id": "263024",
@@ -939,7 +2643,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:12.969Z"
+      "scrapedAt": "2026-11-28T20:29:27.892Z"
     },
     {
       "id": "263023",
@@ -1031,7 +2735,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:14.906Z"
+      "scrapedAt": "2026-11-28T20:29:29.960Z"
     },
     {
       "id": "263021",
@@ -1129,7 +2833,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:16.821Z"
+      "scrapedAt": "2026-11-28T20:29:31.996Z"
     },
     {
       "id": "263018",
@@ -1221,7 +2925,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:18.762Z"
+      "scrapedAt": "2026-11-28T20:29:34.036Z"
     },
     {
       "id": "263017",
@@ -1313,7 +3017,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:20.713Z"
+      "scrapedAt": "2026-11-28T20:29:36.111Z"
     },
     {
       "id": "263011",
@@ -1405,7 +3109,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:22.637Z"
+      "scrapedAt": "2026-11-28T20:29:38.191Z"
     },
     {
       "id": "262738",
@@ -1497,7 +3201,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:24.647Z"
+      "scrapedAt": "2026-11-28T20:29:40.266Z"
     },
     {
       "id": "262720",
@@ -1589,7 +3293,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:26.627Z"
+      "scrapedAt": "2026-11-28T20:29:42.328Z"
     },
     {
       "id": "262719",
@@ -1681,7 +3385,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:28.560Z"
+      "scrapedAt": "2026-11-28T20:29:44.367Z"
     },
     {
       "id": "262714",
@@ -1767,7 +3471,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:30.516Z"
+      "scrapedAt": "2026-11-28T20:29:46.428Z"
     },
     {
       "id": "262615",
@@ -1857,7 +3561,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:32.339Z"
+      "scrapedAt": "2026-11-28T20:29:48.490Z"
     },
     {
       "id": "262718",
@@ -1949,7 +3653,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:34.378Z"
+      "scrapedAt": "2026-11-28T20:29:50.652Z"
     },
     {
       "id": "262715",
@@ -2041,7 +3745,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:36.416Z"
+      "scrapedAt": "2026-11-28T20:29:52.716Z"
     },
     {
       "id": "262704",
@@ -2133,7 +3837,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:38.470Z"
+      "scrapedAt": "2026-11-28T20:29:54.773Z"
     },
     {
       "id": "262711",
@@ -2218,7 +3922,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:40.423Z"
+      "scrapedAt": "2026-11-28T20:29:56.819Z"
     },
     {
       "id": "262710",
@@ -2304,7 +4008,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:42.381Z"
+      "scrapedAt": "2026-11-28T20:29:58.875Z"
     },
     {
       "id": "262486",
@@ -2395,7 +4099,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:44.500Z"
+      "scrapedAt": "2026-11-28T20:30:01.057Z"
     },
     {
       "id": "262485",
@@ -2487,7 +4191,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:46.682Z"
+      "scrapedAt": "2026-11-28T20:30:03.108Z"
     },
     {
       "id": "262517",
@@ -2579,7 +4283,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:48.758Z"
+      "scrapedAt": "2026-11-28T20:30:05.188Z"
     },
     {
       "id": "262484",
@@ -2671,7 +4375,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:50.693Z"
+      "scrapedAt": "2026-11-28T20:30:07.791Z"
     },
     {
       "id": "262482",
@@ -2762,7 +4466,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:52.522Z"
+      "scrapedAt": "2026-11-28T20:30:09.927Z"
     },
     {
       "id": "262483",
@@ -2854,7 +4558,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:54.456Z"
+      "scrapedAt": "2026-11-28T20:30:12.113Z"
     },
     {
       "id": "262467",
@@ -2946,7 +4650,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:56.498Z"
+      "scrapedAt": "2026-11-28T20:30:14.288Z"
     },
     {
       "id": "262465",
@@ -3037,7 +4741,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:56:58.572Z"
+      "scrapedAt": "2026-11-28T20:30:16.432Z"
     },
     {
       "id": "262417",
@@ -3135,7 +4839,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:57:00.596Z"
+      "scrapedAt": "2026-11-28T20:30:19.021Z"
     },
     {
       "id": "262416",
@@ -3233,1755 +4937,7 @@
           "type": "download_server"
         }
       ],
-      "scrapedAt": "2026-11-27T08:57:02.630Z"
-    },
-    {
-      "id": "179734",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 9 والاخيرة مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179734",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-omso4i620ofh.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/omso4i620ofh.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/o7tpa1qm56zj",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubfg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/3lqyn7c6pq01",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/55D7ED5249B1872",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/baf8911f58107118d4b2c154cb3cd424",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/vzVR",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4UwNi",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:05.094Z"
-    },
-    {
-      "id": "179733",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 8 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179733",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-jw9xgxgrn8u2.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/jw9xgxgrn8u2.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/rw2sckdcitry",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubff",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/s73xawqu79vm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/29F4CF6D902393C",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/05068294480e8cd656e50bc8495bb2bb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/vzVQ",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4UwNg",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:07.142Z"
-    },
-    {
-      "id": "179732",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179732",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-yzosn7hyfr4y.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/yzosn7hyfr4y.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/owpbzp9kt6y5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubfe",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/z5p4p8256tw3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/03C88D6E0A19A6E",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/45f04dda832928011bfa37b2c69f93d5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/vzVP",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4UwNf",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:09.198Z"
-    },
-    {
-      "id": "179731",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179731",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-gqaj8diljkq4.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/gqaj8diljkq4.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/k3uj4isbfb8u",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubfc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/78xgaj1ag807",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/648E92A7B309A61",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/afa514e7b59f8851acebf3b62d2fd7bc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/vzVO",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEqd",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:11.541Z"
-    },
-    {
-      "id": "179730",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179730",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-f749fi71nkgk.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/f749fi71nkgk.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/bnblyuxviyx0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubf9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/grql8xf2fsrc",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C9DF2971BE58D06",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3046379aa0e4aa20061f68940579f120",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/vzVN",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEqc",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:13.887Z"
-    },
-    {
-      "id": "179729",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179729",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-sle49fdr5bdg.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/sle49fdr5bdg.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/gyehn3vh8cvb",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubf7",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/nm1y0ifu4nym",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/5BA53646D959A79",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/dd93d60745841bd21851e0e0e1df3565",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/vzVM",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEqb",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:16.253Z"
-    },
-    {
-      "id": "179728",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179728",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-3obx4jlhf785.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/3obx4jlhf785.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/1iutbx3f8tok",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubf6",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/gljtw17dk4c0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E04BD12A769D65F",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/4d04e8c1bcf4521cec772e2f9e5080ff",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEqa",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:18.284Z"
-    },
-    {
-      "id": "179727",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179727",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-ijsgitub8120.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/ijsgitub8120.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/gp08w33a5n0l",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubf5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/wlm2ns2wysrg",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/5A0D6AED4B519C5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/1785c223a811ba668a5894ff26be70ad",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEq7",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:20.647Z"
-    },
-    {
-      "id": "179543",
-      "title": "مسلسل Star Wars: Visions الموسم الثالث الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=179543",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2025/10/lPVugAmBxHZ8mYWKws8ZZAJnrA7-433x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2025"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-83c1vw2wmeqn.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/83c1vw2wmeqn.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/sbb5n97ghf24",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubf3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/z92adgax1bc0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/73F75BE4C5A3C9C",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/01b3baa9194a98455d1bee6fc6070777",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3x",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEq4",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:22.590Z"
-    },
-    {
-      "id": "89296",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 9 والاخيرة مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89296",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-6h5embwvmwsn.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/6h5embwvmwsn.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/8tffuk9s51np",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubf2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/jr84unblp0pu",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/FAD1F7C0A5644A1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/62dd58f4126473fb47768ec3bbcbbc1b",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3v",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEq3",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:24.639Z"
-    },
-    {
-      "id": "89295",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 8 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89295",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-dqj3wmm3xbyh.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/dqj3wmm3xbyh.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/gle3pm2eql4e",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubf1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/jcqwk08m67xh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/E81AAD74830B9E3",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/4bfe75512bd6b677cf73039890c6a7d2",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3u",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEq2",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:26.686Z"
-    },
-    {
-      "id": "89294",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 7 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89294",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-hvl7s2i6teib.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/hvl7s2i6teib.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/muhfbxm2wisk",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/1ubf0",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/oxr1cffimcun",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/51D8CB4A36FA0EB",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/73c2e5dc9e7f1d1d07a5439d5dcd51e5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3t",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2SEq1",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:28.747Z"
-    },
-    {
-      "id": "89293",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 6 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89293",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-nen695l88vzt.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/nen695l88vzt.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ixcd2gum3v95",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q69D",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/68zfilqwyx13",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/4DCFC8D13B3C545",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/fe360491bb8e791c082d9fe8f0e552f4",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3s",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4ezkB",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:30.798Z"
-    },
-    {
-      "id": "89292",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 5 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89292",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-3isge1r5iogf.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/3isge1r5iogf.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/vukoz8g6jl7c",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q69B",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/8zoc0ypd6am9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/015586B50603498",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/09186261ffee32b3db2a0c4bf70deb19",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3r",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4ezkA",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:32.860Z"
-    },
-    {
-      "id": "89291",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 4 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89291",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-2wp5zhrdlzze.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/2wp5zhrdlzze.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/j9pg25fwt4nh",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q69A",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/35n68ck3claa",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2EEDDD3F2EFA0D1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/3b3f4159420accf0fa9781341f7783de",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3q",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4ezky",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:34.925Z"
-    },
-    {
-      "id": "89290",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 3 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89290",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-0myb13qclumi.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/0myb13qclumi.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/gssxufhz8rqy",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q69z",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/ew5iv63r3j0k",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C52C1A74C354CE5",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/db3638e21043e7582ad1e44796c4324d",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3p",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4ezkx",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:36.859Z"
-    },
-    {
-      "id": "89289",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 2 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89289",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-33ethp4p5hje.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/33ethp4p5hje.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/llfb0p5hz91y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q69y",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/lfp5q1gkieiq",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/573896CE4268961",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/58446edf6d934056ad679f588f4a97d1",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3o",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4ezkw",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:39.136Z"
-    },
-    {
-      "id": "89233",
-      "title": "مسلسل Star Wars: Visions الموسم الثاني الحلقة 1 مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89233",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_8ea25073dffc5077b13e2a110617564f32f39da17fccba106788260b19c63a17-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في الموسم الثاني وفي إطار من الرسوم المتحركة، تستكمل مجموعة من أفضل استوديوهات الرسوم المتحركة في العالم تقديم أفلام قصيرة مستوحاة من عالم \"Star Wars\".",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2023"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-wxwtuoq4wu79.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/wxwtuoq4wu79.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/o27gao6hre6g",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q69x",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/s8xk0b3lzxax",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B568AE32C44C261",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/0fe93e3d8f0dd96c059e0c3fc5d9b9d9",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3n",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4ezkv",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:41.973Z"
-    },
-    {
-      "id": "89288",
-      "title": "مسلسل Star Wars: Visions الموسم الاول الحلقة 9 والاخيرة مترجمة",
-      "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
-      "shortLink": "https://topcinemaa.tv/?p=89288",
-      "image": "https://topcinemaa.tv/wp-content/uploads/2024/06/_640x_898cfde311caa55631bb40d50c1a6ff81cb45038105a335393e95a7c6c022db8-439x650.jpg",
-      "imdbRating": "7",
-      "story": "في إطار من الحركة والمغامرة، يسعى فريق من المحاربين المتجولين عبر الفضاء، للدفاع عن قرية صغيرة ضد قوى الشر. قبل أن يصبحوا في حيرة من أمرهم بشأن ما يجب عليهم فعله بعد أن أصبح الكوكب بأسره مستهدفًا.",
-      "details": {
-        "قسم الانمي": [
-          "مسلسلات انمي"
-        ],
-        "نوع الانمي": [
-          "اكشن",
-          "قصير",
-          "كرتون"
-        ],
-        "جودة الحلقة": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2021"
-        ]
-      },
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinemaa.tv/%d9%85%d8%b3%d9%84%d8%b3%d9%84-star-wars-visions-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "m3u8Url": null
-        },
-        {
-          "name": "سيرفر مشاهدة 1",
-          "url": "https://down.vidtube.one/embed-g4ff2r22pbmh.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "m3u8Url": null
-        }
-      ],
-      "downloadServers": [
-        {
-          "name": "1080p - 720p - 480p - 240p",
-          "url": "https://down.vidtube.one/d/g4ff2r22pbmh.html",
-          "quality": "VideoTube",
-          "type": "pro_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/wsdzfnvqu5mm",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://bowfile.com/2Q69w",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/w4awkmqb1hqe",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/48BC29670840996",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/62987351388f11cba3121ae3dce15f40",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://koramaup.com/6p3m",
-          "quality": "1080p",
-          "type": "download_server"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4ezku",
-          "quality": "1080p",
-          "type": "download_server"
-        }
-      ],
-      "scrapedAt": "2026-11-27T08:57:44.366Z"
+      "scrapedAt": "2026-11-28T20:30:21.073Z"
     }
   ]
 }
